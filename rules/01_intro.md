@@ -118,8 +118,6 @@ When this text refers to "players" it includes all at the table who are involved
 
 ### The Pilots
 
-**SQUARP BLAH DESIGN NOTE TO SELF:** Add details on the Adjective Qualityes / etc here from the playbooks. AND ADD PLAYBOOKS MENTION HERE TOO!
-
 The Pilots are the core focus of every game. This is the story of their lives and times, their dramas and sorrows, their wins and losses. They must balance the stresses of their schooling and social lives while also pulling together to save the world from invading space monsters.
 
 On the Pilot's Record Sheets are a handful of core game components that you should know about. First are their **Commitments**, this game's version of "attributes." Each Pilot has three core Commitments that frequently come into conflict with one another: **to the Team**, **to the Fight**, and **to Yourself**, sometimes shortened to just **Team**, **Fight**, and **Self**. The numerical ratings of these three stats determines the base mechanics for every extended game component.
