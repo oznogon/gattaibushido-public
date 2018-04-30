@@ -1,0 +1,566 @@
+section: pilots
+
+
+# The Pilot's Handbook
+
+**PLAYTEST NOTE 2018:** This section exists following a significant restructure of the rules document. It's structure is not final, and I welcome input on improvement.
+
+
+## Piloting Tips
+
+(**PLAYTEST NOTE** various bits of advice for pilot players, will be continually added to and revamped until final release)
+
+
+### Start Small, and Take Your Time
+
+The rules of this game don't actually have all that many moving parts, but there are a *lot* of ways in which you can move what little parts there are. The playbooks were designed to make the introduction to the core components easier to process, with Role-targeted pieces up front. Focus on the basics in front of you, and take your time figuring them out.
+
+
+### Coach Is Not Your Enemy
+
+TBD
+
+
+### Synergize
+
+TBD
+
+
+### Evoke Awesome
+
+TBD
+
+
+### Evoke Melodrama
+
+TBD
+
+
+### Name Your Moves
+
+TBD
+
+
+### Externalize Your Power
+
+TBD (make use of factions and locations, mainly)
+
+
+
+# The Team Creation Process
+
+(now you got the game basics laid out, let's make your team! this is probably going to be an entire session of play)
+
+(note: if you're only getting together for a one-shot game, skip all of this. Instead, use the condensed session flow in Appendix XX, on page SQUARP)
+
+(Basic Flow:
+
+1. First Contact Scene
+2. Catching Up with the World
+3. Choose and Fill Out the Playbooks
+4. Round Out the Team
+
+
+## Step 1: The First Contact Scene
+
+If this is a brand new campaign with a brand new team of pilots, you should first play through the "First Contact" tutorial and world establishment scene. It is extremely useful not just for teaching new players the core basics of the rules system, but also for setting up extended details on your group's own personalized game world and campaign focus. The full details on the First Contact scene are detailed in their own chapter in Coach's section of the rules (page SQUARP).
+
+
+## Step 2: Catching Up with the World
+
+This team creation process assumes that the new characters are a group of fresh young Battle School mecha Pilots living as legacy to the events played out in the First Contact scene. Your group's game world may differ somewhat due to the unique parameters set forth in your own First Contact, but the process here should not be that heavily impacted by divergent story origins. Once you play the First Contact to a suitable conclusion, it's time to fill in the gaps between then and the "present" day in which the rest of the extended game will take place.
+
+
+##### How Long has Passed?
+
+Discussing as a group, figure out how much time has passed since the First Contact scene's events. Five years? A hundred? Only a few days? Figure out together what has changed in the world since then, and how the "Battle School" (that is, if your game has one, and that's the default assumption) fits into the story today.
+
+Along with the passing of time, you should establish how far removed the new Pilots are from the First Contact characters. Are any of those original characters still alive? Are any of them still in the group today, even? Are they teachers and mentors, or pariahs and cautionary stories? Are they nothing more than legends of the distant past, or do they still interact with the group today on a regular basis?
+
+
+##### How are Your Robos Summoned?
+
+If you haven't already established this fact, now is the time to do so. How does the team call their robos into a fight? This is a crucial point to clarify, as it will *drastically* shape the way that all Robo-related actions are handled in your story, especially the Fusion mechanics.
+
+Below are some examples from our many playtest games:
+
+* The Robos are manually dispatched from their orbital hangar base, and the Pilots must be physically present there to launch them.
+* The Robos are delivered along a vast network of underground tunnels, bursting from the ground at their destination when the Pilots call them from the field.
+* The Robos are direct physical manifestations of the Pilots' own psyches, and spring forth on the spot from power crystals the Pilots each carry with them.
+* The Robos are great bio-organic beasts which accompany the Pilots everywhere, and the Pilots *ride* them.
+* The Robos are *actually the Pilots themselves* who grow to gargantuan shapes and sizes when they get angry!
+
+
+##### How Do Your Pilots and Robos Fuze?
+
+Another just as important question: What are your group's manifestations of and limits upon Fusion? While the Fusion sub-system of this game provides the baseline rules for the *mechanical* components of merging Pilots and Robos, there is still a bit of discussion required around the *narrative* implementation of that combination. These considerations could affect the mechanics somewhat, so they're important to establish now.
+
+Can your group assemble partially, as in any two or more members can combine? Or does it require the whole team together? If partial Fusion is allowed, then as long as your individual Robos are present, your Pilots can assemble into different personalized mega-Robos for more immediate power boosts. However, if your group chooses a story experience more inspired by the "classic" tales of the genre, then you'll only be able to combine with *all* Robos present and ready. This latter option will most likely limit your Fusions to just the Final Form (and the Robo Rumbles with Big Giant Monsters), and create a more streamlined play experience.
+
+This is primarily a matter of thematic choice, especially if you're wishing to emulate the setup of one of your favorite shows. Either way, everyone can still take part in Rumbles, and the rules regarding those play modes do not change.
+
+
+## Step 3: Choose and Fill Out the Playbooks
+
+Next, it's time to choose your individual Color Role playbooks. Coach will print out and lay forward the character playbooks for everyone to see and discuss. Each is a color-themed character booklet that will guide you through a series of choices to make about your Pilot, as well as a few choices that you get to make about others, and even a few that *they* get to make about *you*. Each is crafted to fill a specific role in the team, with assigned uniform colors inspired by (but not subservient to) genre media from the game's previously-mentioned sources of inspiration.
+
+
+##### First Red and Green
+
+**However**, before you all leap up and grab at them, there are two specific playbooks that should be explained first: Red (the Leader) and Green (the Noob). These playbooks have core story-structure requirements that must be considered before we go further.
+
+Every team needs a Leader. As far as the playbooks are concerned, that job is Red's. Red is a required role for every new game, and the player who chooses the playbook must be prepared and eager to try and lead the Team. Red works best when she is guided by a player that really wishes to role-play the actions (and burdens!) of leadership.
+
+Green, on the other hand, is not a required role for a new game, but she does have noteworthy built-in rank-based role-playing requirements. Green is the Noob, the most junior member on the team's roster. The Team will likely assign her the most demeaning of duties, and she'll often end up a scapegoat for the failures of others. Her player must be willing and eager to play out that complete entry-level experience, because that's what makes her truly excel in the end.
+
+
+##### Then Everyone Else
+
+Once a player has chosen the Red playbook, let the others pick as they will. After each Pilot player has chosen a playbook, put the unused ones away. You should now go through the playbooks' instructions step by step as a team. Many of them will involve other players at the table, and they work best if everyone moves through them at the same pace.
+
+
+## Step 4 (FINAL): Round Out the Team
+
+(with playbooks completed, finalize the team details and begin play!)
+
+
+##### Team Establishment Questions
+
+(everyone work together to answer some narrative questions about the Team)
+
+**What weird pre-battle ritual does your team have?** As a team you should develop some special ritual that the Pilots engage in right before a fight that they know is coming. Maybe the whole team recites their team code aloud, or jams out their favorite songs in That Popular Rock Music Game (TM), or even just gets really trashed.
+
+If the Pilots all actively make an effort to role-play this ritual each time in-game, Coach may give the team a Harmony boost. Conversely, if they fail to perform their team rituals at crucial moments, Coach may instead trigger a +Strife microevent.
+
+**Which of you is known as Coach's pet?** Is it true? Who does this bother the most? Who couldn't give a rat's ass either way?
+
+**What is your unit's Motto?** What slogan or such statement do you frequently say to one another, that's maybe even printed on your jackets? Does anyone in the Team actually care about it?
+
+**What do you call your final form?** Combo Drive? Ultimate Form Fusion? Mega-Dino-Maximus? You can answer this now, or wait until the Fusion first happens during play for a bit more suspense.
+
+Finally: **What is your team name?** Ultra Mega Assault Division? Team Triple Triumph? The War Warriors?
+
+
+##### Starting Resources
+
+In *Gattaibushido*, the Team is almost another character unto itself. Your Team consists of three Locations (the Barracks, the Bunker, and the Hangar), which in turn give you three special Team Resources: Fan Club, Armory, and Pit Crew, respectively. More detail on the Team Locations and Resources can be found starting on p. SQUARP. For now you need to determine at what levels your Team's three Resources begin.
+
+Each of the three Resources begins at a free base amount of 1. As your group goes through the playbooks and creates the team, each playbook will include instructions that increase these Resources somewhat. Once all of the chosen playbooks have been completed and their starting mods applied, the initial Team Resource ratings are finalized.
+
+
+##### Starting Harmony
+
+Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. Keep some tokens around to represent damage buildup during Throdowns, too - this text assumes you are using red-colored tokens, but anything your group wishes to use instead should be fine.
+
+The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Strife event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
+
+
+##### Define Your Salute!
+
+Each team has their own special salute. It could be as simple as "All hands in the middle, then GO TEAM!" Or it could be something hands-off, or more subtle or complex. Define it together, and then starting with the next time your group meets it will open every play session.
+
+With that, the Team is now Complete.
+
+
+
+## OPTIONAL: The Custom Build Process
+
+(don't want to use a playbook? check with Coach and the others first; then use this process to build a completely custom-from-scratch character; replaces Step 2 in the team creation process for you)
+
+(**PLAYTEST NOTE:** considering making this a "blank" playbook instead, could also serve as a template for third-party stuff if there's an interest; this is going to come later after much further playbook testing; etc)
+
+
+# Pilot Playbooks (INSERT PLAYBOOKS HERE)
+
+**PLAYTEST NOTE:** This section will be expanded in the final print.
+
+(the character playbook, explained)
+
+**Style Ideas:** Report Card, Yearbook bio, Yearbook quote, Data Panel Readout
+
+
+##### (Colors, Weapons, and Robos SIDEBAR)
+
+> Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Color, your Power Weapon, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
+>
+> Your Pilot's Color provides the main bulk of your power and versatility. Her Color Techs will be your core tools for empowerment, both in and out of the mecha cockpits.
+>
+> Her custom Power Weapon also provides Techs, but they are intended to be minor extensions of ability. These can be used to either boost your base Color Techs, or instead diversify your skills and keep you from being an overly-specialized one-trick pony.
+>
+> Finally, your Robo mainly serves as an extension of your Pilot's core persona. While it provides some minor thematic abilities, it's primary purpose is as a vessel for Fusions and the Final Form.
+
+
+
+# Character Details Compendium (restructure in process)
+
+The following chapter serves as an organized reference to all of the Pilot- and Team-specific mechanical components. This chapter is quite huge, so if this is your first time reading through this manual, you might want to skip on to the next core part of the book at p. SQUARP to keep learning the game's basics, and then come back to this part later when you need to reference something.
+
+The various subsections below are alphabetized by component name. Pilot-specific components come first, followed by Team-specific components at the end.
+
+
+## Pilots: Buffers
+
+Your Pilot has a handy **Buffer** that starts with a base amount of tokens equal to her Commitment to Herself rank - we recommend using blue tokens to easily track these. This can be further increased by Gear, Techs, and more.
+
+By default you can use these tokens to prevent +Purge, +Strife, and +Trauma damage triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
+
+As you use your Buffer to prevent damage, you tick off these tokens. They are a limited and valuable resource, so use them wisely! Buffers refresh at the beginning of every new Scenario (not session), and can also be restored mid-game as a result of various Techs and Actions during play.
+
+
+## Pilots: Charges & Techs
+
+**Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Jokers and the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
+
+Charges are spent to activate various Techs during play. Most Techs will come from your Pilot's choice of Color Role, Power Weapon, and Robo. Not *all* of these Techs will require charges, but for those that do, the cost in Charges is specified by the Tech descriptions.
+
+In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal. Each of the universal Charge Techs costs **3 Charges for 1 point of effect** and can be stacked:
+
+* **Restore Buffer (Side Action):** Restore your own spent Buffer tokens.
+* **Boost Strike (Side Action):** Increase your own Strike Range for next Push.
+
+
+## Pilots: Color Roles (Core)
+
+(PLAYTEST NOTE: Currently in the Playbooks)
+
+
+### Black
+### Blue
+### Green
+### Orange
+### Pink
+### Purple
+### Red
+### Yellow
+
+
+## Pilots: Color Roles (Advanced)
+
+(PLAYTEST NOTE: Currently in Playbook development; these are three advanced roles, requiring greater considerations during play)
+
+
+### Gray
+### Rainbow
+### Branwen, the Dog
+
+
+## Pilots: Commitments & Attributes
+
+Your Pilot's Commitments determine the basis for most all of the character mechanics.
+
+
+### Commitment to the Team (Bonus Draws)
+
+**Stat Mechanic:** Determines bonus card *Draws* during conflicts.  
+**Tied To:** Team Color
+
+Your rank in this stat determines how many bonus cards you draw at the beginning of a Throwdown.
+
+Pilots with a high commitment to their Team are more heavily driven by the Team’s goals, and work harder to put the Team first. By drawing strength from the spirit of the Team, they greatly expand their true potential in battle!
+
+
+### Commitment to the Fight (Strike Range)
+
+**Stat Mechanic:** Determines *Strike Range* base values in conflicts.  
+**Tied To:** Personal Power Weapon
+
+Your rank in this stat gives you a solid and tangible fighting edge in battle. Your Commitment to the Fight sets your base Strike Range in Throwdowns.
+
+Pilots who commit themselves strongly to the Fight are better at hitting hard and keeping their cool when things go pear-shaped. With a higher base Strike Range, a Pilot can play higher cards against their opponents, with a greater chance of avoiding Harmony-damaging +Strife triggers.
+
+
+### Commitment to Yourself (Buffer)
+
+**Stat Mechanic:** Determines the pilot’s base *Buffer*.  
+**Tied To:** Personal Robo
+
+Your rank in this stat determines the base value of your damage Buffer, which helps you soak a variety of damage during play.
+
+Pilots who take care of their own needs and value a lot of self-care and personal motivation are better able to weather the trials the universe throws at them, and have a greater resistance against forces that would degrade their physical health.
+
+
+### Managing Your Commitments
+
+At the start of play, the playbooks are designed to give you an initial six-point spread across your three Commitments. Once the game begins, there are no hard upper limits, and the minumum is zero. These stats can be lowered temporarily via +Trauma events, and even permanently via Crisis States. Conversely, they can be raised through character Evolutions over extended play.
+
+**Forced Shifts:** Some game effects may force you to make a shift in one direction or another. For example, Coach might decree that a decision to put the Team at risk to save your own life will Shift you up 1 in Self and down 1 in Team. To do that, raise the Commitment Stat you are shifting toward, and lower the other one (usually this will be obvious, sometimes you might get to choose). Nothing can shift a Commitment lower than Zero.
+
+
+### Commitment Loss
+
+TBD
+
+
+### Crisis State! (NEW 2018)
+
+If a character is ever dropped to Zero in all three of their Commitments, they enter a **Crisis State** that temporarily removes them from play. They aren't "dead" yet", however, unless everyone agrees it would make sense for that to happen.
+
+Let's face it, losing a character just sucks. Being removed from play is an awful experience, and I as a gamer personally hate mechanics that only really amount to "you don't get to play anymore, hah!" outside of a focused array of specific games. ***Gattaibushido:FUSION!*** is not one of those games.
+
+**Playtest** Considerations:
+
+* Important for it to NOT be a straight up Death Mechanic
+* Can she be "stabilized" by a Conflict?
+* Likewise they return after a suitable story moment, the team returns to base, they rush to medical evac, they go on an errand to get a life-saving item, etc.
+* Of course "Heroic Sacrifice" needs to be an option...
+
+
+#### What Happens in a Crisis State
+
+(TBD)
+
+
+#### Recovering from a Crisis State
+
+(TBD)
+
+Whenever you recover from this state and return to play, the following happens:
+
+* One of your Commitments (your choice) is permanently lowered by 1 point (see below)
+* Each of your Commitments with a max rank above zero is temporarily reduced to half value (rounded up)
+
+If *this* somehow permanently reduces the max rating of your last positive-rating stat to zero, then your Pilot is gone for good. How this manifests is up to you: death, retirement, etc.
+
+
+## Pilots: Gear (IN PROGRESS)
+
+Gear is acquired via the Armory resource. Unused Gear at the end of a Mission can be returned to the Armory for a restoration of Resource points.
+
+Sometimes Coach may let the Pilots find new pieces of Gear out in the field, too. This is entirely up to his discretion.
+
+Gear has four tiers of availability, based on the team's AvTE (Average Team Evolutions) stat. The team has to meet certain AvTE stat minimums to make new gear available. As the game progresses and the Pilots evolve to higher Tiers of ability, they unlock new Gear acquisitions available at their Armory.
+
+| Gear Tier | AvTE Required |
+|:----------|:--------------|
+| 1         | 0             |
+| 2         | 5             |
+| 3         | 10            |
+| 4         | 15            |
+
+Things Gear needs to note:
+
+* **Activate Effect:** Basic effect when Activated. (default: +1 card draw)
+* **Sacrifice effect:** Special effect when Sacrificed (default: +3 card). Sacrificed Gear is destroyed immediately.
+* any additional actions?
+
+Possible gear effects (X = gear tier):
+
+* Armor: +X to Buffer
+* Tools
+* Weapons
+
+
+### Using Gear
+
+Mostly, Gear is used in Throwdowns, on Side actions. It is either Activated for a small bonus, or Sacrificed (and destroyed) for a greater bonus.
+
+Pretty much every single piece of Gear in the game can be "Activated" for a single +1 draw bonus in a Throwdown, or "Sacrificed" for a +3 draw instead. Activated Gear remains in your pack, available for repeated use in future scenes, while Sacrificed Gear is destroyed in the process of its use. Each form of use requires both a very cleverly-narrated statement of how you wish to make use of the gear, and of course Coach's approval that said usage makes sense.
+
+Coach may rule that some Gear can be used outside of Throwdowns as well. In such a case, consider every item to have a "once per-scene" activation limit, with Coach being the final arbiter over what qualifies for a "scene."
+
+You can only Activate gear once in any given scene, even if it has multiple actions associated with it! And you can't first Activate and then later Sacrifice the same item in the same Throwdown or scene - the act of Activation makes a piece of Gear un-Sacrificeable in the same scene. It can still be Sacrificed in a *later* scene, of course.
+
+### Gear Limits - PLAYTEST
+
+**PLAYTEST NOTE:** Currently there are no set limits to how much Gear the Pilots can carry. That would just be one more thing to keep track of, so I'm currently leaning against doing it. I suspect the costs will keep the loadouts small enough. That's my hope, anyway. This remains to be seen in play! If Gear gets a bit OP, then I may consider adding "gear slots" of some kind, like kitting out your character in a video game. My gut says to avoid that, though.
+
+### Gear Lists
+
+#### Tier 1 Gear: Basic Kitting
+
+Some possible Gear selections for the basic team. In these notations and all following, the "A:" means "Activation effect" and the "S:" means "Sacrifice effect." A "Passive" effect is always active.
+
+**First Aid Kit:** A: restore 2 spent Buffer to any Pilot / S: restore 3 spent Buffers to a Pilot
+
+**Basic Training Armor:** Passive: increase personal Buffer pool by +1 vs +Trauma only.
+
+**Friendship Bangles:** Passive: If *at least two* are in play, each wearer has +1 Buffer vs +Strife only.
+
+**Pocket Pistol:** A: Deal immediate +Trauma to enemy
+
+**Patch Kit:** S: Restore 1 Endurance to Robo (no activation effect)
+
+#### Tier 2 Gear: Seasoned Supplies
+
+(TBD)
+
+#### Tier 3 Gear: Advanced Technology
+
+(TBD)
+
+#### Tier 4 Gear: Top Secret Experiments
+
+(TBD)
+
+#### UNSORTED GEAR
+
+**Pocket Rocket:** S: Deal immediate +Trauma(4) to enemy
+
+
+## Pilots: Power Weapons
+
+(PLAYTEST NOTE: Currently in the Playbooks)
+
+
+## Pilots: Robos
+
+(PLAYTEST NOTE: Currently in the Playbooks)
+
+Notes:
+
+* Robos are primarily mechanical extensions of the Pilots themselves
+* They have little in the way of additional powers, instead serving as the mechanism for Fusion and the Final Form
+* Required for Fusions by default (may differ in some groups)
+* Required for Final Form (absolutely)
+* SUMMON EFFECTS: Only happen once per session per robo!
+
+
+
+## Pilots: Strike Ranges
+
+Your **Strike Range**  (also simply called **Strike**) sets the maximum *safe* difference between cards that you can play during Throwdowns. You can *always* play outside of this range if you have no other options, but doing so triggers a +Strife microevent that can damage team Harmony! Your Strike begins at an amount determined by your Commitment to the Fight rank, and can be modified by Gear, Techs, and more. See p. SQUARP in the Throwdown section for extended rules on Strike Ranges.
+
+
+## Team Basics
+
+In addition to (and perhaps in some stories even more crucial than) the individual Pilots, the Team as a whole is practically a character unto itself.
+
+Each Team of Gattai Pilots has the following components:
+
+* Team Name (descriptor): What is the team called?
+* Derogatory Nickname (descriptor): What is the team called by its haters?
+* A central Harmony Tracker
+* Average Team Evolutions / AvTE (derivative): The average amount of character evolutions earned by the entire team
+* Three Home Base Locations: Barracks, Bunker, and Hangar
+* Three Team Resources:
+    * Fan Club: The general reputation of the team in the public eye
+    * Armory: how well-stocked the team's gear reserves are
+    * Pit Crew: the size and skill level of the team's Mecha support crew
+
+The Names are simple enough. Your group should come up with a team name during the creation session. Likewise, the Derogatory Nickname is what people call them behind their backs - or to their faces even, if their rep is super low! Fail Force Four, The Suck Seven, Lame Kitties, Losertown, etc. The group can come up with their own, or let it emerge during play.
+
+**Harmony** is a color-coded reference for how "in sync" the team is at any one time. The greater their Harmony, the more coordinated they act, and the more powerful their Final Form.
+
+**Average Team Evolutions (AvTE)** is the average of all the team's total earned Evolutions. It's used to determine their relative field experience, and a few background factors are based off it (such as Threat suggestions, Gear availability, etc). To determine this, total the team's combined evolution count and divide by the number of team members, rounding up. At the very beginning of the game, a new team will have an AvTE of 0.
+
+
+## Team: Harmony
+
+**Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by **+Strife** triggers, which can lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
+
+The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. Your Team's position on the Harmony scale determines the following:
+
+* **Assist:** The Strike Range bonus you bestow when you Strike-Assist an ally in combat
+* **Cards:** The number of bonus or penalty cards applied to the Merged Stash when two or more Pilots Fuze
+* **Special:** Special circumstances that apply to merging Pilots at that Harmony level.
+
+**Harmony Table:**
+
+| Harmony    | Assist | Cards     | Special               |
+|------------|--------|-----------|-----------------------|
+| 7 (Violet) | 5      | Draw 3    | All Gain 1 Charge     |
+| 6 (Indigo) | 4      | Draw 2    | -                     |
+| 5 (Blue)   | 3      | Draw 1    | -                     |
+| 4 (Green)  | 2      | -         | -                     |
+| 3 (Yellow) | 1      | Discard 1 | -                     |
+| 2 (Orange) | 0      | Discard 2 | -                     |
+| 1 (Red)    | -1     | Nil       | Can't Fuze at all!    |
+
+
+### Lowering Harmony
+
+Harmony can be damaged not just by disastrous events, but also by the Pilots pushing themselves too hard and acting against the spirit of the team. Pilots can trigger **+Strife** events which directly lower Harmony unless somehow mitigated. See details on the +Strife microevent trigger on p. SQUARP.
+
+The Harmony tracker can never be lower than 1 (Red). If an event or mechanic would lover the Team's Harmony below 1, leave it at 1 and instead trigger +Trauma:Each (yes, that means to *the entire Team*). This represents your Team's descent into self-destructive behaviors finally taking its toll out directly on their personal well-being.
+
+
+### Restoring Harmony
+
+Harmony can be restored in the following ways:
+
+* Playing up your Color's Harmony Trigger
+* Using your Fan Club
+* Using certain Gear
+* Using certain Techs
+* Winning appropriate Gambits and Throwdowns, or involvement in other narrative activities\*
+
+\* Note that not all Throwdowns, Gambits, or other activities will be eligible for Harmony restoration. The situation must make sense, and the conflict needs to be directly related to the improvement of Team Spirit and teamwork, a matter which is ultimately Coach's call. Examples include therapy sessions, team spirit-boosting activities, group interventions, etc.
+
+**PLAYTEST NOTE:** I am certain I need more ways to restore Harmony. This requires more feedback on the current systems, though.
+
+
+## Team: Home Base Locations
+
+Every new Pilot team starts play with a basic Home Base, which consists of three Locations: Barracks, Bunker, and Hangar, each with its own special associated Boon, in the form of a special Team Resource.
+
+The **Barracks** Location is where the Team rests, relaxes, and lives. The Barracks provides access to the **Fan Club** Team Resource as its Location Boon.
+
+The **Bunker** Location is where the trains and keeps their special gear, and where they retreat to when in need of protection. The Bunker provides access to the **Armory** Team Resource as its Location Boon.
+
+The **Hangar** Location is where the Team's Robos are stored and maintained during downtime. The Hangar provides access to the **Pit Crew** Team Resource as its Location Boon.
+
+The Home Base can grow out over extended play, with new Locations (and Boons!) added and existing one upgraded to be more resilient to enemy attacks.
+
+The Resources are explained further below. For more details on Locations, see the Advanced Locations rules starting on page SQUARP.
+
+
+## Team: Resources
+
+Each Team's Base (see above) provides three special **Team Resources** as  Boons to the Base's three core Locations. These Resources add an extended management tool that can empower the Pilots in a number of ways. The Resources are: **Fan Club** (provided by the Barracks), **Armory** (provided by the Bunker), and **Pit Crew** (provided by the Hangar).
+
+Each Resource is represented by a numerical stat from 0 and up, ranked as follows:
+
+| Stat | Description                                              |
+|:-----|:---------------------------------------------------------|
+| 0    | Depleted                                                 |
+| 1-3  | Threatened: basic scraps, minimal team, low rep          |
+| 4-6  | Subsistence: maintenance of standard team ops            |
+| 7-9  | Surplus: lots to spare, high rep, solid support crew     |
+| 10+  | Bountiful! Will be converted to Score at end of Scenario |
+
+Each specific stat uses these numbers differently. For the most part, the three middle ranks are mainly there for narrative color, while the lowest and the highest have the most direct mechanical effects.
+
+With a 0 in any of the three team stats, the Pilots are locked out of using one of their core abilities. On the flip side, zero is the absolute lowest a stat can go, and any resource loss below zero is ignored.
+
+Any resource that reaches 10 or higher during a scenario is considered to be in a state of great bountiful surplus. If the team doesn't otherwise make use of this bounty, any points in this range are directly converted into final Score.
+
+**Resource Conversions:** When in a narratively-suitable position, the Team and convert resources with a 2:1 conversion rate. This can represent donating gear or services to their Fans, recruiting new Pit Crew members from their fanbase, sending their crew on shopping runs, or however else they can describe it.
+
+
+### Fan Club (Barracks Location)
+
+The **Fan Club** resource represents your team's general reputation out in the civilian world.
+
+The Fan Club can take any form your game wishes, but by default they are considered to be real people active in your game world. You are encouraged to flesh them out with names and stories, and even involve them directly in your games, possibly even as direct plot hooks!
+
+**Spending Fan Club:** You can spend your Fan Club in two ways. First, you can draw on your Fan Club help mitigate potential PR disasters, as they rally to defend your good name against nay-sayers. In this function, your Fan Club serves as an expendable Buffer to mitigate +Disfavor damage.
+
+Second, you can use them for intel. If you have an evening or so of downtime available in the game, you can invoke a **+Tarry** action to spend time socializing with them, maybe via live net chat or even IRL at a local hangout. Doing so allows you to spend 1 point of Fan Club to acquire insights into your current mission, gaining one "clue" into a current mystery - filtered of course through the uncertain credibility of random online fans. Use these sparingly, though, because your fans don't like having to do all your work for you!
+
+**Depleting Fan Club:** If the Fan Club is depleted, you cannot restore Harmony at all! You'll need to find a way to restore your credibility somehow before your Harmony can be improved.
+
+**Location:** The Fan Club is directly tied to the Pilots' Barracks Location. If that Location is Razed, Fan Club points can not be spent or restored.
+
+
+### Armory (Bunker Location)
+
+The **Armory** represents your Team's collection of stockpiled goods, including extra weapons and other valuable Gear that they can make use of on their important missions battling against the enemy.
+
+**Spending Armory:** Your Armory points allow you to check gear out for missions. Each point spent equates to one point of Gear rating checked out. The points are spent immediately, however if the Gear is returned safely the points are restored.
+
+Pilots can generally acquire Armory Gear at any time their character would be considered to have easy access to their base of operations. If Coach allows it, the pilots can requisition gear in the field for an additional cost per item, at his discretion.
+
+**Depleting Armory:** If the Armory is ever depleted, you cannot make use of your Power Weapons' active Techs!
+
+**Location:** The Armory is directly tied to the Pilots' Bunker Location. If that Location is Razed, Armory points can not be spent or restored.
+
+
+### Pit Crew (Hangar Location)
+
+The **Pit Crew** represents the Team's support crew, the folks who work on their Robos and keep them in optimal operational condition. Like the Fan Club, the Pit Crew consists of an actual team of additional characters that are there to help the Pilots on the sideline. You are encouraged to give them names, personalities, and back-stories.
+
+**Spending Pit Crew:** You can spend points of your Pit Crew to repair damaged Robos. It costs 1:1 for Endurance repairs while you're back at Home Base in your team's Robo Hangar, 2:1 if you're making repairs in the field, and 3:1 if you're calling on your Pit Crew for urgent assistance in anything that Coach deems to be a "high-risk situation."
+
+**Depleting Pit Crew:** If the Pit Crew is depleted, you cannot use your Robos at all! You can't Fuze, you can't use their Techs, and you won't stand a chance against the BGM!
+
+**Location:** The Pit Crew is directly tied to the Pilots' Hangar Location. If that Location is Razed, Pit Crew points can not be spent or restored until it is rebuilt.
