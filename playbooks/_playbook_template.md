@@ -125,13 +125,18 @@ At the start of every brand new Scenario, make the following additional Resource
 * **Pit Crew:** +X
 
 
-## Color Role-Playing Triggers
+## Color Lesson Trigger
 
-**Next**, note these crucial core roleplaying triggers that your Pilot should always strive to bring into play. Each of these is a special prompt that allows you to gain either more Charges or even Lessons during play by role-playing your role's strengths and weaknesses in purely narrative ways.
+**Next**, note your Color's special Lesson trigger. This is a special prompt that allows you to gain Lessons during play by role-playing your role's strengths and weaknesses in purely narrative ways.
 
 * **Lesson Trigger:** DESCRIPTION
-* **Gambit Specialties:** DESCRIPTION. When you incorporate this directly into a Gambit, you add more narrative effect to the outcome!
-* **SPECIAL:** (Special additional Gambit changes, not everyone will have this)
+
+
+## Color Gambit Specialty
+
+When you incorporate your Color's specialty directly into a Gambit, you add more narrative effect to the outcome!
+
+* **Gambit Specialties:** DESCRIPTION.
 
 
 # What Weapon Do You Wield?
