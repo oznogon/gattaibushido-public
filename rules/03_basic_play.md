@@ -778,7 +778,7 @@ As a side action you can Discard face cards to trigger their alternate effects. 
 
 #### Trigger Wave/Storm (Side, Coach)
 
-The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *four* Face cards.
+The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *three* Face cards.
 
 Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn. If is it Coach's turn and he has a Stash full of face cards but no feasible strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately ending the conflict by Folding.
 

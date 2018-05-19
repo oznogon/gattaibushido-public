@@ -77,7 +77,7 @@ Coach plays the game very differently than the Pilots. Below are the major mecha
 
 **Gambit and Throwdown Initiation is Blind:** Unlike the Pilots, you *always* initiate and accept your Gambits and Throwdown challenges from the top of the Deck. This is quite intentional, to maintain "fair unpredictability" in the challenge mechanic. The intent of the conflict mechanics is not for Coach to beat up on the pilots, but instead for the pilots to rise up to a challenge, no matter how unpredictable that challenge may be. Once you have drawn your actual Stash, you have more freedom in bringing the pain.
 
-**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Stash in order to activate these options.
+**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Stash in order to activate these options (one Face for Waves, three Faces for Storms).
 
 **Strike Ranges:** Coach has different limits in regard to Strike Ranges. Unlike the Pilots, who have the ability to play outside of Strike Ranges by risking team stress, by default your Threats are hard-limited by Strike Range and cannot play outside of them. Some of your custom Threats may have specific exemptions to this, however.
 
@@ -653,7 +653,7 @@ Threats primarily exist to participate in Throwdowns under your control. The fol
 * **Buffers:** Each Threat has its own separate Buffers. *Do not* combine them if multiple Threats are participating.
 * **Strike Range:** Your Strike Range is equal to the combined Threat Ratings of the participants. Unlike Pilots, Threats simply *can not* play outside of this Range, unless one of the participants has the Enforcer power and spends its own Buffers to activate it.
 * **Side Action - Trigger Wave:** As a Side Action, a Threat can discard a Face to activate one of its Waves.
-* **Side Action - Trigger Storm:** As a Side Action, a Threat can discard *four* Faces to activate one of its Storms.
+* **Side Action - Trigger Storm:** As a Side Action, a Threat can discard *three* Faces to activate one of its Storms.
 
 
 ## Big Giant Monsters! (BGM)
