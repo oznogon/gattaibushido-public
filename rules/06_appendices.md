@@ -8,6 +8,8 @@ section: appendices
 
 # Appendix XX: Alternate Mechanic: Using "Ichi" Cards
 
+**PLAYTEST NOTE SUMMER 2018:** This whole section is potentially being discarded. I need to revisit the Ichi play down the road, as it just hasn't provided the positive play results I've wanted. It isn't currently a high priority unfortunately, as I instead need to revisit the core game.
+
 Using this set of replacement mechanics, the core double-standard Deck of ***Gattaibushido:FUSION!*** playing cards is replaced with a single deck of that "One" color-coded, number-matching, turn-skipping card game that many of us have played since we were in grade school - henceforth referred to in this text as an **"Ichi" Deck**. These cards are available both online and at countless toy and game stores across the entire world, and there are even themed variants of them for things such as anthropomorphic cartoon young-adult warrior turtles, cute "Hi There, Cat!" pop icon characters, several major anime series, and more.
 
 
