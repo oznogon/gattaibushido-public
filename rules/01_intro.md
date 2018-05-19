@@ -77,7 +77,7 @@ Inspirations:
 
 * **The cards are subordinate to the story.** If you play, draw, discard, or affect a card in any way, you *must* provide suitable in-game narration of such.
 * **There are *no* Take-Backs.** If you put a card down, it's down, regardless of its source and/or facing. Think before you play.
-* **Card Ranks beat Card Suits.** Ten of Clubs beats a Seven of Spades.
+* **Card Ranks beat Card Suits.** A King of Clubs beats a Ten of Hearts beats a Seven of Spades.
 * **Card Suits break ties.** Seven of Spades beats a Seven of Clubs. Spades > Hearts > Diamonds > Clubs (reverse alphabetical).
 * **One Conflict Per Conflict.** In other words: no cheese-train conflict sequences in this game. If a Gambit, Throwdown, or Rumble fails to fully accomplish what you want from the moment, you cannot immediately start a new one to try it again. You must step back, reassess, and come up with a new approach. If that leads to a nearly identical conflict in a follow-up scene, that's fine, but no cheese trains allowed.
 * **Explicit Card-Talk is Prohibited.** Players can not reveal or directly discuss the contents of their Stashes with each other, unless in-game mechanics (namely Techs) explicitly state otherwise. You must instead talk strategy in-game, as your characters, and not meta-game the conflicts with cheaty card-talk. See rule #1.
@@ -161,12 +161,12 @@ The number cards serve as the primary tools of action and conflict resolution in
 
 #### Face Cards
 
-The "Face" cards - Kings, Queens, and Jacks - have special functions which control conflict flow during Throwdowns, and allow the user to draw more cards. They can also be played as number cards, and their value changes every session!
+The "Face" cards - Jacks, Queens, and Kings - are treated as number cards with values of 11, 12, and 13, respectively. Some additional effects and Techs use Faces specifically, making them extra important to many situations.
 
 
 #### Aces
 
-Aces are super special dual-purpose cards valued at either 11 (the "**Empowered**" state) or 1 (the "**Diminished**" state). By default an Ace beats every number card, but then Twos beat Aces and start the cycle of card play from the bottom all over again!
+Aces are super special ultra-powerful cards with a value of 14 - the highest-value card in the game! While this sounds awesome, they also have one eensy weensy little weakness: Twos. Twos *always* beat Aces, and Aces can never be played against Twos!
 
 
 #### Jokers
@@ -231,9 +231,7 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 
 #### Deal Starting Stashes and Finalize the Deck
 
-Coach next flips cards from the top of the Deck until a number card (2-10) is revealed. This initial **Phantom** card is set aside, front and center, to represent the assumed value of all Pilot-played Face cards for this session. Put any other flipped cards at the bottom of the Deck.
-
-Then he deals out the Pilots' starting Stashes of cards, which defaults to three (3) cards unless special abilities modify it.
+Coach deals out the Pilots' starting Stashes of cards, which defaults to three (3) cards unless special abilities modify it.
 
 After this is done, he shuffles the Jokers back into the Deck, face-up. The Deck is now prepared for play.
 

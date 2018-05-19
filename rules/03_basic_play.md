@@ -19,7 +19,6 @@ During the course of play, the cards will cycle between the following places in 
 * the **Trash** (where they are discarded, face-up); Trash is next to the main Deck.
 * your **Stash** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
-* the **Phantom Stack** (whose top-most card determines the play value of all Pilot-played Face cards);
 * the Robo Rumble **Combo Zones** (5 on each side; where the cards are played during the three rounds of Rumbles)
 * certainly not your **Sleeve**, because that's cheating...
 * and occasionally the **Floor**, where we all inevitably drop them from time to time!
@@ -54,19 +53,6 @@ Coach *does not* maintain an active Stash of cards between conflicts. He only dr
 The Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card that came from the Deck is discarded during play, it goes on top of the Trash heap, face-up.
 
 
-### Phantom Stack
-
-At the beginning of each new session, Coach randomly flips a number card (2-10) and leaves it face-up in the middle for the rest of that session, starting the **Phantom Stack**. Additionally, each time the deck is reshuffled during the session a new Phantom card is revealed and placed face-up on top of the previous one. The topmost card is frequently called "the" Phantom Card.
-
-For the duration of a game session, the Pilots can play each Face card as if it has the same numerical value of the Phantom Card (keeping the Face's own suit). Over a long session with multiple reshuffles, this stack can grow to several cards, but only the top-most card is used by the players. This stack _is not_ reshuffled back into the Deck until the session is concluded and the game's materials are being put away.
-
-Note that the cards in the Phantom Stack are immune to any and all effects of card manipulation that do not *very specifically* state that they affect the Phantom cards. Some characters may have special Phantom powers, but these are intentionally few and far between, and always very specific.
-
-**Coach:** Your Threats *do not* use the Phantom Card(s). Instead, you have access to special Threat-only Face Card powers.
-
-See the session setup process for more setup information (p. SQUARP).
-
-
 ### Combo Zone
 
 When the Pilots combine to fight a Big Giant Monster, both sides have five play zones where they assemble their best "spreads" of cards against each other.
@@ -86,7 +72,7 @@ When the Pilots combine to fight a Big Giant Monster, both sides have five play 
 If you're not used to playing cards, the terms "face" and "facing" and "face cards" can be a bit confusing. Hopefully the following can make some of that easier:
 
 * Every card has a Face and a Back. The Face shows the rank and suit of the card, while the Back shows the standard card backing pattern for that deck.
-* Some cards have *literal* faces on their faces, denoting them as Jacks, Queens, and Kings. While every card in the deck has a face, these cards are *specifically* called Face Cards.
+* Some cards have *literal* faces on their faces, denoting them as Jacks, Queens, and Kings. While every card in the deck has a face, these cards are *specifically* called Face Cards. They have number values of 11, 12, and 13, respectively.
 * Finally, the term "facing" is used to denote the directional positioning of the card in play. For example, if a card is laying on the table with it's "face" side directed downward, then it is noted as "facing" down, or simply "face-down."
 
 
@@ -104,28 +90,14 @@ Also, note that Twos are considered somewhat important in that by default they a
 
 ### Face Cards
 
-Face cards (Jacks, Queens, and Kings) are unique in two ways. First, they have a fluctuating value that changes every time you play. Whenever a Pilot plays a Face Card (such as in Gambits, or when Pushing in Throwdowns), it is considered to have the numerical value of **the Phantom Card** (keeping its own suit).
-
-Additionally, Face cards have unique alternate functions in Throwdowns that can greatly change the flow of action during those conflicts. Each Face can be discarded as a "Side Action" for the effect below.
-
-**Jacks:** Jacks play dirty and skip ahead in lines. When discarded as a Side action, the next player in the flow order is skipped. This _can_ further extend the buildup of an Assist Chain!
-
-**Queens:** Queens change the nature of the game when they enter the playing field. When discarded as a Side action, the round-table flow of the conflict is immediately *reversed!* If play was moving to the left (starting default), it now moves to the right, and vice-versa. When your turn is complete, the next player is determined by the new direction of flow. The reversed flow lasts until the conflict ends (or another Queen is used on a later action), and it *can* further extend the buildup of an Assist Chain!
-
-**Kings:** Kings gather power, fortifying their realms. When discarded as a Side action, immediately draw a number of cards into your Stash based on King's Suit Value (Spades = 4, Hearts = 3, Diamonds = 2, and Clubs = 1).
-
-When used for these Side Actions, Face cards are sent directly to the Trash, skipping the Play Pile entirely.
+Jacks, Queens, and Kings are typically played as number cards with values of 11, 12, and 13, respectively. They are also sometimes used in special Techs and other situations, making them a bit more valuable in the common play.
 
 
 ### Aces
 
-Ace cards have a special dual numerical nature, existing in one of two forms. When "Empowered" they have a functional value of 11, but when "Diminished" they have a functional value of 1.
+Aces are the highest-ranked card in the Deck, with a functional value of 14 in almost all cases.
 
-Numerically, Aces beat any number card played *before* them in Throwdowns, as if they had an "Empowered" value of Eleven (11). In Gambits, they similarly have an effective value of 11. This makes them the highest-ranked card in Throwdown Initiatives and Plays.
-
-However, when *followed* specifically by a Two (2) card, Aces are considered "Diminished" and have a value of One (1). So an Ace beats any card of ranks Two through Ten that comes before it in a Throwdown, but a Two played after an Ace beats it, starting the whole chain from the bottom again. This *only* applies to Twos that immediately follow the Ace in the Pile, and not to Threes or any higher card.
-
-When a player uses any other game mechanic to randomly generate a number from a Card, an Ace is by default considered Diminished, providing a value of 1, unless another effect somehow Empowers it (giving it a value of 11).
+However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile. In other words, Aces gave *no value* against Twos.
 
 
 ### Jokers
@@ -173,9 +145,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Shuffle/Reshuffle
 
-Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Stashes, Factions, Omens, Phantoms, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
-
-Every time Coach reshuffles the Deck, he must also reveal a new Phantom card and place it on top of the Phantom Stack.
+Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Stashes, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
 
@@ -423,7 +393,7 @@ The Pilot must then either play-up a card of her choice from her own Stash (or a
 
 Once the Pilot makes her play, Coach reveals the Threshold card. Compare the Pilot's Play to the Threshold, with final results as follows:
 
-If **the Pilot's card is *higher*,** then the player achieves a **"Yes, and..."** result. The Pilot succeeds at the intended task, and gets to narrate some additional boon as well!
+If **the Pilot's card value is *higher*,** then the player achieves a **"Yes, and..."** result. The Pilot succeeds at the intended task, and gets to narrate some additional boon as well!
 
 **In any other outcome,** the Pilot gets to choose one of the following three options:
 
@@ -667,7 +637,6 @@ The actions in the subsections below are listed with which Type of action they a
 * **Recharge:** Discard a card in order to gain more Charges
 * **Sacrifice Gear:** Destroy a piece of Gear to activate its sacrifice effect
 * **Summon Robo:** bring in your personal Robo if it isn't already involved
-* **Trigger Face Effects:** Discard a Face card to activate its special effect
 * **Trigger Wave/Storm:** Coach activates a Wave or Storm of an involved Threat
 
 
@@ -789,14 +758,9 @@ If your Robo isn't currently involved in the Throwdown, and the situation makes 
 However the narrative method of Robo-summoning may be described, it is usually accompanied by an additional mechanical effect as described in your Playbook.
 
 
-#### Trigger Face Effects (Side, Both)
-
-As a side action you can Discard face cards to trigger their alternate effects. Discarding a King lets you immediately Draw additional cards into your Stash based on the King's Suit Value, Discarding a Queen reverses the flow of action henceforth (until either the next Queen is Discarded as a Side Action, or the conflict ends), and Discarding a Jack skips the next Player in the rotation.
-
-
 #### Trigger Wave/Storm (Side, Coach)
 
-The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. Coach's Threats get access to this action *instead of* the ability to use the Phantom Card. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *four* Face cards.
+The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *three* Face cards.
 
 Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn. If is it Coach's turn and he has a Stash full of face cards but no feasible strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately ending the conflict by Folding.
 
@@ -870,7 +834,7 @@ With the Payloads resolved, it's time to drop and draw.
 
 Use your Aces wisely! They are valuable as trumping cards when Pushing, but they are also useful for activating your Pilots' special Techs. Don't play them unless you have to.
 
-Also remember that Twos are the lowest, and Tens are the highest, but Aces then beat Tens, and conversely Twos beat Aces. Hold onto those Twos and Aces until the right moment, as they can be quite valuable!
+Also remember that while Twos are the lowest, and Aces are the highest, but those pesky Twos always beat Aces. Hold onto those Twos and Aces until the right moment, as they can be quite valuable!
 
 
 ### PVP Throwdowns
