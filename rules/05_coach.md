@@ -73,11 +73,11 @@ Similarly, you can use this same method to build up the feeling of danger in a p
 
 Coach plays the game very differently than the Pilots. Below are the major mechanical process changes that apply to your role in ***Gattaibushido:FUSION!***
 
-**Coach's Stash:** Coach doesn't carry a Stash of cards between conflicts. You will only hold a Stash during the turns of an active Throwdown. When the Throwdown concludes, you must Discard any remaining cards in your Stash.
+**Coach's Cache:** Coach doesn't carry a Cache of cards between conflicts. You will only hold a Cache during the turns of an active Throwdown. When the Throwdown concludes, you must Discard any remaining cards in your Cache.
 
-**Gambit and Throwdown Initiation is Blind:** Unlike the Pilots, you *always* initiate and accept your Gambits and Throwdown challenges from the top of the Deck. This is quite intentional, to maintain "fair unpredictability" in the challenge mechanic. The intent of the conflict mechanics is not for Coach to beat up on the pilots, but instead for the pilots to rise up to a challenge, no matter how unpredictable that challenge may be. Once you have drawn your actual Stash, you have more freedom in bringing the pain.
+**Gambit and Throwdown Initiation is Blind:** Unlike the Pilots, you *always* initiate and accept your Gambits and Throwdown challenges from the top of the Deck. This is quite intentional, to maintain "fair unpredictability" in the challenge mechanic. The intent of the conflict mechanics is not for Coach to beat up on the pilots, but instead for the pilots to rise up to a challenge, no matter how unpredictable that challenge may be. Once you have drawn your actual Cache, you have more freedom in bringing the pain.
 
-**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Stash in order to activate these options (one Face for Waves, three Faces for Storms).
+**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Cache in order to activate these options (one Face for Waves, three Faces for Storms).
 
 **Strike Ranges:** Coach has different limits in regard to Strike Ranges. Unlike the Pilots, who have the ability to play outside of Strike Ranges by risking team stress, by default your Threats are hard-limited by Strike Range and cannot play outside of them. Some of your custom Threats may have specific exemptions to this, however.
 
@@ -321,7 +321,7 @@ A "Steady and Hard" more difficult path is:
 | 6     | Storm + Storm |
 | 7     | BGM Attacks!  |
 
-To provide suitable challenge for one-shot Robo Rumbles, add the BGM's Threat rating to Coach's Stash Limit and Draw on each round.
+To provide suitable challenge for one-shot Robo Rumbles, add the BGM's Threat rating to Coach's Cache Limit and Draw on each round.
 
 
 ### Moving Along the Path
@@ -335,7 +335,7 @@ Once you've reached the end of the path, that *usually* means the Big Monaster f
 
 ### Escalation and the Big Giant Monster
 
-The current Escalation has a direct impact on the power of the Big Giant Monster, whenever it is eventually encountered, because the BGM's Stash is directly increased in size by the escalation level.
+The current Escalation has a direct impact on the power of the Big Giant Monster, whenever it is eventually encountered, because the BGM's Cache is directly increased in size by the escalation level.
 
 Additionally, "by the book" the BGM can't attack (as in initiating a Rumble) until that level of the escalation has been reached. You can always push it lower on the path if you like, but that remains to be tested in play.
 
@@ -649,7 +649,7 @@ As a Storm, summon a new minion/reinforcement Threat into the scenario and activ
 
 Threats primarily exist to participate in Throwdowns under your control. The following differences apply to your conflicts:
 
-* **Initial Draw:** Your initial Stash Draw in a new Throwdown is equal to the combined Threat Ratings of all the Threats that are actively participating in the conflict.
+* **Initial Draw:** Your initial Cache Draw in a new Throwdown is equal to the combined Threat Ratings of all the Threats that are actively participating in the conflict.
 * **Buffers:** Each Threat has its own separate Buffers. *Do not* combine them if multiple Threats are participating.
 * **Strike Range:** Your Strike Range is equal to the combined Threat Ratings of the participants. Unlike Pilots, Threats simply *can not* play outside of this Range, unless one of the participants has the Enforcer power and spends its own Buffers to activate it.
 * **Side Action - Trigger Wave:** As a Side Action, a Threat can discard a Face to activate one of its Waves.
@@ -671,15 +671,15 @@ You can add special Robo Rumble Techs to any BGM Threat by buying them as additi
 
 **Playtest Notes:** These require a lot of extended testing. This is a completely new take on the prior Rumble mechanic, and as such most of these have not even seen lab testing. They don't have cool monster-y names yet, either. Bear with me, it's a work in progress.
 
-**Action** Techs always require you to spend a Turn using them, and usually require playing or discarding one or more cards from your BGM's Stash.
+**Action** Techs always require you to spend a Turn using them, and usually require playing or discarding one or more cards from your BGM's Cache.
 
 **Passive** Techs instead provide constant bonuses that do require actions or turns.
 
 **Rumble Techs:**
 
-* **Devastate:** (Action) For every two (2) cards you discard, Pilot Team must discard 1 from their Stashes as they see fit. This cannot force a Pilot to Discard their final card.
-* **Extend Stash:** (Passive) This Tech increases the BGM max Stash by +1 card. Can be taken multiple times.
-* **Power Up:** (Action) Discard X cards, increase your max Stash by +X cards for the *next* Round only.
+* **Devastate:** (Action) For every two (2) cards you discard, Pilot Team must discard 1 from their Caches as they see fit. This cannot force a Pilot to Discard their final card.
+* **Extend Cache:** (Passive) This Tech increases the BGM max Cache by +1 card. Can be taken multiple times.
+* **Power Up:** (Action) Discard X cards, increase your max Cache by +X cards for the *next* Round only.
 * **Tech Name:** (Passive/Active) Template...
 
 
@@ -721,7 +721,7 @@ Not only that, but the entire core conflict of the scene defines the legacy that
 
 ### Three is the Magic Number
 
-For all mechanics in this scene, use a simple base value of 3. Each player has three cards in their base Stash. At the beginning of a Throwdown, each player draws three more into their Stash. All Strike Ranges are 3, and no one gains or uses Charges. If anyone uses the Strike-Assist action in a conflict, the assist bonus is +3. The final Threat is TR 3. If there's a need for a mechanical number, use 3.
+For all mechanics in this scene, use a simple base value of 3. Each player has three cards in their base Cache. At the beginning of a Throwdown, each player draws three more into their Cache. All Strike Ranges are 3, and no one gains or uses Charges. If anyone uses the Strike-Assist action in a conflict, the assist bonus is +3. The final Threat is TR 3. If there's a need for a mechanical number, use 3.
 
 
 ### Focus on the Core Stuff
@@ -748,7 +748,7 @@ First Contact Flow:
 1. Quick Explanation
 2. Establishment Questions
 3. Character Creation
-4. Deal Stashes and Create the Deck
+4. Deal Caches and Create the Deck
 5. Set the Stage
 6. PLAY!
 7. ...and bring to a Conclusion
@@ -821,9 +821,9 @@ Now each player (except you, of course) needs to figure out who their character 
 * I've got to destroy the secret documents!
 
 
-### Deal Stashes & Prepare the Deck
+### Deal Caches & Prepare the Deck
 
-The Deck and Stashes in the First Contact scene are prepared differently than the regular game. First, set the Jokers aside - they are not used during this intro scene. Shuffle the Deck, and deal each player three cards to set their initial personal Stashes. The Deck is now ready for play.
+The Deck and Caches in the First Contact scene are prepared differently than the regular game. First, set the Jokers aside - they are not used during this intro scene. Shuffle the Deck, and deal each player three cards to set their initial personal Caches. The Deck is now ready for play.
 
 
 ### Set the Stage
@@ -838,7 +838,7 @@ The following canned text is from an example setting of alien hordes attacking a
 >
 > If you work together, you might have a chance of escaping - maybe one of the lifeships will make it through, and warn the people back home? But as you ponder this, you notice one more screen, showing a video feed of a dim, now-abandoned room deeper in the bunker. In that room, beyond that camera, under a single flickering light, is **The Weapon**...
 >
-> Each of the named cards I just laid down is a "Faction" which you can use for potential added pwoer later in this scene. If you would like, you each have the *option* to invest any *one* of your cards in any of the Factions you choose, and then draw another into your Stash to replace it. *Any* of you can play the cards from the Factions later on, but for now it's up to you if you want to invest.
+> Each of the named cards I just laid down is a "Faction" which you can use for potential added pwoer later in this scene. If you would like, you each have the *option* to invest any *one* of your cards in any of the Factions you choose, and then draw another into your Cache to replace it. *Any* of you can play the cards from the Factions later on, but for now it's up to you if you want to invest.
 >
 > Now with that set up... what do you do?
 
@@ -871,7 +871,7 @@ Allow them each one or more turns to see the Gambit rules in play, then look for
 
 Throughout the scene's flow, you should keep on the lookout for ways to pit the character's built-in goals and mid-scene actions against each other. The scene should build up to a conflict that puts major character objectives at stake. Hopefully this should occur on its own, but you may need to creatively improvise artificial catalysts for direct player-vs-player conflict.
 
-Make sure they all know that if they ever want to "stop talking and just use the cards," they need to throw the proverbial gauntlet. To do this they must take a card from their Stash and slam it face-down on the table, initiating a challenge to their opponent and kicking off a Throwdown.
+Make sure they all know that if they ever want to "stop talking and just use the cards," they need to throw the proverbial gauntlet. To do this they must take a card from their Cache and slam it face-down on the table, initiating a challenge to their opponent and kicking off a Throwdown.
 
 Once this happens, break out the Throwdown rules (see p. SQUARP). Encourage them to take sides and back each other up. Press the conflict, talk it up, reinforce the near-hopeless desperation of their current situation. Let them *go to town* on each other, too. If they start to "go there" with their narration, just let it ride - and maybe even push it further! Use those emotions to color this scene, as the more intense it gets, the more awesome the rest of the game will be!
 

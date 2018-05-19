@@ -103,7 +103,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Omens:** when a Joker reaches the top of the Deck, it becomes an Omen under Coach's control, and can trigger Escalation events.  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
-**Play:** the act of taking a card from your Stash and introducing it to the table, activating one or more mechanics  
+**Play:** the act of taking a card from your Cache and introducing it to the table, activating one or more mechanics  
 **Positions:** the different locations in the final form where the robos slot in  
 **Push:** the core action of a Throwdown, in which a card is played to beat the last-played card  
 **Razed:** a Location that has been Razed cannot be used in play, and must be rebuilt  
@@ -111,7 +111,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Round:** one of three stages of robot-on-monster action during Robo Rumbles  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
-**Stash:** the hand of cards that a player holds, their personal array of play options  
+**Cache:** the hand of cards that a player holds, their personal array of play options  
 **Storm:** one of Coach's two primary scripted Threat actions against the Pilots (the more heinous one)  
 **+Storm:** mechanical notation that an effect triggers one of Coach's Waves  
 **Suit:** the category of pip on the playing cards (Spades, Hearts, Diamonds, and Clubs)  

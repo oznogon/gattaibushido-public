@@ -17,7 +17,7 @@ During the course of play, the cards will cycle between the following places in 
 * the **Deck** (from which you draw, face-down); 108 cards total, built by combining two standard 54-card Decks of playing cards.
 * the **Pile** (where they are played, face-up); Piles are sent to the Trash after each conflict concludes.
 * the **Trash** (where they are discarded, face-up); Trash is next to the main Deck.
-* your **Stash** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
+* your **Cache** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
 * the Robo Rumble **Combo Zones** (5 on each side; where the cards are played during the three rounds of Rumbles)
 * certainly not your **Sleeve**, because that's cheating...
@@ -31,7 +31,7 @@ There is a single core **Deck** of 108 playing cards created by combining the ca
 
 ### Faction
 
-**Factions** are sources of external power that the Pilots uncover through exploration and role-playing. When a Faction's favor has been acquired by the Pilots, they can invest cards from their Stash into that faction, keeping them on the table for later use. This allows well-connected Teams access to more card options beyond their rather limited personal Stashes. Factions and their uses are described in more detail on p. SQUARP.
+**Factions** are sources of external power that the Pilots uncover through exploration and role-playing. When a Faction's favor has been acquired by the Pilots, they can invest cards from their Cache into that faction, keeping them on the table for later use. This allows well-connected Teams access to more card options beyond their rather limited personal Caches. Factions and their uses are described in more detail on p. SQUARP.
 
 
 ### Pile
@@ -39,13 +39,13 @@ There is a single core **Deck** of 108 playing cards created by combining the ca
 During Throwdowns, a **Pile** of cards temporarily exists in the middle of the table. Whenever a participant plays a card, they play it on top of the Pile, face-up. Long Throwdowns with many participants can create huge piles indeed.
 
 
-### Stash
+### Cache
 
-Your **Stash** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Stash, which frequently refreshes throughout a session. Only Pilots actively maintain their card Stashes between conflicts.
+Your **Cache** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Cache, which frequently refreshes throughout a session. Only Pilots actively maintain their card Caches between conflicts.
 
-Your Max Stash allowance is set at a base of three (3) cards, but this can be modified by certain techs and gear. If a Pilot ever holds more cards than their Max at the end of a conflict, they must discard down to Max. Likewise, if they ever hold less than their Max at the end of a conflict, they must draw back up to Max.
+Your Max Cache allowance is set at a base of three (3) cards, but this can be modified by certain techs and gear. If a Pilot ever holds more cards than their Max at the end of a conflict, they must discard down to Max. Likewise, if they ever hold less than their Max at the end of a conflict, they must draw back up to Max.
 
-Coach *does not* maintain an active Stash of cards between conflicts. He only draws a temporary Stash at the beginning of Throwdowns and Rumbles, and he discards/invests any remaining cards when those are completed. Outside of those conflicts, Coach's plays are always "blind."
+Coach *does not* maintain an active Cache of cards between conflicts. He only draws a temporary Cache at the beginning of Throwdowns and Rumbles, and he discards/invests any remaining cards when those are completed. Outside of those conflicts, Coach's plays are always "blind."
 
 
 ### Trash
@@ -119,7 +119,7 @@ When the rules call for a card to be **discarded**, you must remove the card in 
 
 ### Draw
 
-When you are told to **draw** a card, take the top card of the Deck and put it in your current active Stash of cards. Sometimes you may be told to "draw and immediately play" - in this case, that card skips your Stash and is played directly to the table. Outside of that specification, when you draw a card, it goes into your Stash before any subsequent actions or plays follow.
+When you are told to **draw** a card, take the top card of the Deck and put it in your current active Cache of cards. Sometimes you may be told to "draw and immediately play" - in this case, that card skips your Cache and is played directly to the table. Outside of that specification, when you draw a card, it goes into your Cache before any subsequent actions or plays follow.
 
 
 ### Flip
@@ -131,7 +131,7 @@ If you are told to flip a *stack* of cards, first tidy up the stack in place so 
 
 ### Play
 
-When the rules tell you to **play** a card, you take a card from your Stash and place it on the table in front of you. Unless otherwise stated, all card plays are performed face-up.
+When the rules tell you to **play** a card, you take a card from your Cache and place it on the table in front of you. Unless otherwise stated, all card plays are performed face-up.
 
 Sometimes you may see the sub-terms **Play-up** and **Play-down** in the test. These mean "play a card face up" and "play a card face down," respectively. Similarly, if the rules say that you "play down" or "play up" a card, those signify the orientation of the to-be-played card. But to repeat: unless otherwise stated, *all* Plays are performed face-up.
 
@@ -145,7 +145,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Shuffle/Reshuffle
 
-Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Stashes, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
+Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Caches, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
 
@@ -179,7 +179,7 @@ We've listed them here for quick convenient reference. These are all explained i
 **Actions**
 
 * **+BREAK!** = action that allows Coach to disrupt a Lesser Fusion
-* **+Burn** = action that forces as target to discard their current Stash
+* **+Burn** = action that forces as target to discard their current Cache
 * **+Chargeup** = action that allows a Pilot to accrue a Charge
 * **+Favor** = action that allows a Pilot to invest into a Faction
 * **+Fortify** = action that allows a Pilot to recover a spent Buffer token
@@ -214,7 +214,7 @@ The heinous **+BREAK!** trigger allows Coach to disrupt an active Lesser Fusion.
 
 **Valid Targets:** Pilots, Coach
 
-The **+Burn** trigger forces the target to discard their entire current Stash of cards.
+The **+Burn** trigger forces the target to discard their entire current Cache of cards.
 
 
 ### +Chargeup
@@ -386,7 +386,7 @@ In short, Coach issues the challenge for a Gambit. The pilot accepts by playing 
 
 Should the Pilot accept the challenge, Coach then flips a card from the Deck, laying it face-down on the table between himself and the Pilot. The value of this card will set the Threshold for the Gambit, but the Pilot does not know what it is before she plays.
 
-The Pilot must then either play-up a card of her choice from her own Stash (or a visible Faction), or instead flip one from the top of the Deck (if she's feeling lucky or doesn't want to waste her cards). Her goal is to equal or exceed the still-unknown Threshold that Coach's card created.
+The Pilot must then either play-up a card of her choice from her own Cache (or a visible Faction), or instead flip one from the top of the Deck (if she's feeling lucky or doesn't want to waste her cards). Her goal is to equal or exceed the still-unknown Threshold that Coach's card created.
 
 
 ## Outcome
@@ -599,9 +599,9 @@ When and where is this taking place? Is this a heated argument in the Debate Clu
 
 ## Step 3. Draw Bonus Cards
 
-Each side now draws additional bonus cards into their Stashes from the Deck. Start with the initiative Victor, draw up as directed, and then move to the left.
+Each side now draws additional bonus cards into their Caches from the Deck. Start with the initiative Victor, draw up as directed, and then move to the left.
 
-**Pilots:** *Draw* a number of bonus cards based on your **Commitment to the Team** stat, and add them directly to your Stash. Some Gear or character effects may directly alter your draw amount, as well.
+**Pilots:** *Draw* a number of bonus cards based on your **Commitment to the Team** stat, and add them directly to your Cache. Some Gear or character effects may directly alter your draw amount, as well.
 
 **Coach:** Draw one card for each Pilot opposing you, plus additional cards = the combined Threat Ratings of your present and involved opponents.
 
@@ -625,7 +625,7 @@ The actions in the subsections below are listed with which Type of action they a
 
 * **Assist:** Discard a card, and give either range or card bonus to an ally
 * **Beat-Back:** Play a same-ranked card as is on top, flipping both over and under
-* **Fold:** lay Stash face-down and concede
+* **Fold:** lay Cache face-down and concede
 * **LET'S RUMBLE!:** Combine Robos and fight a Big Giant Monster!
 * **Push:** play a higher card, narrate
 
@@ -633,7 +633,7 @@ The actions in the subsections below are listed with which Type of action they a
 
 * **Activate Gear:** Use a piece of Gear and draw a few extra cards
 * **FUSION!:** Activate or Dissolve a Lesser Fusion sequence with the other Pilots
-* **Invoke Faction:** Draw the top Favor card from a Faction into your Stash
+* **Invoke Faction:** Draw the top Favor card from a Faction into your Cache
 * **Recharge:** Discard a card in order to gain more Charges
 * **Sacrifice Gear:** Destroy a piece of Gear to activate its sacrifice effect
 * **Summon Robo:** bring in your personal Robo if it isn't already involved
@@ -644,7 +644,7 @@ The actions in the subsections below are listed with which Type of action they a
 
 > Depending on your Techs, Gear, or other resources, you may have other unique Main or Side actions available to you on your turn. When in question, the specific Action descriptions override normal action flow rules. Keep aware of your character's abilities to make sure you always know if these options are open to you on your turn.
 >
-> Some special actions require the discard of one or more cards from your Stash in order to activate. In these cases, the cards always go directly to the Trash, skipping the Play Pile entirely.
+> Some special actions require the discard of one or more cards from your Cache in order to activate. In these cases, the cards always go directly to the Trash, skipping the Play Pile entirely.
 
 
 ##### ("You May Not Pass" Sidebar)
@@ -661,11 +661,11 @@ On your turn, you *must* do one - and *only* one - Main Action.
 
 The **Assist** action is actually two actions, each with a very similar activation but different results: one lets you pass a card to an ally, while another lets you increase an ally's play Range.
 
-The **Card-Assist** action allows you to pass a card to the next ally in the Throwdown. To do this, you must first pick any single card (doesn't matter what) from your Stash and discard it (which means that it does *not* go into the pile). Then pick a *different* card from your Stash and pass it to the next ally in the current rotation. That ally then adds that card directly to their Stash.
+The **Card-Assist** action allows you to pass a card to the next ally in the Throwdown. To do this, you must first pick any single card (doesn't matter what) from your Cache and discard it (which means that it does *not* go into the pile). Then pick a *different* card from your Cache and pass it to the next ally in the current rotation. That ally then adds that card directly to their Cache.
 
-The **Strike-Assist** action allows you to boost your next ally's Strike Range. To do this, you must likewise first pick a card from your Stash and discard it. The next ally to take a turn receives a Strike Range modifier determined by your Team's current Harmony. Note that it rarely makes sense for a pilot "in the Red" to Strike-Assist, since they provide a negative modifier, but there may be some fringe cases where it can be desirable.
+The **Strike-Assist** action allows you to boost your next ally's Strike Range. To do this, you must likewise first pick a card from your Cache and discard it. The next ally to take a turn receives a Strike Range modifier determined by your Team's current Harmony. Note that it rarely makes sense for a pilot "in the Red" to Strike-Assist, since they provide a negative modifier, but there may be some fringe cases where it can be desirable.
 
-In both cases, it is definitely possible to chain your assists together! If you just received an Assist from your ally, you can then pass it on again to your *next* ally, should there be more of you in the Throwdown. Likewise, you must also discard a card from your Stash. If the Assist is card-based, you now pass *two* cards to your next ally - the one you were originally passed, plus another from your own Stash. If the Assist is Strike-based, then your own Assist score is added to the mix as well, and as such your next ally gets the combined bonuses! You can even combine Card and Strike Assists together in a big round-table combo chain.
+In both cases, it is definitely possible to chain your assists together! If you just received an Assist from your ally, you can then pass it on again to your *next* ally, should there be more of you in the Throwdown. Likewise, you must also discard a card from your Cache. If the Assist is card-based, you now pass *two* cards to your next ally - the one you were originally passed, plus another from your own Cache. If the Assist is Strike-based, then your own Assist score is added to the mix as well, and as such your next ally gets the combined bonuses! You can even combine Card and Strike Assists together in a big round-table combo chain.
 
 An assist-chain like this ends when the next recipient in the ongoing Chain does not use the Assist action on her turn.
 
@@ -681,11 +681,11 @@ Why Beat-Back at all? It keeps you in the action if it's all you can play, and i
 
 #### Fold (Main, Both)
 
-To **Fold** you take your currently-active Stash and place it on the table in front of you, face-down. This signifies that you are either out of options, or otherwise no longer wish to push the conflict. You are now out of the Throwdown, you can take no more Actions of any type, and you are no longer factored into the turn rotation. Note that if you're out of cards and have no other special actions available to you, you **must** Fold. A Throwdown doesn't end until _everyone_ has Folded.
+To **Fold** you take your currently-active Cache and place it on the table in front of you, face-down. This signifies that you are either out of options, or otherwise no longer wish to push the conflict. You are now out of the Throwdown, you can take no more Actions of any type, and you are no longer factored into the turn rotation. Note that if you're out of cards and have no other special actions available to you, you **must** Fold. A Throwdown doesn't end until _everyone_ has Folded.
 
 Choosing to Fold *does not* nullify any effects you may have activated from playing Side Actions on the same turn. This means that yes, on your final turn you can choose take as many Side Actions as you have at your disposal and then immediately Fold - that's not just allowed, it's *encouraged* as a valid strategy!
 
-**Do not Discard your Stash just yet!** Discards will be handled at the end.
+**Do not Discard your Cache just yet!** Discards will be handled at the end.
 
 
 #### LET'S RUMBLE! (Main, Both)
@@ -699,7 +699,7 @@ Any side of a Throwdown can initiate a Rumble, using the rules outlined in the e
 
 #### Push (Main, Both)
 
-The **Push** is the primary and most common action of a Throwdown. It's how immediate actions and agendas get advanced, and how valuable Pile cards build up to increase the final outcome. When you Push, you play a card face-up on top of the pile. You can play either from your own Stash, or instead from any available sources of external power (Factions for Pilots, and some Threats have extra cards that Coach can use). That card must *beat* the card currently on top, using the standard core card ranking rules of the game. Even if the last-played card is your ally's, you still *must* beat it, otherwise you can't Push.
+The **Push** is the primary and most common action of a Throwdown. It's how immediate actions and agendas get advanced, and how valuable Pile cards build up to increase the final outcome. When you Push, you play a card face-up on top of the pile. You can play either from your own Cache, or instead from any available sources of external power (Factions for Pilots, and some Threats have extra cards that Coach can use). That card must *beat* the card currently on top, using the standard core card ranking rules of the game. Even if the last-played card is your ally's, you still *must* beat it, otherwise you can't Push.
 
 When you Push, you must narrate how you are pushing the action. You *must* provide verbal statement of action, counter-action, or other such direct involvement in the moment that changes the course of the fight. This narration is up to you, and should involve your own direct action against your opponent. Use this opportunity to shout out your actions and describe cool new power attacks! Go wild!
 
@@ -718,7 +718,7 @@ Seriously, this is one of the main points in which you get to add all the awesom
 
 #### Activate Gear (Side, Both)
 
-You can **Activate** a piece of carried Gear as a side action. Doing so usually gives you that Gear's card draw bonus, letting you immediately draw that many cards into your Stash. Some Gear may have special alternate Activation effects, so check your Gearlist to be sure.
+You can **Activate** a piece of carried Gear as a side action. Doing so usually gives you that Gear's card draw bonus, letting you immediately draw that many cards into your Cache. Some Gear may have special alternate Activation effects, so check your Gearlist to be sure.
 
 Any single piece of Gear may only be activated once per Throwdown.
 
@@ -734,14 +734,14 @@ Fusion rules are detailed in significantly more depth on p. SQUARP.
 
 #### Invoke Faction (Side, Both)
 
-You declare how a single given in-play Faction is helping you, and then draw the face-up Favor card from that Faction into your Stash. If one is face-down beneath it afterward, flip it over to replace it on the Faction's stack. While normally you can just play cards directly from a Faction, this can be useful to bolster your hand for Discards, Assists, and other future actions.
+You declare how a single given in-play Faction is helping you, and then draw the face-up Favor card from that Faction into your Cache. If one is face-down beneath it afterward, flip it over to replace it on the Faction's stack. While normally you can just play cards directly from a Faction, this can be useful to bolster your hand for Discards, Assists, and other future actions.
 
 If Coach somehow has any Factions under his control, he can use this action as well on his turn.
 
 
 #### Recharge (Side, Pilots)
 
-This side action allows you to boost your current Charges by discarding from your Stash. When you declare this action, you must discard a single card from your currently-held Stash. This triggers +Chargeup, with the value of Charges gained determined by the Suit Value of the discarded card.
+This side action allows you to boost your current Charges by discarding from your Cache. When you declare this action, you must discard a single card from your currently-held Cache. This triggers +Chargeup, with the value of Charges gained determined by the Suit Value of the discarded card.
 
 
 #### Sacrifice Gear (Side, Both)
@@ -760,9 +760,9 @@ However the narrative method of Robo-summoning may be described, it is usually a
 
 #### Trigger Wave/Storm (Side, Coach)
 
-The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *three* Face cards.
+The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Cache. To Trigger a Storm, Coach must discard *three* Face cards.
 
-Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn. If is it Coach's turn and he has a Stash full of face cards but no feasible strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately ending the conflict by Folding.
+Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn. If is it Coach's turn and he has a Cache full of face cards but no feasible strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately ending the conflict by Folding.
 
 
 ## Step 5. Resolution and Conclusion
@@ -812,9 +812,9 @@ Then resolve all remaining +Triggers in respective Payloads as each side sees fi
 
 With the Payloads resolved, it's time to drop and draw.
 
-**Pilots** with more cards in their Stash than Max need to discard down to Max. Conversely, those with fewer cards than Max get to draw back up.
+**Pilots** with more cards in their Cache than Max need to discard down to Max. Conversely, those with fewer cards than Max get to draw back up.
 
-**Coach** immediately discards his entire Stash, and does not draw anything to replace it.
+**Coach** immediately discards his entire Cache, and does not draw anything to replace it.
 
 
 ### Finally, Narrate the Results

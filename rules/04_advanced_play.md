@@ -126,7 +126,7 @@ To gain power from a Faction, the Pilots must first narratively gain that Factio
 
 When a Pilot triggers +Favor, she takes a card and places it face-up on that Faction. She can use any card from:
 
-* Her current Stash
+* Her current Cache
 * Any other existing and invested Faction that is relevant to the situation (allowing her to shift externalized power among different Factions)
 * The topmost card of the Deck
 
@@ -252,7 +252,7 @@ Many Boons make use of the **+Tarry** mechanic, which allows Coach to push time 
 
 **Sacred Hot Springs:** By +Tarrying a turn at the Hot Springs, each present Pilot restores 1 spent Buffer.
 
-**TacOps Center:** If the group +Tarries here, they can each swap a single card from their Stash with others in the group.
+**TacOps Center:** If the group +Tarries here, they can each swap a single card from their Cache with others in the group.
 
 **Ultralopolis IV:** With all the buildings and human shields, it's easier to avoid getting hurt here. During any conflict here, each Pilot has +1 to their Max Buffer.
 
@@ -362,7 +362,7 @@ If all the requirements are met, it's time for FUSION!
 
 Once Fusion is initiated, the Fuzed Pilots join together as a special meta-player called the **Lesser Fusion**, with the following rules:
 
-* **Stash:** The Lesser Fusion's Stash is equal to the combined Stashes of all Fuzed Pilots.
+* **Cache:** The Lesser Fusion's Cache is equal to the combined Caches of all Fuzed Pilots.
 * **Charges:** The Lesser Fusion's Charge Pool is equal to the combined Charges of all Fuzed Pilots.
 * **Techs:** The Lesser Fusion has access to all the Techs possessed by the Fuzed Pilots.
 
@@ -374,10 +374,10 @@ Once Fusion is initiated, the Fuzed Pilots join together as a special meta-playe
 
 **Conclusion:** When a Fusion terminates, the following occurs:
 
-* **Stash:** Discard a number of additional cards equal to the number of Turns the Fusion existed. If there are any left in the combined Stash, divide them between the now un-Fuzed Pilots as you see fit.
+* **Cache:** Discard a number of additional cards equal to the number of Turns the Fusion existed. If there are any left in the combined Cache, divide them between the now un-Fuzed Pilots as you see fit.
 * **Charges:** Reduce the combined Charges by the same number. If there are Charges remaining, divide them similarly.
 * **Rotation:** All Pilots return to their initial spots in the rotation, and the turns continue as per normal rules. If the breakup occurred during the Fusion's own turn as a Side Action, it reverts to being that active Pilot's turn.
-* **Harmony Burn:** If the Fusion ends with zero cards in the final Stash *and* zero Charges in the final Pool *after* the discards above, then it is a particularly nasty breakup, and Team Harmony immediately drops by 1! This damage is immediate, direct, and unblockable.
+* **Harmony Burn:** If the Fusion ends with zero cards in the final Cache *and* zero Charges in the final Pool *after* the discards above, then it is a particularly nasty breakup, and Team Harmony immediately drops by 1! This damage is immediate, direct, and unblockable.
 
 **Disruption:** A Fusion can be preemptively broken by a +BREAK! Wave or Storm actions. If this happens, the dissolution of the Fusion is immediate, and follows the rules above.
 
@@ -390,7 +390,7 @@ Once Fusion is initiated, the Fuzed Pilots join together as a special meta-playe
 
 **Maximize your Harmonic synergy:**
 
-**Get Kings out on the table:** After a Fusion ends, you will all likely have near-empty personal Stashes, if any cards at all. If the Throwdown keeps raging onward, this could be disastrous. Plan ahead and invest Kings into your Factions, so you can use them to get more cards mid-battle if you need to fight on.
+**Get Kings out on the table:** After a Fusion ends, you will all likely have near-empty personal Caches, if any cards at all. If the Throwdown keeps raging onward, this could be disastrous. Plan ahead and invest Kings into your Factions, so you can use them to get more cards mid-battle if you need to fight on.
 
 **Watch out for the burn:**
 
@@ -424,35 +424,35 @@ The Final Form ultimately consists of a set of **Positions** that the Pilots tak
 
 For tangible play at the table, we recommend using a set of index cards to represent the Positions, with each Pilot's player actually taking that index card into their play region when they assume that position during the union process.
 
-Each Position's special action can be used once per Round of the Rumble, on the turn of the Pilot in that Position, instead of playing a card into one of the Combo Zones. When you use a Rumble action, you must discard a card from your Stash. Most actions have a variable effect based on the current Robo Rank of the Pilot using the action. This variable is represented by "X" in the action descriptions below.
+Each Position's special action can be used once per Round of the Rumble, on the turn of the Pilot in that Position, instead of playing a card into one of the Combo Zones. When you use a Rumble action, you must discard a card from your Cache. Most actions have a variable effect based on the current Robo Rank of the Pilot using the action. This variable is represented by "X" in the action descriptions below.
 
 
 #### Strategy ("The Head")
 
 * **Suggested Forms:** Head, Brains, Eyes
 
-**Action: "On My Mark!:"** Each other Pilot in the Final Form may choose to pass you up to X cards from their Stashes. You may then choose to keep any of those passed to you, and then pass each of them up to X cards back. The amount they passed you and the amount you pass back do not need to be the same.
+**Action: "On My Mark!:"** Each other Pilot in the Final Form may choose to pass you up to X cards from their Caches. You may then choose to keep any of those passed to you, and then pass each of them up to X cards back. The amount they passed you and the amount you pass back do not need to be the same.
 
 
 #### Offense ("Right Arm")
 
 * **Suggested Forms:** Right Arm, Chest Laser, Blazing Sword
 
-**Action: "(INSERT ATTACK NAME):"** Each time you use this, you must shout out a new attack name. You cannot use the same attack name twice in the same Rumble, but you can recycle them across multiple Rumbles and sessions. You can then force a random discard of up to X cards from Coach's Stash. This cannot force Coach to discard the final card in his Stash.
+**Action: "(INSERT ATTACK NAME):"** Each time you use this, you must shout out a new attack name. You cannot use the same attack name twice in the same Rumble, but you can recycle them across multiple Rumbles and sessions. You can then force a random discard of up to X cards from Coach's Cache. This cannot force Coach to discard the final card in his Cache.
 
 
 #### Defense ("Left Arm")
 
 * **Suggested Forms:** Left Arm, Shell, Power Shield
 
-**Action: "(INSERT MANEUVER NAME):"** Each time you use this, you must shout out a new defensive maneuver name. You cannot use the same maneuver name twice in the same Rumble, but you can recycle them across multiple Rumbles and sessions. *Instead* of discarding a card, play a card (same or different) face-down in front of an already-played BGM card. When the cards are revealed at the end of the Round, if your card Beats theirs, immediately discard both (it does not score) and then draw X cards into your Stash.
+**Action: "(INSERT MANEUVER NAME):"** Each time you use this, you must shout out a new defensive maneuver name. You cannot use the same maneuver name twice in the same Rumble, but you can recycle them across multiple Rumbles and sessions. *Instead* of discarding a card, play a card (same or different) face-down in front of an already-played BGM card. When the cards are revealed at the end of the Round, if your card Beats theirs, immediately discard both (it does not score) and then draw X cards into your Cache.
 
 
 #### Perseverance ("Heart")
 
 * **Suggested Forms:** Heart, Spine
 
-**Action: "Rejuvenation!:"** Each *other* Pilot in the Final Form draws X more cards into their Stash.
+**Action: "Rejuvenation!:"** Each *other* Pilot in the Final Form draws X more cards into their Cache.
 
 
 #### Mobility
@@ -467,9 +467,9 @@ Each Position's special action can be used once per Round of the Rumble, on the 
 #### UNSORTED TECH IDEAS:
 
 * Sacrifice a play in order to increase possible Score Multiplier
-* Look at X cards in any Stash, on the table, or in any Faction
+* Look at X cards in any Cache, on the table, or in any Faction
 * flip up to X played cards for all to see
-* Force opponent to reveal and take back a played card, and replace it with a different one from their Stash?
+* Force opponent to reveal and take back a played card, and replace it with a different one from their Cache?
 
 
 
@@ -537,7 +537,7 @@ To activate within a Throwdown:
 
 **Coach:** Once the appropriate escalation stage is reached, Coach can initiate at any time during a Throwdown involving a Threat that has the BGM Power. This also uses the "Let's Rumble!" main action.
 
-**In either case**, once the Rumble has been initiated, the Throwdown is officially over. Immediately resolve it with the highest card on the Pile determining the victor as usual. Then discard the play pile, but ***leave existing Stashes as they are!*** Now begin Step 2.
+**In either case**, once the Rumble has been initiated, the Throwdown is officially over. Immediately resolve it with the highest card on the Pile determining the victor as usual. Then discard the play pile, but ***leave existing Caches as they are!*** Now begin Step 2.
 
 
 #### From Outside a Throwdown
@@ -562,7 +562,7 @@ For some, this may be the most exciting part of the game: the team finally gets 
 
 To form the mega bot, each Pilot in the union claims one of the available Positions of the Final Form. In larger groups, there may be more Pilots involved than available Positions, but that's fine: once all the core positions are claimed, remaining pilots can "double up" in a claimed Position, effectively claiming it a second time (and also making that Tech available for two uses in a Round!). However, doubling up is not allowed if there are still core positions remaining unclaimed.
 
-When you claim a Position, if there are any Power tokens on that Position, you immediately draw one more card into your Stash for each token.
+When you claim a Position, if there are any Power tokens on that Position, you immediately draw one more card into your Cache for each token.
 
 Then, each Pilot in the union contributes to the description of the combination! This can be quite a vivid and spectacular event, so the players are encouraged to go wild, especially on their first union (and Coach, this is a special Pilot moment, so don't butt in unless they need assistance with imaginative ideas or prodding). For best dramatic impact, we advise starting with the "lower" Positions (legs, tail, etc) and working up until you bring in the uppermost Position (usually the Head) last - "...and I'll form the HEAD!" is a classic trope of the genre.
 
@@ -592,7 +592,7 @@ First, you Draw-Up:
 
 **Draw-Up (Pilots):** At the start of Round 1 Only, the Pilots each draw additional cards equal to their current personal Robo Ranks. Pilots do not need to discard anything at the start. Pilots do not automatically draw more cards on each subsequent round, and instead must rely on their Positions' Rumble Techs in order to gain more power.
 
-**Draw-Up (Coach):** At the start of *each* Round, Coach Draws up to a total Stash equal to the current Escalation Stage rank (plus any other bonuses he may have from specific Threat Techs). If Coach somehow already has more than that in his Stash, he needs to *randomly* discard down to the max size.
+**Draw-Up (Coach):** At the start of *each* Round, Coach Draws up to a total Cache equal to the current Escalation Stage rank (plus any other bonuses he may have from specific Threat Techs). If Coach somehow already has more than that in his Cache, he needs to *randomly* discard down to the max size.
 
 **Order of Play:** After the initial draw, the first turn goes to the side that initiated Rumble Mode. When you bring it, you act first.
 
@@ -600,9 +600,9 @@ Initiator takes a turn, then the opponent, back and forth until each side has ta
 
 **What You Can Do:** On your Side's turn, you can *either* play a card face-down in one of your side's five Combo Zones, *or* you can instead activate your special Position/BGM Tech.
 
-**To play a card** in a Combo Zone, take a card from your Stash (or a Faction) and place it face-down in an empty one of the five zones for your side of the battle. Give everyone a description of your Robo or BGM making an advance, attack, or some other suitably awesome maneuver. This card will be revealed at the end of the round, and count toward your score combo.
+**To play a card** in a Combo Zone, take a card from your Cache (or a Faction) and place it face-down in an empty one of the five zones for your side of the battle. Give everyone a description of your Robo or BGM making an advance, attack, or some other suitably awesome maneuver. This card will be revealed at the end of the round, and count toward your score combo.
 
-**To Use a Tech,** Play a card from your Stash (or a Faction) *face-up and sideways* on an empty Zone on your side. This activates your Rumble Tech and empowers it with the card: the better the card you play, the more effective the Tech (see Tech descriptions, earlier). Apply the effects immediately. Remember: using a Tech is done *instead* of playing a card, and that directly limits the number of cards your side can play, so do so wisely!
+**To Use a Tech,** Play a card from your Cache (or a Faction) *face-up and sideways* on an empty Zone on your side. This activates your Rumble Tech and empowers it with the card: the better the card you play, the more effective the Tech (see Tech descriptions, earlier). Apply the effects immediately. Remember: using a Tech is done *instead* of playing a card, and that directly limits the number of cards your side can play, so do so wisely!
 
 Each Rumble Tech can only be used once per side, unless your side has it otherwise duplicated (such as doubled-up Pilots, of BGMs with multi-use Techs).
 
@@ -613,11 +613,11 @@ Whoever has the highest score "Wins" the Round. If there's a tie (unlikely), dra
 
 ##### (SIDEBAR: Building Combos)
 
-Okay, so your real ultimate goal in each Round is to build the best damn hand of up to five cards that you can, using the cards available to your team. While Coach is limited to ONLY the cards in his Stash, he's got a lot of them, and he redraws every turn. Meanwhile, your team must use all the cards they have between them, and they don't get the same redraw options as Coach. In fact, the only draw-ups you get are at the start of the first Round, and through the applied use of the Heart's Position Tech.
+Okay, so your real ultimate goal in each Round is to build the best damn hand of up to five cards that you can, using the cards available to your team. While Coach is limited to ONLY the cards in his Cache, he's got a lot of them, and he redraws every turn. Meanwhile, your team must use all the cards they have between them, and they don't get the same redraw options as Coach. In fact, the only draw-ups you get are at the start of the first Round, and through the applied use of the Heart's Position Tech.
 
-Adding to that, you aren't allowed to actively discuss your Stashes, either! On the plus side, by the time you've come to this point, you probably have a lot of good cards out in those Factions, and a few other tricks up your sleeves.
+Adding to that, you aren't allowed to actively discuss your Caches, either! On the plus side, by the time you've come to this point, you probably have a lot of good cards out in those Factions, and a few other tricks up your sleeves.
 
-A solid strategy is to make strategic use of both the Heart's draw-up Tech and the Head's pass-over Tech to buff up the "leader's" Stash with good combo cards. Then let the Leader handle the actual Combo plays, unless your team has such a good real-world synergy that you can pull off good combos together with minimal communication.
+A solid strategy is to make strategic use of both the Heart's draw-up Tech and the Head's pass-over Tech to buff up the "leader's" Cache with good combo cards. Then let the Leader handle the actual Combo plays, unless your team has such a good real-world synergy that you can pull off good combos together with minimal communication.
 
 The Combos you play directly multiply your end-of-Round score, so play well!
 
@@ -640,7 +640,7 @@ The combos are not in the same Poker order, this is intentional. Remember, you a
 
 As Round 1, but:
 
-**Draw-Up (Coach only):** Coach draws back up to full Stash (Escalation + Other) at the top, but the Pilots do *not*.
+**Draw-Up (Coach only):** Coach draws back up to full Cache (Escalation + Other) at the top, but the Pilots do *not*.
 
 **First Play:** Whoever scored highest in the previous Round gets to choose if they want to play first, or instead force their opponent to play first.
 
@@ -651,7 +651,7 @@ As Round 1, but:
 
 As Round 2, but:
 
-**Draw-Up (Coach only):** Coach draws back up to full Stash (Escalation + Other) at the top, but the Pilots do *not*.
+**Draw-Up (Coach only):** Coach draws back up to full Cache (Escalation + Other) at the top, but the Pilots do *not*.
 
 **Combo Scores:** Combos scored at the end of Round 3 are worth TRIPLE (x3).
 
@@ -667,9 +667,9 @@ At the end of Round three: Whoever has the highest score across all three Rounds
 
 **Combo Zones:** Discard all cards in and around the Zones.
 
-**Pilots:** Draw up / Discard down to max Stash.
+**Pilots:** Draw up / Discard down to max Cache.
 
-**Coach:** Discard entire remaining Stash.
+**Coach:** Discard entire remaining Cache.
 
 
 #### Scenario Final Score Modifications

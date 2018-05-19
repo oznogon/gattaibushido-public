@@ -451,7 +451,7 @@ The Names are simple enough. Your group should come up with a team name during t
 The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. Your Team's position on the Harmony scale determines the following:
 
 * **Assist:** The Strike Range bonus you bestow when you Strike-Assist an ally in combat
-* **Cards:** The number of bonus or penalty cards applied to the Merged Stash when two or more Pilots Fuze
+* **Cards:** The number of bonus or penalty cards applied to the Merged Cache when two or more Pilots Fuze
 * **Special:** Special circumstances that apply to merging Pilots at that Harmony level.
 
 **Harmony Table:**
