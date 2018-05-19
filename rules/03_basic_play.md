@@ -19,7 +19,6 @@ During the course of play, the cards will cycle between the following places in 
 * the **Trash** (where they are discarded, face-up); Trash is next to the main Deck.
 * your **Stash** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
-* the **Phantom Stack** (whose top-most card determines the play value of all Pilot-played Face cards);
 * the Robo Rumble **Combo Zones** (5 on each side; where the cards are played during the three rounds of Rumbles)
 * certainly not your **Sleeve**, because that's cheating...
 * and occasionally the **Floor**, where we all inevitably drop them from time to time!
@@ -52,19 +51,6 @@ Coach *does not* maintain an active Stash of cards between conflicts. He only dr
 ### Trash
 
 The Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card that came from the Deck is discarded during play, it goes on top of the Trash heap, face-up.
-
-
-### Phantom Stack
-
-At the beginning of each new session, Coach randomly flips a number card (2-10) and leaves it face-up in the middle for the rest of that session, starting the **Phantom Stack**. Additionally, each time the deck is reshuffled during the session a new Phantom card is revealed and placed face-up on top of the previous one. The topmost card is frequently called "the" Phantom Card.
-
-For the duration of a game session, the Pilots can play each Face card as if it has the same numerical value of the Phantom Card (keeping the Face's own suit). Over a long session with multiple reshuffles, this stack can grow to several cards, but only the top-most card is used by the players. This stack _is not_ reshuffled back into the Deck until the session is concluded and the game's materials are being put away.
-
-Note that the cards in the Phantom Stack are immune to any and all effects of card manipulation that do not *very specifically* state that they affect the Phantom cards. Some characters may have special Phantom powers, but these are intentionally few and far between, and always very specific.
-
-**Coach:** Your Threats *do not* use the Phantom Card(s). Instead, you have access to special Threat-only Face Card powers.
-
-See the session setup process for more setup information (p. SQUARP).
 
 
 ### Combo Zone
@@ -104,9 +90,7 @@ Also, note that Twos are considered somewhat important in that by default they a
 
 ### Face Cards
 
-Face cards (Jacks, Queens, and Kings) are unique in two ways. First, they have a fluctuating value that changes every time you play. Whenever a Pilot plays a Face Card (such as in Gambits, or when Pushing in Throwdowns), it is considered to have the numerical value of **the Phantom Card** (keeping its own suit).
-
-Additionally, Face cards have unique alternate functions in Throwdowns that can greatly change the flow of action during those conflicts. Each Face can be discarded as a "Side Action" for the effect below.
+Face cards have unique alternate functions in Throwdowns that can greatly change the flow of action during those conflicts. Each Face can be discarded as a "Side Action" for the effect below.
 
 **Jacks:** Jacks play dirty and skip ahead in lines. When discarded as a Side action, the next player in the flow order is skipped. This _can_ further extend the buildup of an Assist Chain!
 
@@ -173,9 +157,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Shuffle/Reshuffle
 
-Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Stashes, Factions, Omens, Phantoms, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
-
-Every time Coach reshuffles the Deck, he must also reveal a new Phantom card and place it on top of the Phantom Stack.
+Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Stashes, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
 
@@ -796,7 +778,7 @@ As a side action you can Discard face cards to trigger their alternate effects. 
 
 #### Trigger Wave/Storm (Side, Coach)
 
-The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. Coach's Threats get access to this action *instead of* the ability to use the Phantom Card. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *four* Face cards.
+The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Stash. To Trigger a Storm, Coach must discard *four* Face cards.
 
 Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn. If is it Coach's turn and he has a Stash full of face cards but no feasible strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately ending the conflict by Folding.
 

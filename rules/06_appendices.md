@@ -101,8 +101,6 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Harmony:** a seven-point scale representing the strength of your team's spirit  
 **Locations:** a place in the game where events happen, with mechanics that modify those events  
 **Omens:** when a Joker reaches the top of the Deck, it becomes an Omen under Coach's control, and can trigger Escalation events.  
-**Phantom Card:** the card that determines the changing value of the Pilot's Face cards each session  
-**Phantom Stack:** a stack of Phantom cards accumulated over a longer session  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
 **Play:** the act of taking a card from your Stash and introducing it to the table, activating one or more mechanics  

@@ -231,9 +231,7 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 
 #### Deal Starting Stashes and Finalize the Deck
 
-Coach next flips cards from the top of the Deck until a number card (2-10) is revealed. This initial **Phantom** card is set aside, front and center, to represent the assumed value of all Pilot-played Face cards for this session. Put any other flipped cards at the bottom of the Deck.
-
-Then he deals out the Pilots' starting Stashes of cards, which defaults to three (3) cards unless special abilities modify it.
+Coach deals out the Pilots' starting Stashes of cards, which defaults to three (3) cards unless special abilities modify it.
 
 After this is done, he shuffles the Jokers back into the Deck, face-up. The Deck is now prepared for play.
 
