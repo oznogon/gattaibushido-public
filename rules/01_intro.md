@@ -166,7 +166,7 @@ The "Face" cards - Jacks, Queens, and Kings - are treated as number cards with v
 
 #### Aces
 
-Aces are super special dual-purpose cards valued at either 11 (the "**Empowered**" state) or 1 (the "**Diminished**" state). By default an Ace beats every number card, but then Twos beat Aces and start the cycle of card play from the bottom all over again!
+Aces are super special ultra-powerful cards with a value of 14 - the highest-value card in the game! While this sounds awesome, they also have one eensy weensy little weakness: Twos. Twos *always* beat Aces, and Aces can never be played against Twos!
 
 
 #### Jokers

@@ -95,13 +95,9 @@ Jacks, Queens, and Kings are typically played as number cards with values of 11,
 
 ### Aces
 
-Ace cards have a special dual numerical nature, existing in one of two forms. When "Empowered" they have a functional value of 11, but when "Diminished" they have a functional value of 1.
+Aces are the highest-ranked card in the Deck, with a functional value of 14 in almost all cases.
 
-Numerically, Aces beat any number card played *before* them in Throwdowns, as if they had an "Empowered" value of Eleven (11). In Gambits, they similarly have an effective value of 11. This makes them the highest-ranked card in Throwdown Initiatives and Plays.
-
-However, when *followed* specifically by a Two (2) card, Aces are considered "Diminished" and have a value of One (1). So an Ace beats any card of ranks Two through Ten that comes before it in a Throwdown, but a Two played after an Ace beats it, starting the whole chain from the bottom again. This *only* applies to Twos that immediately follow the Ace in the Pile, and not to Threes or any higher card.
-
-When a player uses any other game mechanic to randomly generate a number from a Card, an Ace is by default considered Diminished, providing a value of 1, unless another effect somehow Empowers it (giving it a value of 11).
+However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile. In other words, Aces gave *no value* against Twos.
 
 
 ### Jokers
@@ -838,7 +834,7 @@ With the Payloads resolved, it's time to drop and draw.
 
 Use your Aces wisely! They are valuable as trumping cards when Pushing, but they are also useful for activating your Pilots' special Techs. Don't play them unless you have to.
 
-Also remember that Twos are the lowest, and Tens are the highest, but Aces then beat Tens, and conversely Twos beat Aces. Hold onto those Twos and Aces until the right moment, as they can be quite valuable!
+Also remember that while Twos are the lowest, and Aces are the highest, but those pesky Twos always beat Aces. Hold onto those Twos and Aces until the right moment, as they can be quite valuable!
 
 
 ### PVP Throwdowns
