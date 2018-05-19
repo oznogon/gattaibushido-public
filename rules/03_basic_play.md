@@ -393,7 +393,7 @@ The Pilot must then either play-up a card of her choice from her own Stash (or a
 
 Once the Pilot makes her play, Coach reveals the Threshold card. Compare the Pilot's Play to the Threshold, with final results as follows:
 
-If **the Pilot's card is *higher*,** then the player achieves a **"Yes, and..."** result. The Pilot succeeds at the intended task, and gets to narrate some additional boon as well!
+If **the Pilot's card value is *higher*,** then the player achieves a **"Yes, and..."** result. The Pilot succeeds at the intended task, and gets to narrate some additional boon as well!
 
 **In any other outcome,** the Pilot gets to choose one of the following three options:
 
