@@ -72,7 +72,7 @@ When the Pilots combine to fight a Big Giant Monster, both sides have five play 
 If you're not used to playing cards, the terms "face" and "facing" and "face cards" can be a bit confusing. Hopefully the following can make some of that easier:
 
 * Every card has a Face and a Back. The Face shows the rank and suit of the card, while the Back shows the standard card backing pattern for that deck.
-* Some cards have *literal* faces on their faces, denoting them as Jacks, Queens, and Kings. While every card in the deck has a face, these cards are *specifically* called Face Cards.
+* Some cards have *literal* faces on their faces, denoting them as Jacks, Queens, and Kings. While every card in the deck has a face, these cards are *specifically* called Face Cards. They have number values of 11, 12, and 13, respectively.
 * Finally, the term "facing" is used to denote the directional positioning of the card in play. For example, if a card is laying on the table with it's "face" side directed downward, then it is noted as "facing" down, or simply "face-down."
 
 
@@ -90,15 +90,7 @@ Also, note that Twos are considered somewhat important in that by default they a
 
 ### Face Cards
 
-Face cards have unique alternate functions in Throwdowns that can greatly change the flow of action during those conflicts. Each Face can be discarded as a "Side Action" for the effect below.
-
-**Jacks:** Jacks play dirty and skip ahead in lines. When discarded as a Side action, the next player in the flow order is skipped. This _can_ further extend the buildup of an Assist Chain!
-
-**Queens:** Queens change the nature of the game when they enter the playing field. When discarded as a Side action, the round-table flow of the conflict is immediately *reversed!* If play was moving to the left (starting default), it now moves to the right, and vice-versa. When your turn is complete, the next player is determined by the new direction of flow. The reversed flow lasts until the conflict ends (or another Queen is used on a later action), and it *can* further extend the buildup of an Assist Chain!
-
-**Kings:** Kings gather power, fortifying their realms. When discarded as a Side action, immediately draw a number of cards into your Stash based on King's Suit Value (Spades = 4, Hearts = 3, Diamonds = 2, and Clubs = 1).
-
-When used for these Side Actions, Face cards are sent directly to the Trash, skipping the Play Pile entirely.
+Jacks, Queens, and Kings are typically played as number cards with values of 11, 12, and 13, respectively. They are also sometimes used in special Techs and other situations, making them a bit more valuable in the common play.
 
 
 ### Aces
@@ -649,7 +641,6 @@ The actions in the subsections below are listed with which Type of action they a
 * **Recharge:** Discard a card in order to gain more Charges
 * **Sacrifice Gear:** Destroy a piece of Gear to activate its sacrifice effect
 * **Summon Robo:** bring in your personal Robo if it isn't already involved
-* **Trigger Face Effects:** Discard a Face card to activate its special effect
 * **Trigger Wave/Storm:** Coach activates a Wave or Storm of an involved Threat
 
 
@@ -769,11 +760,6 @@ You cannot both Activate and then Sacrifice the same piece of Gear in the same T
 If your Robo isn't currently involved in the Throwdown, and the situation makes enough narrative sense that it *could* be, you can use the **Summon Robo** Side action to call it into play. This results in a really short dramatic description of how your Robo enters the scene, and is largely based on the way your group has flavored that aspect of your World.
 
 However the narrative method of Robo-summoning may be described, it is usually accompanied by an additional mechanical effect as described in your Playbook.
-
-
-#### Trigger Face Effects (Side, Both)
-
-As a side action you can Discard face cards to trigger their alternate effects. Discarding a King lets you immediately Draw additional cards into your Stash based on the King's Suit Value, Discarding a Queen reverses the flow of action henceforth (until either the next Queen is Discarded as a Side Action, or the conflict ends), and Discarding a Jack skips the next Player in the rotation.
 
 
 #### Trigger Wave/Storm (Side, Coach)
