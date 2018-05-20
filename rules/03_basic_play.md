@@ -41,11 +41,14 @@ During Throwdowns, a **Pile** of cards temporarily exists in the middle of the t
 
 ### Cache
 
-Your **Cache** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Cache, which frequently refreshes throughout a session. Only Pilots actively maintain their card Caches between conflicts.
+Your **Cache** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Cache. The Cache is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
 
-Your Max Cache allowance is set at a base of three (3) cards, but this can be modified by certain techs and gear. If a Pilot ever holds more cards than their Max at the end of a conflict, they must discard down to Max. Likewise, if they ever hold less than their Max at the end of a conflict, they must draw back up to Max.
+All players have a Minimum Cache as follows:
 
-Coach *does not* maintain an active Cache of cards between conflicts. He only draws a temporary Cache at the beginning of Throwdowns and Rumbles, and he discards/invests any remaining cards when those are completed. Outside of those conflicts, Coach's plays are always "blind."
+* **Pilots:** Your Minimum Cache starts at Two (2) cards, and only a handful of game effects will increase that minimum.
+* **Coach:** Your Minimum Cache is set at the number of Pilots participating in the session.
+
+While you may frequently have more cards in your ever-fluctuating Cache, if you ever hold *fewer* than your Minimum at any time outside of an active conflict, you can choose to immediately draw up to your Minimum.
 
 
 ### Trash
@@ -135,7 +138,7 @@ When the rules tell you to **play** a card, you take a card from your Cache and 
 
 Sometimes you may see the sub-terms **Play-up** and **Play-down** in the test. These mean "play a card face up" and "play a card face down," respectively. Similarly, if the rules say that you "play down" or "play up" a card, those signify the orientation of the to-be-played card. But to repeat: unless otherwise stated, *all* Plays are performed face-up.
 
-If the rules call for a "**blind**" play, you must play that card directly from the top of the Deck. Pull the card and immediately play it. Remember: outside of active Throwdowns, all of Coach's plays are blind.
+If the rules call for a "**blind**" play, you must play that card directly from the top of the Deck. Pull the card and immediately play it.
 
 
 ### Remove
@@ -384,7 +387,7 @@ In short, Coach issues the challenge for a Gambit. The pilot accepts by playing 
 
 ## Play
 
-Should the Pilot accept the challenge, Coach then flips a card from the Deck, laying it face-down on the table between himself and the Pilot. The value of this card will set the Threshold for the Gambit, but the Pilot does not know what it is before she plays.
+Should the Pilot accept the challenge, Coach then plays a card face-down to the table. This card can be from his own Cache, or can instead be played blind from the top of the Deck. The value of this **Threshold Card** will set the Threshold for the Gambit, but the Pilot does not know what it is before she plays.
 
 The Pilot must then either play-up a card of her choice from her own Cache (or a visible Faction), or instead flip one from the top of the Deck (if she's feeling lucky or doesn't want to waste her cards). Her goal is to equal or exceed the still-unknown Threshold that Coach's card created.
 
@@ -498,7 +501,7 @@ If your card's difference is *within* your Strike Range, your Push carries true,
 
 In this manner, playing high can most likely achieve your objectives sooner, but playing *too* high can hurt your Harmony. The strategy lies in playing the right card at the right time.
 
-**Coach:** Your Threats have their own rules for Strike Range. Your Threats' base Strike Ranges are set by their *combined* Threat Ratings. Unlike the Pilots, your Threats are hard-bound to their Strike Ranges, and cannot exceed them unless they have special Powers allowing such action. Since your Initiative is Blind, you ignore Strike Range when Challenging or Accepting. See Threats, p. SQUARP.
+**Coach:** Your Threats have their own rules for Strike Range. Your Threats' base Strike Ranges are set by their *combined* Threat Ratings. Unlike the Pilots, your Threats are hard-bound to their Strike Ranges, and cannot exceed them unless they have special Powers allowing such action. See Threats, p. SQUARP.
 
 **BLAH INCLUDE EXAMPLE TEXT OF STRIKE RANGE**
 
@@ -574,16 +577,14 @@ If your card is on top, then you are the winning Challenger and also the current
 
 **Pilots:** If you're on top, compare the value of your winning card to the one beneath it. If the difference is within your Strike Range, you're all set. If it's outside your Range, your play still holds true but you inadvertently damaged the team spirit, adding +Strife to your incoming Payload.
 
-**Coach:** Since Coach plays Initiative Blind, If his card is on top, do not check for Strike Range.
+**Coach:** If his card is on top, do not check for Strike Range.
 
 **PLAYTEST:** I'm considering changing this so that there's a chance Coach's threats take damage from this. Might be too complicated though.
 
 
 ### Initiative Card Strategy
 
-**Pilots:** The base strategy when choosing your initiative card is hoping yours will beat all the others, *and* that the next-highest card will be just within your character's Strike Range. Pilots working together may find it useful to try and play lower cards to give the "leader" of the fight a better chance of padding out their Strike Range. Contrarily, either side may choose to "fake out" their opponent and play as low a card as possible, with the hopes that their opponent played high and will thus suffer from playing outside Range. Remember that Coach's initiative is totally random, so it can be harder to plan against.
-
-**Coach:** Since your Initiative is always Blind, you have no strategy to consider here, unless your specific Threats denote otherwise.
+The base strategy when choosing your initiative card is hoping yours will beat all the others, *and* that the next-highest card will be just within your character's Strike Range. Pilots working together may find it useful to try and play lower cards to give the "leader" of the fight a better chance of padding out their Strike Range. Contrarily, either side may choose to "fake out" their opponent and play as low a card as possible, with the hopes that their opponent played high and will thus suffer from playing outside Range.
 
 
 ## Step 2. Establish the Scope

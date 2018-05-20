@@ -231,7 +231,7 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 
 #### Deal Starting Caches and Finalize the Deck
 
-Coach deals out the Pilots' starting Caches of cards, which defaults to three (3) cards unless special abilities modify it.
+Coach deals out the Pilots' starting Caches of cards, which defaults to two (2) cards unless special abilities modify it. Coach also deals himself a starting Cache equal to the number of Pilot Players present in the game session.
 
 After this is done, he shuffles the Jokers back into the Deck, face-up. The Deck is now prepared for play.
 

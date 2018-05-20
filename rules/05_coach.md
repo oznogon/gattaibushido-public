@@ -73,9 +73,7 @@ Similarly, you can use this same method to build up the feeling of danger in a p
 
 Coach plays the game very differently than the Pilots. Below are the major mechanical process changes that apply to your role in ***Gattaibushido:FUSION!***
 
-**Coach's Cache:** Coach doesn't carry a Cache of cards between conflicts. You will only hold a Cache during the turns of an active Throwdown. When the Throwdown concludes, you must Discard any remaining cards in your Cache.
-
-**Gambit and Throwdown Initiation is Blind:** Unlike the Pilots, you *always* initiate and accept your Gambits and Throwdown challenges from the top of the Deck. This is quite intentional, to maintain "fair unpredictability" in the challenge mechanic. The intent of the conflict mechanics is not for Coach to beat up on the pilots, but instead for the pilots to rise up to a challenge, no matter how unpredictable that challenge may be. Once you have drawn your actual Cache, you have more freedom in bringing the pain.
+**Coach's Cache:** Coach's Minimum Cache is set equal to the number of Pilot Players in the current game session.
 
 **Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Cache in order to activate these options (one Face for Waves, three Faces for Storms).
 
