@@ -251,12 +251,12 @@ Your Pilot's Commitments determine the basis for most all of the character mecha
 
 ### Commitment to the Team (Bonus Draws)
 
-**Stat Mechanic:** Determines bonus card *Draws* during conflicts.  
+**Stat Mechanic:** Determines your *Assist Bonus* during conflicts.  
 **Tied To:** Team Color
 
-Your rank in this stat determines how many bonus cards you draw at the beginning of a Throwdown.
+Your rank in this stat determines the strength of your Assists during conflicts.
 
-Pilots with a high commitment to their Team are more heavily driven by the Team’s goals, and work harder to put the Team first. By drawing strength from the spirit of the Team, they greatly expand their true potential in battle!
+Pilots with a high commitment to their Team are more heavily driven by the Team’s goals, and work harder to put the Team first. By working hard to help our their fellow teammates, they can achieve greatness together!
 
 
 ### Commitment to the Fight (Strike Range)
@@ -450,21 +450,20 @@ The Names are simple enough. Your group should come up with a team name during t
 
 The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. Your Team's position on the Harmony scale determines the following:
 
-* **Assist:** The Strike Range bonus you bestow when you Strike-Assist an ally in combat
 * **Cards:** The number of bonus or penalty cards applied to the Merged Cache when two or more Pilots Fuze
 * **Special:** Special circumstances that apply to merging Pilots at that Harmony level.
 
 **Harmony Table:**
 
-| Harmony    | Assist | Cards     | Special               |
-|------------|--------|-----------|-----------------------|
-| 7 (Violet) | 5      | Draw 3    | All Gain 1 Charge     |
-| 6 (Indigo) | 4      | Draw 2    | -                     |
-| 5 (Blue)   | 3      | Draw 1    | -                     |
-| 4 (Green)  | 2      | -         | -                     |
-| 3 (Yellow) | 1      | Discard 1 | -                     |
-| 2 (Orange) | 0      | Discard 2 | -                     |
-| 1 (Red)    | -1     | Nil       | Can't Fuze at all!    |
+| Harmony    | Cards     | Special               |
+|------------|-----------|-----------------------|
+| 7 (Violet) | Draw 3    | All Gain 1 Charge     |
+| 6 (Indigo) | Draw 2    | -                     |
+| 5 (Blue)   | Draw 1    | -                     |
+| 4 (Green)  | -         | -                     |
+| 3 (Yellow) | Discard 1 | -                     |
+| 2 (Orange) | Discard 2 | -                     |
+| 1 (Red)    | Nil       | Can't Fuze at all!    |
 
 
 ### Lowering Harmony

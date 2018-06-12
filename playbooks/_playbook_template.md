@@ -240,7 +240,7 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 
 Note the following final array of derived stats for your Pilot:
 
-* **Throwdown Draw:** Base equals your Commitment to The Team.
+* **Assist Bonus:** Base equals your Commitment to The Team.
 * **Strike Range:** Base equals your Commitment to the Fight.
 * **Buffer:** Base equals your Commitment to Yourself.
 * **Max Stash:** You get Three (3) cards Max.
