@@ -466,6 +466,18 @@ Examples of when to Throw Down:
 Throwdowns have been significantly revamped since their previous incarnation. My desire has always been to create a fast-moving and exciting whole-table conflict mechanic, but the previous process required too much page-flipping and companion sheets, resulting in something very intimidating to new players at pick-up convention games. Hopefully this new flow will be significantly more approachable and easier to digest!
 
 
+### TL;DR Version - OUTDATED 2018
+
+(**Playtest Note:** keep revisiting this to make sure it's up to date across revisions)
+
+You wanna rough this jerk up and teach him not to mess with you and your sisters anymore. So you throw down a card and say "Dude, I'm gonna break your face!" And he downs down a card of his own and says "Bring it, bitch! I'm gonna humiliate the shit outta you in front of the whole school" Clearly, blood and bruises are on the line, so you're gonna have to work hard not to take damage.
+
+You both flip cards and yours is higher, but shit, it's like WAY higher than his, outside of your Strike Range and then some, so you'll trigger a +Strife event when this is all done (this shit had better be worth it). Anyway, you think you got him where you want him, when he throws down a better card and kicks you square in the ribs, so hard you think they're cracking. You then thrown down your own card in response and grab his leg, pulling it down *hard* and snapping a bone. Not just that, though - you threw in your ***Gai Kee Gan Flare!*** and took it to the limit (delivering painful Trauma to your foe), almost ripping the asshat's leg right out of the socket! But your card was too high again, and that means a second +Strife event - this could be extra painful!
+
+He relents. There are four cards in the final Pile, and you put them all toward hitting this jackass with as much Trauma as you can. He crawls back to his dorm, crying the whole way. Thankfully he was just some pissant bully with no common sense and no real strength to back it up. The Trauma you took in the process was easy enough to soak by your Buffer, you're a tough gal and this was barely a fight worth remembering. But those +Strife triggers are gonna hurt your team's Harmony, because you just *know* the team is gonna be pissed at you for going off on your own and getting in another fight...
+
+
+
 ## Important Terms to Know
 
 
@@ -476,10 +488,20 @@ TBD
 
 ### Strike Ranges
 
-TBD
+This has been mentioned a few times already in the text, and now we're finally going to explain what it means. One of the most crucial things to remember when playing cards in a Throwdown is your **Strike Range**. For Pilots, this number is equal to their Commitment to the Fight. For Threats, it's based on their Threat Rating. For both, it can be potentially modified by a number of other Techs and Powers.
 
-Striking outside your Range causes an immediate +Strife event. If you have Buffers available, you can choose to spend them to shrug off the stress and press onward without other adverse effect. Otherwise, the Harmonic damage is immediate!
+When you Strike on your turn during a Throwdown, you are of course free to play any card that is higher than your opponent's. However, ideally you want the *difference* between your card and theirs to be equal to or less than your Strike Range. For example, a Three (3) played on top of a Two (2) has a difference of 1, while a Jack (11) played on top of a Two has a difference of 9!
 
+If the difference is *within* your Strike Range, your Strike carries true, and that's all you need to worry about. However, if the difference is *greater than* your Strike Range, then your action still carries true, but you also trigger +Strife as your action hits too hard, uses dishonorable tactics, or otherwise falls outside of the accepted conduct rules of your team.
+
+In this manner, playing high can most likely achieve your objectives sooner, but playing *too* high can hurt your Harmony. The strategy lies in playing the right card at the right time.
+
+All +Strife thus cased is instantaneous. If you have Buffers available, you can choose to spend them to shrug off the stress and press onward without other adverse effect. Otherwise, the Harmonic damage is immediate!
+
+
+## The Goal of a Throwdown
+
+To win a Throwdown, you need to have the highest card on top of the Pile when the last action is played (i.e. after the last participant Folds).  Ideally, when you win, you want a good number of cards in the Pile that match the suit of your initially-stated Prize. And if you want to "win big" and get the most results from your effort, you want there to be a *lot* of cards in that Play Pile when you do eventually win.
 
 
 ## How to Throw Down (Initiative)
@@ -517,7 +539,7 @@ In order to Initiate, you also have to back up your Stakes with an opening Play.
 
 #### Initiative Play Strategies
 
-TBD
+The base strategy when choosing your initiative card is hoping yours will beat your opponent's, preferably with the difference within your own Strike Range. One very real and effective "jerk store" strategy is "faking out" your opponent by deliberately playing as low a card as possible, with the hopes that their opponent plays high and will thus suffer from playing outside Range.
 
 
 ### The Opposition: Accepting the Challenge
@@ -591,231 +613,6 @@ See further below for the list of actions.
 Your available actions are divided into two "menus" of choices. You may take any number of Side Menu actions on your turn, but you cannot repeat the same Side action twice in the same turn. You must take a single Main Menu action on your turn, and doing so ends your turn.
 
 
-### Main Menu
-
-
-#### Assist!
-
-TBD
-
-
-#### Counter!
-
-TBD
-
-
-#### Strike!
-
-TBD
-
-
-#### Strike Out! (Concede)
-
-TBD
-
-
-### Side Menu
-
-TBD
-
-
-## Resolving the Throwdown
-
-TBD
-
-
-
-
-# Conflict Type 3: The Throwdown - OLD
-
-A Throwdown is played out to resolve any in-game conflict that has larger stakes than those a Gambit would cover. Usually this involves active opposition from one or more Threats against the Pilots, but there are other situations where a Throwdown will make more sense than a simple Gambit. Basically any time there are big stakes in play, and you want to get tensions running deeper, play a Throwdown.
-
-Examples of when to Throw Down:
-
-* The Pilots are trying to break into a secure bunker while a team of anthrosaur minions is clawing at them.
-* The Pilots are trying to convince an unflinchingly stubborn planetary governor to give them aid.
-* The Pilots are trying to cross the Great Spectral Sea unharmed while a void storm rages against them.
-
-
-### TL;DR Version
-
-(**Playtest Note:** keep revisiting this to make sure it's up to date across revisions)
-
-You wanna rough this jerk up and teach him not to mess with you and your sisters anymore. So you throw down a card and say "Dude, I'm gonna break your face!" And he downs down a card of his own and says "Bring it, bitch! I'm gonna humiliate the shit outta you in front of the whole school" Clearly, blood and bruises are on the line, so you're gonna have to work hard not to take damage.
-
-You both flip cards and yours is higher, but shit, it's like WAY higher than his, outside of your Strike Range and then some, so you'll trigger a +Strife event when this is all done (this shit had better be worth it). Anyway, you think you got him where you want him, when he throws down a better card and kicks you square in the ribs, so hard you think they're cracking. You then thrown down your own card in response and grab his leg, pulling it down *hard* and snapping a bone. Not just that, though - you threw in your ***Gai Kee Gan Flare!*** and took it to the limit (delivering painful Trauma to your foe), almost ripping the asshat's leg right out of the socket! But your card was too high again, and that means a second +Strife event - this could be extra painful!
-
-He relents. There are four cards in the final Pile, and you put them all toward hitting this jackass with as much Trauma as you can. He crawls back to his dorm, crying the whole way. Thankfully he was just some pissant bully with no common sense and no real strength to back it up. The Trauma you took in the process was easy enough to soak by your Buffer, you're a tough gal and this was barely a fight worth remembering. But those +Strife triggers are gonna hurt your team's Harmony, because you just *know* the team is gonna be pissed at you for going off on your own and getting in another fight...
-
-
-## Basic Concepts
-
-
-### Goal
-
-
-**The Goal of a Throwdown:** To win a Throwdown, you need to have the highest card on top of the Pile when the last action is played (i.e. after the last participant Folds). And if you want to "win big" and get the most results from your effort, you want there to be a lot of cards in that Play Pile when you do eventually win.
-
-
-### Payloads: Damage Accumulation
-
-Throwdowns exist as contained microcosms of action focused on living in the moment of high-energy, bad-ass action. Unlike open play, wherein all +Trigger events are usually resolved immediately upon triggering, in Throwdowns they instead pile up on the sidelines, building what are called **Paylods** on each side of the conflict. Payloads are not "delivered"" until the last participant Folds and the outcome of the sequence is finally determined. At that point, they are all applied at once, and in really long conflicts the results can be quite intense!
-
-To manage this in play, whenever +Trigger events would occur (for example, when using the Hammer's base power), just tally them as part of your side's growing Payload and move on with the flow. They'll be totaled at the end of the sequence and applied to your opponent in one big chunk. We recommend the use of colored token counters for ease of visual reference.
-
-**Payloads are applied regardless of the victor.** Any Payload that your side builds up during a Throwdown will be applied to your opponent at the conclusion, regardless of who wins the final Pile. While the Pile itself is usually the "main prize" of the event, Payloads represent effects generated as a consequence of the process, and ensure that there are very few "clean sweep" victories in this game.
-
-
-### Strike Range
-
-This has been mentioned a few times already in the text, and now we're finally going to explain what it means. One of the most crucial things to remember when playing cards in a Throwdown is your Pilot's **Strike Range**. This number is initially based on her Commitment to the Fight, and modified by a number of other Techs and abilities.
-
-When you use a **Push Action** in a Throwdown, you want to play a card that is higher than the card currently on top of the Play Pile. The lower the *difference* between the two cards, the better the play. For example, a Three (3) played on top of a Two (2) has a difference of 1, while a Nine (9) played on top of a Two has a difference of 7.
-
-If your card's difference is *within* your Strike Range, your Push carries true, and that's all you need to worry about. However, if your card's difference is *greater than* your Strike Range, then your action still carries true, but you also trigger +Strife as your action hits too hard, uses dishonorable tactics, or otherwise falls outside of the rules of your team.
-
-In this manner, playing high can most likely achieve your objectives sooner, but playing *too* high can hurt your Harmony. The strategy lies in playing the right card at the right time.
-
-**Coach:** Your Threats have their own rules for Strike Range. Your Threats' base Strike Ranges are set by their *combined* Threat Ratings. Unlike the Pilots, your Threats are hard-bound to their Strike Ranges, and cannot exceed them unless they have special Powers allowing such action. See Threats, p. SQUARP.
-
-**BLAH INCLUDE EXAMPLE TEXT OF STRIKE RANGE**
-
-
-## Basic Flow
-
-Someone kicks things off by issuing a challenge to action, and then anyone who wants in plays initiative. Once a winner is determined, a quick round of initial card-drawing happens, and then the action starts.
-
-The players go leftwards (clockwise) around the table consecutively one-upping each other with grander, zanier, more dramatic, more intense, and more descriptive narration of action. Those narrations are accompanied by special powers and involve playing cards onto a central Play Pile.
-
-On the one hand, this is definitely *a Process* that needs to be learned and mastered. On the other hand, it's pretty darn fun, and you really only need to play it once to figure it out. There are probably more words here than are really needed to get it down, but there are a lot of side questions that I chose to answer in the flow, primarily to provide clarity into the *why* of things.
-
-Flow Table:
-
-1. Initiate with simultaneous cards
-2. Establish the Scope
-3. Draw Bonus Cards
-4. Take Turns and Actions until everyone Folds
-5. Determine Outcome
-
-
-## Step 1. Initiate the Throwdown
-
-To challenge another player to a Throwdown, the procedure is as follows, with minor differences for pilots and Coach.
-
-
-### Throwing the Gauntlet
-
-**Pilots:** To initiate a Challenge, play (or even *slam!*) down a card on the table in front of you, adding immediate declaration of Challenge (Bring it, It's on, Come and Get me, Let's do this, etc). Narrate what your pilot is doing to start the action, and set your Stakes (see sidebar). **Do not** draw back up yet.
-
-**Coach:** To initiate a Challenge, take the top card of the Coach Deck and play it down. Narrate how your Threat is moving against the pilots, and set your Stakes.
-
-Once you've initiated, you are now the "Challenger" for the rules that follow.
-
-
-##### (Stakes Sidebar)
-
-> Stakes are a simple statement of what you want to happen when you win the Throwdown. They need to be single-subject, concise, and focused in scope. They should also be feasibly realistic, of course. "I'm going to Kill the Lord Governor, activate the explosive, rescue the captives, escape the planet, and win the game!" is definitely *bad* form. Zoom them in on the more immediate, such as "I'm going to beat up the Lord Governor!" or "I'm going to activate the explosive!" and let the other things emerge in different conflicts, or even freely through narrative play.
->
-> They also can't override mechanics. "I'm going to kill this bitch!" isn't valid (although is is nicely emotive), because it likely requires a tangible application of the +Trauma trigger, which isn't always guaranteed even when you've won. Something like "I'm doing to beat that bitch down!" is a more acceptable statement that clearly implies an immediately-achievable narrative intent. **Coach has the final say on whether certain stakes are acceptable, or even possible.**
->
-> Stakes are also the narrative method for declaring the basic premise of what the whole conflict is about in the first place. Stakes that focus on politics and trade will create a vastly different feel than those focused on violence and combat.
-
-
-### Accepting the Challenge
-
-With the gauntlet thrown, the others at the table must now choose if they're involved. Starting with the player sitting to the Challenger's Left, and proceeding clockwise around the table, each player with an in-scene character (or Threat) must choose if they are going to accept the challenge, join in to assist either side, or sit this one out and watch (or cheer).
-
-**Pilots:** To accept a challenge, likewise play down a card and add your narrative flair in response (Oh yeah? That the best you got? You want summa this? You don't know what you're messing with!). Narrate your action, and set your own counter-stakes.
-
-Multiple pilots may work together if they wish. The process is the same as accepting. They must set stakes as well, but are allowed to simply parrot other Pilots' stakes if they're working together.
-
-**Coach:** To accept a player-initiated challenge, take the top card of the Coach Deck and play it down. Likewise narrate your Threat's response to (and acceptance of) the challenge.
-
-
-### Refusing the Challenge
-
-If you initiate a challenge and no one steps up to it, then your goals (aka the Stakes you set) are achieved without conflict. This is a fairly simple concept: if someone moves against you, and you relent, then they get exactly what they want. Consider this next time someone challenges you.
-
-Mechanically, this means you reveal all currently-played cards from the Initiation and then skip on ahead to the Outcome step, using those cards as your final winning Play Pile.
-
-
-### Teaming Up
-
-Teaming up is simply done by allies "accepting" the challenge and joining your side. See "Accepting the Challenge," above.
-
-
-### Winning Initiative and Starting Play Pile
-
-To determine the winner of the challenge, flip all the played cards face-up, then stack them face-up in numerical order, with the lowest on the bottom. This creates the initial **Play Pile**. At this point, the only cards that matter are the one on the top and the one directly beneath it.
-
-If your card is on top, then you are the winning Challenger and also the current leader of the Throwdown (and if no one else plays afterward, you win the whole conflict!).
-
-**Pilots:** If you're on top, compare the value of your winning card to the one beneath it. If the difference is within your Strike Range, you're all set. If it's outside your Range, your play still holds true but you inadvertently damaged the team spirit, adding +Strife to your incoming Payload.
-
-**Coach:** If his card is on top, do not check for Strike Range.
-
-**PLAYTEST:** I'm considering changing this so that there's a chance Coach's threats take damage from this. Might be too complicated though.
-
-
-### Initiative Card Strategy
-
-The base strategy when choosing your initiative card is hoping yours will beat all the others, *and* that the next-highest card will be just within your character's Strike Range. Pilots working together may find it useful to try and play lower cards to give the "leader" of the fight a better chance of padding out their Strike Range. Contrarily, either side may choose to "fake out" their opponent and play as low a card as possible, with the hopes that their opponent played high and will thus suffer from playing outside Range.
-
-
-## Step 2. Establish the Scope
-
-Before getting into the actual card-play, you need to establish the scope of this fight. Chances are this is already established by situation and the declared Stakes, but it's important to consider either way.
-
-When and where is this taking place? Is this a heated argument in the Debate Club room? A dangerous battle on the tar plains of Aegilius VII? A stealthy infiltration job in the enemy's server core? A high-NRG round of competitive love-making? This system covers all of these and more. It's just a matter of making sure everyone's on the same page with the who, what, when, and where.
-
-**Identifying the Location** is primarily important for Location Boons and the application of potential +Ruin triggers. But the scope will also definitely affect the flavor of all action narration, so make sure everyone is on the same page as to where you are and what the focus of the fight is.
-
-**This is also when you state if the Robos are already present and involved.** If it's just the Pilots outside of their robos, it's important for everyone to know, as it will restrict use of Robo Techs and boons. Don't worry: if it makes sense to summon them mid-fight, there's an action for that.
-
-
-## Step 3. Draw Bonus Cards
-
-Each side now draws additional bonus cards into their Caches from the Deck. Start with the initiative Victor, draw up as directed, and then move to the left.
-
-**Pilots:** *Draw* a number of bonus cards based on your **Commitment to the Team** stat, and add them directly to your Cache. Some Gear or character effects may directly alter your draw amount, as well.
-
-**Coach:** Draw one card for each Pilot opposing you, plus additional cards = the combined Threat Ratings of your present and involved opponents.
-
-
-## Step 4. Turns and Actions (The Round)
-
-With the challenge victor determined, play now begins with the player to the victor's left. Play moves clockwise around the table, with each participant playing cards and taking one or more actions. Play concludes when the last participant has the highest card on top and everyone else has Folded.
-
-There are two Types of Actions: **Main** actions and **Side** actions. On your turn you can (and must) only take one Main action, but you can take any number of Side actions *before* taking your main action. You can perform any number of Side actions, but **you can't perform the same Side action twice in the same turn**. Additionally, you will likely have a good number of Side Actions available to you, but you don't necessarily need to play all of them, and probably shouldn't.
-
-Once you have chosen and performed a Main Action on your turn, it becomes the turn of the next involved player in the turn order. Initial turn order in every new Throwdown is clockwise around the table (aka move to the left), but this can change mid-conflict.
-
-Proceed in this order until all but one participant has Folded, then move to the Outcome step.
-
-The actions in the subsections below are listed with which Type of action they are (Main/Side) and which players can use them (Pilots/Coach/Both).
-
-
-##### (Actions Reference Sidebar)
-
-**Main Actions:**
-
-* **Assist:** Discard a card, and give either range or card bonus to an ally
-* **Beat-Back:** Play a same-ranked card as is on top, flipping both over and under
-* **Fold:** lay Cache face-down and concede
-* **LET'S RUMBLE!:** Combine Robos and fight a Big Giant Monster!
-* **Push:** play a higher card, narrate
-
-**Side Actions:**
-
-* **Activate Gear:** Use a piece of Gear and draw a few extra cards
-* **FUSION!:** Activate or Dissolve a Lesser Fusion sequence with the other Pilots
-* **Invoke Faction:** Draw the top Favor card from a Faction into your Cache
-* **Recharge:** Discard a card in order to gain more Charges
-* **Sacrifice Gear:** Destroy a piece of Gear to activate its sacrifice effect
-* **Summon Robo:** bring in your personal Robo if it isn't already involved
-* **Trigger Wave/Storm:** Coach activates a Wave or Storm of an involved Threat
-
-
 ##### (Special Actions Sidebar)
 
 > Depending on your Techs, Gear, or other resources, you may have other unique Main or Side actions available to you on your turn. When in question, the specific Action descriptions override normal action flow rules. Keep aware of your character's abilities to make sure you always know if these options are open to you on your turn.
@@ -828,75 +625,198 @@ The actions in the subsections below are listed with which Type of action they a
 > You may have noticed that there is no default "pass" or similar option, and this is intentional. If you're going to join a Throwdown, then you're going to ***Throw Down*** or you have no reason being there.
 
 
-### Main Actions
-
-On your turn, you *must* do one - and *only* one - Main Action.
+### Main Menu
 
 
-#### Assist (Main, Pilots)
+#### Assist!
 
-The **Assist** action is actually two actions, each with a very similar activation but different results: one lets you pass a card to an ally, while another lets you increase an ally's play Range.
+**TL;DR:** Instead of playing a card of your own, you help out the next player in the flow. Discard a card, your sacrifice allows the next player to either draw cards = your Team commitment, or instead increase their Strike Range by the same amount.
 
-The **Card-Assist** action allows you to pass a card to the next ally in the Throwdown. To do this, you must first pick any single card (doesn't matter what) from your Cache and discard it (which means that it does *not* go into the pile). Then pick a *different* card from your Cache and pass it to the next ally in the current rotation. That ally then adds that card directly to their Cache.
+**Action:** Blah
 
-The **Strike-Assist** action allows you to boost your next ally's Strike Range. To do this, you must likewise first pick a card from your Cache and discard it. The next ally to take a turn receives a Strike Range modifier determined by your Team's current Harmony. Note that it rarely makes sense for a pilot "in the Red" to Strike-Assist, since they provide a negative modifier, but there may be some fringe cases where it can be desirable.
+**Narration:** Blah
 
-In both cases, it is definitely possible to chain your assists together! If you just received an Assist from your ally, you can then pass it on again to your *next* ally, should there be more of you in the Throwdown. Likewise, you must also discard a card from your Cache. If the Assist is card-based, you now pass *two* cards to your next ally - the one you were originally passed, plus another from your own Cache. If the Assist is Strike-based, then your own Assist score is added to the mix as well, and as such your next ally gets the combined bonuses! You can even combine Card and Strike Assists together in a big round-table combo chain.
-
-An assist-chain like this ends when the next recipient in the ongoing Chain does not use the Assist action on her turn.
+**Strategies:** Blah
 
 
-#### Beat-Back (Main, Both)
+#### Counter!
 
-A **Beat-Back** action happens when you play a card that is of the same rank and of an equal or higher suit as the highest card on the Pile. In this case, both cards are flipped face-down and placed on the very bottom of the Pile. The card beneath the previous one should now be on top.
+**TL;DR:** Play a card of the same numerical rank as the card on top of the Pile, with an equal or higher ranked suit. Send both cards to the Trash, and state how you are canceling the last play.
 
-The Beat-Back action essentially lets you re-write the narrative of the last-played Push. Narration of a Beat-Back should involve the clear turning of the tide, albeit temporarily. The enemy has been pushed back down the chain of action, possibly even negating their last narration. Clearly then, it's not really a good idea to play a Beat-Back when one of your allies' cards is the one on top, unless you *really* know what you're doing. Not only is it rude, but it actively works against you and your team.
+**Action:** Blah
 
-Why Beat-Back at all? It keeps you in the action if it's all you can play, and it also pushes the top card down to a lower value. This can possibly give your side more play options if all you have left are lower cards. It can also restrict your enemy's play options if they only have *higher* cards, forcing them to risk playing out of Strike Range if they want to keep Pushing - and against some Threats, it might even prevent them from being able to play at all!
+**Narration:** Blah
 
+**Strategies:** Blah
 
-#### Fold (Main, Both)
-
-To **Fold** you take your currently-active Cache and place it on the table in front of you, face-down. This signifies that you are either out of options, or otherwise no longer wish to push the conflict. You are now out of the Throwdown, you can take no more Actions of any type, and you are no longer factored into the turn rotation. Note that if you're out of cards and have no other special actions available to you, you **must** Fold. A Throwdown doesn't end until _everyone_ has Folded.
-
-Choosing to Fold *does not* nullify any effects you may have activated from playing Side Actions on the same turn. This means that yes, on your final turn you can choose take as many Side Actions as you have at your disposal and then immediately Fold - that's not just allowed, it's *encouraged* as a valid strategy!
-
-**Do not Discard your Cache just yet!** Discards will be handled at the end.
+Note that it's usually not a good idea to Counter a card played by one of your teammates. Not only is it generally a rude move, it's also mechanically unwise for two reasons. First, it lowers the Pile and thus reduces the final outcome possibilities, and second it can result in your opponent's card rising back to the top, giving them the winning position.
 
 
-#### LET'S RUMBLE! (Main, Both)
+#### Strike!
 
-**PLAYTEST NOTE:** This is still being considered. I might scrap the mid-Throwdown initiation entirely, and require that it only initiate outside of an active conflict.
+**TL;DR:** Play a card of a higher value than the one on top of the Pile. If the difference is outside of your Strike Range, resolve immediate +Strife.
 
-The **LET'S RUMBLE!** Main action is a special trigger that stops the current Throwdown in its tracks and escalates the action to a Giant Monster sized scale. When triggered, a number of complicated things happen that are described in greater detail in the "Rumble* chapter further on.
+**Action:** Blah
 
-Any side of a Throwdown can initiate a Rumble, using the rules outlined in the extended Rumbles chapter, further on. When either side initiates a Rumble, they *must* do so in a dramatic way, calling out their side's custom battle cry or monster name aloud.
-
-
-#### Push (Main, Both)
-
-The **Push** is the primary and most common action of a Throwdown. It's how immediate actions and agendas get advanced, and how valuable Pile cards build up to increase the final outcome. When you Push, you play a card face-up on top of the pile. You can play either from your own Cache, or instead from any available sources of external power (Factions for Pilots, and some Threats have extra cards that Coach can use). That card must *beat* the card currently on top, using the standard core card ranking rules of the game. Even if the last-played card is your ally's, you still *must* beat it, otherwise you can't Push.
-
-When you Push, you must narrate how you are pushing the action. You *must* provide verbal statement of action, counter-action, or other such direct involvement in the moment that changes the course of the fight. This narration is up to you, and should involve your own direct action against your opponent. Use this opportunity to shout out your actions and describe cool new power attacks! Go wild!
-
-Seriously, this is one of the main points in which you get to add all the awesome genre-inspired descriptive flavor that brought you to this game in the first place. Tell us what your Push looks like, and be creative! For example:
+**Narration:** You must provide verbal statement of action and direct involvement in the moment that changes the course of the fight. Use this opportunity to shout out your actions and describe cool new power attacks! Go wild! This is one of the main points in which you get to add all the awesome genre-inspired descriptive flavor that brought you to this game in the first place. For example:
 
 * Launch a volley of missiles at the enemy!
 * Summon your inner fury and deliver a mega-dragon-uppercut!
 * Take twelve of the bad guys down with a super sweet power slide!
 * Transform your cyborg legs into tank treads and roll across the field blasting lasers!
 
-**Pilots:** Remember your Strike Ranges! When you Push, you want your card to beat your opponent's by a difference no greater than your Strike Range. You can play any card you like, but if the difference is greater than your Strike then you will add +Strife to your incoming Payload.
+**Strategies:** Take note of the following key strategies:
+
+* Aces are the highest-valued card (14), but twos (and only twos) can beat them. Use your Aces and Twos wisely.
+* Strike Range is *not* a hard limit, but instead a "safe zone" of play. Playing outside this Range is dangerous, but still a viable strategy if your only other option is defeat!
+
+
+#### Strike Out! (Concede)
+
+**TL;DR:** Declare that you are out of the fight, and lay down your remaining Cache (if any).
+
+**Action:** You're done. Set your remaining Cache (if any) face-down on the table in front of you. You can no longer participate in the current conflict, but you are still subject to its outcome.
+
+**Narration:** You must state aloud a suitable concession, such as "I'm out!" or "Okay, you got me!" or something similar to let everyone know that you have, indeed, Struck Out.
+
+**Strategies:** Strategic concession is very much *A Thing* in a game of Gattaibushido. There is no need to blow your entire Cache on a losing fight, after all.
+
+
+### Side Menu
+
+The following actions are the system defaults available to everyone. Some Pilots and Threats may have more Side Manu action in addition to these, based on their chosen Techs and Powers.
+
+
+#### Activate/Sacrifice Gear
+
+**TL;DR:** Choose one piece of carried Gear and either Activate it for a minor boon, or Sacrifice it for a greater boon.
+
+**Action:** Declare a single item of Gear in your possession and either Activate it (and keep it) or instead Sacrifice it (and destroy it). Different pieces of Gear will have different Activate and Sacrifice effects, although the default is an immediate Draw of 1 or 3 cards, respectively. You cannot use more than one piece of Gear per Turn, and you cannot use the same piece of Gear more than once in the same conflict or scene.
+
+**Narration:** You must be able to suitably narrate how the chosen Gear is being used, and how that use helps you out. You are encouraged to get creative with this narration, but your choice of description must make sense within the context of the moment.
+
+**Strategies:** Blah
+
+
+#### Invoke Faction
+
+**TL;DR:** Name a Faction, draw its topmost Favor card into your Cache.
+
+**Action:** Choose an in-play Faction with invested Favor, and then draw the face-up Favor card from that Faction into your Cache. If one is face-down beneath it afterward, flip it over to replace it on the Faction's stack. While normally you can just play cards directly from a Faction, this can be useful to bolster your hand for other future actions.
+
+**Narration:** You must be able to verbally declare how the chosen Faction is helping you out at this moment in time. This declaration must make sense in the context and scope of the current conflict.
+
+**Strategies:** If Coach somehow has any Factions under his control, he can use this action as well on his turn.
+
+
+
+#### Recharge
+
+**TL;DR:** Discard from Cache to boost your Charges by the Suit Value of the discard.
+
+**Action:** This side action allows you to boost your current Charges by discarding from your Cache. When you declare this action, you must discard a single card from your currently-held Cache. This triggers +Chargeup, with the value of Charges gained determined by the Suit Value of the discarded card.
+
+**Narration:** Blah
+
+**Strategies:** Since Caches are transient and not auto-replaced after conflicts, discarding to gain Charges can seem like a waste of cards. However, if you really need those extra Charge to empower one of your Techs or restore your Buffers, this can be a last-ditch life-saver.
+
+
+#### Trigger Wave/Storm
+
+**TL;DR:** Coach discards one or three Face cards to trigger his involved Threats' Waves or Storms.
+
+**Action:** To Trigger a Wave, Coach must discard a single Face card from his Cache. To Trigger a Storm, Coach must discard *three* Face cards. Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn.
+
+**Narration:** Blah
+
+**Strategies:** If is it Coach's turn and he has a Cache full of face cards but no other feasible play strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately Striking Out.
+
+
+## Resolving the Throwdown
+
+When you're the last player left in a Throwdown, you've won! The final results are based on the Prize you declared when the fight began. Each prize has an associated Suit: Influence = Spades, Recovery = Hearts, Power = Diamonds, and Blood = Clubs. Count the number of cards in the Pile that match your Prize Suit - Aces and Number cards count as one each, while Faces count as *two* each. Then add one-third the number of remaining cards (rounded down) to your total. The final count is your **Score**. Discard all the Play Pile once you have this calculated.
+
+Spend your Score based on the initially stated Prize:
+
+### Influence (Spades)
+
+* Spades = Influence: Gain Favor, add Narrative Boons
+
+
+#### Influence Ultimate Victory
+
+If you have a Score of 7 or more and chose Influence as your Prize, blah
+
+
+### Recovery (Hearts)
+
+* Hearts = Recovery: Restore Damage and Buffers
+
+
+#### Recovery Ultimate Victory
+
+If you have a Score of 7 or more and chose Recovery as your Prize, blah
+
+
+### Power (Diamonds)
+
+* Diamonds = Power: Increase Resources, Draw Cards
+
+
+#### Power Ultimate Victory
+
+If you have a Score of 7 or more and chose Power as your Prize, blah
+
+
+### Blood (Clubs)
+
+* Clubs = Blood: Cause Damage
+
+
+#### Blood Ultimate Victory
+
+If you have a Score of 7 or more and chose Blood as your Prize, blah
+
+
+## Wrap it All Up!
+
+
+
+## Special Considerations
+
+
+### No Cheese Trains
+
+(BLAH: only one throwdown per conflict until the circumstances change! if the throwdown does not resolve things, the Pilots need to reconsider their approach and try different narrative strategies; etc)
+
+
+### PVP Throwdowns
+
+Pilots can opt to fight each other using these rules with no required procedural changes. Just make sure to clearly choose sides at the beginning!
+
+If this intra-team fight is over sufficiently serious and dramatic issues, Coach may declare that every Push action taken in the conflict triggers +Strife, and doubly so for those outside of Strike Range.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Conflict Type 3: The Throwdown - OLD
 
 
 ### Side Actions
-
-
-#### Activate Gear (Side, Both)
-
-You can **Activate** a piece of carried Gear as a side action. Doing so usually gives you that Gear's card draw bonus, letting you immediately draw that many cards into your Cache. Some Gear may have special alternate Activation effects, so check your Gearlist to be sure.
-
-Any single piece of Gear may only be activated once per Throwdown.
 
 
 #### FUSION! (Side, Pilots)
@@ -908,113 +828,8 @@ If used while Fuzed, this action instead breaks the existing Fusion. After resol
 Fusion rules are detailed in significantly more depth on p. SQUARP.
 
 
-#### Invoke Faction (Side, Both)
-
-You declare how a single given in-play Faction is helping you, and then draw the face-up Favor card from that Faction into your Cache. If one is face-down beneath it afterward, flip it over to replace it on the Faction's stack. While normally you can just play cards directly from a Faction, this can be useful to bolster your hand for Discards, Assists, and other future actions.
-
-If Coach somehow has any Factions under his control, he can use this action as well on his turn.
-
-
-#### Recharge (Side, Pilots)
-
-This side action allows you to boost your current Charges by discarding from your Cache. When you declare this action, you must discard a single card from your currently-held Cache. This triggers +Chargeup, with the value of Charges gained determined by the Suit Value of the discarded card.
-
-
-#### Sacrifice Gear (Side, Both)
-
-Instead of Activating a piece of Gear, you can ***Sacrifice*** it by destroying it in a sufficiently cool and useful way. This grants you the effect of that Gear's sacrifice effect, but also permanently destroys it.
-
-You cannot both Activate and then Sacrifice the same piece of Gear in the same Throwdown.
-
-
 #### Summon Robo (Side, Pilots)
 
 If your Robo isn't currently involved in the Throwdown, and the situation makes enough narrative sense that it *could* be, you can use the **Summon Robo** Side action to call it into play. This results in a really short dramatic description of how your Robo enters the scene, and is largely based on the way your group has flavored that aspect of your World.
 
 However the narrative method of Robo-summoning may be described, it is usually accompanied by an additional mechanical effect as described in your Playbook.
-
-
-#### Trigger Wave/Storm (Side, Coach)
-
-The **Trigger Wave/Storm** side action allows Coach to use the Waves and/or Storms of any of his involved Threats. To Trigger a Wave, Coach must discard a single Face card from his Cache. To Trigger a Storm, Coach must discard *three* Face cards.
-
-Triggering each individual Wave and/or Storm is considered a separate action, meaning Coach can trigger more than one in a turn, but cannot trigger the *same* Wave or Storm more than once in the same turn. If is it Coach's turn and he has a Cache full of face cards but no feasible strategy, it is entirely legal for him to blow them all triggering Waves and Storms before ultimately ending the conflict by Folding.
-
-
-## Step 5. Resolution and Conclusion
-
-Play continues until all opponents have Folded and there is no longer any viable opposition to the top-most card. Whoever's card is on top at the end ultimately wins the Throwdown.
-
-
-### First, the Stakes
-
-When you win, your initial narrative stakes are achieved.
-
-
-### Second, Tally Payloads
-
-Next, total the +Trigger Payloads tallied up on each side of the conflict, if any. Payloads are not Victory-dependent - meaning that all Payloads built up during a conflict are applied, regardless of the victor.
-
-Tally them up on each side, but don't apply them yet.
-
-
-### Third, Spend the Spoils
-
-Then, the Victor can "spend" cards from the final play Pile to both build up their own Payload and mitigate their opponent's.
-
-Start by separating the cards in the final Pile into Suit sets. Each card can then be "spent" by discarding it and stating what it does. Not every card has to be spent! Apply the effects you want, and then discard the rest.
-
-The suit-based effects are as follows:
-
-**Clubs** can be spent to add +Trauma events to the victor's final Payload. If the winning side featured either Robos or BGM Threats, they can instead be spent to add +Ruin events, as well.
-
-**Diamonds** can be spent to remove any incoming damage-type +Triggers from the opponent's Payload, including +Strife events earned by the team. These cancel each other out one for one.
-
-**Hearts** can be spent to restore spent Buffer tokens for members of the winning side of the conflict, one for one. Additionally, should the initial focus of the conflict have been on either gaining or restoring favor with a faction or repairing a damaged location, Hearts can be spent to add +Favor or +Rebuild events to the Payload.
-
-**Spades**, however, are double-edged. Spades can be spent as if they were any of the other three suits. However, each spade thus spent gives the loser(s) of the conflict the option to similarly add an effect of their own choosing to their own Payload in return, as a concession to victory.
-
-(**PLAYTEST:** As an alternative, I'm considering Spades *only* being a boon for the loser of the Throwdown. Meaning, the victor doesn't spent them at all, only the Loser. We'll see!)
-
-
-### Fourth, Apply the Payloads
-
-With the Pile spent and discarded, it's time to apply the Payloads. Each side first resolves all incoming damage +Triggers from their opponent's Payload, assigning the damage as they see fit to their valid targets. The leader of each side determines how any damage is assigned, and targets receiving damage can likewise use Buffers and Robo Trauma-Shifting against their own damage, when applicable. Note that +Strife triggers from acting outside of Strike can only be blocked by the Pilot who caused them (Pink is an exception to this).
-
-Then resolve all remaining +Triggers in respective Payloads as each side sees fit.
-
-
-### Fifth, Drop and Draw
-
-With the Payloads resolved, it's time to drop and draw.
-
-**Pilots** with more cards in their Cache than Max need to discard down to Max. Conversely, those with fewer cards than Max get to draw back up.
-
-**Coach** immediately discards his entire Cache, and does not draw anything to replace it.
-
-
-### Finally, Narrate the Results
-
-(BLAH: victor tells us what happened; throwdown over; back to open play; etc)
-
-
-## Throwdown Aftermath
-
-(BLAH: only one throwdown per conflict until the circumstances change! if the throwdown does not resolve things, the Pilots need to reconsider their approach and try different narrative strategies; etc)
-
-
-## Special Considerations
-
-
-### Card Play Strategies
-
-Use your Aces wisely! They are valuable as trumping cards when Pushing, but they are also useful for activating your Pilots' special Techs. Don't play them unless you have to.
-
-Also remember that while Twos are the lowest, and Aces are the highest, but those pesky Twos always beat Aces. Hold onto those Twos and Aces until the right moment, as they can be quite valuable!
-
-
-### PVP Throwdowns
-
-Pilots can opt to fight each other using these rules with no required procedural changes. Just make sure to clearly choose sides at the beginning!
-
-If this intra-team fight is over sufficiently serious and dramatic issues, Coach may declare that every Push action taken in the conflict triggers +Strife, and doubly so for those outside of Strike Range.
