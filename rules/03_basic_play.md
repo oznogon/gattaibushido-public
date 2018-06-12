@@ -19,9 +19,20 @@ During the course of play, the cards will cycle between the following places in 
 * the **Trash** (where they are discarded, face-up); Trash is next to the main Deck.
 * your **Cache** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
-* the Robo Rumble **Combo Zones** (5 on each side; where the cards are played during the three rounds of Rumbles)
 * certainly not your **Sleeve**, because that's cheating...
 * and occasionally the **Floor**, where we all inevitably drop them from time to time!
+
+
+### Cache
+
+Your **Cache** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Cache. The Cache is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
+
+All players have a Minimum Cache as follows:
+
+* **Pilots:** Your Minimum Cache starts at Two (2) cards, and only a handful of game effects will increase that minimum.
+* **Coach:** Your Minimum Cache is set at the number of Pilots participating in the session.
+
+While you may frequently have more cards in your ever-fluctuating Cache, if you ever hold *fewer* than your Minimum at any time outside of an active conflict, you can choose to immediately draw up to your Minimum.
 
 
 ### Deck
@@ -39,26 +50,9 @@ There is a single core **Deck** of 108 playing cards created by combining the ca
 During Throwdowns, a **Pile** of cards temporarily exists in the middle of the table. Whenever a participant plays a card, they play it on top of the Pile, face-up. Long Throwdowns with many participants can create huge piles indeed.
 
 
-### Cache
-
-Your **Cache** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Cache. The Cache is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
-
-All players have a Minimum Cache as follows:
-
-* **Pilots:** Your Minimum Cache starts at Two (2) cards, and only a handful of game effects will increase that minimum.
-* **Coach:** Your Minimum Cache is set at the number of Pilots participating in the session.
-
-While you may frequently have more cards in your ever-fluctuating Cache, if you ever hold *fewer* than your Minimum at any time outside of an active conflict, you can choose to immediately draw up to your Minimum.
-
-
 ### Trash
 
 The Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card that came from the Deck is discarded during play, it goes on top of the Trash heap, face-up.
-
-
-### Combo Zone
-
-When the Pilots combine to fight a Big Giant Monster, both sides have five play zones where they assemble their best "spreads" of cards against each other.
 
 
 ## Card Details
