@@ -451,7 +451,188 @@ Strike Range is a mechanic that has been mentioned before but not yet fully intr
 
 
 
-# Conflict Type 3: The Throwdown
+# Conflict Type 3: The Throwdown - NEW SUMMER 2018
+
+Sometimes a Gambit just isn't enough to resolve an at-hand conflict. Sometimes you just *really* need to beat down on someone, and maybe even bring in the whole team to back you up. That's where **Throwdowns** come into play.
+
+A Throwdown is played out to resolve any in-game conflict that has larger stakes than those a Gambit would cover. Usually this involves active opposition from one or more Threats against the Pilots, but there are other situations where a Throwdown will make more sense than a simple Gambit. Basically any time there are big stakes in play, and you want to get tensions running deeper, play a Throwdown.
+
+Examples of when to Throw Down:
+
+* The Pilots are trying to break into a secure bunker while a team of anthrosaur minions is clawing at them.
+* The Pilots are trying to convince an unflinchingly stubborn planetary governor to give them aid.
+* The Pilots are trying to cross the Great Spectral Sea unharmed while a void storm rages against them.
+
+
+**In other words,** while Gambits are primarily used to determine if something interesting happens while trying to overcome a minor conflict, Throwdowns are for when one or more Pilots really need to get hands-on to achieve their goals.
+
+
+##### PLAYTEST DESIGN NOTE 2018
+
+Throwdowns have been significantly revamped since their previous incarnation. My desire has always been to create a fast-moving and exciting whole-table conflict mechanic, but the previous process required too much page-flipping and companion sheets, resulting in something very intimidating to new players at pick-up convention games. Hopefully this new flow will be significantly more approachable and easier to digest!
+
+
+## Important Terms to Know
+
+
+### The Action "Menu"
+
+TBD
+
+
+### Strike Ranges
+
+TBD
+
+Striking outside your Range causes an immediate +Strife event. If you have Buffers available, you can choose to spend them to shrug off the stress and press onward without other adverse effect. Otherwise, the Harmonic damage is immediate!
+
+
+
+## How to Throw Down (Initiative)
+
+Any player can Kick off a Throwdown at any time during Open Play (i.e. not during an active conflict) - we call this **Initiative**. To Initiate a Throwdown, you gotta do three things:
+
+1. **The Challenge:** Make a verbal declaration that you are Throwing Down!
+2. **The Prize:** Tell us what you want. Choose one: Influence, Recovery, Power, or Blood.
+3. **The Play:** Play a card face-down on the table in front of you
+
+Both are crucial, and absolutely required to Initiate a Throwdown. Both are described in more detail below:
+
+
+### The Challenge
+
+In order to Initiate, you have to tell the table what you are doing, and what you seek to achieve with your action. You can't just put down a card without backing it up! This is as easy as saying "I'm punching you right in the face! It's throwdown time!" Obviously that's not the best opener for *every* possible conflict, but you get the point. Simplicity and direct action is key here.
+
+Oh yeah: make sure everyone knows *who* you are challenging here. That's important to know! Declare your enemy when you throw down your gauntlet, so that they know full well it is their butt on the battlefield!
+
+
+### The Prize
+
+In order to Initiate, you also have to tell everyone at the table what you're going for here. Tell us your desired **Prize** - that is, what are you seeking to attain by breaking out the cards. Choose one of the following options and declare it as your goal: Influence, Recovery, Power, or Blood. Your choice determines what mechanical outcome you seek to attain in the end stage, and what Suit of cards that you want to be dominant in the final Play Pile. A quick-and-dirty summation is below:
+
+* Influence: You wish to spend final Spades to acquire Favor and add more to the Narrative.
+* Recovery: You wish to spend final Hearts to boost Buffers and restore the health of your Team.
+* Power: You wish to spend final Diamonds to gain Charges and increase Team Resources.
+* Blood: You wish to spend final Clubs to cause direct damage to your opposition, possibly even destroying it.
+
+
+### The Play
+
+In order to Initiate, you also have to back up your Stakes with an opening Play. Take a card from your Cache (or the top of a Faction) and play it face-down in front of you. This tells everyone that you mean business.
+
+
+#### Initiative Play Strategies
+
+TBD
+
+
+### The Opposition: Accepting the Challenge
+
+You've been called out as the target of a new Throwdown, oh no! Here's how to step up and accept the challenge (and you want to accept, you know you do - don't be a punk).
+
+To accept the challenge, the process is identical as if you were initiating. You gotta do three things:
+
+1. **The Acceptance:** Tell everyone how you're stepping up to the challenge!
+2. **The Prize:** Tell everyone what you want. Again: Influence, Recovery, Power, or Blood.
+3. **The Play:** Throw a card down to seal the deal.
+
+**The Acceptance** is a similar statement of action. "Oh yeah? Well I punch you back!" is a perfectly fine statement, as is "I move to dodge, showing everyone else what an uncultured brute you are." It doesn't have to e complicated, but it *does* work best if your stated action matches the feel of the Prize you're seeking to attain.
+
+
+#### Refusing the Challenge
+
+TBD
+
+
+### Everyone Else
+
+Everyone else at the table now has an option of throwing their lot in with either side of the conflict. This is as simple as saying "I'm backing her up!" or "I'm on Team Monster!" or the like. It's as simple as that, no card-play necessary, but remember: you say it, it happens. No take-backs!
+
+Dear Players, do not make this decision lightly. By making such a declaration, you're joining in the process to back up the side of your choice. This can certainly help them out, but be warned! If your side loses, you are also subject to all the fallout from failure, however horrible and deleterious they may be.
+
+Speak now, or sit it out, but there's no joining in once the action starts!
+
+
+### Resolving Initiative
+
+Once the challenger and challenged have played down, and everyone else has said their peace, reveal the two cards, and then place the Higher on top. The player of that card is now in the lead, hooray!
+
+However, like *all* cards played during a Throwdown, the Initiative is subject to Strike Range rules. If the difference between the winning and losing card is outside the victor's Strike Range, they must resolve an immediate +Strife event.
+
+With the victor determined, play now begins with the *losing* player.
+
+
+## OPTIONAL: Initial Drop and Draw
+
+If your group is particularly experienced with the game, Coach *might* allow an initial round of discard-and-draw before moving to actual Turns. If so, starting with the *winning* player and moving to the left, each player that is involved in the Throwdown can discard any number of cards from her current Cache, and Coach will deal them the same number from the Deck.
+
+This can add extra time and ritual to the process, however, and as such it is only recommended for groups that have been through the process several times already and have mastered the basic flow.
+
+
+## Playing the Throwdown
+
+After initiative, a Throwdown flows around the table with each participant taking turns in order until a final player is left standing on top of the rest.
+
+
+### The First Turn
+
+The player whose card lost Initiative goes first. On your Turn, you can take any number of actions from the Side Menu (but you can only do each one once), before ending your turn by choosing a single action from the Main Menu. Once you have chosen your Main action, your turn ends.
+
+On the end of the first turn *only*, after playing your chosen Main Menu Action, you must state which direction the play now moves (to your right, or to your left). Barring other special mid-conflict changes from Techs, this sets the turn order for the entire rest of the Throwdown.
+
+See further below for the list of actions.
+
+
+### Each Turn After the First
+
+Play moves around the table in order from the first player, at least initially in the direction they declared. Each player's turn is identical to the first player's, except only the first player declares the initial direction of flow. After choosing and executing your Main Menu action, the turn moves to the next player in the flow.
+
+In this fashion, play continues until all but one player has Struck Out. When the second to last player has conceded and only a single player remains, move on to the Resolution stage.
+
+See further below for the list of actions.
+
+
+## The Action Menus
+
+Your available actions are divided into two "menus" of choices. You may take any number of Side Menu actions on your turn, but you cannot repeat the same Side action twice in the same turn. You must take a single Main Menu action on your turn, and doing so ends your turn.
+
+
+### Main Menu
+
+
+#### Assist!
+
+TBD
+
+
+#### Counter!
+
+TBD
+
+
+#### Strike!
+
+TBD
+
+
+#### Strike Out! (Concede)
+
+TBD
+
+
+### Side Menu
+
+TBD
+
+
+## Resolving the Throwdown
+
+TBD
+
+
+
+
+# Conflict Type 3: The Throwdown - OLD
 
 A Throwdown is played out to resolve any in-game conflict that has larger stakes than those a Gambit would cover. Usually this involves active opposition from one or more Threats against the Pilots, but there are other situations where a Throwdown will make more sense than a simple Gambit. Basically any time there are big stakes in play, and you want to get tensions running deeper, play a Throwdown.
 
