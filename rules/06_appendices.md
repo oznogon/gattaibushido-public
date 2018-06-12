@@ -107,7 +107,6 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Positions:** the different locations in the final form where the robos slot in  
 **Push:** the core action of a Throwdown, in which a card is played to beat the last-played card  
 **Razed:** a Location that has been Razed cannot be used in play, and must be rebuilt  
-**Red:** one of three special expendable pools of assistance powers the Pilots can access while exploring play  
 **Round:** one of three stages of robot-on-monster action during Robo Rumbles  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
