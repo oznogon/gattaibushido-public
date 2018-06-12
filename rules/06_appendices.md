@@ -88,7 +88,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Buffer:** a pool of tokens that a Pilot can use to soak damage  
 **Combo Zone:** DEFINITION  
 **Commitment:** one of three core character stats that determine the base for all game mechanics  
-**Conflict:** one of three core game mechanics where the cards determine the outcome of in-story events  
+**Conflict:** one of the core game mechanics where the cards determine the outcome of in-story events  
 **Deck:** where all cards are drawn from; two of these exist, one for Coach and one for the Pilots  
 **Discard:** the act of putting a card into its relevant trash  
 **+Disfavor:** mechanical notation that damages a Faction's trust in the Pilots  
