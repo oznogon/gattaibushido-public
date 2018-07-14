@@ -448,3 +448,129 @@ Strike Range is a mechanic that has been mentioned before but not yet fully intr
 # Conflict Type 3: The Throwdown
 
 **PLAYTEST NOTE:** This new project's goal now is to bring the game BACK in line with the Dueling system from Motobushido. Playtest response on this has been almost unanimous: the game drifted too far from its roots. I've heard you loud and clear, and now I'm bringing it back. Woot!
+
+
+## Throwdown Basics
+
+
+### Throwdown Flow / Rundown
+
+
+## Step 1: Initiative
+
+
+## Step 2: Establishment Questions
+
+Misc questions for the pilots similar to duels in Moto:
+
+
+### Pick Sides and Declare Leaders
+
+There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on.
+
+Each side must also declare a Throwdown Leader. This player is responsible for managing the flow of their side of the action, and also gains the benefit of additional potential bonus draws. Others can back up their leaders with their own actions, but only the Leader gets bonus draws at the start.
+
+The Leader role is *usually* given to whichever member of the conflict that either started the fight, or was instead specifically targeted by whoever else started the fight. This is usually an obvious choice, but if not, take a moment to discuss and set roles.
+
+Note that Throwdown Leader is a temporary role, and does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. In other words, Red doesn't have to be the leader of every throwdown, and in fact the game is more fun if she frequently just assists!
+
+
+### Does She Fight for Her Team, or for Herself?
+
+For each Pilot that is leading a side of the Throwdown, Coach should ask every *other* player at the table, as a group: "Does this Pilot currently fight for her own goals, or for those of her Team?"
+
+Other players should answer aloud and honestly. The answer both sets crucial tone for the fight, and also determines how many bonus cards that leader will draw. If there's a voting tie, Coach breaks it.
+
+
+### Determine Draws and Strike Ranges
+
+**Pilots:**
+
+* **Bonus Draw (Side Leader Only):** Based on the answer to above questions. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat.
+* **Strike Ranges:** Based on who started the fight. If your team started the action, members use their Steel stat. If the fight was brought to them, members use their Flesh stat.
+
+**Coach:**
+
+* **Bonus Draws:** Coach draws the invested cards from the stacks of each of his present-and-involved Threats.
+* **Strike Range:** Coach's Strike Range is equal to the Threat Rating of the highest-rated involved Threat, plus one for each additional Threat involved.
+
+
+### Draw and Redistribute Hands
+
+With all the establishment settled, it's time to draw.
+
+**Pilots:** First the leader draws cards = her bonus draw, determined above. Then, all other involved Pilots on her team can choose to give the leader any number of cards from their own current Hands. Finally, the leader must then give those Pilots back an equal number of cards (but they don't need to be the same ones).
+
+**Coach:** Draw your Bonus draw as stated above, you are now ready to play.
+
+
+## Step 3: Play
+
+Play in one to three rounds of escalating stakes:
+
+1. The Confrontation
+2. The Struggle
+3. The Final Attack
+
+Each side goes back and forth playing and escalating until one side concedes.
+
+
+### Taking Turns
+
+
+
+### Taking Actions
+
+
+
+#### Play Actions
+
+
+
+#### Support Actions
+
+
+
+### Escalating Stages and Stakes
+
+
+
+### Scoring Points
+
+
+
+
+## Step 4: Resolve
+
+Notes:
+
+* "The rumble option" happens here
+
+
+
+
+# Conflict Type 4: The Robo Rumble
+
+
+## Rumble Basics
+
+misc notes:
+
+* initiated *after* a throwdown, picking up immediately
+
+
+### Rumble Flow / Rundown
+
+(steps are continued from the throwdown process)
+
+
+## Step 5: Rumble Escalation!
+
+
+## Step 6: Assemble BGM / Final Form
+
+
+## Step 7: Extended Play
+
+
+## Step 8: Resolve
