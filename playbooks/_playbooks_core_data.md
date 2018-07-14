@@ -11,7 +11,7 @@ These are the Core Eight that will be focused on heavily throughout the entire b
 * Orange: The Otaku (hyperfocus to the max)
 * Pink: The Heart of the Team (right there, on the sleeve, for all to see)
 * Purple: The Rebel (she'll prove you wrong, mark her words)
-* Red: The Leader (the hero she deserves to be)
+* Red: The Captain (the hero she deserves to be)
 * Yellow: The Tank (endurance, perseverance, dominance)
 
 Playbook base data is contained within this document as a reference until the final playbook formats are laid out for use.
@@ -237,7 +237,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 
 
 
-## Red: The Leader (the hero she deserves to be)
+## Red: The Captain (the hero she deserves to be)
 
 (Red leads from the front)
 
@@ -246,10 +246,10 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 **Advice:** TBD
 
 **Starting Mods:**
-* Red (The Leader): +1 Armory, +2 Fan Club
+* Red (The Captain): +1 Armory, +2 Fan Club
 
 **Recurring Mods:**
-* Red (The Leader): +1 Fan Club
+* Red (The Captain): +1 Fan Club
 
 **Lesson Trigger:** Red earns a Lesson when she gets everyone into greater danger by charging forth blindly.
 
@@ -258,7 +258,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 
 ### Passive Tech
 
-**Hero Power!** As the leader of the Team, Red must strive to be excellent at all things, and set an example of strength and reliability for the others. Likewise, she must be able to fill in the gaps between the others' specialties, ensuring the Team is properly balanced. Each time she advances this Tech, she chooses one of the following permanent boons. Each can be chosen only once.
+**Hero Power!** As the Captain of the Team, Red must strive to be excellent at all things, and set an example of strength and reliability for the others. Likewise, she must be able to fill in the gaps between the others' specialties, ensuring the Team is properly balanced. Each time she advances this Tech, she chooses one of the following permanent boons. Each can be chosen only once.
 
 * Base Strike Range increases +2
 * Max Buffers increase by +2

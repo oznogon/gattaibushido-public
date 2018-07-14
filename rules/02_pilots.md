@@ -107,9 +107,9 @@ Next, it's time to choose your individual Color Role playbooks. Coach will print
 
 ##### First Red and Green
 
-**However**, before you all leap up and grab at them, there are two specific playbooks that should be explained first: Red (the Leader) and Green (the Noob). These playbooks have core story-structure requirements that must be considered before we go further.
+**However**, before you all leap up and grab at them, there are two specific playbooks that should be explained first: Red (the Captain) and Green (the Noob). These playbooks have core story-structure requirements that must be considered before we go further.
 
-Every team needs a Leader. As far as the playbooks are concerned, that job is Red's. Red is a required role for every new game, and the player who chooses the playbook must be prepared and eager to try and lead the Team. Red works best when she is guided by a player that really wishes to role-play the actions (and burdens!) of leadership.
+Every team needs a Captain. As far as the playbooks are concerned, that job is Red's. Red is a required role for every new game, and the player who chooses the playbook must be prepared and eager to try and lead the Team. Red works best when she is guided by a player that really wishes to role-play the actions (and burdens!) of command.
 
 Green, on the other hand, is not a required role for a new game, but she does have noteworthy built-in rank-based role-playing requirements. Green is the Noob, the most junior member on the team's roster. The Team will likely assign her the most demeaning of duties, and she'll often end up a scapegoat for the failures of others. Her player must be willing and eager to play out that complete entry-level experience, because that's what makes her truly excel in the end.
 
