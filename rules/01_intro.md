@@ -80,7 +80,7 @@ Inspirations:
 * **Card Ranks beat Card Suits.** A King of Clubs beats a Ten of Hearts beats a Seven of Spades.
 * **Card Suits break ties.** Seven of Spades beats a Seven of Clubs. Spades > Hearts > Diamonds > Clubs (reverse alphabetical).
 * **One Conflict Per Conflict.** In other words: no cheese-train conflict sequences in this game. If a Gambit, Throwdown, or Rumble fails to fully accomplish what you want from the moment, you cannot immediately start a new one to try it again. You must step back, reassess, and come up with a new approach. If that leads to a nearly identical conflict in a follow-up scene, that's fine, but no cheese trains allowed.
-* **Explicit Card-Talk is Prohibited.** Players can not reveal or directly discuss the contents of their Caches with each other, unless in-game mechanics (namely Techs) explicitly state otherwise. You must instead talk strategy in-game, as your characters, and not meta-game the conflicts with cheaty card-talk. See rule #1.
+* **Explicit Card-Talk is Prohibited.** Players can not reveal or directly discuss the contents of their Hands with each other, unless in-game mechanics (namely Techs) explicitly state otherwise. You must instead talk strategy in-game, as your characters, and not meta-game the conflicts with cheaty card-talk. See rule #1.
 
 
 ## Your Pilots, Your World, Your Story
@@ -229,9 +229,9 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 **Armory, Fan Club, Pit Crew:** Some Playbooks have recurring modifiers to these resources. Apply them to the running totals at the start of each new Scenario.
 
 
-#### Deal Starting Caches and Finalize the Deck
+#### Deal Starting Hands and Finalize the Deck
 
-Coach deals out the Pilots' starting Caches of cards, which defaults to two (2) cards unless special abilities modify it. Coach also deals himself a starting Cache equal to the number of Pilot Players present in the game session.
+Coach deals out the Pilots' starting Hands of cards, which defaults to two (2) cards unless special abilities modify it. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
 
 After this is done, he shuffles the Jokers back into the Deck, face-up. The Deck is now prepared for play.
 

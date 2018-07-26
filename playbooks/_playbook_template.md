@@ -95,7 +95,7 @@ As the (Role Name), your specialty is (Role Details Shortform). **First**, this 
 * **Charge Tech: "Strategic Action!"** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:
 
 * New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
-* New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Stash, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Stash.
+* New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
 * New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on the Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are.
 
 
@@ -243,7 +243,7 @@ Note the following final array of derived stats for your Pilot:
 * **Assist Bonus:** Base equals your Commitment to The Team.
 * **Strike Range:** Base equals your Commitment to the Fight.
 * **Buffer:** Base equals your Commitment to Yourself.
-* **Max Stash:** You get Three (3) cards Max.
+* **Max Hand:** You get Three (3) cards Max.
 * **Charge Pool:** You begin play with Three (3) Charges in your Pool, which has a base max of 7.
 * **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
 * **Rumble Draw:** Always equals your Robo Rank

@@ -87,7 +87,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 **Strategic Action!** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:
 * New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
-* New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Stash, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Stash.
+* New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
 * New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on the Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are.
 
 
@@ -186,7 +186,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 * Pink (and only Pink) can *initiate* a Lesser Fusion while the rest of the Team is in the Red (she cannot initiate Final Form, however).
 * When Pink initiates a Lesser Fusion, applied Fusion Modifiers are based on her modified Harmony level.
 * Pink Assists with bonuses determined by her modified Harmony
-* While Pink's modified Harmony exceeds Violet (7), she treats it as 7 and enters the **Nirvana State!** While in Nirvana, Pink's Base Strike, Max Stash, Max Buffers, and Max Charges are all temporarily increased by +1.
+* While Pink's modified Harmony exceeds Violet (7), she treats it as 7 and enters the **Nirvana State!** While in Nirvana, Pink's Base Strike, Max Hand, Max Buffers, and Max Charges are all temporarily increased by +1.
 
 
 ### Charge Tech
@@ -263,7 +263,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 * Base Strike Range increases +2
 * Max Buffers increase by +2
 * Max Charges increase by +2
-* Max Stash increases +1
+* Max Hand increases +1
 * Recurring Scenario Bonuses each increase by +1
 
 
@@ -333,7 +333,7 @@ Your Power Weapon consists of a base Frame, which is then modified at the start 
 * Gauntlet or Pistols: Increase Throwdown Draw by +1
 * Bow or Rifle: +1 Strike Range
 * Multi-Tool: All of your Gambit plays are at +2 value
-* Scythe: During Drop/Draw end phase of Throwdown, you can add any one card from the Pile to your Stash after it is resolved.
+* Scythe: During Drop/Draw end phase of Throwdown, you can add any one card from the Pile to your Hand after it is resolved.
 * Shield: +1 to max Buffer
 * Spear or Sword: When you Push with a difference of 1, you gain 1 Charge
 * Staff or Whip: When you play a Beat-Back, you gain 1 Charge
@@ -356,16 +356,16 @@ Most of these are Side Actions
 * Laser: Your "Boost Strike" Basic Charge Tech only costs 1:1 (default is 3:1)
 * Nega-: Spend 2 Charges, discard bottom card from the Play Pile.
 * Power: Before you Push, spend 2 Charges and Discard a card. Increase your Strike Range by that card's pip rank.
-* Psy-: Spend X charges, look X cards in any one Stash
+* Psy-: Spend X charges, look X cards in any one Hand
 * Razor: Spend 3 charges, add +Trauma to Payload
-* Retro-: Spend 2 charges, draw top card of Trash into your Stash
-* Science: Spend X charges, take X random cards from any one Stash, return X cards to that Stash
+* Retro-: Spend 2 charges, draw top card of Trash into your Hand
+* Science: Spend X charges, take X random cards from any one Hand, return X cards to that Hand
 * Sonic: ???
-* Tactical: Spend 1 Charge, give 1 card from your Stash to target player.
+* Tactical: Spend 1 Charge, give 1 card from your Hand to target player.
 * Thunder: Spend 1 Charge, add +Trauma and +Ruin to Payload
-* Turbo-: Spend 2 Charges, draw top card of Deck into your Stash
+* Turbo-: Spend 2 Charges, draw top card of Deck into your Hand
 * Vibro-: ???
-* Vortex: Spend 3 Charges, target player with two or more cards in their Stash discards a random card from their Stash.
+* Vortex: Spend 3 Charges, target player with two or more cards in their Hand discards a random card from their Hand.
 
 
 
@@ -414,7 +414,7 @@ Most of these are Side Actions
 ## Spider: Protective and Secretive
 
 * **Summon Effect:** Spider enters upon a growing network of powerful webs, which can hold together even the most chaotic battlefields. She brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Ruin damage incurred during this battle.
-* **Rider Boon:** While piloting Spider, you draw a new card into your Stash every time one of your cards is Beat-Back, because Spider *totally* saw that coming.
+* **Rider Boon:** While piloting Spider, you draw a new card into your Hand every time one of your cards is Beat-Back, because Spider *totally* saw that coming.
 * **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 

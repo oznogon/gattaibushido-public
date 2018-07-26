@@ -86,7 +86,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Armory:** a Team Resource that gives the Pilots sweet gear  
 **AvTE:** Average Team Evolutions, a gauge of relative team power and experience  
 **Buffer:** a pool of tokens that a Pilot can use to soak damage  
-**Cache:** the hand of cards that a player holds, their personal array of play options  
+**Hand:** the hand of cards that a player holds, their personal array of play options  
 **Commitment:** one of three core character stats that determine the base for all game mechanics  
 **Conflict:** one of the core game mechanics where the cards determine the outcome of in-story events  
 **Deck:** where all cards are drawn from; two of these exist, one for Coach and one for the Pilots  
@@ -103,7 +103,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Omens:** when a Joker reaches the top of the Deck, it becomes an Omen under Coach's control, and can trigger Escalation events.  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
-**Play:** the act of taking a card from your Cache and introducing it to the table, activating one or more mechanics  
+**Play:** the act of taking a card from your Hand and introducing it to the table, activating one or more mechanics  
 **Positions:** the different locations in the final form where the robos slot in  
 **Push:** the core action of a Throwdown, in which a card is played to beat the last-played card  
 **Razed:** a Location that has been Razed cannot be used in play, and must be rebuilt  

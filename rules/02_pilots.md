@@ -450,7 +450,7 @@ The Names are simple enough. Your group should come up with a team name during t
 
 The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. Your Team's position on the Harmony scale determines the following:
 
-* **Cards:** The number of bonus or penalty cards applied to the Merged Cache when two or more Pilots Fuze
+* **Cards:** The number of bonus or penalty cards applied to the Merged Hand when two or more Pilots Fuze
 * **Special:** Special circumstances that apply to merging Pilots at that Harmony level.
 
 **Harmony Table:**

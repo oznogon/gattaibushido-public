@@ -17,22 +17,22 @@ During the course of play, the cards will cycle between the following places in 
 * the **Deck** (from which you draw, face-down); 108 cards total, built by combining two standard 54-card Decks of playing cards.
 * the **Pile** (where they are played, face-up); Piles are sent to the Trash after each conflict concludes.
 * the **Trash** (where they are discarded, face-up); Trash is next to the main Deck.
-* your **Cache** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
+* your **Hand** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
 * certainly not your **Sleeve**, because that's cheating...
 * and occasionally the **Floor**, where we all inevitably drop them from time to time!
 
 
-### Cache
+### Hand
 
-Your **Cache** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Cache. The Cache is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
+Your **Hand** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Hand. The Hand is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
 
-All players have a Minimum Cache as follows:
+All players have a Minimum Hand as follows:
 
-* **Pilots:** Your Minimum Cache starts at Two (2) cards, and only a handful of game effects will increase that minimum.
-* **Coach:** Your Minimum Cache is set at the number of Pilots participating in the session.
+* **Pilots:** Your Minimum Hand starts at Two (2) cards, and only a handful of game effects will increase that minimum.
+* **Coach:** Your Minimum Hand is set at the number of Pilots participating in the session.
 
-While you may frequently have more cards in your ever-fluctuating Cache, if you ever hold *fewer* than your Minimum at any time outside of an active conflict, you can choose to immediately draw up to your Minimum.
+While you may frequently have more cards in your ever-fluctuating Hand, if you ever hold *fewer* than your Minimum at any time outside of an active conflict, you can choose to immediately draw up to your Minimum.
 
 
 ### Deck
@@ -42,7 +42,7 @@ There is a single core **Deck** of 108 playing cards created by combining the ca
 
 ### Faction
 
-**Factions** are sources of external power that the Pilots uncover through exploration and role-playing. When a Faction's favor has been acquired by the Pilots, they can invest cards from their Cache into that faction, keeping them on the table for later use. This allows well-connected Teams access to more card options beyond their rather limited personal Caches. Factions and their uses are described in more detail on p. SQUARP.
+**Factions** are sources of external power that the Pilots uncover through exploration and role-playing. When a Faction's favor has been acquired by the Pilots, they can invest cards from their Hand into that faction, keeping them on the table for later use. This allows well-connected Teams access to more card options beyond their rather limited personal Hands. Factions and their uses are described in more detail on p. SQUARP.
 
 
 ### Pile
@@ -116,7 +116,7 @@ When the rules call for a card to be **discarded**, you must remove the card in 
 
 ### Draw
 
-When you are told to **draw** a card, take the top card of the Deck and put it in your current active Cache of cards. Sometimes you may be told to "draw and immediately play" - in this case, that card skips your Cache and is played directly to the table. Outside of that specification, when you draw a card, it goes into your Cache before any subsequent actions or plays follow.
+When you are told to **draw** a card, take the top card of the Deck and put it in your current active Hand of cards. Sometimes you may be told to "draw and immediately play" - in this case, that card skips your Hand and is played directly to the table. Outside of that specification, when you draw a card, it goes into your Hand before any subsequent actions or plays follow.
 
 
 ### Flip
@@ -128,7 +128,7 @@ If you are told to flip a *stack* of cards, first tidy up the stack in place so 
 
 ### Play
 
-When the rules tell you to **play** a card, you take a card from your Cache and place it on the table in front of you. Unless otherwise stated, all card plays are performed face-up.
+When the rules tell you to **play** a card, you take a card from your Hand and place it on the table in front of you. Unless otherwise stated, all card plays are performed face-up.
 
 Sometimes you may see the sub-terms **Play-up** and **Play-down** in the test. These mean "play a card face up" and "play a card face down," respectively. Similarly, if the rules say that you "play down" or "play up" a card, those signify the orientation of the to-be-played card. But to repeat: unless otherwise stated, *all* Plays are performed face-up.
 
@@ -142,7 +142,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Shuffle/Reshuffle
 
-Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Caches, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
+Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Hands, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
 
@@ -176,7 +176,7 @@ We've listed them here for quick convenient reference. These are all explained i
 **Actions**
 
 * **+BREAK!** = action that allows Coach to disrupt a Lesser Fusion
-* **+Burn** = action that forces as target to discard their current Cache
+* **+Burn** = action that forces as target to discard their current Hand
 * **+Chargeup** = action that allows a Pilot to accrue a Charge
 * **+Favor** = action that allows a Pilot to invest into a Faction
 * **+Fortify** = action that allows a Pilot to recover a spent Buffer token
@@ -211,7 +211,7 @@ The heinous **+BREAK!** trigger allows Coach to disrupt an active Lesser Fusion.
 
 **Valid Targets:** Pilots, Coach
 
-The **+Burn** trigger forces the target to discard their entire current Cache of cards.
+The **+Burn** trigger forces the target to discard their entire current Hand of cards.
 
 
 ### +Chargeup
@@ -381,9 +381,9 @@ In short, Coach issues the challenge for a Gambit. The pilot accepts by playing 
 
 ## Play
 
-Should the Pilot accept the challenge, Coach then plays a card face-down to the table. This card can be from his own Cache, or can instead be played blind from the top of the Deck. The value of this **Threshold Card** will set the Threshold for the Gambit, but the Pilot does not know what it is before she plays.
+Should the Pilot accept the challenge, Coach then plays a card face-down to the table. This card can be from his own Hand, or can instead be played blind from the top of the Deck. The value of this **Threshold Card** will set the Threshold for the Gambit, but the Pilot does not know what it is before she plays.
 
-The Pilot must then either play-up a card of her choice from her own Cache (or a visible Faction), or instead flip one from the top of the Deck (if she's feeling lucky or doesn't want to waste her cards). Her goal is to equal or exceed the still-unknown Threshold that Coach's card created.
+The Pilot must then either play-up a card of her choice from her own Hand (or a visible Faction), or instead flip one from the top of the Deck (if she's feeling lucky or doesn't want to waste her cards). Her goal is to equal or exceed the still-unknown Threshold that Coach's card created.
 
 
 ## Outcome
