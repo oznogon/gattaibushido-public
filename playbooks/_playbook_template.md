@@ -243,7 +243,7 @@ Note the following final array of derived stats for your Pilot:
 * **Assist Bonus:** Base equals your Commitment to The Team.
 * **Strike Range:** Base equals your Commitment to the Fight.
 * **Buffer:** Base equals your Commitment to Yourself.
-* **Max Hand:** You get Three (3) cards Max.
+* **Max Hand:** Determined by your Team's current Harmony.
 * **Charge Pool:** You begin play with Three (3) Charges in your Pool, which has a base max of 7.
 * **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
 * **Rumble Draw:** Always equals your Robo Rank

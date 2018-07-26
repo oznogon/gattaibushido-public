@@ -73,7 +73,7 @@ Similarly, you can use this same method to build up the feeling of danger in a p
 
 Coach plays the game very differently than the Pilots. Below are the major mechanical process changes that apply to your role in ***Gattaibushido:FUSION!***
 
-**Coach's Hand:** Coach's Minimum Hand is set equal to the number of Pilot Players in the current game session.
+**Coach's Hand:** Coach's Max Hand is set equal to the number of Pilot Players in the current game session.
 
 **Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Hand in order to activate these options (one Face for Waves, three Faces for Storms).
 
@@ -588,7 +588,7 @@ Wave Version: Inflict +Disfavor upon a revealed Faction of choice. Storm Version
 
 #### Debilitate (2X)
 
-Wave Version: A Pilot of your choice Discards a card from her hand. Storm Version: Each Pilot discards a card from their hand, *or* a single Pilot Discards her entire hand. In either version, the Pilot(s) immediately redraws unless in the middle of an active Throwdown, in which case she only redraws after the Throwdown concludes.
+Wave Version: A Pilot of your choice Discards a card from her Hand. Storm Version: Each Pilot discards a card from their Hand, *or* a single Pilot Discards her entire hHnd. In either version, the Pilot(s) immediately redraws unless in the middle of an active Throwdown, in which case she only redraws after the Throwdown concludes.
 
 
 #### Demolish (2X)

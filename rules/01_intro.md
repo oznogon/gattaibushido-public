@@ -231,7 +231,7 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 
 #### Deal Starting Hands and Finalize the Deck
 
-Coach deals out the Pilots' starting Hands of cards, which defaults to two (2) cards unless special abilities modify it. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
+Coach deals out the Pilots' starting Hands of cards, which is based on the Team's current Harmony. Some characters will have special modifiers that increase this, as well. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
 
 After this is done, he shuffles the Jokers back into the Deck, face-up. The Deck is now prepared for play.
 

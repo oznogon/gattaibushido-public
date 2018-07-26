@@ -439,7 +439,7 @@ Each Team of Gattai Pilots has the following components:
 
 The Names are simple enough. Your group should come up with a team name during the creation session. Likewise, the Derogatory Nickname is what people call them behind their backs - or to their faces even, if their rep is super low! Fail Force Four, The Suck Seven, Lame Kitties, Losertown, etc. The group can come up with their own, or let it emerge during play.
 
-**Harmony** is a color-coded reference for how "in sync" the team is at any one time. The greater their Harmony, the more coordinated they act, and the more powerful their Final Form.
+**Harmony** is a color-coded reference for how "in sync" the team is at any one time. The greater their Harmony, the more coordinated they act, the more cards they have in their Hands, and the more powerful their Final Form.
 
 **Average Team Evolutions (AvTE)** is the average of all the team's total earned Evolutions. It's used to determine their relative field experience, and a few background factors are based off it (such as Threat suggestions, Gear availability, etc). To determine this, total the team's combined evolution count and divide by the number of team members, rounding up. At the very beginning of the game, a new team will have an AvTE of 0.
 
@@ -448,22 +448,24 @@ The Names are simple enough. Your group should come up with a team name during t
 
 **Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by **+Strife** triggers, which can lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
 
-The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. Your Team's position on the Harmony scale determines the following:
+The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. The chart columns below detail the following:
 
-* **Cards:** The number of bonus or penalty cards applied to the Merged Hand when two or more Pilots Fuze
-* **Special:** Special circumstances that apply to merging Pilots at that Harmony level.
+* **Harmony:** A color code for that rank of Harmony
+* **Rank:** A numerical rank associated with that color
+* **FF Bank:** The maximum combined total number of cards the Team can invest in their Final Form stash.
+* **Max Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
 
 **Harmony Table:**
 
-| Harmony    | Cards     | Special               |
-|------------|-----------|-----------------------|
-| 7 (Violet) | Draw 3    | All Gain 1 Charge     |
-| 6 (Indigo) | Draw 2    | -                     |
-| 5 (Blue)   | Draw 1    | -                     |
-| 4 (Green)  | -         | -                     |
-| 3 (Yellow) | Discard 1 | -                     |
-| 2 (Orange) | Discard 2 | -                     |
-| 1 (Red)    | Nil       | Can't Fuze at all!    |
+| Harmony | Rank | FF Bank | Max Hand |
+|---------|------|---------|----------|
+| Red     | 1    | 1       | 1        |
+| Orange  | 2    | 2       | 2        |
+| Yellow  | 3    | 3       | 2        |
+| Green   | 4    | 4       | 3        |
+| Blue    | 5    | 5       | 4        |
+| Indigo  | 6    | 6       | 4        |
+| Violet  | 7    | 7       | 5        |
 
 
 ### Lowering Harmony

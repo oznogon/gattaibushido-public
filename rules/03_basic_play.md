@@ -27,12 +27,12 @@ During the course of play, the cards will cycle between the following places in 
 
 Your **Hand** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Hand. The Hand is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
 
-All players have a Minimum Hand as follows:
+All players have a Hand size determined as follows:
 
-* **Pilots:** Your Minimum Hand starts at Two (2) cards, and only a handful of game effects will increase that minimum.
-* **Coach:** Your Minimum Hand is set at the number of Pilots participating in the session.
+* **Pilots:** Your max Hand is determined by your Team's position on the Harmony scale, and only a handful of game effects will alter that.
+* **Coach:** Your max Hand is set at the number of Pilots participating in the session.
 
-While you may frequently have more cards in your ever-fluctuating Hand, if you ever hold *fewer* than your Minimum at any time outside of an active conflict, you can choose to immediately draw up to your Minimum.
+During active conflicts, your current Hand size may fluctuate wildly as cards are drawn, played, and discarded. Between conflicts, if you ever hold either *fewer* or *more* than your max Hand, you must either draw back up or discard back down to max, respectively.
 
 
 ### Deck
@@ -211,7 +211,7 @@ The heinous **+BREAK!** trigger allows Coach to disrupt an active Lesser Fusion.
 
 **Valid Targets:** Pilots, Coach
 
-The **+Burn** trigger forces the target to discard their entire current Hand of cards.
+The **+Burn** trigger forces the target to discard their entire current Hand of cards. If this triggers during a conflict, do not redraw. If this triggers between conflicts, redraw to Max.
 
 
 ### +Chargeup
