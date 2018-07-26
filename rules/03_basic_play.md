@@ -25,7 +25,7 @@ During the course of play, the cards will cycle between the following places in 
 
 ### Hand
 
-Your **Hand** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Hand. The Hand is a transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
+Your **Hand** is a collection of cards that you keep to yourself, hidden from the rest of the players. The majority of your Plays will come from this Hand. The Hand is a semi-transient resource which frequently fluctuates throughout a session as you play conflicts and gain power from cards and events.
 
 All players have a Hand size determined as follows:
 

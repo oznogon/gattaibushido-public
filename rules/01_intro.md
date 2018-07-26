@@ -79,7 +79,7 @@ Inspirations:
 * **There are *no* Take-Backs.** If you put a card down, it's down, regardless of its source and/or facing. Think before you play.
 * **Card Ranks beat Card Suits.** A King of Clubs beats a Ten of Hearts beats a Seven of Spades.
 * **Card Suits break ties.** Seven of Spades beats a Seven of Clubs. Spades > Hearts > Diamonds > Clubs (reverse alphabetical).
-* **One Conflict Per Conflict.** In other words: no cheese-train conflict sequences in this game. If a Gambit, Throwdown, or Rumble fails to fully accomplish what you want from the moment, you cannot immediately start a new one to try it again. You must step back, reassess, and come up with a new approach. If that leads to a nearly identical conflict in a follow-up scene, that's fine, but no cheese trains allowed.
+* **One Conflict Per Conflict.** In other words: no cheese-train conflict sequences in this game. If a card-play conflict fails to fully accomplish what you want from the moment, you cannot immediately start a new one to try it again. You must step back, reassess, and come up with a new approach. If that leads to a nearly identical conflict in a follow-up scene, that's fine, but no cheese trains allowed.
 * **Explicit Card-Talk is Prohibited.** Players can not reveal or directly discuss the contents of their Hands with each other, unless in-game mechanics (namely Techs) explicitly state otherwise. You must instead talk strategy in-game, as your characters, and not meta-game the conflicts with cheaty card-talk. See rule #1.
 
 
@@ -151,7 +151,7 @@ All aspects of mechanical concern are resolved by plays and draws from a combine
 
 #### Card Conflicts
 
-The players will experience three core types of conflict, each of which involves the playing of cards. **Gambits** are the first and simplest, designed as quick question-resolvers that mainly serve to create more immediate unexpected events. **Throwdowns** are the larger fights and dramatic clashes that can involve the entire team playing complex card combos around the whole table. Finally, **Rumbles** are the "end-stage" fights, where the assembled mega-robotic Final Form goes head to head against a horrible space monster!
+The players will experience three core types of conflict, each of which involves the playing of cards. **Gambits** are the first and simplest, designed as quick question-resolvers that mainly serve to create more immediate unexpected events. **Throwdowns** are the larger fights and dramatic clashes that can involve the entire team playing complex card combos back and forth across the table. Finally, **Rumbles** are the "end-stage" fights that push Throwdowns even further, where the assembled mega-robotic Final Form goes head to head against a horrible space monster!
 
 
 #### Number Cards
