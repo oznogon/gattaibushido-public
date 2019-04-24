@@ -54,7 +54,8 @@ Just like this system's predecessor ***Motobushido***, you'll find that there is
 **TL;DR:** This game is not simple to pick up and play, but it is hopefully fun to learn, and exciting to master.
 
 For those of you looking forward to the challenge, I say: *Stride Forward, Princess of War!*
-- N. Phillip Cole, 2018
+
+\- N. Phillip Cole, 2018
 
 
 # Welcome Freshmen!
@@ -69,8 +70,9 @@ Inspirations:
 * *Vandread*: ...okay and this one too.
 * *Voltron*: Because *duh*
 * *Steven Universe*: I'd be a liar if I said I hadn't already planned out gem-themed team colors...
-* *Chroma Squad*: Best (and only?) super sentai game I've played (motorcycle chapter is best chapter)
+* *Chroma Squad*: Best (and only?) super sentai video game I've ever played (motorcycle chapter is best chapter).
 * *Dai-Guard*: I can't get that theme song out of my head!
+* *RWBY* and *gen:LOCK*: Rooster Teeth really *gets* teamwork-based stories, and these two shows are some of the absolute best.
 
 
 ## The Golden Rules
