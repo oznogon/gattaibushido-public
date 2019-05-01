@@ -89,6 +89,7 @@ The following media sources provided *immense* amounts of inspiration for the co
 ## The Golden Rules
 
 * **The cards are subordinate to the story.** If you play, draw, discard, or affect a card in any way, you *must* provide suitable in-game narration of such.
+* **Don't Ask; Do It.** - If you want your Pilot to do something in the story, don't ask Coach or the other players if you "can" do it. Say what you are going to do, and see if anyone challenges you. Take the initiative, and keep the conversation moving!
 * **There are *no* Take-Backs.** If you put a card down, it's down, regardless of its source and/or facing. Think before you play.
 * **Card Ranks beat Card Suits.** A King of Clubs beats a Ten of Hearts beats a Seven of Spades.
 * **Card Suits break ties.** Seven of Spades beats a Seven of Clubs. Spades > Hearts > Diamonds > Clubs (Remember: Reverse Alphabetical Order).
