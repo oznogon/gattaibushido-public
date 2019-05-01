@@ -64,7 +64,17 @@ For those of you looking forward to the challenge, I say: *Stride Forward, Princ
 
 (NOTE: Redesign of the intro section in progress. Goal: School freshmen welcome manual, with italicized mini-example rules descriptions alongside)
 
-Inspirations:
+
+#### Terminology Notes:
+
+When this text refers to "players" it includes *all* those at the table who are involved in the game, Coach and Pilots alike. For purposes of clarity, when rules are meant to refer only to Coach or the Pilots, they will use those specific terms. The term "Pilot" is often used to reference both the Pilot characters *and* their players, but *never* Coach.
+
+This game welcomes players of all mixings of genders (and lack thereof). For sake of instructional distinction, specific pronouns have been chosen in the actual game text. These pronouns are used entirely for clarity of text, and are specifically inspired by the very first media on the list of inspirations below. The pronouns "she" and "they" are used interchangeably within the text in all cases of reference to the Pilots and their players. The pronoun "he" is used in all references to Coach.
+
+
+## Inspirations:
+
+The following media sources provided *immense* amounts of inspiration for the conception and further development of this game:
 
 * *Gunbuster* & *Majestic Prince*: This game is basically a love letter to those two series.
 * *Vandread*: ...okay and this one too.
@@ -73,6 +83,7 @@ Inspirations:
 * *Chroma Squad*: Best (and only?) super sentai video game I've ever played (motorcycle chapter is best chapter).
 * *Dai-Guard*: I can't get that theme song out of my head!
 * *RWBY* and *gen:LOCK*: Rooster Teeth really *gets* teamwork-based stories, and these two shows are some of the absolute best.
+* *She-Ra and the Princesses of Power:* Not only is the theme song super badass, the show is a great portrayal of how intra-team conflict can drive a great heroic story.
 
 
 ## The Golden Rules
@@ -80,8 +91,8 @@ Inspirations:
 * **The cards are subordinate to the story.** If you play, draw, discard, or affect a card in any way, you *must* provide suitable in-game narration of such.
 * **There are *no* Take-Backs.** If you put a card down, it's down, regardless of its source and/or facing. Think before you play.
 * **Card Ranks beat Card Suits.** A King of Clubs beats a Ten of Hearts beats a Seven of Spades.
-* **Card Suits break ties.** Seven of Spades beats a Seven of Clubs. Spades > Hearts > Diamonds > Clubs (reverse alphabetical).
-* **One Conflict Per Conflict.** In other words: no cheese-train conflict sequences in this game. If a card-play conflict fails to fully accomplish what you want from the moment, you cannot immediately start a new one to try it again. You must step back, reassess, and come up with a new approach. If that leads to a nearly identical conflict in a follow-up scene, that's fine, but no cheese trains allowed.
+* **Card Suits break ties.** Seven of Spades beats a Seven of Clubs. Spades > Hearts > Diamonds > Clubs (Remember: Reverse Alphabetical Order).
+* **One Conflict Per Conflict.** In other words: no cheese-train conflict sequences in this game. If a card-play conflict fails to fully accomplish what you want from the moment, you cannot immediately start a new one to try it again. You must step back, reassess, and come up with a new approach. If that leads to a nearly identical conflict in a follow-up scene, that's fine, but no immediate re-tests should be allowed without a significant change to the story's current environmental and narrative parameters.
 * **Explicit Card-Talk is Prohibited.** Players can not reveal or directly discuss the contents of their Hands with each other, unless in-game mechanics (namely Techs) explicitly state otherwise. You must instead talk strategy in-game, as your characters, and not meta-game the conflicts with cheaty card-talk. See rule #1.
 
 
@@ -104,18 +115,17 @@ Make sure you have the basics:
 * **Pencils and Paper** are the core tools of every student in Battle School, and you will make heavy use of them here. You kids might think you’re clever with those special digi-pad-whatsits, but when they eventually suffer a glitch and the Meta-Skein crashes, you’ll be glad you kept the old standbys on hand!
 * **Playing Cards** are absolutely necessary for play, and you’ll need two decks. These decks are combined together into one big Deck that the whole table uses, so get two that look alike. They’re also great for after-hours poker games in the barracks, but don’t let Coach find out you’ve been gambling!
 * **Tokens or counters** of different colors will be useful for tracking the fluctuating levels of damage that your Pilot and her Team will experience during play, and for use as Power Tokens on the Final Form Positions.
-* (OPTIONAL) *A four-sided gaming die* might be useful for certain random moments, if you'd rather not burn through cards for them. 8-sided, 12-sided, and 20-sided also work, as they are all divisible by 4.
-* (***Still In Development***) Pilot Record Sheets allow you to keep detailed ongoing notes of your stats, abilities, skills, and class grades. Be careful now, these are your permanent records!
+* **Pilot Playbooks** should be printed out in advance so you can each easily choose your team roles and first year school courses (aka "character creation").
+* **Pilot Record Sheets** allow you to keep detailed ongoing notes of your stats, abilities, skills, and class grades. Be careful now, these are your permanent records!
 * (***Still In Development***) The Team Harmony Tracker is required to keep up-to-date stats on your pilots’ harmonic frequencies with each other. Put one of these on the table for everyone to see.
+* (OPTIONAL) *A four-sided gaming die* might be useful for certain random moments, if you'd rather not burn through cards for them. 8-sided, 12-sided, and 20-sided also work, as they are all divisible by 4.
 
 
 ## Introduction to Play
 
-One player takes on the role of "**Coach**" and leads the proceedings. Coach is responsible for guiding the game along and keeping the team focused on their story goals. Coach is the "game master" position in this game.
+One player takes on the role of "**Coach**" and leads the proceedings. Coach is responsible for guiding the game along and keeping the team focused on their story goals. If you're familiar with other tabletop role-playing games, think of Coach as the "game master" role.
 
 The rest of the players take on the roles of the "**Pilots**" and explore the story as presented by Coach. These player characters are responsible for driving the story forward in pursuit of their various agendas, both personal and team-focused. Oftentimes those agendas will clash with one another - since they're by default expected to be strongly passionate youths, this conflict is entirely expected. More often still, they will face direct opposition from space monsters and other dangerous threats, the likes of which they have dedicated their lives to fighting in order to protect the future of humanity.
-
-When this text refers to "players" it includes all at the table who are involved in the game, Coach and Pilots alike. For purposes of clarity, when rules are meant to refer only to Coach or the Pilots, they will use those specific terms. The term "Pilot" is used to reference both the Pilot characters *and* their players.
 
 
 ### The Pilots
