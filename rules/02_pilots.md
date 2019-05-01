@@ -3,12 +3,12 @@ section: pilots
 
 # The Pilot's Handbook
 
-**PLAYTEST NOTE 2018:** This section exists following a significant restructure of the rules document. It's structure is not final, and I welcome input on improvement.
+**PLAYTEST NOTE 2019:** This section exists following a significant restructure of the rules document. It's structure is not final, and I welcome input on improvement.
 
 
 ## Piloting Tips
 
-(**PLAYTEST NOTE** various bits of advice for pilot players, will be continually added to and revamped until final release)
+(**PLAYTEST NOTE** various bits of advice for pilot players)
 
 
 ### Start Small, and Take Your Time
@@ -73,7 +73,7 @@ This team creation process assumes that the new characters are a group of fresh 
 
 ##### How Long has Passed?
 
-Discussing as a group, figure out how much time has passed since the First Contact scene's events. Five years? A hundred? Only a few days? Figure out together what has changed in the world since then, and how the "Battle School" (that is, if your game has one, and that's the default assumption) fits into the story today.
+Discussing as a group, figure out how much time has passed since the First Contact scene's events. Five years? A hundred? Only a few days? Figure out together what has changed in the world since then, and how the "Battle School" (provided your follows the default assumption) fits into the story today.
 
 Along with the passing of time, you should establish how far removed the new Pilots are from the First Contact characters. Are any of those original characters still alive? Are any of them still in the group today, even? Are they teachers and mentors, or pariahs and cautionary stories? Are they nothing more than legends of the distant past, or do they still interact with the group today on a regular basis?
 
@@ -102,7 +102,7 @@ This is primarily a matter of thematic choice, especially if you're wishing to e
 
 ## Step 3: Choose and Fill Out the Playbooks
 
-Next, it's time to choose your individual Color Role playbooks. Coach will print out and lay forward the character playbooks for everyone to see and discuss. Each is a color-themed character booklet that will guide you through a series of choices to make about your Pilot, as well as a few choices that you get to make about others, and even a few that *they* get to make about *you*. Each is crafted to fill a specific role in the team, with assigned uniform colors inspired by (but not subservient to) genre media from the game's previously-mentioned sources of inspiration.
+Next, it's time to choose your individual team Color Roles. Coach will print out and lay forward the character playbooks for everyone to see and discuss. Each is a color-themed character booklet that will guide you through a series of choices to make about your Pilot, as well as a few choices that you get to make about the *other* Pilots, and even a few that *they* get to make about *you*. Each is crafted to fill a specific role in the team, with assigned uniform colors inspired by (but not subservient to) genre media from the game's previously-mentioned sources of inspiration.
 
 
 ##### First Red and Green
@@ -128,7 +128,7 @@ Once a player has chosen the Red playbook, let the others pick as they will. Aft
 
 (everyone work together to answer some narrative questions about the Team)
 
-**What weird pre-battle ritual does your team have?** As a team you should develop some special ritual that the Pilots engage in right before a fight that they know is coming. Maybe the whole team recites their team code aloud, or jams out their favorite songs in That Popular Rock Music Game (TM), or even just gets really trashed.
+**What weird pre-battle ritual does your team have?** As a team you should develop some special ritual that the Pilots engage in right before a fight that they know is coming. Maybe the whole team recites their team code aloud, or jams out their favorite songs in That Popular Rock Music Game (TM), or even disobeys school protocol entirely and just gets really trashed together!
 
 If the Pilots all actively make an effort to role-play this ritual each time in-game, Coach may give the team a Harmony boost. Conversely, if they fail to perform their team rituals at crucial moments, Coach may instead trigger a +Strife microevent.
 
@@ -136,21 +136,21 @@ If the Pilots all actively make an effort to role-play this ritual each time in-
 
 **What is your unit's Motto?** What slogan or such statement do you frequently say to one another, that's maybe even printed on your jackets? Does anyone in the Team actually care about it?
 
-**What do you call your final form?** Combo Drive? Ultimate Form Fusion? Mega-Dino-Maximus? You can answer this now, or wait until the Fusion first happens during play for a bit more suspense.
+**What do you call your final form?** Combo Drive? Ultimate Form Fusion? Mega-Dino-Maximus? ATHENA PRIME!?! You can answer this now, or wait until the Fusion first happens during play for a bit more suspense.
 
-Finally: **What is your team name?** Ultra Mega Assault Division? Team Triple Triumph? The War Warriors?
+Finally: **What is your team name?** Ultra Mega Assault Division? Team Triple Triumph? Loser Legion? The War Warriors?
 
 
 ##### Starting Resources
 
 In *Gattaibushido*, the Team is almost another character unto itself. Your Team consists of three Locations (the Barracks, the Bunker, and the Hangar), which in turn give you three special Team Resources: Fan Club, Armory, and Pit Crew, respectively. More detail on the Team Locations and Resources can be found starting on p. SQUARP. For now you need to determine at what levels your Team's three Resources begin.
 
-Each of the three Resources begins at a free base amount of 1. As your group goes through the playbooks and creates the team, each playbook will include instructions that increase these Resources somewhat. Once all of the chosen playbooks have been completed and their starting mods applied, the initial Team Resource ratings are finalized.
+Each of the three Resources begins at a free base amount of 1. As your group goes through the playbooks and creates the team, each playbook will include instructions that increase these Resources somewhat. Once all of the chosen playbooks have been completed and their starting adjustments applied, the initial Team Resource ratings are finalized.
 
 
 ##### Starting Harmony
 
-Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. Keep some tokens around to represent damage buildup during Throdowns, too - this text assumes you are using red-colored tokens, but anything your group wishes to use instead should be fine.
+Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. Keep some tokens around to represent damage buildup during Throwdowns, too - this text assumes you are using red-colored tokens, but anything your group wishes to use instead should be fine.
 
 The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Strife event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
 
@@ -165,14 +165,14 @@ With that, the Team is now Complete.
 
 ## OPTIONAL: The Custom Build Process
 
-(don't want to use a playbook? check with Coach and the others first; then use this process to build a completely custom-from-scratch character; replaces Step 2 in the team creation process for you)
+(don't want to use a playbook? check with Coach and the others first; then use this process to build a completely custom-from-scratch character; replaces Step 2 in the team creation process for you; still try and keep along with the others)
 
 (**PLAYTEST NOTE:** considering making this a "blank" playbook instead, could also serve as a template for third-party stuff if there's an interest; this is going to come later after much further playbook testing; etc)
 
 
 # Pilot Playbooks (INSERT PLAYBOOKS HERE)
 
-**PLAYTEST NOTE:** This section will be expanded in the final print.
+**PLAYTEST NOTE:** This section will be expanded in the final print. Currently the playbooks are being developed in separate files.
 
 (the character playbook, explained)
 
@@ -245,6 +245,9 @@ In addition to their own personal Techs, *every* Pilot has the following basic C
 
 
 ## Pilots: Commitments & Attributes
+
+**PLAYTEST NOTE 2019:** Entire section being re-written to comply with new "Moto-Reversion" approach to balance.
+
 
 Your Pilot's Commitments determine the basis for most all of the character mechanics.
 
