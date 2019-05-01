@@ -325,7 +325,7 @@ Fuze, Combine, Merge, Drift - whatever form it takes in your game world, Gattai 
 A Lesser Fusion is a meta-state that two or more Pilots can enter, allowing them to merge all of their individual personal abilities and resources together as a single combined unit. This creates powerful strategic opportunities for them in Throwdowns, and an experienced team of Pilots can dominate lesser Threats with skilled application of Fusion.
 
 
-##### ("Classic vs Modern Fusions" Sidebar)
+##### (SIDEBAR: "Classic vs Modern Fusions")
 
 > During character creation, your group should have specifically discussed the nature of your team's Fusion ability, and exactly how it manifests during play. Some teams may prefer a more "classic" experience, as defined by stories like *Voltron* and *Dai-Guard*. This means that "Fusions" are limited to a more traditional full-team assembly, requiring the entire group to be present, in their respective operational Robos, and joining up to assemble the Final Form and defeat the Big Giant Monster.
 >
@@ -334,7 +334,7 @@ A Lesser Fusion is a meta-state that two or more Pilots can enter, allowing them
 > For fans of other fiction, such as *Vandread*, *Aquarion*, and *Steven Universe*, the Lesser Fusion rules give your team more options to play out those kinds of stories. You still get to Robo Rumble in your Final Forms at the end, but you also get to play out Fusion on a more personal scale, too!
 
 
-##### ("Robos Required... or not?" Sidebar)
+##### (SIDEBAR: "Robos Required... or not?")
 
 > Another important consideration from your game setup session is whether or not your Fusions require your Robos. This will set limitations on how your Pilots activate their Fusions. By default, this game assumes that Robos will be required, and flavors the text accordingly. The vast majority of the inspirational gattai genre fiction is built on this assumption, so we're going with that as the standard. However, a number of other works have characters who Fuze directly, no Robo required, and we want to be able to allow that option as well. Again, this is a subject for group discussion.
 >

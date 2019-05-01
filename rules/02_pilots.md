@@ -179,7 +179,7 @@ With that, the Team is now Complete.
 **Style Ideas:** Report Card, Yearbook bio, Yearbook quote, Data Panel Readout
 
 
-##### (Colors, Weapons, and Robos SIDEBAR)
+##### (SIDEBAR: "Colors, Weapons, and Robos")
 
 > Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Color, your Power Weapon, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
 >

@@ -132,17 +132,17 @@ The rest of the players take on the roles of the "**Pilots**" and explore the st
 
 The Pilots are the core focus of every game. This is the story of their lives and times, their dramas and sorrows, their wins and losses. They must balance the stresses of their schooling and social lives while also pulling together to save the world from invading space monsters.
 
-On the Pilot's Record Sheets are a handful of core game components that you should know about. First are their **Commitments**, this game's version of "attributes." Each Pilot has three core Commitments that frequently come into conflict with one another: **to the Team**, **to the Fight**, and **to Yourself**, sometimes shortened to just **Team**, **Fight**, and **Self**. The numerical ratings of these three stats determines the base mechanics for every extended game component.
+On the Pilot's Record Sheets are a handful of core game components that you should know about. First are their **Commitments**, this game's version of "attributes." Each Pilot has three core Commitments that frequently come into conflict with one another: **to the Team**, **to the Fight**, and **to Yourself**, sometimes shortened to just **Team**, **Fight**, and **Self**. The numerical ratings of these three stats determine the base mechanics for every extended game component.
 
-The Pilots also have three special empowering tools at their disposal: their **Color Role**, **Power Weapon**, and personal **Robo**. A Pilot's Color Role both sets the color of her outfit and also defines the greater role that she plays in her team. Functioning similarly to a "character class," Colors provide unique mechanical **Techs** as well as extended role-playing inspiration. A Pilot's Power Weapon is that singular awesome tool she is most known for using in combat. Power Weapons start with a basic form and function (and associated weapon Techs), and can grow mightily over time. A Pilot's Robo is the bad-ass giant Mecha that she pilots in the field against the invading monsters. Robos each come in different forms, and give their Pilots even more cool powers to use while in the cockpit. Oh, and they can also merge their robos together for even more power!
+The Pilots also have three special empowering tools at their disposal: their **Color Role**, **Power Weapon**, and personal **Robo**. A Pilot's Color Role both sets the color of her outfit and defines the greater role that she plays in her team. Functioning similarly to a "character class," Colors provide unique mechanical **Techs** and extended role-playing inspiration. A Pilot's Power Weapon is that singular awesome tool she is most known for using in combat. Power Weapons start with a basic form and function (and associated weapon Techs), and can grow mightily over time. A Pilot's Robo is the badass giant Mecha that she pilots in the field against the invading monsters. Robos each come in different forms, and give their Pilots even more cool powers to use while in the cockpit. Oh, and they can also merge their robos together for even more power!
 
 Pilots have access to a couple of expendable resources over time, called **Buffers** and **Charges**. Buffers are their reserves of ability to resist the different types of damage thrown at them during play. Charges are constantly-fluctuating pools of energy that let them power up the various Techs bestowed to them by their Color Roles, Power Weapons, and Personal Robos.
 
-Speaking of damage, the world out there is full of a great many dangerous entities, all of which can bring harm to the Pilots, their allies, and the places they are trying their best to protect! These are most commonly enacted through **Microevents** which activate via **+Triggers** of different natures. A lot of these happen in the background, so for now, just know that it's not going to be an easy fight, and you need to be careful out there!
+Speaking of damage, the world out there is full of many dangerous entities, all of which can bring harm to the Pilots, their allies, and the places they are trying their best to protect! These are most commonly enacted through **Microevents** which activate via **+Triggers** of different natures. A lot of these happen in the background, so for now, just know that it's not going to be an easy fight, and you need to be careful out there!
 
-Over time, as the Pilots experience conflict and victory and more, they will learn from their experiences and hone their abilities. By acquiring **Lessons** and subsequently learning from them, they convert those Lessons into **Evolutions** which allow them to increase their existing powers, and learn new ones as well.
+Over time, as the Pilots experience conflict and victory and more, they will learn from their trials and hone their abilities. By acquiring **Lessons** and subsequently learning from them, they convert those Lessons into **Evolutions** which allow them to both increase their existing powers, and acquire new ones as well.
 
-Additionally, sitting central between all of the Pilots at the table is another gauge called **Harmony** that affects the *whole team* as one unit. Harmony is a 7-step gauge that determines how power the Pilots' "team spirit" is at any one time. The higher their collective Harmony, the stronger they are at pursuing their goals, and the more likely they are to be able to Fuze into their Final Form. Pilots who stress themselves out can lower this Harmony and damage the team spirit, so be careful out there!
+Additionally, sitting central between all of the Pilots at the table is another gauge called **Harmony** that affects the *whole team* as one unit. Harmony is a 7-step gauge that determines how strong the Pilots' "team spirit" is at any one time. The higher their collective Harmony, the better they will be at pursuing their goals and eventually **Fuzing** into their **Final Form**. Pilots who stress themselves out can lower this Harmony and damage the team spirit, so be careful out there!
 
 The Pilots' Team itself is also a greater unit of play, with its own stats and mechanics. The Team begins play with its own special Base of Operations, which starts with three core **Locations**: the **Barracks**, the **Bunker**, and the **Hangar**. These Locations in turn provide three special **Resources** that the Pilots can draw from, and must manage throughout their adventures: the **Fan Club**, the **Armory**, and the **Pit Crew**. These Resources connect directly to Pilots' own core Commitments and extended tools, both empowering and limiting them in turns. In addition to their Home Base, they will encounter other Locations too! Each will have its own unique game-affecting boon that the Pilots can receive while exploring them.
 
@@ -153,7 +153,7 @@ Finally, the team can equip themselves with extended load-outs of **Gear**. Thes
 
 All of play will take place inside of **Scenes** and **Conflicts**. A "Scene" is essentially defined as "a thing at a place at a time." It's an extremely loose system of narrative structure, and its scope is largely up to Coach's determination. Scenes are often punctuated by "Conflicts" wherein the Pilots' abilities are tested against nature, chance, monsters, or even each other!
 
-It is very important for each mission in the game to be underscored by a growing feeling of "pressing urgency." The enemy is forever marching slowly toward the completion of its nefarious goals, bringing humanity closer and closer to the brink of disaster. While there may be a number of situations where the Pilots may need to lay low and recover their temporary losses, the enemy never waits. Balancing needs of rest with the immediacy of the looming Threat is a major aspect of play.
+It is very important for each mission in the game to be underscored by a growing feeling of "pressing urgency." The enemy is forever marching slowly toward the completion of its nefarious goals, bringing humanity closer and closer to the brink of disaster. While there may be a number of situations where the Pilots may need to lay low and recover their temporary losses, the enemy never waits. Balancing needs of rest with the immediacy of the looming Threat is a major aspect of play. While it is up to Coach to incorporate this urgency into the ongoing narrative, the game also provides a mechanical way to ramp up the tension via Coach's **Escalation** track.
 
 
 ### The Cards
@@ -188,7 +188,7 @@ The combined Deck includes *four* Joker cards, which serve as special Pacing and
 
 ### Coach
 
-Coach fills the "game master" role in this game. He sets everything up, manages proceedings, and guides the flow of play. Coach is largely (but *not* exclusively) responsible for introducing story components and pushing along the narrative and events in a way that make for an exciting session of play. Coach is in charge of introducing all of the other non-Pilot story characters that populate the world. Coach manages the Factions, Threats, and Big Giant Monsters that the players heavily interact with through play.
+Coach fills the "game master" role. He sets everything up, manages proceedings, and guides the flow of play. Coach is largely (but *not* exclusively) responsible for introducing story components and pushing along the narrative and events in a way that make for an exciting session of play. Coach is in charge of introducing all of the other non-Pilot story characters that populate the world. Coach manages the Factions, Threats, and Big Giant Monsters that the players heavily interact with through play.
 
 Coach's role is a lot more complicated than the individual Pilots' roles, but to make it easier he actually has much simpler mechanics to manage. While the Pilots have a tight structure of multi-tiered mechanics and stats, most of Coach's mechanics have exactly one solitary stat each, and much simpler arrays of enhancements.
 
@@ -199,16 +199,14 @@ The Pilots will interact with many "non-player" characters throughout their miss
 
 Factions are any kind of neutral or friendly force in the game that has motivation and agency within the scenario's story. Factions are meant to be courted by the Pilots, who can gain favor with them and invest external power in them for later use.
 
-Threats are any force that primarily exists as a danger to the Pilots and their goals. These can be school bullies, oppressive military regimes, crazed space cults, infectious zombie parasites, raging void storms, dangerous natural environments, and yes even:
+Threats are any forces that primarily exist as a danger to the Pilots and their goals. These can be school bullies, oppressive military regimes, crazed space cults, infectious zombie parasites, raging void storms, dangerous natural environments, and yes even:
 
-Big Giant Monsters! These are special "advanced" Threats that have the power to destroy great numbers of lives and cause trillions of space-dollars worth of destruction. BGMs are so powerful that the best (and only?) hope of defeating them is for the Pilots to get over their interpersonal squabbles and join up!
+Big Giant Monsters! These are special "advanced" Threats that have the power to destroy great numbers of lives and cause trillions of Space-Dollars worth of destruction. BGMs are so powerful that the best (and only?) hope of defeating them is for the Pilots to get over their interpersonal squabbles and join up!
 
 
 ## Session Flow
 
-For your first time playing *Gattaibushido:FUSION!*, I highly advise that you start the session with the **First Contact** scenario (detailed in the Coach rules section, p. SQUARP), and conclude that session with full-table character creation.
-
-Each additional session follows a basic flow:
+Each session of play follows a basic flow:
 
 1. Session Setup
 2. Team Salute
@@ -218,13 +216,18 @@ Each additional session follows a basic flow:
 6. Session Breakdown
 
 
+##### (SIDEBAR: The First Contact Session)
+
+> For your first time playing *Gattaibushido:FUSION!*, I ***strongly*** advise that you start the session with the **First Contact** scenario (detailed in the Coach rules section, p. SQUARP), and conclude that session with full-table character creation. First Contact is designed to serve as both a hands-on tutorial to the game's core mechanics and an interactive "Session Zero" live world-building experience. While not *required* to play the game, it can be invaluable for new campaigns and also for new players. See p. SQUARP for more information.
+
+
 ### 1. Session Setup
 
 First create the play space for the session. This includes setting up basic supplies (playing card Deck creation, writing utensils, tokens, index cards), passing out sheets (pilots, harmony tracker, etc), and determining where everyone is sitting. Some Special Considerations:
 
 **Jokers:** Leave the jokers out of the Deck for the moment. They'll be shuffled in shortly.
 
-**Seating Order:** Your seating order at the table is actually pretty important! Where you all sit determines your conflict initiative and flow order, since all action flows clockwise around the table from Coach (at least initially). If you have a few sessions under your wing and wish to strategize the order of your team’s actions, establishing a seating order is the way to do it - but make sure to do it before you get to the table, as that kind of meta-talk is generally discouraged during play. **Seating order for a session is locked in for the session once everyone completes the Team Salute (see below)!** However, Coach may allow a new group to change mid-game in the first session or two, as the Pilots learn how their abilities interact.
+**Seating Order:** Your seating order at the table is actually pretty important! Where you all sit determines your conflict initiative and flow order, since all action flows clockwise around the table from Coach (at least initially). If you have a few sessions under your wing and wish to strategize the order of your team’s actions, establishing a seating order is the way to do it - but make sure to do it before you get to the table, as that kind of meta-talk is generally discouraged during play. **Seating order for any active session is locked in once everyone completes the Team Salute (see below)!** However, Coach may allow a new group to change mid-game in the first session or two, as the Pilots learn how their abilities interact, and want to experiment with new seating configurations without having to wait 'til the next session.
 
 
 #### Starting Resources (First Session)
@@ -236,9 +239,9 @@ If you are kicking off a whole new team of Pilots in a brand new scenario, their
 
 **Harmony:** At the beginning of each new Scenario, Coach will most likely alter your Harmony rank from last time. This may be due to specifications written into the scenario itself, or due to events on the Downtime Draw Table (in Coach's Handbook). Additionally, some Playbooks will affect Harmony each time a new Scenario begins.
 
-If the team's Harmony is below Green at the start of a new *session*, each Pilot must name one thing that the others have recently done to piss her off (the lower the Harmony, the greater the offense). Conversely, if the team's Harmony is somehow above green, each Pilot must state one thing that’s super awesome in her life, awesome enough that it could make others jealous. These can be previous in-game events, or even whole new off-screen things that happened. Need to sow the seeds for some juicy intra-team conflicts here!
+If the team's Harmony is below Green at the start of a new *session*, each Pilot must name one thing that the others have recently done to piss her off (the lower the Harmony, the greater the offense). Conversely, if the team's Harmony is somehow above green, each Pilot must state one thing that’s super awesome in her life, awesome enough that it could make others jealous. These can be previous in-game events, or even whole new off-screen things that happened between sessions, mentioned at the game now for the first time ever. This is a prime moment to sow the seeds for some juicy intra-team conflicts!
 
-**Armory, Fan Club, Pit Crew:** Some Playbooks have recurring modifiers to these resources. Apply them to the running totals at the start of each new Scenario.
+**Armory, Fan Club, Pit Crew:** Some Playbooks have recurring modifiers to these resources. Apply them to the running totals at the start of the *first* session (only) of each new *Scenario*.
 
 
 #### Deal Starting Hands and Finalize the Deck
