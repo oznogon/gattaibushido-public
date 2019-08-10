@@ -18,7 +18,7 @@ As Coach, your primary role is arbiter (of the rules), narrator (of the world), 
 
 ### Draw Inspiration from the Genre
 
-TBD
+**Watch a lot of mecha anime!**
 
 
 ### You Don't Have to Fight the Formula...
@@ -324,7 +324,7 @@ To provide suitable challenge for one-shot Robo Rumbles, add the BGM's Threat ra
 
 ### Moving Along the Path
 
-As the cards move during play, jokers that reach the top of the Deck become Omens under your control, face-up in front of you waiting to be used. At any point outside of an active conflict, you can "spend" an Omen by flipping it to its face-down state. Doing so triggers the next event on the Escalation Path.
+As the cards move during play, jokers that reach the top of your Deck become Omens under your control, face-up in front of you waiting to be used. At any point outside of an active conflict, you can "spend" an Omen by flipping it to its face-down state. Doing so triggers the next event on the Escalation Path.
 
 This build a rough structure for pacing right into the game, while also giving you a bit of leeway as Coach on how to time these events for maximum impact. While it is technically possible to sit on the unspent Omens for as long as you want, we highly recommend spending them whenever you can, so as to get more tension and action into the game, and better move the story along!
 
@@ -557,7 +557,7 @@ To craft new ones, use these basic guidelines. Waves can do a minor effect, whil
 * Demolish (2X) - W: +Ruin:Choice *or* S: +Ruin:Each
 * Enforce - Can use Buffers to ignore Strike Range
 * Fortify - S: increase TR of existing Threats
-* Harbinger - Each Push in a Throwdown forces discards from the Deck
+* Harbinger - Each Push in a Throwdown forces discards from your Deck
 * Heavy-Hitter - Each Push in a Throwdown adds +Trauma to the Threat's Payload
 * Infiltrate (2X) - W: Discard 1 current Favor card *or* S: Discard 1 entire Favor card stack
 * Rumble Tech - Gives the BGM a new Rumble Tech
@@ -610,7 +610,7 @@ When designing a Threat with this Power, you should make sure that every planned
 
 #### Harbinger
 
-PASSIVE: This Threat pushes toward Escalation with each action it takes. Whenever it Pushes in a Throwdown, Coach Discards a number of cards from the Deck equal to the current number of Omens in play.
+PASSIVE: This Threat pushes toward Escalation with each action it takes. Whenever it Pushes in a Throwdown, Coach Discards a number of cards from your Deck equal to the current number of Omens in play.
 
 
 #### Heavy-Hitter
@@ -707,7 +707,7 @@ This should be needless to say, but anyway: the pilots and their players *should
 
 # Coach: First Contact
 
-The First Contact scene serves two crucial purposes in play. First, it provides a learn-as-you-go tutorial for the game's core mechanics. A well-run First Contact scene should get the players all used to the flow of the cards, the role of the Deck in play, and the basics of full-team conflict resolution. There are a good number of extended mechanics that don't get play in this scene, but that's okay, as right now it's important to just learn the fundamentals.
+The First Contact scene serves two crucial purposes in play. First, it provides a learn-as-you-go tutorial for the game's core mechanics. A well-run First Contact scene should get the players all used to the flow of the cards, the role of the Decks in play, and the basics of full-team conflict resolution. There are a good number of extended mechanics that don't get play in this scene, but that's okay, as right now it's important to just learn the fundamentals.
 
 Secondly, the scene establishes the groundwork of your new campaign's world-story. At points during the process, the players will directly develop narrative facts about the game world. This results in no two games of Gattaibushido:FUSION! being identical, creating great variation in player stories and experiences.
 
@@ -746,7 +746,7 @@ First Contact Flow:
 1. Quick Explanation
 2. Establishment Questions
 3. Character Creation
-4. Deal Hands and Create the Deck
+4. Draw Hands and Create the Decks
 5. Set the Stage
 6. PLAY!
 7. ...and bring to a Conclusion
@@ -819,9 +819,9 @@ Now each player (except you, of course) needs to figure out who their character 
 * I've got to destroy the secret documents!
 
 
-### Deal Hands & Prepare the Deck
+### Draw Hands & Prepare the Decks
 
-The Deck and Hands in the First Contact scene are prepared differently than the regular game. First, set the Jokers aside - they are not used during this intro scene. Shuffle the Deck, and deal each player three cards to set their initial personal Hands. The Deck is now ready for play.
+The Decks and Hands in the First Contact scene are prepared differently than the regular game. First, set the Jokers aside - they are not used during this intro scene. Both sides first shuffle their Decks, and each Pilot player three cards to set their initial personal Hands, while you draw none. The Decks are now ready for play.
 
 
 ### Set the Stage

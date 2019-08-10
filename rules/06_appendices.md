@@ -100,7 +100,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Gambit:** a quick mechanic for resolution of minor conflicts  
 **Harmony:** a seven-point scale representing the strength of your team's spirit  
 **Locations:** a place in the game where events happen, with mechanics that modify those events  
-**Omens:** when a Joker reaches the top of the Deck, it becomes an Omen under Coach's control, and can trigger Escalation events.  
+**Omens:** when a Joker reaches the top of Coach's Deck, it becomes an Omen under his control, and can trigger Escalation events.  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
 **Play:** the act of taking a card from your Hand and introducing it to the table, activating one or more mechanics  
@@ -114,10 +114,10 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **+Storm:** mechanical notation that an effect triggers one of Coach's Waves  
 **Suit:** the category of pip on the playing cards (Spades, Hearts, Diamonds, and Clubs)  
 **Suit Value:** a numerical value tied to a card's Suit (Spades=4, Hearts=3, Diamonds=2, and Clubs=1)  
-**+Tarry:** when the Pilots choose to spend time inactive, causing a Discard from the Deck  
+**+Tarry:** when the Pilots choose to spend time inactive, causing a Discard from Coach's Deck  
 **Tech:** Short for "Technique," Techs are special powers you can trigger during Throwdowns and some other game situations.  
 **Throwdown:** the standard full-team conflict resolution system  
-**Trash:** a face-up stack of cards next to the Deck; discarded cards from the Deck are sent here  
+**Trash:** a face-up stack of cards next to each Deck; discarded cards from a Deck are sent here  
 **+Trauma:** a trigger that damages your Pilot by reducing her Commitment ranks  
 **Wave:** one of Coach's two primary scripted Threat actions against the Pilots (the less heinous one)  
 **+Wave:** mechanical notation that an effect triggers one of Coach's Waves  

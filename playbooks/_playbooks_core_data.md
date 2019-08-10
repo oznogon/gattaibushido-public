@@ -80,7 +80,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 **Advance Warning!:** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Escalation event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Escalation Level remains at its previous position.
 
-**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when a Joker is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
+**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when one of Coach's Jokers is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
 
 
 ### Charge Tech
@@ -88,7 +88,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 **Strategic Action!** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:
 * New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
 * New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
-* New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on the Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are.
+* New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on any Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are. This is the *only* time when a Pilot is allowed to touch the cards in Coach's Deck.
 
 
 ### PLAYBOOK SPECIAL

@@ -1,11 +1,11 @@
 section: basic play
 
 
-# Basics of the Deck
+# Basics of the Decks
 
 (all the details on the basics of how the cards work)
 
-The Deck is the singular tool for all forms of mechanics resolution in ***Gattaibushido:FUSION!*** In this Chapter, we break down the basics of how the cards are used during play.
+The Decks are the dual tools for all forms of mechanics resolution in ***Gattaibushido:FUSION!*** In this Chapter, we break down the basics of how the cards are used during play.
 
 
 ## Card Placements
@@ -14,9 +14,9 @@ During the course of play, the cards will cycle between the following places in 
 
 (TBD: include diagram!)
 
-* the **Deck** (from which you draw, face-down); 108 cards total, built by combining two standard 54-card Decks of playing cards.
+* the two **Decks** (from which you draw, face-down); standard playing card decks of 54 cards each, one for the Pilots and one for Coach.
 * the **Pile** (where they are played, face-up); Piles are sent to the Trash after each conflict concludes.
-* the **Trash** (where they are discarded, face-up); Trash is next to the main Deck.
+* the **Trash** (where they are discarded, face-up); a Trash is next to each respective Deck.
 * your **Hand** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
 * certainly not your **Sleeve**, because that's cheating...
@@ -35,14 +35,14 @@ All players have a Hand size determined as follows:
 During active conflicts, your current Hand size may fluctuate wildly as cards are drawn, played, and discarded. Between conflicts, if you ever hold either *fewer* or *more* than your max Hand, you must either draw back up or discard back down to max, respectively.
 
 
-### Deck
+### Decks
 
-There is a single core **Deck** of 108 playing cards created by combining the cards from two identical 54-card Decks together. *All* of the players use the same combined Deck for their actions. The Deck is placed face-down in the middle for everyone to see. The four Jokers are always shuffled in face-*up*, however.
+There are two base **Decks** of 54 standard playing cards. *All* of the Pilots use one Deck for their actions, while Coach uses a separate Deck of his own. The Decks are placed face-down in the middle for everyone to see and reach. The Jokers in each Deck are always shuffled in face-*up*, however.
 
 
 ### Faction
 
-**Factions** are sources of external power that the Pilots uncover through exploration and role-playing. When a Faction's favor has been acquired by the Pilots, they can invest cards from their Hand into that faction, keeping them on the table for later use. This allows well-connected Teams access to more card options beyond their rather limited personal Hands. Factions and their uses are described in more detail on p. SQUARP.
+**Factions** are sources of external power that the Pilots uncover through exploration and role-playing. When a Faction's favor has been acquired by the Pilots, they can invest cards from their Hand into that faction, keeping them on the table for later use. This also means that all cards on a Faction must be from the Pilot Deck. This allows well-connected Teams access to more card options beyond their rather limited personal Hands. Factions and their uses are described in more detail on p. SQUARP.
 
 
 ### Pile
@@ -52,7 +52,7 @@ During Throwdowns, a **Pile** of cards temporarily exists in the middle of the t
 
 ### Trash
 
-The Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card that came from the Deck is discarded during play, it goes on top of the Trash heap, face-up.
+Each Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card is discarded during play, it goes on top of the Trash heap of the relevant Deck, face-up.
 
 
 ## Card Details
@@ -68,8 +68,8 @@ The Deck has an associated **Trash** heap, which is a stack of face-up cards nex
 
 If you're not used to playing cards, the terms "face" and "facing" and "face cards" can be a bit confusing. Hopefully the following can make some of that easier:
 
-* Every card has a Face and a Back. The Face shows the rank and suit of the card, while the Back shows the standard card backing pattern for that deck.
-* Some cards have *literal* faces on their faces, denoting them as Jacks, Queens, and Kings. While every card in the deck has a face, these cards are *specifically* called Face Cards. They have number values of 11, 12, and 13, respectively.
+* Every card has a Face and a Back. The Face shows the rank and suit of the card, while the Back shows the standard card backing pattern for that Deck.
+* Some cards have *literal* faces on their faces, denoting them as Jacks, Queens, and Kings. While every card in the Deck has a face, these cards are *specifically* called Face Cards. They have number values of 11, 12, and 13, respectively.
 * Finally, the term "facing" is used to denote the directional positioning of the card in play. For example, if a card is laying on the table with it's "face" side directed downward, then it is noted as "facing" down, or simply "face-down."
 
 
@@ -99,11 +99,11 @@ However, Aces have a weakness against Twos. In a Gambit, a Two always beats an A
 
 ### Jokers
 
-Jokers are used as a special Pacing and Empowerment mechanic. The four Jokers are always shuffled into the combined Deck *face-up*. When a Joker is revealed (by reaching the top of the Deck), a few things happen. First off, *all* the Heroes currently at the table gain 1 Charge. Then Coach immediately takes the card and sets it face-up in front of him at the table as an **Omen**.
+Four Joker cards are used as a special Pacing and Empowerment mechanic. The Jokers are always shuffled into their respective Decks *face-up*. When a Joker is revealed (by reaching the top of the Deck), a few things happen. First off, *all* the Heroes currently at the table gain 1 Charge. Then Coach immediately takes the card and sets it face-up in front of him at the table as an **Omen**.
 
 Omens in play exist in two states: Active (face-up) and Spent (face-down). Omens represent impending Doom for the Heroes. Rules for their management are found in Coach's section of this manual (see p. SQUARP), but in short, he can choose to Spend an Omen at any time by flipping it face-down. This triggers one of the pre-written Escalation Events for the current scenario.
 
-Jokers are *never* sent to Play Piles or the Trash; Jokers on the table are not returned to the Deck until there are four Spent (as in *face-down*) Omens in front of Coach.
+Jokers are *never* sent to Play Piles or the Trash; Jokers on the table are not returned to their Decks until there are four Spent (as in *face-down*) Omens in front of Coach.
 
 
 ## Card Terminology
@@ -116,7 +116,7 @@ When the rules call for a card to be **discarded**, you must remove the card in 
 
 ### Draw
 
-When you are told to **draw** a card, take the top card of the Deck and put it in your current active Hand of cards. Sometimes you may be told to "draw and immediately play" - in this case, that card skips your Hand and is played directly to the table. Outside of that specification, when you draw a card, it goes into your Hand before any subsequent actions or plays follow.
+When you are told to **draw** a card, take the top card of your Deck and put it in your current active Hand of cards. Sometimes you may be told to "draw and immediately play" - in this case, that card skips your Hand and is played directly to the table. Outside of that specification, when you draw a card, it goes into your Hand before any subsequent actions or plays follow.
 
 
 ### Flip
@@ -142,7 +142,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Shuffle/Reshuffle
 
-Whenever the rules call for a **Shuffle** or **Reshuffle**, Coach picks up the Deck and the Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Hands, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
+Whenever the rules call for a **Shuffle** or **Reshuffle** of a Deck, the Deck's owner picks up both the Deck and its Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Hands, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
 
@@ -280,7 +280,7 @@ The **+Storm** trigger allows Coach to activate any one Storm action on his scen
 
 The game's time and escalation mechanics will occasionally call for a **+Tarry** action, most commonly when the Pilots make use of certain Location boons, but also occasionally when they waste time arguing and Coach feels necessary to mechanically nudge them into action.
 
-Tarry is a quick and simple Coach-specific card action. When triggered, Coach takes a number of cards from the top of the Deck equal to the number of face-up Omens currently in play, and sends them directly to the Trash. This risks bringing the Deck ever closer to the revelation of another Omen (and potential escalation!).
+Tarry is a quick and simple Coach-specific card action. When triggered, Coach takes a number of cards from the top of his Deck equal to the number of face-up Omens currently in play, and sends them directly to the Trash. This risks bringing the Deck ever closer to the revelation of another Omen (and potential escalation!).
 
 
 ### +Wave

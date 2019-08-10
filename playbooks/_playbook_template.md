@@ -96,7 +96,7 @@ As the (Role Name), your specialty is (Role Details Shortform). **First**, this 
 
 * New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
 * New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
-* New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on the Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are.
+* New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on any Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are. This is the *only* time when a Pilot is allowed to touch the cards in Coach's Deck.
 
 
 

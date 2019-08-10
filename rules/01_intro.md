@@ -114,7 +114,7 @@ Some Major Game themes:
 Make sure you have the basics:
 
 * **Pencils and Paper** are the core tools of every student in Battle School, and you will make heavy use of them here. You kids might think you’re clever with those special digi-pad-whatsits, but when they eventually suffer a glitch and the Meta-Skein crashes, you’ll be glad you kept the old standbys on hand!
-* **Playing Cards** are absolutely necessary for play, and you’ll need two decks. These decks are combined together into one big Deck that the whole table uses, so get two that look alike. They’re also great for after-hours poker games in the barracks, but don’t let Coach find out you’ve been gambling!
+* **Playing Cards** are absolutely necessary for play, and you’ll need two separate decks - one for the Pilots, and one for Coach. They’re also great for after-hours poker games in the barracks, but don’t let Coach find out you’ve been gambling!
 * **Tokens or counters** of different colors will be useful for tracking the fluctuating levels of damage that your Pilot and her Team will experience during play, and for use as Power Tokens on the Final Form Positions.
 * **Pilot Playbooks** should be printed out in advance so you can each easily choose your team roles and first year school courses (aka "character creation").
 * **Pilot Record Sheets** allow you to keep detailed ongoing notes of your stats, abilities, skills, and class grades. Be careful now, these are your permanent records!
@@ -159,7 +159,9 @@ It is very important for each mission in the game to be underscored by a growing
 
 ### The Cards
 
-All aspects of mechanical concern are resolved by plays and draws from a combined double-deck of playing cards, henceforth simply referred to as **The Deck**. The extended and fully-detailed card Rules are explained in the later *Cards and Conflicts* section of these rules, but for now there are a few core concepts behind them that you should know before reading much further.
+All aspects of mechanical concern are resolved by plays and draws from two separate decks of playing cards. The Pilots get a single Deck that they play from as a team, and Coach gets another Deck all of his own. The Pilots *never* touch or play the cards from Coach's Deck, and vice-versa.
+
+Given that neither side should ever touch the other's Deck, henceforth this text uses the term **The Deck** to refer to the relevant Deck of cards as determined by context. If the Pilots are told to draw from The Deck, this refers to the Pilot Deck, and likewise with Coach and his own Deck. The extended and fully-detailed card Rules are explained in the later *Cards and Conflicts* section of these rules, but for now there are a few core concepts behind them that you should know before reading much further.
 
 
 #### Card Conflicts
@@ -184,7 +186,7 @@ Aces are super special ultra-powerful cards with a value of 14 - the highest-val
 
 #### Jokers
 
-The combined Deck includes *four* Joker cards, which serve as special Pacing and Escalation intensifiers. Jokers are shuffled into the Deck face-*up*, and when they reach the top they trigger escalation events called **Omens**, which allow Coach to take hard actions against the Team.
+Each Deck includes *two* Joker cards, which serve as special Pacing and Escalation intensifiers. Jokers are shuffled into the Deck face-*up*. When a Joker is revealed at the top of the Pilots' or Coach's Deck, they trigger **Boons** and **Omens**, respectively. Boons let the Pilots recharge a bit, while Omens allow Coach to take hard actions against the Team.
 
 
 ### Coach
@@ -226,7 +228,7 @@ Each session of play follows a basic flow:
 
 First create the play space for the session. This includes setting up basic supplies (playing card Deck creation, writing utensils, tokens, index cards), passing out sheets (pilots, harmony tracker, etc), and determining where everyone is sitting. Some Special Considerations:
 
-**Jokers:** Leave the jokers out of the Deck for the moment. They'll be shuffled in shortly.
+**Jokers:** Leave the jokers out of the Decks for the moment. They'll be shuffled in shortly.
 
 **Seating Order:** Your seating order at the table is actually pretty important! Where you all sit determines your conflict initiative and flow order, since all action flows clockwise around the table from Coach (at least initially). If you have a few sessions under your wing and wish to strategize the order of your team’s actions, establishing a seating order is the way to do it - but make sure to do it before you get to the table, as that kind of meta-talk is generally discouraged during play. **Seating order for any active session is locked in once everyone completes the Team Salute (see below)!** However, Coach may allow a new group to change mid-game in the first session or two, as the Pilots learn how their abilities interact, and want to experiment with new seating configurations without having to wait 'til the next session.
 
@@ -245,11 +247,11 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 **Armory, Fan Club, Pit Crew:** Some Playbooks have recurring modifiers to these resources. Apply them to the running totals at the start of the *first* session (only) of each new *Scenario*.
 
 
-#### Deal Starting Hands and Finalize the Deck
+#### Draw Starting Hands and Finalize the Decks
 
-Coach deals out the Pilots' starting Hands of cards, which is based on the Team's current Harmony. Some characters will have special modifiers that increase this, as well. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
+Pilots' each draw their starting Hands of cards, based on the Team's current Harmony. Some characters will have special modifiers that increase this, as well. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
 
-After this is done, he shuffles the Jokers back into the Deck, face-up. The Deck is now prepared for play.
+After this is done, both sides shuffle the Jokers back into their Decks, face-up. The Decks are now prepared for play.
 
 
 ### 2. Team Salute
