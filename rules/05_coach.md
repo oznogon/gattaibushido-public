@@ -30,13 +30,13 @@ What I'm saying here is that you should not feel pressured to avoid the "railroa
 
 ### ...But Sometimes You've Got to Break Free!
 
-Once you've mastered the formula, feel free to totally break from it when you see a good opportunity to do so. That's exactly what the Escalation Paths are for. Using the defaults is fun for a while, but if you keep at them over and over the play can get a little stale. While the basic flow usually assumes that the Pilots spend time pursuing personal goals and gathering power before the inevitable BGM shows up, you don't *have* to follow that pattern every single time.
+Once you've mastered the formula, feel free to totally break from it when you see a good opportunity to do so. That's exactly what the Crisis Paths are for. Using the defaults is fun for a while, but if you keep at them over and over the play can get a little stale. While the basic flow usually assumes that the Pilots spend time pursuing personal goals and gathering power before the inevitable BGM shows up, you don't *have* to follow that pattern every single time.
 
-Using your Escalation Paths, switch it up from time to time. Have the BGM attack sooner than they might expect, fully planning for it to totally devastate them. After it's done, spend the rest of the scenario focusing on them trying to recover and rebuild from a major defeat. Or instead have multiple successive BGM attacks take place across the story. Keep them working at it, desperately trying to save humanity from destruction!
+Using your Crisis Paths, switch it up from time to time. Have the BGM attack sooner than they might expect, fully planning for it to totally devastate them. After it's done, spend the rest of the scenario focusing on them trying to recover and rebuild from a major defeat. Or instead have multiple successive BGM attacks take place across the story. Keep them working at it, desperately trying to save humanity from destruction!
 
 Your BGM doesn't even have to be a Big Giant Monster, either. The BGM at its mechanical core is really nothing more than a set of abilities that get used in the Robo Rumbles against the Pilots' assembled Final Form. None of those mechanics actually *require* it to be a "Monster" at all. The players will probably expect a horrible space creature... but what if a Fleet of Alien Spaceships shows up instead? Or what if it's actually a planetary defense system they have to defeat, or a sentient black hole, or even a shadow copy of their own Final Form? Maybe the Pilots have gone rogue, and the "BGM" is in fact the assembled Earth Armada trying to destroy them! The same mechanics apply, and your group's story will benefit from the switch-up.
 
-An even more unexpected change is to exclude the BGM from your scenario entirely! If the players expect a Big Giant Monster to show up at the end of every story, they'll get comfortable in rote patterns of development. By excluding the BGM from your Escalation, you can spend a scenario or two focusing instead on completely different aspects of the world. Sometimes the core conflict of a story isn't the monsters, but instead the smaller, more personal battles that the Pilots have to fight. Skip the BGM for a game, focus on the personal stories entirely, and you will both surprise the players and also keep the rhythm fresh.
+An even more unexpected change is to exclude the BGM from your scenario entirely! If the players expect a Big Giant Monster to show up at the end of every story, they'll get comfortable in rote patterns of development. By excluding the BGM from your Crisis path, you can spend a scenario or two focusing instead on completely different aspects of the world. Sometimes the core conflict of a story isn't the monsters, but instead the smaller, more personal battles that the Pilots have to fight. Skip the BGM for a game, focus on the personal stories entirely, and you will both surprise the players and also keep the rhythm fresh.
 
 
 ### Keep Them on their Toes
@@ -125,13 +125,13 @@ Waves and Storms come directly from the Threats in any particular scenario. High
 
 When the rules call for a Wave or Storm, you can only trigger *one* of those available to you, unless the rules specifically say otherwise.
 
-Regardless of the mechanics, every wave and storm *must* have a suitable narrative description. Coach can't just say "Okay, I do a Wave, so Janys takes 1 damage" and move on. You must describe what exactly is happening in the story that is causing this damage. This can be tricky for those unexpectedly triggered by Escalation Path events, but by keeping aware of your Threats and their abilities, you should be able to come up with some ideas.
+Regardless of the mechanics, every wave and storm *must* have a suitable narrative description. Coach can't just say "Okay, I do a Wave, so Janys takes 1 damage" and move on. You must describe what exactly is happening in the story that is causing this damage. This can be tricky for those unexpectedly triggered by Crisis Path events, but by keeping aware of your Threats and their abilities, you should be able to come up with some ideas.
 
 Every Scenario comes default with a basic Wave and Storm event built-in. All others come from custom Threats in the Scenario.
 
 Waves and Storms are primarily triggered by three events during play:
 
-* Escalation Path Steps (aka Omens)
+* Crisis Path Steps (aka Omens)
 * Throwdown "Trigger" Actions (require discards of faces)
 * Some Threat actions
 
@@ -223,7 +223,7 @@ To develop a scenario:
 * Develop a Premise
 * Add Factions and Locations
 * Develop Threats
-* Develop the Escalation Path
+* Develop the Crisis Path
 * Develop a Downtime Draw Table (or use the standard)
 * Finalize Waves and Storms
 
@@ -261,16 +261,16 @@ The Threats present in your scenario directly affect its design. Every Scenario 
 Threats are more fully explained in the next chapter, starting on p. SQUARP
 
 
-## Step 4: Develop the Escalation Path
+## Step 4: Develop the Crisis Path
 
-The Escalation Path is a pre-scripted series of event triggers that make the game more dangerous (and interesting!) for the Pilots.
+The Crisis Path is a pre-scripted series of event triggers that make the game more dangerous (and interesting!) for the Pilots.
 
 
 ### Building the Path
 
-When you create a new scenario to run, you must build out your Escalation Path. The default path is thirteen steps, alternating initially between your pre-scripted Story Events and your Threats' Waves and Storms, and increasing in intensity over time until the inevitable attack of the Big Giant Monster.
+When you create a new scenario to run, you must build out your Crisis Path. The default path is thirteen steps, alternating initially between your pre-scripted Story Events and your Threats' Waves and Storms, and increasing in intensity over time until the inevitable attack of the Big Giant Monster.
 
-Below is the "standard" default Escalation Path setup. Each "stanza" of four events gets steadily more intense, pushing the drama pretty hard toward the end.
+Below is the "standard" default Crisis Path setup. Each "stanza" of four events gets steadily more intense, pushing the drama pretty hard toward the end.
 
 | Omens Spent | Event               |
 |-------------|---------------------|
@@ -322,20 +322,27 @@ A "Steady and Hard" more difficult path is:
 To provide suitable challenge for one-shot Robo Rumbles, add the BGM's Threat rating to Coach's Hand Limit and Draw on each round.
 
 
+### Triggering the First Event
+
+You can trigger the first item on the Crisis Path at any time outside of an active card conflict, without requiring the use of an Omen. You are encouraged to do this early on in the first play session or a new scenario, in order to set its story in motion.
+
+Additionally, since the +Tarry event is based on the current Crisis level, you will want to get it raised to level 1 before the Pilots start using any Location benefits. However, if they are starting off at low resources or otherwise in dire straits, you may instead wish to let them have a few freebies and relax a bit while they set their own stories in motion.
+
+
 ### Moving Along the Path
 
-As the cards move during play, jokers that reach the top of your Deck become Omens under your control, face-up in front of you waiting to be used. At any point outside of an active conflict, you can "spend" an Omen by flipping it to its face-down state. Doing so triggers the next event on the Escalation Path.
+As the cards move during play, jokers that reach the top of your Deck become Omens under your control, face-up in front of you waiting to be used. At any point outside of an active conflict, you can "spend" an Omen by flipping it to its face-down state. Doing so triggers the next event on the Crisis Path.
 
 This build a rough structure for pacing right into the game, while also giving you a bit of leeway as Coach on how to time these events for maximum impact. While it is technically possible to sit on the unspent Omens for as long as you want, we highly recommend spending them whenever you can, so as to get more tension and action into the game, and better move the story along!
 
 Once you've reached the end of the path, that *usually* means the Big Monaster finally attacks, but that doesn't mean that the Omens stop! Keep them flowing through the Deck as normal. Whenever you spend Omens from then on, they alternate between Waves (even) and Storms (odd).
 
 
-### Escalation and the Big Giant Monster
+### Crisis and the Big Giant Monster
 
-The current Escalation has a direct impact on the power of the Big Giant Monster, whenever it is eventually encountered, because the BGM's Hand is directly increased in size by the escalation level.
+The current Crisis has a direct impact on the power of the Big Giant Monster, whenever it is eventually encountered, because the BGM's Hand is directly increased in size by the Crisis level.
 
-Additionally, "by the book" the BGM can't attack (as in initiating a Rumble) until that level of the escalation has been reached. You can always push it lower on the path if you like, but that remains to be tested in play.
+Additionally, "by the book" the BGM can't attack (as in initiating a Rumble) until that level of the Crisis has been reached. You can always push it lower on the path if you like, but that remains to be tested in play.
 
 
 ## Step 5: Develop a Downtime Draw-Table
@@ -408,7 +415,7 @@ Threats give Coach a number of game options to use against the Pilots.
 
 Threats can actively participate in Throwdowns against the Pilots.
 
-They also work from the background, activating their Waves and Storms as the Escalation events trigger.
+They also work from the background, activating their Waves and Storms as the Crisis events trigger.
 
 Threats are by nature very different than Pilots, and as such use different mechanics. For example, whereas Pilots have many numbers, Threats all have only one: their Threat Rating. This quasi-exponential stat has multiple uses, greatly increasing a Threat's level of danger as the stat goes up.
 
@@ -610,7 +617,7 @@ When designing a Threat with this Power, you should make sure that every planned
 
 #### Harbinger
 
-PASSIVE: This Threat pushes toward Escalation with each action it takes. Whenever it Pushes in a Throwdown, Coach Discards a number of cards from your Deck equal to the current number of Omens in play.
+PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it Pushes in a Throwdown, Coach Discards a number of cards from your Deck equal to the current number of Omens in play.
 
 
 #### Heavy-Hitter
@@ -660,7 +667,7 @@ Mechanically, a BGM is little more than a Threat with the BGM Power, which gives
 
 Since BGMs are technically base threats, you can include them in the main scenario as opposing forces. This is a common trope in the super sentai style of shows, where the end boss doesn't actually grow to full BGM size until the end of the episode. You can also just leave them unrevealed until they show up to destroy the heroes at the end, if you like, it's your call.
 
-The BGM Threat cannot *initiate* full-size Rumble combat until the proper escalation point has been reached. However, if you design your scenario to accommodate such, the Pilots might seek out and encounter the BGM much sooner and go into Rumble on their own. In such a case, your BGM is able to return the favor.
+The BGM Threat cannot *initiate* full-size Rumble combat until the proper Crisis point has been reached. However, if you design your scenario to accommodate such, the Pilots might seek out and encounter the BGM much sooner and go into Rumble on their own. In such a case, your BGM is able to return the favor.
 
 
 ### BGM Rumble Techs

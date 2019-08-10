@@ -1,4 +1,4 @@
-section: introduction
+Crisissection: introduction
 
 # Introduction Story: "Collateral Damage"
 
@@ -154,7 +154,7 @@ Finally, the team can equip themselves with extended load-outs of **Gear**. Thes
 
 All of play will take place inside of **Scenes** and **Conflicts**. A "Scene" is essentially defined as "a thing at a place at a time." It's an extremely loose system of narrative structure, and its scope is largely up to Coach's determination. Scenes are often punctuated by "Conflicts" wherein the Pilots' abilities are tested against nature, chance, monsters, or even each other!
 
-It is very important for each mission in the game to be underscored by a growing feeling of "pressing urgency." The enemy is forever marching slowly toward the completion of its nefarious goals, bringing humanity closer and closer to the brink of disaster. While there may be a number of situations where the Pilots may need to lay low and recover their temporary losses, the enemy never waits. Balancing needs of rest with the immediacy of the looming Threat is a major aspect of play. While it is up to Coach to incorporate this urgency into the ongoing narrative, the game also provides a mechanical way to ramp up the tension via Coach's **Escalation** track.
+It is very important for each mission in the game to be underscored by a growing feeling of "pressing urgency." The enemy is forever marching slowly toward the completion of its nefarious goals, bringing humanity closer and closer to the brink of disaster. While there may be a number of situations where the Pilots may need to lay low and recover their temporary losses, the enemy never waits. Balancing needs of rest with the immediacy of the looming Threat is a major aspect of play. While it is up to Coach to incorporate this urgency into the ongoing narrative, the game also provides a mechanical way to ramp up the tension via Coach's **Crisis** track.
 
 
 ### The Cards
@@ -186,7 +186,7 @@ Aces are super special ultra-powerful cards with a value of 14 - the highest-val
 
 #### Jokers
 
-Each Deck includes *two* Joker cards, which serve as special Pacing and Escalation intensifiers. Jokers are shuffled into the Deck face-*up*. When a Joker is revealed at the top of the Pilots' or Coach's Deck, they trigger **Boons** and **Omens**, respectively. Boons let the Pilots recharge a bit, while Omens allow Coach to take hard actions against the Team.
+Each Deck includes *two* Joker cards, which serve as special Pacing and Crisis intensifiers. Jokers are shuffled into the Deck face-*up*. When a Joker is revealed at the top of the Pilots' or Coach's Deck, they trigger **Boons** and **Omens**, respectively. Boons let the Pilots recharge a bit, while Omens allow Coach to take hard actions against the Team.
 
 
 ### Coach

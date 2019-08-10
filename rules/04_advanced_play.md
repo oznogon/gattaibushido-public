@@ -231,7 +231,7 @@ Every Location has the following core components:
 
 Each Location provides a special game effect called a **Boon**, which the Pilots can utilize while engaged with that Location. As long as the Location isn't completely Razed, the Boon can be used whenever the Pilots are present at that location, or otherwise in a capacity to make special remote use of it.
 
-Many Boons make use of the **+Tarry** mechanic, which allows Coach to push time forward, and along with it increase the danger of Threat Escalation. Any Location Boon which requires a Tarry action effectively triggers the +Tarry microevent.
+Many Boons make use of the **+Tarry** mechanic, which allows Coach to push time forward, and along with it increase the danger of Crisis escalation. Any Location Boon which requires a Tarry action effectively triggers the +Tarry microevent.
 
 
 #### Example Location Boons

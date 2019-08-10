@@ -89,7 +89,7 @@ As the (Role Name), your specialty is (Role Details Shortform). **First**, this 
 
 **Design note for Gray Pawn, Continued:** For example, I've included the current versions of Blue's two powers below:
 
-* **Passive Tech: "Advance Warning!"** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Escalation event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Escalation Level remains at its previous position.
+* **Passive Tech: "Advance Warning!"** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Crisis event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Crisis Level remains at its previous position.
 * (**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when a Joker is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.)
 
 * **Charge Tech: "Strategic Action!"** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:

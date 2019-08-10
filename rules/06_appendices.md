@@ -24,7 +24,7 @@ The "Ichi" deck consists of 108 total cards, broken down as follows:
 
 This results in a similar deck structure as the Core Rules, with four fewer Ace-like cards but four more Joker-like cards.
 
-**A Special Note on Pacing:** Using this deck of cards has a chance of drastically increasing the game's pace and danger level. We've provided a set of alternate options for using the new "Draw 4 Wild" cards in your game, which you should consider before using the Ichi Deck. You may wish to simply exclude these special cards, as their presence doubles the occurrence rate of Jokers and thus potentially doubles the rate at which the Escalation track progresses.
+**A Special Note on Pacing:** Using this deck of cards has a chance of drastically increasing the game's pace and danger level. We've provided a set of alternate options for using the new "Draw 4 Wild" cards in your game, which you should consider before using the Ichi Deck. You may wish to simply exclude these special cards, as their presence doubles the occurrence rate of Jokers and thus potentially doubles the rate at which the Crisis track progresses.
 
 
 ### Card Suits
@@ -92,15 +92,14 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Deck:** where all cards are drawn from; two of these exist, one for Coach and one for the Pilots  
 **Discard:** the act of putting a card into its relevant trash  
 **+Disfavor:** mechanical notation that damages a Faction's trust in the Pilots  
-**Escalation Path:** a predetermined series of increasingly-dangerous events that unfold as Omens are revealed  
-**Escalation Level:** the current place on the Escalation Path that the game has advanced to, through the revelation of Omens  
-**+Escalation:** mechanical notation that an effect automatically escalates the game to the next level  
+**Crisis Path:** a predetermined series of increasingly-dangerous events that unfold as Omens are revealed  
+**Crisis Level:** the current place on the Crisis Path that the game has advanced to, through the revelation of Omens  
 **Fan Club:** a Team Resource that helps them recover Harmony  
 **Fusion/Fuze:** a mechanic that lets two or more Pilots act as one enhanced unit  
 **Gambit:** a quick mechanic for resolution of minor conflicts  
 **Harmony:** a seven-point scale representing the strength of your team's spirit  
 **Locations:** a place in the game where events happen, with mechanics that modify those events  
-**Omens:** when a Joker reaches the top of Coach's Deck, it becomes an Omen under his control, and can trigger Escalation events.  
+**Omens:** when a Joker reaches the top of Coach's Deck, it becomes an Omen under his control, and can trigger Crisis events.  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
 **Play:** the act of taking a card from your Hand and introducing it to the table, activating one or more mechanics  

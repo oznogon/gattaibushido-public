@@ -78,7 +78,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 ### Passive Tech
 
-**Advance Warning!:** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Escalation event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Escalation Level remains at its previous position.
+**Advance Warning!:** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Crisis event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Crisis Level remains at its previous position.
 
 **PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when one of Coach's Jokers is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
 

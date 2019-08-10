@@ -101,7 +101,7 @@ However, Aces have a weakness against Twos. In a Gambit, a Two always beats an A
 
 Four Joker cards are used as a special Pacing and Empowerment mechanic. The Jokers are always shuffled into their respective Decks *face-up*. When a Joker is revealed (by reaching the top of the Deck), a few things happen. First off, *all* the Heroes currently at the table gain 1 Charge. Then Coach immediately takes the card and sets it face-up in front of him at the table as an **Omen**.
 
-Omens in play exist in two states: Active (face-up) and Spent (face-down). Omens represent impending Doom for the Heroes. Rules for their management are found in Coach's section of this manual (see p. SQUARP), but in short, he can choose to Spend an Omen at any time by flipping it face-down. This triggers one of the pre-written Escalation Events for the current scenario.
+Omens in play exist in two states: Active (face-up) and Spent (face-down). Omens represent impending Doom for the Heroes. Rules for their management are found in Coach's section of this manual (see p. SQUARP), but in short, he can choose to Spend an Omen at any time by flipping it face-down. This triggers one of the pre-written Crisis Events for the current scenario.
 
 Jokers are *never* sent to Play Piles or the Trash; Jokers on the table are not returned to their Decks until there are four Spent (as in *face-down*) Omens in front of Coach.
 
@@ -278,9 +278,9 @@ The **+Storm** trigger allows Coach to activate any one Storm action on his scen
 
 **Valid Targets:** Pilots, Coach (self)
 
-The game's time and escalation mechanics will occasionally call for a **+Tarry** action, most commonly when the Pilots make use of certain Location boons, but also occasionally when they waste time arguing and Coach feels necessary to mechanically nudge them into action.
+The game's time and Crisis mechanics will occasionally call for a **+Tarry** action, most commonly when the Pilots make use of certain Location boons, but also occasionally when they waste time arguing and Coach feels necessary to mechanically nudge them into action.
 
-Tarry is a quick and simple Coach-specific card action. When triggered, Coach takes a number of cards from the top of his Deck equal to the number of face-up Omens currently in play, and sends them directly to the Trash. This risks bringing the Deck ever closer to the revelation of another Omen (and potential escalation!).
+Tarry is a quick and simple Coach-specific card action. When triggered, Coach takes a number of cards from the top of his Deck equal to the current Crisis tier, and sends them directly to the Trash. This risks bringing the Deck ever closer to the revelation of another Omen (and potential escalation of Crisis!).
 
 
 ### +Wave
