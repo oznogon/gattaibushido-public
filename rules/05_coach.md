@@ -331,11 +331,13 @@ Additionally, since the +Tarry event is based on the current Crisis level, you w
 
 ### Moving Along the Path
 
-As the cards move during play, jokers that reach the top of your Deck become Omens under your control, face-up in front of you waiting to be used. At any point outside of an active conflict, you can "spend" an Omen by flipping it to its face-down state. Doing so triggers the next event on the Crisis Path.
+As the cards move during play, Jokers that reach the top of a Deck enter play as Active Omens, face-up next to their Decks. The owners of these respective Decks can Spend their Active Omens to perform side-specific actions. The Pilots' Omens are explained earlier in this text, while yours are explained here.
 
-This build a rough structure for pacing right into the game, while also giving you a bit of leeway as Coach on how to time these events for maximum impact. While it is technically possible to sit on the unspent Omens for as long as you want, we highly recommend spending them whenever you can, so as to get more tension and action into the game, and better move the story along!
+At any point outside of an active conflict, you can Spend one or both of your Active Omens by flipping it to its face-down state. Doing so triggers the next one or two events on the Crisis Path. Your Jokers are not returned to your Deck until both have been revealed *and* spent, at which point both are returned face-up and your Deck is reshuffled.
 
-Once you've reached the end of the path, that *usually* means the Big Monaster finally attacks, but that doesn't mean that the Omens stop! Keep them flowing through the Deck as normal. Whenever you spend Omens from then on, they alternate between Waves (even) and Storms (odd).
+This builds a rough structure for pacing right into the game, while also giving you a bit of leeway as Coach on how to time these events for maximum impact. While it is technically possible to sit on the unspent Omens for as long as you want, we highly recommend spending them whenever you can, so as to get more tension and action into the game, and better move the story along!
+
+Once you've reached the end of the path, that *usually* means the Big Monster finally attacks, but that doesn't mean that the Omens stop! Keep them flowing through the Deck as normal. Whenever you spend Omens from then on, they can be Waves (by spending one) or Storms (by spending two).
 
 
 ### Crisis and the Big Giant Monster
@@ -617,7 +619,7 @@ When designing a Threat with this Power, you should make sure that every planned
 
 #### Harbinger
 
-PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it Pushes in a Throwdown, you Discard a number of cards from your Deck equal to one plus the current number of Omens present on the table (in any state).
+PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it Pushes in a Throwdown, you Discard a number of cards from your Deck equal to one plus the current number of Omens present on the table (all Decks, active or spent).
 
 
 #### Heavy-Hitter

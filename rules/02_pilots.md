@@ -209,7 +209,7 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 ## Pilots: Charges & Techs
 
-**Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Jokers and the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
+**Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Pilot Deck Jokers, as well as the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
 
 Charges are spent to activate various Techs during play. Most Techs will come from your Pilot's choice of Color Role, Power Weapon, and Robo. Not *all* of these Techs will require charges, but for those that do, the cost in Charges is specified by the Tech descriptions.
 

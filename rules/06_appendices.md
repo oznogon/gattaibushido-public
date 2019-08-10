@@ -99,7 +99,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Gambit:** a quick mechanic for resolution of minor conflicts  
 **Harmony:** a seven-point scale representing the strength of your team's spirit  
 **Locations:** a place in the game where events happen, with mechanics that modify those events  
-**Omens:** when a Joker reaches the top of Coach's Deck, it becomes an Omen under his control, and can trigger Crisis events.  
+**Omens:** when a Joker reaches the top of a Deck, it becomes an Active Omen on the table. Omens can be Spent for in-game effects and Crisis escalation.  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
 **Play:** the act of taking a card from your Hand and introducing it to the table, activating one or more mechanics  

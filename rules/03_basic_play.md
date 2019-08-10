@@ -99,11 +99,17 @@ However, Aces have a weakness against Twos. In a Gambit, a Two always beats an A
 
 ### Jokers
 
-Four Joker cards are used as a special Pacing and Empowerment mechanic. The Jokers are always shuffled into their respective Decks *face-up*. When a Joker is revealed (by reaching the top of the Deck), a few things happen. First off, *all* the Heroes currently at the table gain 1 Charge. Then Coach immediately takes the card and sets it face-up in front of him at the table as an **Omen**.
+Four Joker cards are used as a special Pacing and Empowerment mechanic. The Jokers are always shuffled into their respective Decks *face-up*. When a Joker is revealed (by reaching the top of a Deck), immediately take it from its Deck and set it out face-up beside it for all to see. Jokers sitting forth in such a fashion are called **Omens**.
 
-Omens in play exist in two states: Active (face-up) and Spent (face-down). Omens represent impending Doom for the Heroes. Rules for their management are found in Coach's section of this manual (see p. SQUARP), but in short, he can choose to Spend an Omen at any time by flipping it face-down. This triggers one of the pre-written Crisis Events for the current scenario.
+Omens in play exist in two states: Active (face-up) and Spent (face-down). When first revealed, they remain Active until used for one of the following purposes, based on their Deck of origin.
 
-Jokers are *never* sent to Play Piles or the Trash; Jokers on the table are not returned to their Decks until there are four Spent (as in *face-down*) Omens in front of Coach.
+**Pilot Omens** can be Spent at any time by a Pilot to gain additional Charges. The Pilot first flips the Active Omen face-down, and then gets to choose: she can either the +Chargeup:Self(Full) or the +Chargeup:All(2) event triggers.
+
+**Coach Omens** can be Spent by Coach to trigger Crisis events. These are explained in more detail in Coach's Handbook.
+
+It is important to note that the buildup of *any* number of Omens can benefit several of Coach's Threats, so players are advised to spend their quickly.
+
+Jokers are *never* sent to Play Piles or the Trash. Once both of a Deck's Jokers have been revealed and Spent, return them face-up to the Deck, then Reshuffle the Deck.
 
 
 ## Card Terminology
@@ -166,7 +172,9 @@ Microevent triggers are always given with the same basic notation. The full exte
 * **Choice:** apply to instigator's choice of valid recipient
 * **Each**: apply to every valid target currently in play
 
-Occasionally, you may see a specific "+Damage:Choice" in the rules, such as "Coach may trigger +Damage:Choice." This means that the instigator can apply any single damage-type trigger of their choice against any valid target.
+**Numbers:** Some triggers have an additional numerical notation, such as **+Triggername:Target(2)** or **+Triggername:Target(Full)**. This states that the target of the event receives a numerical modification based on the event. For example, **+Chargeup:Self(2)** implies that your Pilot gains two Charges, while **+Chargeup:Self(Full)** implies that your Charge gauge fills to maximum capacity. If no number is given, assume the base minimum effect for the trigger.
+
+**Choices:** Occasionally, you may see a specific "+Damage:Choice" in the rules, such as "Coach may trigger +Damage:Choice." This means that the instigator can apply any single damage-type trigger of their choice against any valid target.
 
 
 ##### Microevent List:
