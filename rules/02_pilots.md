@@ -456,20 +456,19 @@ The entire team uses the same singular, central Harmony tracker, and each of the
 
 * **Harmony:** A color code for that rank of Harmony
 * **Rank:** A numerical rank associated with that color
-* **FF Bank:** The maximum combined total number of cards the Team can invest in their Final Form stash.
 * **Max Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
 
 **Harmony Table:**
 
-| Harmony | Rank | FF Bank | Max Hand |
-|---------|------|---------|----------|
-| Red     | 1    | 1       | 1        |
-| Orange  | 2    | 2       | 2        |
-| Yellow  | 3    | 3       | 2        |
-| Green   | 4    | 4       | 3        |
-| Blue    | 5    | 5       | 4        |
-| Indigo  | 6    | 6       | 4        |
-| Violet  | 7    | 7       | 5        |
+| Harmony | Rank | Hand |
+|---------|------|------|
+| Red     | 1    | 1    |
+| Orange  | 2    | 2    |
+| Yellow  | 3    | 2    |
+| Green   | 4    | 3    |
+| Blue    | 5    | 4    |
+| Indigo  | 6    | 4    |
+| Violet  | 7    | 5    | 
 
 
 ### Lowering Harmony
