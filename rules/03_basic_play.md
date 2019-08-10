@@ -517,60 +517,14 @@ Each side goes back and forth playing and escalating until one side concedes.
 
 ### Taking Turns
 
-
-
 ### Taking Actions
-
-
 
 #### Play Actions
 
-
-
 #### Support Actions
-
-
 
 ### Escalating Stages and Stakes
 
-
-
 ### Scoring Points
 
-
-
-
 ## Step 4: Resolve
-
-Notes:
-
-* "The rumble option" happens here
-
-
-
-
-# Conflict Type 4: The Robo Rumble
-
-
-## Rumble Basics
-
-misc notes:
-
-* initiated *after* a throwdown, picking up immediately
-
-
-### Rumble Flow / Rundown
-
-(steps are continued from the throwdown process)
-
-
-## Step 5: Rumble Escalation!
-
-
-## Step 6: Assemble BGM / Final Form
-
-
-## Step 7: Extended Play
-
-
-## Step 8: Resolve
