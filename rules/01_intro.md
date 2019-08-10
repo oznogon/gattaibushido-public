@@ -186,7 +186,7 @@ Aces are super special ultra-powerful cards with a value of 14 - the highest-val
 
 #### Jokers
 
-Each Deck includes *two* Joker cards, which serve as special Pacing and Crisis intensifiers. Jokers are shuffled into the Deck face-*up*. When a Joker is revealed at the top of the Pilots' or Coach's Deck, they trigger **Boons** and **Omens**, respectively. Boons let the Pilots recharge a bit, while Omens allow Coach to take hard actions against the Team.
+Each Deck includes *two* Joker cards, which serve as special Pacing and Crisis intensifiers. Jokers are shuffled into the Deck face-*up*. When a Joker is revealed at the top of the Pilots' or Coach's Deck, they trigger **Omens**. These can favor the Pilots or work against them, depending on how they are used in the story.
 
 
 ### Coach

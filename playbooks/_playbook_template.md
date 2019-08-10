@@ -169,7 +169,7 @@ Note the following core components:
 
 * **Robo Rank:** This starts at 1
 * **Summon Effect:** (triggers when you first summon the Robo in a session) DESCRIPTION
-* **Rider Boon:** (special bonus while in the cockpit) DESCRIPTION
+* **Rider Bonus:** (special bonus while in the cockpit) DESCRIPTION
 * **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 (**PLAYTEST NOTE:** Currently each playbook will likely be listed with a single robo, to save on cross-document multi-edits. In the final release, each playbook will be given multiple options - probably two or three. For now, if you want to use a different robo, use the data from the other playbooks.)
