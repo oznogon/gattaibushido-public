@@ -73,7 +73,9 @@ Now let's take your concept a step further, and start writing down some numbers!
 
 Don't see something you like? Coach has rules for custom stats and adjectives!
 
-(**PLAYTEST NOTE:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the color role.)
+(**PLAYTEST NOTE #1:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the color role.)
+
+(**PLAYTEST NOTE #2:** I'm reassessing these to bring them back in line with the reverted Commitment Dualities. The new idea is to pick three descriptors, from three different lists, but I'm working to rewrite the lists anew.)
 
 
 # (Color Name's) Power Profile
@@ -240,11 +242,9 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 
 Note the following final array of derived stats for your Pilot:
 
-* **Assist Bonus:** Base equals your Commitment to The Team.
-* **Strike Range:** Base equals your Commitment to the Fight.
-* **Buffer:** Base equals your Commitment to Yourself.
+* **Buffer:** Base equals your Synapse stat.
 * **Max Hand:** Determined by your Team's current Harmony.
-* **Charge Pool:** You begin play with Three (3) Charges in your Pool, which has a base max of 7.
+* **Charge Pool:** Your Maximum Charge Pool is set by your Circuit stat It begins play at half that (round up).
 * **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
 
 

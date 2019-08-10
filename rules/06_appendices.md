@@ -87,7 +87,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **AvTE:** Average Team Evolutions, a gauge of relative team power and experience  
 **Buffer:** a pool of tokens that a Pilot can use to soak damage  
 **Hand:** the hand of cards that a player holds, their personal array of play options  
-**Commitment:** one of three core character stats that determine the base for all game mechanics  
+**Commitment:** one of three core character components, each split into two balanced stats that determine the base for all game mechanics  
 **Conflict:** one of the core game mechanics where the cards determine the outcome of in-story events  
 **Deck:** where all cards are drawn from; two of these exist, one for Coach and one for the Pilots  
 **Discard:** the act of putting a card into its relevant trash  
@@ -109,6 +109,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Round:** one of three stages of robot-on-monster action during Robo Rumbles  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
+**Stat:** one of six numerical descriptors spread across three balanced Commitment pairs, forming the foundation of all core Pilot mechanics  
 **Storm:** one of Coach's two primary scripted Threat actions against the Pilots (the more heinous one)  
 **+Storm:** mechanical notation that an effect triggers one of Coach's Waves  
 **Suit:** the category of pip on the playing cards (Spades, Hearts, Diamonds, and Clubs)  

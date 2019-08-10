@@ -190,7 +190,7 @@ We've listed them here for quick convenient reference. These are all explained i
 * **+Fortify** = action that allows a Pilot to recover a spent Buffer token
 * **+Rally** = action that increases Team Harmony by one level
 * **+Rebuild** = action that allows the Team to repair a damaged Location
-* **+Restore** = action that allows a Pilot to recover a lost point of Commitment
+* **+Restore** = action that allows a Pilot to recover a lost Stat point
 * **+Replenish** = action that allows a Pilot to boost a Team Resource
 * **+Storm** = action that allows Coach to activate a Storm
 * **+Tarry** = action that causes a Deck Discard to simulate the passage of time
@@ -202,7 +202,7 @@ We've listed them here for quick convenient reference. These are all explained i
 * **+Purge** = damage to a Pilot's Charge gauge
 * **+Ruin** = damages to a Location
 * **+Strife** = damage to the team Harmony gauge
-* **+Trauma** = damage to a Pilot by directly reducing their Commitment stats
+* **+Trauma** = damage to a Pilot by directly reducing their Commitment Stats
 
 
 ## Action Microevents
@@ -265,7 +265,7 @@ The **+Rebuild** trigger allows the team to repair a Damaged location, returning
 
 **Valid Targets:** Pilots
 
-The **+Recover** trigger allows a Pilot to restore a single point of a temporarily-lowered Commitment. If her Commitments are undamaged, this has no effect. This does *not* restore permanent Commitment loss, such as that suffered from a Crisis State.
+The **+Recover** trigger allows a Pilot to restore a single point of a temporarily-lowered Commitment Stat. If her Commitments are undamaged, this has no effect. This does *not* restore permanent Commitment loss.
 
 
 ### +Replenish
@@ -352,11 +352,11 @@ By default, any Pilot can spend her Buffers to prevent +Strife that she personal
 
 The **+Trauma** trigger is the primary method for applying direct damage to both Pilots and Threats.
 
-**Pilots:** Against Pilots, it damages them by temporarily lowering their Commitments. Each time a Pilot suffers +Trauma, she must temporarily reduce a Commitment rank of her choosing by 1 point. Commitments cannot be reduced below Zero (0) ranks, and when all of her Commitments are at Zero she enters Crisis Mode. See p. SQUARP for full details on Commitments and Crisis Modes.
+**Pilots:** Against Pilots, it damages them by temporarily lowering their six core Stats. Each time a Pilot suffers +Trauma, she must temporarily reduce a Stat rank of her choosing by 1 point. A Stat cannot be reduced below Zero (0) ranks. Reducing a stat also reduces the balance maximum of its parent Commitment. For more info on managing Stat and Commitment loss, see "*Pilots: Commitments & Attributes*" (p. XX).
 
 **Threats:** Against Threats, this trigger directly lowers the enemy's Threat Rating. If a Threat's Rating is reduced to Zero (0), it is defeated and removed from play.
 
-**Both:** Pilot and Threats can spend Buffer tokens to prevent +Trauma that targets or affects them, at a cost of one token per point of Commitment or Threat reduction prevented.
+**Both:** Pilot and Threats can spend Buffer tokens to prevent +Trauma that targets or affects them, at a cost of one token per point of Stat or Threat reduction prevented.
 
 
 # Conflict Type 1: Fiat ("Just say what happens")

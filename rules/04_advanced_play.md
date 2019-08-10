@@ -51,7 +51,7 @@ When you earn an Evolution, you get to spend it to unlock a new character enhanc
 
 There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Color Techs, for example, then for your next level-up you must instead choose within your Weapon or Robo techs.
 
-**Your Third Evolution** allows you to choose a new descriptive adjective to describe yourself based on your portrayal in the story thus far. Along with this adjective comes a +1 increase to any one of your three Commitments, which must fit the nature of the chosen adjective. Talk to your team for suggestions, as they just may know your Pilot better than you do! Additionally, at this time you may *choose* to shift a single point between any two of your current Commitments, based on your shifting motivations and goals from current play.
+**Your Third Evolution** allows you to choose a new descriptive adjective to describe yourself based on your portrayal in the story thus far. Along with this adjective comes a +1 increase to any one of your six core stats - which in turn also increases its associated Commitment's balance maximum. This increase must narratively fit the nature of the chosen adjective. Talk to your team for suggestions, as they just may know your Pilot better than you do! Additionally, at this time you may *choose* to shift a single point within all three of your Commitments, based on your shifting motivations and goals from current play.
 
 **All subsequent Evolutions** follow the same repeating cycle. Thus the fourth and fifth evolutions again level up your techs, the sixth adds another adjective and Commitment rank, and so on.
 

@@ -200,7 +200,7 @@ The various subsections below are alphabetized by component name. Pilot-specific
 
 ## Pilots: Buffers
 
-Your Pilot has a handy **Buffer** that starts with a base amount of tokens equal to her Commitment to Herself rank - we recommend using blue tokens to easily track these. This can be further increased by Gear, Techs, and more.
+Your Pilot has a handy **Buffer** that starts with a base amount of tokens equal to her **Synapse** stat - we recommend using blue tokens to easily track these. This can be further increased by Gear, Techs, and more.
 
 By default you can use these tokens to prevent +Purge, +Strife, and +Trauma damage triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
 
@@ -246,83 +246,84 @@ In addition to their own personal Techs, *every* Pilot has the following basic C
 
 ## Pilots: Commitments & Attributes
 
-**PLAYTEST NOTE 2019:** Entire section being re-written to comply with new "Moto-Reversion" approach to balance.
+Your Pilot's Commitments determine the basis for most all of the character mechanics. There are three core Commitments, each divided into two paired Stats (for a total of six Stats). These stats are dualities; within each Commitment, the numerical ranks of the Stats always add up to a total of 6. The individual Stats serve as the foundation for almost every core mechanic your Pilot uses.
+
+Each of these stats represents a core dichotomy that pulls hard at your Pilot's core self identity. Her very existence as a Gattai Pilot demands a balance of commitment to often-conflicting agendas - a balance that is tenuous at even the best of times. The left-hand-side of each Commitment pair represents the needs of your Pilot's individual core of human identity. The right-hand-side represents the hard demands placed upon her as a dedicated mecha Pilot in the war to protect humanity. These balances can shift frequently, sometimes to deleterious effect.
+
+It is entirely possible to play a character with a 6 in one stat and a 0 in its opposing stat. This simply means that the Pilot gains no mechanical benefit at all from the empty stat, and they had best play _very_ carefully - or not, because causing your own doom can sometimes make for very fun gaming!
 
 
-Your Pilot's Commitments determine the basis for most all of the character mechanics.
+### Commitment to the Team: Solo and Sync (Bonus Draws)
+
+**Core Stats:** Solo (leftward) vs Sync (rightward)  
+**Stat Mechanic:** Determines your *Bonus Draws* at the beginning of Throwdowns.  
+**Tied To:** Team Color Role
+
+A Pilot with a higher Solo stat in this Commitment tends to be more focused on their own personal goals, often causing strife by putting her needs desires before those of her Team. A Pilot with a higher Sync stat instead more often puts the needs of the Team first, sometimes to the detriment of her own mental and physical health.
+
+Your ranks in these stats determine how many bonus draws you receive at the beginning of new Throwdowns, based on your motivations within the conflict at hand. If your Pilot is acting primarily in her own self-interests, she draws based on Solo. If she instead fights to push the interests of the Team, then she draws based on Sync.
 
 
-### Commitment to the Team (Bonus Draws)
+### Commitment to the Fight: Flesh and Steel (Strike Range)
 
-**Stat Mechanic:** Determines your *Assist Bonus* during conflicts.  
-**Tied To:** Team Color
-
-Your rank in this stat determines the strength of your Assists during conflicts.
-
-Pilots with a high commitment to their Team are more heavily driven by the Team’s goals, and work harder to put the Team first. By working hard to help our their fellow teammates, they can achieve greatness together!
-
-
-### Commitment to the Fight (Strike Range)
-
-**Stat Mechanic:** Determines *Strike Range* base values in conflicts.  
+**Core Stats:** Flesh (leftward) vs Steel (rightward)  
+**Stat Mechanic:** Determines base *Strike Ranges* in conflicts.  
 **Tied To:** Personal Power Weapon
 
-Your rank in this stat gives you a solid and tangible fighting edge in battle. Your Commitment to the Fight sets your base Strike Range in Throwdowns.
+A Pilot with a higher Flesh stat tends to go more with the flow of the world around her, starting few fights of her own volition, but fighting harder when the war comes to her. A Pilot with a higher Steel stat instead more often brings the fight on her own terms, taking action with confidence and force, at the cost of diminished adaptability when she is not in direct control of her circumstances.
 
-Pilots who commit themselves strongly to the Fight are better at hitting hard and keeping their cool when things go pear-shaped. With a higher base Strike Range, a Pilot can play higher cards against their opponents, with a greater chance of avoiding Harmony-damaging +Strife triggers.
+Your rank in this stat gives you a solid and tangible fighting edge in battle, setting your base Strike Ranges for all card-play during Throwdowns. If the throwdown was initiated by your opponent, then your base Strike Range is equal to your Flesh stat. If you started the fight, then use your Steel stat instead.
 
 
-### Commitment to Yourself (Buffer)
+### Commitment to the Future: Synapse and Circuit (Buffers and Charges)
 
-**Stat Mechanic:** Determines the pilot’s base *Buffer*.  
+**Core Stats:** Synapse (leftward) vs Circuit (rightward)  
+**Stat Mechanic:** Determines the pilot’s base *Buffers* and max *Charges*.  
 **Tied To:** Personal Robo
 
-Your rank in this stat determines the base value of your damage Buffer, which helps you soak a variety of damage during play.
+A Pilot with a higher Synapse stat has a much closer relation to the deep resiliency that protects humanity in its push to the stars. She excels at weathering all that the war can throw at her, often to the detriment of her own martial power. A Pilot with a higher Circuit stat instead has a greater connection to the weapons and machines that she must employ, sacrificing resilience for a stronger reserve of applied power.
 
-Pilots who take care of their own needs and value a lot of self-care and personal motivation are better able to weather the trials the universe throws at them, and have a greater resistance against forces that would degrade their physical health.
+Your rank in this stat determines the balance between your maximum Buffers and Charges. Your base Buffers pool is set by your Synapse Stat, while your maximum pool of Charges is set by your Circuit stat.
 
 
 ### Managing Your Commitments
 
-At the start of play, the playbooks are designed to give you an initial six-point spread across your three Commitments. Once the game begins, there are no hard upper limits, and the minumum is zero. These stats can be lowered temporarily via +Trauma events, and even permanently via Crisis States. Conversely, they can be raised through character Evolutions over extended play.
+At the start of a new Pilot's career, the playbooks are designed to give you an initial six-point balance between each of your Pilot's three Commitments. Likewise, this sets the maximum total in each of her three Commitments to an initial score of 6.
 
-**Forced Shifts:** Some game effects may force you to make a shift in one direction or another. For example, Coach might decree that a decision to put the Team at risk to save your own life will Shift you up 1 in Self and down 1 in Team. To do that, raise the Commitment Stat you are shifting toward, and lower the other one (usually this will be obvious, sometimes you might get to choose). Nothing can shift a Commitment lower than Zero.
-
-
-### Commitment Loss
-
-TBD
+Through extended play, there are a handful of circumstances in which these stat pairs may shift, and even a few in which their totals may increase or decrease. The mechanics of this are explained further below.
 
 
-### Crisis State! (NEW 2018)
+### Commitment Shifts
 
-If a character is ever dropped to Zero in all three of their Commitments, they enter a **Crisis State** that temporarily removes them from play. They aren't "dead" yet", however, unless everyone agrees it would make sense for that to happen.
-
-Let's face it, losing a character just sucks. Being removed from play is an awful experience, and I as a gamer personally hate mechanics that only really amount to "you don't get to play anymore, hah!" outside of a focused array of specific games. ***Gattaibushido:FUSION!*** is not one of those games.
-
-**Playtest** Considerations:
-
-* Important for it to NOT be a straight up Death Mechanic
-* Can she be "stabilized" by a Conflict?
-* Likewise they return after a suitable story moment, the team returns to base, they rush to medical evac, they go on an errand to get a life-saving item, etc.
-* Of course "Heroic Sacrifice" needs to be an option...
+Some game effects may force you to make a shift in one direction or another. For example, Coach might decree that a decision you made to put the Team at risk in order to save your own life will Shift you up 1 in Solo and down 1 in Sync. To do that, raise the rank of the relevant Commitment Stat you are shifting toward by 1, and lower its pair by 1. The balance must be maintained, with both stats of the pair adding up to their parent Commitment's Maximum. No Stat can be dropped lower than Zero, however; if a forced shift would result in such a drop, ignore that shift and work with Coach to decide upon an alternate outcome.
 
 
-#### What Happens in a Crisis State
+### Commitment Increases through Evolution
 
-(TBD)
+When your Pilot evolves to specific tiers of power, her Commitment maximums may increase, usually by only +1 in a single Commitment. This allows you to add a single point to one of her six Stats, permanently increasing the maximum balance within that Commitment by +1.
+
+Evolution is the *only* method for increasing a Commitment's maximum balance.
 
 
-#### Recovering from a Crisis State
+### Commitment Damage and Loss
 
-(TBD)
+If your Pilot suffers Trauma that is not otherwise deflected or absorbed (via Buffers, gear, or other effects), you must lower her Commitments as a result. For each point of Trauma thus received, you must pick one of her Commitments (your choice) and lower its maximum balance by 1. Then in turn you must pick one of that Commitment's Stats and likewise lower it by one. No stat can be lowered below zero.
 
-Whenever you recover from this state and return to play, the following happens:
+Fortunately there exist a handful of methods in the game that can heal a damaged Commitment track, including locations, Techs, and Gear. These effects often require some form of card conflict. As long as the damage is healed before the end of the scenario (which in most cases means "before the Big Giant Monster is defeated"), then the loss is not permanent. However, if the damage to the balance is not recovered by the end of the Scenario, then that Commitment's balance maximum is permanently reduced, and that specific loss cannot be "healed" in any way.
 
-* One of your Commitments (your choice) is permanently lowered by 1 point (see below)
-* Each of your Commitments with a max rank above zero is temporarily reduced to half value (rounded up)
+Recovering from a permanent Commitment loss can only be done through Evolution, by increasing the maximum of a balance. This does *not* technically "heal" or restore lost points, instead merely increasing the current maximum by 1.
 
-If *this* somehow permanently reduces the max rating of your last positive-rating stat to zero, then your Pilot is gone for good. How this manifests is up to you: death, retirement, etc.
+
+###### SIDEBAR: Permanent Loss is Good for the Story!
+
+> The idea of permanent stat loss in this game may come across as unfair during an initial read. However, I ask you to understand that this is an *expected* consequence of play, representing the unfortunate burnout of bright young lives who are thrown against great odds in the war to protect humanity from alien destruction. If this happens to your Pilot, embrace it, and see it as an opportunity for role-playing!
+
+
+### Commitment Death
+
+If any one of your Pilot's Commitment maximums is reduced to zero, she's at the precipice of her finality. You have a choice to make in this situation. Your first option - and the one I recommend most - is to embrace her departure from the game, and make it awesome. Depending on the circumstances that brought her here, she could die a glorious death in battle, be put in a completely broken-down state and sent off to a hospital for the rest of her days, or even just give up and retire from service. I encourage you to revel in this moment, for loss and transition are crucial components of every tragic space mecha story.
+
+If you don't want her participation in the story to end just yet, then your other choice is to work with Coach, and try to develop together an alternate outcome that is more suitable to both your goals as a player, and the story that everyone is working to create.
 
 
 ## Pilots: Gear (IN PROGRESS)
@@ -421,7 +422,7 @@ Notes:
 
 ## Pilots: Strike Ranges
 
-Your **Strike Range**  (also simply called **Strike**) sets the maximum *safe* difference between cards that you can play during Throwdowns. You can *always* play outside of this range if you have no other options, but doing so triggers a +Strife microevent that can damage team Harmony! Your Strike begins at an amount determined by your Commitment to the Fight rank, and can be modified by Gear, Techs, and more. See p. SQUARP in the Throwdown section for extended rules on Strike Ranges.
+Your **Strike Range**  (also simply called **Strike**) sets the maximum *safe* difference between cards that you can play during Throwdowns. You can *always* play outside of this range if you have no other options, but doing so triggers a +Strife microevent that can damage team Harmony! Your Strike begins at an amount determined by your Commitment to the Fight Stats, and can be modified by Gear, Techs, and more. See p. SQUARP in the Throwdown section for extended rules on Strike Ranges.
 
 
 ## Team Basics
