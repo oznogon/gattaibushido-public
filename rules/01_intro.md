@@ -1,4 +1,4 @@
-Crisissection: introduction
+section: introduction
 
 # Introduction Story: "Collateral Damage"
 
