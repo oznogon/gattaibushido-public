@@ -617,7 +617,7 @@ When designing a Threat with this Power, you should make sure that every planned
 
 #### Harbinger
 
-PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it Pushes in a Throwdown, Coach Discards a number of cards from your Deck equal to the current number of Omens in play.
+PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it Pushes in a Throwdown, Discards a number of cards from your Deck equal to the current number of Omens in play, plus one.
 
 
 #### Heavy-Hitter
