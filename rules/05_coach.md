@@ -75,7 +75,7 @@ Coach plays the game very differently than the Pilots. Below are the major mecha
 
 **Coach's Hand:** Coach's Max Hand is set equal to the number of Pilot Players in the current game session.
 
-**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Hand in order to activate these options (one Face for Waves, three Faces for Storms).
+**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Hand in order to activate these options (Faces for Waves, Aces for Storms).
 
 **Strike Ranges:** Coach has different limits in regard to Strike Ranges. Unlike the Pilots, who have the ability to play outside of Strike Ranges by risking team stress, by default your Threats are hard-limited by Strike Range and cannot play outside of them. Some of your custom Threats may have specific exemptions to this, however.
 
@@ -132,7 +132,7 @@ Every Scenario comes default with a basic Wave and Storm event built-in. All oth
 Waves and Storms are primarily triggered by three events during play:
 
 * Crisis Path Steps (aka Omens)
-* Throwdown "Trigger" Actions (require discards of faces)
+* Throwdown "Trigger" Actions (require discards of faces or aces)
 * Some Threat actions
 
 
@@ -660,7 +660,7 @@ Threats primarily exist to participate in Throwdowns under your control. The fol
 * **Buffers:** Each Threat has its own separate Buffers. *Do not* combine them if multiple Threats are participating.
 * **Strike Range:** Your Strike Range is equal to the combined Threat Ratings of the participants. Unlike Pilots, Threats simply *can not* play outside of this Range, unless one of the participants has the Enforcer power and spends its own Buffers to activate it.
 * **Side Action - Trigger Wave:** As a Side Action, a Threat can discard a Face to activate one of its Waves.
-* **Side Action - Trigger Storm:** As a Side Action, a Threat can discard *three* Faces to activate one of its Storms.
+* **Side Action - Trigger Storm:** As a Side Action, a Threat can discard an Ace to activate one of its Storms.
 
 
 ## Big Giant Monsters! (BGM)
