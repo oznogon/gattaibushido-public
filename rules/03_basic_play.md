@@ -92,7 +92,7 @@ Jacks, Queens, and Kings are typically played as number cards with values of 11,
 
 ### Aces
 
-Aces are the highest-ranked card in the Deck, with a functional value of 14 in almost all cases.
+Aces are the highest-ranked card in the Deck, with a functional rank of 14 in almost all cases, with one notable exception: when Coach flips for a Dissonance check, any Ace revealed has a value of 1.
 
 However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile. In other words, Aces gave *no value* against Twos.
 
@@ -469,6 +469,29 @@ Strike Range is a mechanic that has been mentioned before but not yet fully intr
 ### Throwdown Flow / Rundown
 
 
+### Strike Range: Your Margin of Resonant Action
+
+For playtest purposes, I'll try to keep this simple and without colorful text. Understanding the concept of the "Strike Range" (also simply known as "Strike") is crucial to mastering the strategy of Throwdowns.
+
+**Pilots:** When you use the Counter action, you must play a card of higher numerical rank than your opponent's last-played card (i.e. the card currently on top of the Pile). There is technically no limit on how high of a rank that card can be, but there is an incentive to keeping the differences between the cards low. This is because playing too high has the chance of damaging your Team's Harmony. This is represented through your Pilot's *Strike Range*, which is determined at the start of every new Throwdown.
+
+Your Strike sets the maximum "safe" difference in ranks by which your Counter card can exceed your opponent's. As long as the difference is within this range, your play is "safe" (or "Resonant") and suffers no innate adverse effect.
+
+> For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence.
+
+You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, the play is called **Dissonant** and the resulting difference between the ranks, lowered by your Strike range, is called **Dissonance**.
+
+> Carrying forward the above example, if you instead played a King (13) against your opponent's Two (2), that's a difference of 11! Your Strike of 2 mitigates that somewhat, resulting in a Dissonance value of 9.
+
+If a Strike is Dissonant, Coach immediately Flips up a card. If its value is equal to or less than the Dissonance, you've triggered an immediate +Schism. If not, the play is safe, the flip is discarded, and the action moves onward. Aces are considered to have a value of One (1) for this flip.
+
+> Concluding the above example, with a calculated Dissonance of 9, if Coach's subsequent flip has a rank of Nine (9) or lower, you've triggered +Schism. If that Schism is not prevented (such as by spending a Buffer token), then your Team's Harmony is immediately lowered one step!
+
+Note that some Techs and Gear can increase your Strike temporarily, including the basic Charge Techs that all Pilots can use. I encourage you to apply them wisely.
+
+**Coach:** Your Strikes are *hard* limits. Unless specified otherwise (by a Threat power, for example), you cannot play outside of your calculated Strike. This is intentional: as Coach, you have more overall available power to wield, mitigated by hard limits via a tight mechanical leash.
+
+
 ## Step 1: Initiative
 
 
@@ -525,16 +548,34 @@ Play in one to three rounds of escalating stakes:
 2. The Struggle
 3. The Final Attack
 
-Each side goes back and forth playing and escalating until one side concedes.
+Each side goes back and forth in exchanges of turns, playing and escalating until one side concedes.
 
 
 ### Taking Turns
 
 ### Taking Actions
 
+Pilots: each involved Pilot can take a single action per turn. One and only one of those actions must be a Play action. The other involved Pilots can take Support actions to assist the chosen Play action.
+
+Coach: TBD
+
+
 #### Play Actions
 
+* Counter: play a card of higher rank than the topmost card on the Pile
+* Block: play a card of equal rank but higher suit than the topmost card on the Pile
+* Escalate: push current Pile aside, start new pile with higher stakes
+* Concede: put cards down, declare opponent the victor. If you cannot Counter, Block, or Escalate, you must Concede.
+
+
 #### Support Actions
+
+Any other involved Pilot on the Team side can choose to perform a Support Action. They must discard any card from their Hand, which allows them to do one of the following:
+
+* Use one of their Charge Techs to assist another Pilot's Play
+* Activate Gear to assist another Pilot's Play
+* ...and more to be decided
+
 
 ### Escalating Stages and Stakes
 
