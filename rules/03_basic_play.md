@@ -206,7 +206,7 @@ We've listed them here for quick convenient reference. These are all explained i
 * **+Disfavor** = damage to a Faction
 * **+Purge** = damage to a Pilot's Charge gauge
 * **+Ruin** = damages to a Location
-* **+Strife** = damage to the team Harmony gauge
+* **+Schism** = damage to the team Harmony gauge
 * **+Trauma** = damage to a Pilot by directly reducing their Commitment Stats
 
 
@@ -259,7 +259,7 @@ The **+Fortify** trigger allows a Pilot to recover a single previously-spent Buf
 The **+Rally** trigger allows the Pilots to raise their Harmony rating by 1, to a maximum of 7 (Violet). If a +Rally trigger would raise the Harmony above 7, instead leave it at 7 and trigger +Chargeup:Each to the entire Team.
 
 
-### +Rebuild
+### +RebuildSchism
 
 **Valid Targets:** Pilots, Locations
 
@@ -342,13 +342,13 @@ By default, any Pilot can spend her Buffers to prevent a +Purge that targets her
 The **+Ruin** trigger targets a Location, and its effect depends on that Location's current state. If the Location is currently Standing, +Ruin forces it to flip to a Damaged state. If the Location is already Damaged, +Ruin forces it to a Razed state. A Razed location cannot be targeted by +Ruin.
 
 
-### +Strife
+### +Schism
 
 **Valid Targets:** Pilots
 
-The **+Strife** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Strife, the Team's Harmony is reduced by 1 rank. Harmony can never be reduced below 1 (Red); each instance of +Strife acquired while "in the Red" subsequently triggers +Trauma:Each to the *entire* team. See p. SQUARP for full details on Harmony.
+The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team's Harmony is reduced by 1 rank. Harmony can never be reduced below 1 (Red); each instance of +Schism acquired while "in the Red" subsequently triggers +Trauma:Each to the *entire* team. See p. SQUARP for full details on Harmony.
 
-By default, any Pilot can spend her Buffers to prevent +Strife that she personally either triggers or is targeted by, one token per event prevented.
+By default, any Pilot can spend her Buffers to prevent +Schism that she personally either triggers or is targeted by, one token per event prevented.
 
 
 ### +Trauma

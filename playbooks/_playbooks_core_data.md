@@ -190,7 +190,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 ### Charge Tech
 
-**Friendship Power!:** Pink can spend Charges as if they were Buffers to prevent +Strife from *any* source, including other teammates. She must be present in the scene/event in order to use them.
+**Friendship Power!:** Pink can spend Charges as if they were Buffers to prevent +Schism from *any* source, including other teammates. She must be present in the scene/event in order to use them.
 1. Charges:Buffers Cost is 2:1
 2. Cost is 1:1
 3. Cost is 1:2! This is most effective in larger Throwdowns
@@ -219,7 +219,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 ### Passive Tech
 
-**You don't know me! I do what I want!** Purple draws strength when she causes dissonance within the Team. Whenever Purple triggers +Strife, she restores a number of Buffers equal to her Rank in this Tech. If this occurs in the pursuit of a course of action that she was specifically ordered not to follow beforehand, she also gains an equal number of Charges.
+**You don't know me! I do what I want!** Purple draws strength when she causes dissonance within the Team. Whenever Purple triggers +Schism, she restores a number of Buffers equal to her Rank in this Tech. If this occurs in the pursuit of a course of action that she was specifically ordered not to follow beforehand, she also gains an equal number of Charges.
 
 
 ### Charge Tech
@@ -227,7 +227,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 Purple is not bound by anyone's rules and expectations. She does what she wants, in glorious, dangerous, and surprising ways. At rank 1, she acquires a new special action:
 
 **Middle Finger Scream!** (Side, Purple Pilot): Use this action before you Push in a Throwdown. Spend up to 2x your Tech Rank in Charges, and *decrease* your Strike Range by an equal amount for your next Push. This *can* result in a negative Strike Range, which is exactly what you want. If using this power gives you negative Strike, you can now Push with a *lower* card than the top of the Pile, as long as the difference is within the new negative Strike. Your new, lower card is now on top. This ability evolves at higher ranks:
-* Rank 2: After spending your Charges on this Action, you can choose to trigger +Strife recover up to half of them (round down) by stealing them from any other present Pilot.
+* Rank 2: After spending your Charges on this Action, you can choose to trigger +Schism recover up to half of them (round down) by stealing them from any other present Pilot.
 * Rank 3: As rank 2, but you can recover up to all charges spent on this action.
 
 **PLAYTEST NOTE:** Gosh, I'm having a hard time finalizing this one. I need some power that Purple can use, that costs her charges, but still fits with the Rebel theme. Input welcome!
@@ -350,7 +350,7 @@ Most of these are Side Actions
 
 * Charge: Spend 1 Charge, target player gains 1 Charge.
 * Energy: ???
-* Friendship: Spend 3 charges, immediately remove any one +Strife trigger from current Payloads.
+* Friendship: Spend 3 charges, immediately remove any one +Schism trigger from current Payloads.
 * Giga-: If you would otherwise add +Trauma to your Payload on this turn, spend 1 charge and add another +Trauma
 * Laser: Your "Boost Strike" Basic Charge Tech only costs 1:1 (default is 3:1)
 * Nega-: Spend 2 Charges, discard bottom card from the Play Pile.
@@ -396,7 +396,7 @@ Most of these are Side Actions
 
 ## Panda: Large and Loveable
 
-* **Summon Effect:** Everyone loves the Panda! When Summoned, she brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Strife damage incurred during this battle.
+* **Summon Effect:** Everyone loves the Panda! When Summoned, she brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Schism damage incurred during this battle.
 * **Rider Bonus:** Panda Belly Smash! When an enemy triggers +Trauma during the fight, you can choose to *immediately* shift it to Panda's endurance and then add +Trauma to your own Payload.
 * **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 

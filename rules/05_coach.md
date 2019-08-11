@@ -738,9 +738,9 @@ It's important to establish how Gambits and Throwdowns work during this scene. G
 Tell them not to worry about the numbers! Explain them as they come up, but don't over-explain, or give away too much of the strategy just yet. They are *supposed* to make mistakes, and as such they should naturally play without any understanding of what the numbers do. That will lead to unintentionally bad character decisions, which in this case you actually want, as they make the scene more interesting!
 
 
-### Strife Follows the Team!
+### Schism Follows the Team!
 
-Chances are the new players won't know much at all about Harmony and +Strife, and that's great. Just keep count of each time that the players trigger +Strife. Don't apply any trigger effects; simply count how many times it happens, and keep that count handy for team creation time. The actions of this team will color the tone of the team that eventually follows their footsteps in the future! The eventual team of Pilots may start the "game proper" with a lower Harmony as a result. This isn't a punishment! It simply creates a far more interesting first actual play session, while also teaches them a little about the consequences of playing beyond Strike Range.
+Chances are the new players won't know much at all about Harmony and +Schism, and that's great. Just keep count of each time that the players trigger +Schism. Don't apply any trigger effects; simply count how many times it happens, and keep that count handy for team creation time. The actions of this team will color the tone of the team that eventually follows their footsteps in the future! The eventual team of Pilots may start the "game proper" with a lower Harmony as a result. This isn't a punishment! It simply creates a far more interesting first actual play session, while also teaches them a little about the consequences of playing beyond Strike Range.
 
 
 ### Modifying the Scene Components

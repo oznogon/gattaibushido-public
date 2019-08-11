@@ -109,6 +109,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Round:** one of three stages of robot-on-monster action during Robo Rumbles  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
+**+Schism:** a mechanical trigger than can potentially reduce team Harmony  
 **Stat:** one of six numerical descriptors spread across three balanced Commitment pairs, forming the foundation of all core Pilot mechanics  
 **Storm:** one of Coach's two primary scripted Threat actions against the Pilots (the more heinous one)  
 **+Storm:** mechanical notation that an effect triggers one of Coach's Waves  

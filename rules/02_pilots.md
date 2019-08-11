@@ -130,7 +130,7 @@ Once a player has chosen the Red playbook, let the others pick as they will. Aft
 
 **What weird pre-battle ritual does your team have?** As a team you should develop some special ritual that the Pilots engage in right before a fight that they know is coming. Maybe the whole team recites their team code aloud, or jams out their favorite songs in That Popular Rock Music Game (TM), or even disobeys school protocol entirely and just gets really trashed together!
 
-If the Pilots all actively make an effort to role-play this ritual each time in-game, Coach may give the team a Harmony boost. Conversely, if they fail to perform their team rituals at crucial moments, Coach may instead trigger a +Strife microevent.
+If the Pilots all actively make an effort to role-play this ritual each time in-game, Coach may give the team a Harmony boost. Conversely, if they fail to perform their team rituals at crucial moments, Coach may instead trigger a +Schism microevent.
 
 **Which of you is known as Coach's pet?** Is it true? Who does this bother the most? Who couldn't give a rat's ass either way?
 
@@ -152,7 +152,7 @@ Each of the three Resources begins at a free base amount of 1. As your group goe
 
 Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. Keep some tokens around to represent damage buildup during Throwdowns, too - this text assumes you are using red-colored tokens, but anything your group wishes to use instead should be fine.
 
-The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Strife event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
+The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Schism event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
 
 
 ##### Define Your Salute!
@@ -202,7 +202,7 @@ The various subsections below are alphabetized by component name. Pilot-specific
 
 Your Pilot has a handy **Buffer** that starts with a base amount of tokens equal to her **Synapse** stat - we recommend using blue tokens to easily track these. This can be further increased by Gear, Techs, and more.
 
-By default you can use these tokens to prevent +Purge, +Strife, and +Trauma damage triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
+By default you can use these tokens to prevent +Purge, +Schism, and +Trauma damage triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
 
 As you use your Buffer to prevent damage, you tick off these tokens. They are a limited and valuable resource, so use them wisely! Buffers refresh at the beginning of every new Scenario (not session), and can also be restored mid-game as a result of various Techs and Actions during play.
 
@@ -378,7 +378,7 @@ Some possible Gear selections for the basic team. In these notations and all fol
 
 **Basic Training Armor:** Passive: increase personal Buffer pool by +1 vs +Trauma only.
 
-**Friendship Bangles:** Passive: If *at least two* are in play, each wearer has +1 Buffer vs +Strife only.
+**Friendship Bangles:** Passive: If *at least two* are in play, each wearer has +1 Buffer vs +Schism only.
 
 **Pocket Pistol:** A: Deal immediate +Trauma to enemy
 
@@ -422,7 +422,7 @@ Notes:
 
 ## Pilots: Strike Ranges
 
-Your **Strike Range**  (also simply called **Strike**) sets the maximum *safe* difference between cards that you can play during Throwdowns. You can *always* play outside of this range if you have no other options, but doing so triggers a +Strife microevent that can damage team Harmony! Your Strike begins at an amount determined by your Commitment to the Fight Stats, and can be modified by Gear, Techs, and more. See p. SQUARP in the Throwdown section for extended rules on Strike Ranges.
+Your **Strike Range**  (also simply called **Strike**) sets the maximum *safe* difference between cards that you can play during Throwdowns. You can *always* play outside of this range if you have no other options, but doing so triggers a +Schism microevent that can damage team Harmony! Your Strike begins at an amount determined by your Commitment to the Fight Stats, and can be modified by Gear, Techs, and more. See p. SQUARP in the Throwdown section for extended rules on Strike Ranges.
 
 
 ## Team Basics
@@ -450,30 +450,39 @@ The Names are simple enough. Your group should come up with a team name during t
 
 ## Team: Harmony
 
-**Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by **+Strife** triggers, which can lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
+**Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by **+Schism** triggers, which can lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
+
+Mechanically, your Team's Harmony affects three core systems: your carried Hand size between conflicts, the size of the Team's collective Final Form Bank, and the maximum duration that your assembled Final Form can be maintained.
+
+
+### The Harmony Table
 
 The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. The chart columns below detail the following:
 
 * **Harmony:** A color code for that rank of Harmony
 * **Rank:** A numerical rank associated with that color
-* **Max Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
+* **Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
+* **FF Bank:** The maximum # of cards the Team can invest in their Final Form Bank.
+* **FF Integrity:** The maximum number of additional stages that they team can push a Throwdown in their Final Form.
 
 **Harmony Table:**
 
-| Harmony | Rank | Hand |
-|---------|------|------|
-| Red     | 1    | 1    |
-| Orange  | 2    | 2    |
-| Yellow  | 3    | 2    |
-| Green   | 4    | 3    |
-| Blue    | 5    | 4    |
-| Indigo  | 6    | 4    |
-| Violet  | 7    | 5    | 
+| Harmony | Rank | Hand | FF Bank | FF Integrity |
+|---------|------|------|---------|--------------|
+| Red     | 1    | 1    | 1       | 0            |
+| Orange  | 2    | 2    | 2       | 1            |
+| Yellow  | 3    | 2    | 3       | 2            |
+| Green   | 4    | 3    | 4       | 2            |
+| Blue    | 5    | 4    | 5       | 2            |
+| Indigo  | 6    | 4    | 6       | 3            |
+| Violet  | 7    | 5    | 7       | 4            |
 
 
 ### Lowering Harmony
 
-Harmony can be damaged not just by disastrous events, but also by the Pilots pushing themselves too hard and acting against the spirit of the team. Pilots can trigger **+Strife** events which directly lower Harmony unless somehow mitigated. See details on the +Strife microevent trigger on p. SQUARP.
+Harmony can be damaged not just by disastrous events, but also by the Pilots pushing themselves too hard and acting against the spirit of the team. Pilots can trigger **+Schism** events which directly lower Harmony unless somehow mitigated. See details on the +Schism microevent trigger on p. SQUARP.
+
+Lowering Harmony can result in loss of cards from Hands and the FF Bank. If the max Hand is lowered as a result, all Pilots holding more cards than this maximum must discard accordingly. Likewise the topmost card of the FF Bank must be discarded.
 
 The Harmony tracker can never be lower than 1 (Red). If an event or mechanic would lover the Team's Harmony below 1, leave it at 1 and instead trigger +Trauma:Each (yes, that means to *the entire Team*). This represents your Team's descent into self-destructive behaviors finally taking its toll out directly on their personal well-being.
 
@@ -489,6 +498,8 @@ Harmony can be restored in the following ways:
 * Winning appropriate Gambits and Throwdowns, or involvement in other narrative activities\*
 
 \* Note that not all Throwdowns, Gambits, or other activities will be eligible for Harmony restoration. The situation must make sense, and the conflict needs to be directly related to the improvement of Team Spirit and teamwork, a matter which is ultimately Coach's call. Examples include therapy sessions, team spirit-boosting activities, group interventions, etc.
+
+Increasing Harmony can result in higher limits on Hands and the the FF Bank. If the max Hand is increased as a result, all Pilots must draw up accordingly. Additionally the group can invest additional cards into their FF Bank, up to its newly-adjusted limit.
 
 **PLAYTEST NOTE:** I am certain I need more ways to restore Harmony. This requires more feedback on the current systems, though.
 

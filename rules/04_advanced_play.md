@@ -242,7 +242,7 @@ Many Boons make use of the **+Tarry** mechanic, which allows Coach to push time 
 
 **CyberDome:** An elite technological training center, the group can +Tarry here to get prepped for coming battles, allowing each Pilot present to discard and draw 1 card per +Tarry action.
 
-**Hope Monument:** During any conflict at the Hope Monument, the Team has +2 to its Buffer vs +Strife only.
+**Hope Monument:** During any conflict at the Hope Monument, the Team has +2 to its Buffer vs +Schism only.
 
 **Medical Bay:** A single Pilot can +Tarry here to restore 1 point of temporary Commitment damage.
 
