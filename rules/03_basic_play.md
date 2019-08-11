@@ -39,6 +39,8 @@ During active conflicts, your current Hand size may fluctuate wildly as cards ar
 
 There are two base **Decks** of 54 standard playing cards. *All* of the Pilots use one Deck for their actions, while Coach uses a separate Deck of his own. The Decks are placed face-down in the middle for everyone to see and reach. The Jokers in each Deck are always shuffled in face-*up*, however.
 
+Henceforth this text uses the term **The Deck** to refer to the relevant Deck of cards as determined by context. If the Pilots are told to draw from The Deck, this refers to the Pilot Deck, and likewise with Coach and his own Deck.
+
 
 ### Faction
 
@@ -94,7 +96,7 @@ Jacks, Queens, and Kings are typically played as number cards with values of 11,
 
 Aces are the highest-ranked card in the Deck, with a functional rank of 14 in almost all cases, with one notable exception: when Coach flips for a Dissonance check, any Ace revealed has a value of 1.
 
-However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile. In other words, Aces gave *no value* against Twos.
+However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile.
 
 
 ### Jokers

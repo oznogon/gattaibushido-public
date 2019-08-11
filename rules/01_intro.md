@@ -119,7 +119,6 @@ Make sure you have the basics:
 * **Pilot Playbooks** should be printed out in advance so you can each easily choose your team roles and first year school courses (aka "character creation").
 * **Pilot Record Sheets** allow you to keep detailed ongoing notes of your stats, abilities, skills, and class grades. Be careful now, these are your permanent records!
 * (***Still In Development***) The Team Harmony Tracker is required to keep up-to-date stats on your pilots’ harmonic frequencies with each other. Put one of these on the table for everyone to see.
-* (OPTIONAL) *A four-sided gaming die* might be useful for certain random moments, if you'd rather not burn through cards for them. 8-sided, 12-sided, and 20-sided also work, as they are all divisible by 4.
 
 
 ## Introduction to Play
@@ -161,8 +160,6 @@ It is very important for each mission in the game to be underscored by a growing
 
 All aspects of mechanical concern are resolved by plays and draws from two separate decks of playing cards. The Pilots get a single Deck that they play from as a team, and Coach gets another Deck all of his own. The Pilots *never* touch or play the cards from Coach's Deck, and vice-versa.
 
-Given that neither side should ever touch the other's Deck, henceforth this text uses the term **The Deck** to refer to the relevant Deck of cards as determined by context. If the Pilots are told to draw from The Deck, this refers to the Pilot Deck, and likewise with Coach and his own Deck. The extended and fully-detailed card Rules are explained in the later *Cards and Conflicts* section of these rules, but for now there are a few core concepts behind them that you should know before reading much further.
-
 
 #### Card Conflicts
 
@@ -181,7 +178,7 @@ The "Face" cards - Jacks, Queens, and Kings - are treated as number cards with v
 
 #### Aces
 
-Aces are super special ultra-powerful cards with a value of 14 - the highest-value card in the game! While this sounds awesome, they also have one eensy weensy little weakness: Twos. Twos *always* beat Aces, and Aces can never be played against Twos!
+Aces are super special ultra-powerful cards with a value of 14 - the highest-value card in the game! While this sounds awesome, they also have one eensy weensy little weakness: Twos. Twos always beat aces!
 
 
 #### Jokers
