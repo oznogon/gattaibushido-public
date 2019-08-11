@@ -323,7 +323,7 @@ During Throwdowns, however, damage-type +Triggers are instead added to each side
 
 The **+Disfavor** trigger targets a revealed Faction, adding a single Strike token to that Faction's card. When a Faction reaches the third Strike, it is either removed from play or converted into a Threat (Coach's choice). See p. SQUARP for full details on Factions and Strikes.
 
-By default, the team can spend points from the Fan Club to mitigate +Disfavor events, one token per event prevented.
+By default, the team can spend points from the Fan Club to mitigate +Disfavor events, one token per Strike prevented.
 
 
 ### +Purge
@@ -332,7 +332,7 @@ By default, the team can spend points from the Fan Club to mitigate +Disfavor ev
 
 The **+Purge** trigger targets a Pilot, forcing them to erase their current buildup of Charges.
 
-By default, any Pilot can spend her Buffers to prevent a +Purge that targets her, one token per event prevented.
+By default, any Pilot can spend her Buffers to prevent a +Purge that targets her, one token per Purge prevented.
 
 
 ### +Ruin
@@ -348,7 +348,7 @@ The **+Ruin** trigger targets a Location, and its effect depends on that Locatio
 
 The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team's Harmony is reduced by 1 rank. Harmony can never be reduced below 1 (Red); each instance of +Schism acquired while "in the Red" subsequently triggers +Trauma:Each to the *entire* team. See p. SQUARP for full details on Harmony.
 
-By default, any Pilot can spend her Buffers to prevent +Schism that she personally either triggers or is targeted by, one token per event prevented.
+By default, any Pilot can spend her Buffers to prevent +Schism that she personally either triggers or is targeted by, one token per point of loss prevented.
 
 
 ### +Trauma
@@ -361,7 +361,7 @@ The **+Trauma** trigger is the primary method for applying direct damage to both
 
 **Threats:** Against Threats, this trigger directly lowers the enemy's Threat Rating. If a Threat's Rating is reduced to Zero (0), it is defeated and removed from play.
 
-**Both:** Pilot and Threats can spend Buffer tokens to prevent +Trauma that targets or affects them, at a cost of one token per point of Stat or Threat reduction prevented.
+**Both:** Pilot and Threats can spend Buffer tokens to prevent +Trauma that targets or affects them, at a cost of one token per point of damage prevented.
 
 
 # Conflict Type 1: Fiat ("Just say what happens")

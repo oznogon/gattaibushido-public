@@ -202,7 +202,7 @@ The various subsections below are alphabetized by component name. Pilot-specific
 
 Your Pilot has a handy **Buffer** that starts with a base amount of tokens equal to her **Synapse** stat - we recommend using blue tokens to easily track these. This can be further increased by Gear, Techs, and more.
 
-By default you can use these tokens to prevent +Purge, +Schism, and +Trauma damage triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
+By default you can use these tokens to prevent potential damage from +Purge, +Schism, and +Trauma triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
 
 As you use your Buffer to prevent damage, you tick off these tokens. They are a limited and valuable resource, so use them wisely! Buffers refresh at the beginning of every new Scenario (not session), and can also be restored mid-game as a result of various Techs and Actions during play.
 
