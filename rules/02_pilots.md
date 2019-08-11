@@ -222,7 +222,7 @@ In addition to their own personal Techs, *every* Pilot has the following basic C
 
 ### The AGSOMAFA! Action
 
-The AGSOMAFA! is a potentially-disastrous action that any Pilot can attempt during any Throwdown in which they are an active participant. To activate the AGSOMAFA!, the player must first describe the desperation by which their Pilot is calling on her greatest powers, in as thematically-appropriate a manner as possibly. Once done, she then takes a card from her Hand or an active Faction and Removes it from play for the remainder of her Pilot's *existence* in the ongoing story. This card must match her Pilot's suit affinity.
+The AGSOMAFA! is a potentially-disastrous action that any Pilot can attempt during any Throwdown in which they are an active participant. To activate the AGSOMAFA!, the player must first describe the desperation by which their Pilot is calling on her greatest powers, in as thematically-appropriate a manner as possibly. Once done, she then takes a card from her Hand or an active Faction and Removes it from play for the remainder of her Pilot's *existence* in the ongoing story.
 
 Once the card is chosen and Removed, she gains its value in immediate personal Charges, which can temporarily exceed her Max Charges limit, but must all be used before the end of the Throwdown. If she has any Charges remaining at the conclusion of the Throwdown, she burns them immediately and inflicts +Trauma:Self(X) where X equals the # of Charges burned.
 
