@@ -10,7 +10,7 @@ layout: Gray Pawn
 * Linux: [Remarkable](https://remarkableapp.github.io/)
 
 
-# (PLAYBOOK TITLE) Color: The Role (evocative quip)
+# (PLAYBOOK TITLE) Chroma: The Role (evocative quip)
 
 (**Design example for Gray Pawn:**  "Pink: The Heart of the Team (right there, on her sleeve, for all to see)" )
 
@@ -18,7 +18,7 @@ layout: Gray Pawn
 
 (Insert Introductory Text, details about the Role. Maybe three or four sentences, max.)
 
-**Palette Swap:** Love the role, but not feeling the color? Here are some genre-inspired alternatives:
+**Palette Swap:** Love the role, but not feeling the specific hue? Here are some genre-inspired alternatives:
 
 * **Alt1:** DESCRIPTION
 * **Alt2:** DESCRIPTION
@@ -73,12 +73,12 @@ Now let's take your concept a step further, and start writing down some numbers!
 
 Don't see something you like? Coach has rules for custom stats and adjectives!
 
-(**PLAYTEST NOTE #1:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the color role.)
+(**PLAYTEST NOTE #1:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the Chroma.)
 
 (**PLAYTEST NOTE #2:** I'm reassessing these to bring them back in line with the reverted Commitment Dualities. The new idea is to pick three descriptors, from three different lists, but I'm working to rewrite the lists anew.)
 
 
-# (Color Name's) Power Profile
+# (Chroma Name's) Power Profile
 
 As the (Role Name), your specialty is (Role Details Shortform). **First**, this lets you pick one of your two core powers as your Pilot's starting specialty. These can evolve over time, and you can eventually unlock all three if you want! Pick one right now, and fill in the "Level 1" dot next to it.
 
@@ -104,7 +104,7 @@ As the (Role Name), your specialty is (Role Details Shortform). **First**, this 
 
 ## Team Mods
 
-Your choice of Color Role also indirectly affects the Team by adjusting background stats and resources.
+Your choice of Chroma also indirectly affects the Team by adjusting background stats and resources.
 
 
 ### Starting Team Adjustments
@@ -127,16 +127,16 @@ At the start of every brand new Scenario, make the following additional Resource
 * **Pit Crew:** +X
 
 
-## Color Lesson Trigger
+## Chroma Lesson Trigger
 
-**Next**, note your Color's special Lesson trigger. This is a special prompt that allows you to gain Lessons during play by role-playing your role's strengths and weaknesses in purely narrative ways.
+**Next**, note your Chroma's special Lesson trigger. This is a special prompt that allows you to gain Lessons during play by role-playing your role's strengths and weaknesses in purely narrative ways.
 
 * **Lesson Trigger:** DESCRIPTION
 
 
-## Color Gambit Specialty
+## Chroma Gambit Specialty
 
-When you incorporate your Color's specialty directly into a Gambit, you add more narrative effect to the outcome!
+When you incorporate your Chroma's specialty directly into a Gambit, you add more narrative effect to the outcome!
 
 * **Gambit Specialties:** DESCRIPTION.
 
@@ -230,7 +230,7 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 
 **Evolve Tech Paths:** When you evolve this, pick one of the following:
 
-* **Color Role:** Either add a Level to one of your Role Techs, or acquire a new Role Tech from your list.
+* **Chroma:** Either add a Level to one of your Role Techs, or acquire a new Role Tech from your list.
 * **Power Weapon:** Add a new Quality Tech of your choice to the weapon.
 * **Personal Robo:** Increase your Robo Rank by 1.
 
