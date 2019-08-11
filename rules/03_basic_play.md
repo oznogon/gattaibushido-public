@@ -112,6 +112,11 @@ It is important to note that the buildup of *any* number of Omens can benefit se
 Jokers are *never* sent to Play Piles or the Trash. Once both of a Deck's Jokers have been revealed and Spent, return them face-up to the Deck, then Reshuffle the Deck.
 
 
+### "Wild" Cards
+
+Some effects in the game may declare that a card is **Wild** for a time. When a card is played as Wild, it is played face-down, and its player declares it to function as any other standard (non-Joker) card.
+
+
 ## Card Terminology
 
 
