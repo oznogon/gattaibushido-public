@@ -36,10 +36,9 @@ Playbook base data is contained within this document as a reference until the fi
 
 ### Passive Tech
 
-**Phantom Clone!** When Black activates the Phantom card, she can instead use lower-down cards in the Phantom Stack.
-1. Black can choose from the top two cards in the Phantom Stack.
-2. Black can now choose from the top three cards in the Phantom Stack.
-3. Black can now choose from *any* card in the Phantom Stack.
+**Chaos Void!** Black exists outside the Harmony spectrum, and thus her player carries no Hand of Cards between conflicts. Instead, Black carries her own personal Stash of cards, all kept face-down on the table before her. The limit of this Stash is equal to her rank in this Tech, and it begins the first session filled.
+
+Black can play a card from her Stash at any time the game would allow her to play from a Hand or a Faction. Her plays from this Stash are Wild. Cards played from this Stash do not replenish automatically. At the end of a Throwdown, as unplayed cards are being discarded, if Black has any remaining bonus draws she can invest them into her Stash, up to its limit.
 
 
 ### Charge Tech
@@ -48,7 +47,7 @@ Playbook base data is contained within this document as a reference until the fi
 
 **New Special Action: "Wild Chance!"** (Side, Black Pilot)
 
-...something about flipping top card of the deck, getting a bonus if black, or something else if red?
+...something about flipping top card of the deck, getting a bonus if black, or something else if red? Or a different effect for each suit, three of which are good, one is bad.
 
 also random plays in gambits, if black then 2x value, if red then auto fail. Maybe a separate power?
 
