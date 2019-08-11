@@ -240,7 +240,7 @@ The **+Chargeup** trigger allows a Pilot to add points to her Charge gauge. Unle
 
 The **+Favor** trigger allows the Team to invest cards into a revealed Faction. Unless otherwise specified, by default the event allows a single card investment to a single Faction of their choice.
 
-Alternately, Coach may allow a Pilot to use a +Favor event to remove a Strike token from a relevant Faction.
+Alternately, Coach may allow a Pilot to use a +Favor event to remove an Offense token from a relevant Faction.
 
 See p. SQUARP for full details on Factions and Favor.
 
@@ -321,9 +321,9 @@ During Throwdowns, however, damage-type +Triggers are instead added to each side
 
 **Valid Targets:** Pilots, Factions
 
-The **+Disfavor** trigger targets a revealed Faction, adding a single Strike token to that Faction's card. When a Faction reaches the third Strike, it is either removed from play or converted into a Threat (Coach's choice). See p. SQUARP for full details on Factions and Strikes.
+The **+Disfavor** trigger targets a revealed Faction, adding a single Offense token to that Faction's card. When a Faction reaches the third Offense, it is either removed from play or converted into a Threat (Coach's choice). See p. SQUARP for full details on Factions and Offenses.
 
-By default, the team can spend points from the Fan Club to mitigate +Disfavor events, one token per Strike prevented.
+By default, the team can spend points from the Fan Club to mitigate +Disfavor events, one token per Offense prevented.
 
 
 ### +Purge

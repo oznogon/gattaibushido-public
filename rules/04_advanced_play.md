@@ -72,7 +72,7 @@ Every Faction has the following core components:
 
 * **Agency Rating:** How much relative story power the Faction has (higher = stronger)
 * **Favor Cards:** A stack of cards representing power invested in the Faction
-* **Strike Tokens:** A pile of tokens that build up as the Pilots upset the Faction
+* **Offense Tokens:** A pile of tokens that build up as the Pilots upset the Faction
 * **+Favor Trigger:** Several ways the Pilots can gain the Faction's favor
 * **+Disfavor Trigger:** Several ways the Pilots can piss the Faction off
 
@@ -152,18 +152,18 @@ Factions exist primarily as a method for the Pilots to build up more card-play o
 The narrative assistance can be direct, such as a member of that Faction taking immediate action in the Pilot's stead. It can instead be indirect, such as someone in the Faction having provided the Pilot intel before this conflict.
 
 
-## Accruing Strikes
+## Causing Offense to a Faction
 
-When the Pilots narratively distress, offend, or piss off a Faction, this activates a +Disfavor trigger. Unless somehow mitigated, +Disfavor triggers result in the accrual of Strike tokens placed on top of the Faction's index card on the table.
+When the Pilots narratively distress, offend, or piss off a Faction, this activates a +Disfavor trigger. Unless somehow mitigated, +Disfavor triggers result in the accrual of Offense tokens placed on top of the Faction's index card on the table.
 
-Factions follow the standard "three strikes and you're out!" rule of decorum. This means that a Faction can have no more than two Strike tokens on it at any time. If ever it would acquire a third token, it is either removed from play or worse: converted into a new Threat (see below).
+Factions follow the standard "three strikes and you're out!" rule of decorum. This means that a Faction can have no more than two Offense tokens on it at any time. If ever it would acquire a third token, it is either removed from play or worse: converted into a new Threat (see below).
 
-Coach can offer the removal of Strikes as rewards for narrative actions the Pilots might take in order to heal social wounds and make amends for their offenses.
+Coach can offer the removal of Offenses as rewards for narrative actions the Pilots might take in order to heal social wounds and make amends for their offenses.
 
 
 ### Enraged Factions: New Threats!
 
-At Coach's discretion, any Faction that accrues three Strikes may directly turn against the players, directing its efforts to actively bring them down. This results in the Faction transforming into a new Threat, with its Agency converting directly into its new Threat Rating. Use the standard Threat-building rules to give the Threat powers (see p. SQUARP).
+At Coach's discretion, any Faction that accrues three Offenses may directly turn against the players, directing its efforts to actively bring them down. This results in the Faction transforming into a new Threat, with its Agency converting directly into its new Threat Rating. Use the standard Threat-building rules to give the Threat powers (see p. SQUARP).
 
 All invested Favor cards on a Threat-converted Faction are discarded.
 
