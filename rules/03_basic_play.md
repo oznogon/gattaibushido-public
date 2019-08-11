@@ -39,7 +39,7 @@ During active conflicts, your current Hand size may fluctuate wildly as cards ar
 
 There are two base **Decks** of 54 standard playing cards. *All* of the Pilots use one Deck for their actions, while Coach uses a separate Deck of his own. The Decks are placed face-down in the middle for everyone to see and reach. The Jokers in each Deck are always shuffled in face-*up*, however.
 
-Henceforth this text uses the term **The Deck** to refer to the relevant Deck of cards as determined by context. If the Pilots are told to draw from The Deck, this refers to the Pilot Deck, and likewise with Coach and his own Deck.
+This text uses the term **The Deck** to refer to the relevant Deck of cards as determined by context. If the Pilots are told to draw from The Deck, this refers to the Pilot Deck, and likewise with Coach and his own Deck.
 
 
 ### Faction
