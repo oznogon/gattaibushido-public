@@ -45,6 +45,39 @@ There is one other major restriction in play here: you cannot evolve the same ca
 **All subsequent Evolutions** follow the same repeating cycle. Thus the fourth and fifth evolutions again level up your techs, the sixth adds another adjective and Commitment rank, and so on.
 
 
+### Universal Techs
+
+There are four special "Universal" Techs that all Pilots have access to, regardless of their Color Roles. Whenever you earn a Tech Evolution, you can choose to level up one of the Universal Techs instead. Like all Techs, each of the four Universal Techs has three ranks of evolution. These Techs are detailed below:
+
+
+##### Buffer Tech
+
+Evolving this Tech increases your maximum Buffer Pool by +1 per Evolution rank.
+
+
+##### Card Tech
+
+Evolving this Tech gives you more card options in play, with the following rewards:
+
+* Rank 1: Increases your base Bonus Draw by +1
+* Rank 2: Increases your base Bonus Draw by +1 (for a total of +2)
+* Rank 3: Increases your base Hand Size by +1
+
+
+##### Charge Tech
+
+Evolving this Tech increases your Pilot's maximum Charge Pool, with the following rewards:
+
+* Rank 1: Increase your Charge Pool max by +1
+* Rank 2: Increase your Charge Pool max by +2 (for a total of +3)
+* Rank 3: Increase your Charge Pool max by +3 (for a total of +6)
+
+
+##### Strike Tech
+
+Evolving this Tech increases your base Strike Range by +1 per Evolution rank.
+
+
 ### Restoring Damaged Commitments
 
 If any of your Pilot's Commitment balances is lower than 6, you can choose to spend a Tech evolution to instead restore a single point to that Commitment (and thus increase one of its Stats). This does not apply a new adjective, nor does it otherwise alter the cycle of evolution.
