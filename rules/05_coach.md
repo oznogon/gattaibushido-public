@@ -592,7 +592,7 @@ This Power designates the Threat as this scenario's Big Giant Monster (or BGM), 
 
 #### Corrupt (2X)
 
-Wave Version: Inflict +Disfavor upon a revealed Faction of choice. Storm Version: Inflict +Disfavor upon each revealed Faction in play. Factions pushed to three (3) Strikes as a result of either form of this Power convert to Threats.
+Wave Version: Inflict +Disfavor upon a revealed Faction of choice. Storm Version: Inflict +Disfavor upon each revealed Faction in play. Factions pushed to three (3) Offenses as a result of either form of this Power convert to Threats.
 
 
 #### Debilitate (2X)
