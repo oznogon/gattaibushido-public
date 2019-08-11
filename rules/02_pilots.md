@@ -102,7 +102,7 @@ This is primarily a matter of thematic choice, especially if you're wishing to e
 
 ## Step 3: Choose and Fill Out the Playbooks
 
-Next, it's time to choose your individual team Color Roles. Coach will print out and lay forward the character playbooks for everyone to see and discuss. Each is a color-themed character booklet that will guide you through a series of choices to make about your Pilot, as well as a few choices that you get to make about the *other* Pilots, and even a few that *they* get to make about *you*. Each is crafted to fill a specific role in the team, with assigned uniform colors inspired by (but not subservient to) genre media from the game's previously-mentioned sources of inspiration.
+Next, it's time to choose your individual team Chromas. Coach will print out and lay forward the character playbooks for everyone to see and discuss. Each is a color-themed character booklet that will guide you through a series of choices to make about your Pilot, as well as a few choices that you get to make about the *other* Pilots, and even a few that *they* get to make about *you*. Each is crafted to fill a specific role in the team, with assigned uniform colors inspired by (but not subservient to) genre media from the game's previously-mentioned sources of inspiration.
 
 
 ##### First Red and Green
@@ -177,13 +177,13 @@ With that, the Team is now Complete.
 **Style Ideas:** Report Card, Yearbook bio, Yearbook quote, Data Panel Readout
 
 
-##### (SIDEBAR: "Colors, Weapons, and Robos")
+##### (SIDEBAR: "Chromas, Weapons, and Robos")
 
-> Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Color, your Power Weapon, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
+> Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Chroma, your Power Weapon, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
 >
-> Your Pilot's Color provides the main bulk of your power and versatility. Her Color Techs will be your core tools for empowerment, both in and out of the mecha cockpits.
+> Your Pilot's Chroma provides the main bulk of your power and versatility. Her Chroma Techs will be your core tools for empowerment, both in and out of the mecha cockpits.
 >
-> Her custom Power Weapon also provides Techs, but they are intended to be minor extensions of ability. These can be used to either boost your base Color Techs, or instead diversify your skills and keep you from being an overly-specialized one-trick pony.
+> Her custom Power Weapon also provides Techs, but they are intended to be minor extensions of ability. These can be used to either boost your base Chroma Techs, or instead diversify your skills and keep you from being an overly-specialized one-trick pony.
 >
 > Finally, your Robo mainly serves as an extension of your Pilot's core persona. While it provides some minor thematic abilities, it's primary purpose is as a vessel for Fusions and the Final Form.
 
@@ -209,7 +209,7 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 **Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Pilot Deck Jokers, as well as the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
 
-Charges are spent to activate various Techs during play. Most Techs will come from your Pilot's choice of Color Role, Power Weapon, and Robo. Not *all* of these Techs will require charges, but for those that do, the cost in Charges is specified by the Tech descriptions.
+Charges are spent to activate various Techs during play. Most Techs will come from your Pilot's choice of Chroma, Power Weapon, and Robo. Not *all* of these Techs will require charges, but for those that do, the cost in Charges is specified by the Tech descriptions.
 
 In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal:
 
@@ -225,7 +225,7 @@ The AGSOMAFA! is a potentially-disastrous action that any Pilot can attempt duri
 Once the card is chosen and Removed, she gains its value in immediate personal Charges, which can temporarily exceed her Max Charges limit, but must all be used before the end of the Throwdown. If she has any Charges remaining at the conclusion of the Throwdown, she burns them immediately and inflicts +Trauma:Self(X) where X equals the # of Charges burned.
 
 
-## Pilots: Color Roles (Core)
+## Pilots: Chromas (Core)
 
 (PLAYTEST NOTE: Currently in the Playbooks)
 
@@ -240,7 +240,7 @@ Once the card is chosen and Removed, she gains its value in immediate personal C
 ### Yellow
 
 
-## Pilots: Color Roles (Advanced)
+## Pilots: Chromas (Advanced)
 
 (PLAYTEST NOTE: Currently in Playbook development; these are three advanced roles, requiring greater considerations during play)
 
@@ -263,7 +263,7 @@ It is entirely possible to play a character with a 6 in one stat and a 0 in its 
 
 **Core Stats:** Solo (leftward) vs Sync (rightward)  
 **Stat Mechanic:** Determines your *Bonus Draws* at the beginning of Throwdowns.  
-**Tied To:** Team Color Role
+**Tied To:** Team Chroma
 
 A Pilot with a higher Solo stat in this Commitment tends to be more focused on their own personal goals, often causing strife by putting her needs desires before those of her Team. A Pilot with a higher Sync stat instead more often puts the needs of the Team first, sometimes to the detriment of her own mental and physical health.
 
@@ -497,7 +497,7 @@ The Harmony tracker can never be lower than 1 (Red). If an event or mechanic wou
 
 Harmony can be restored in the following ways:
 
-* Playing up your Color's Harmony Trigger
+* Playing up your Chroma's Harmony Trigger
 * Using your Fan Club
 * Using certain Gear
 * Using certain Techs

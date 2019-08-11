@@ -36,9 +36,9 @@ Not every Lesson will (or should!) be Learned from! This is important! Some Less
 
 When you earn an Evolution, you get to spend it to unlock a new character enhancement. These advancements progress in a repeating three-step cycle:
 
-**Your First and Second Evolutions** allow you to level-up any one Tech within your three power categories (Color, Weapon, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Color, Weapon, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
+**Your First and Second Evolutions** allow you to level-up any one Tech within your three power categories (Chroma, Weapon, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Chroma, Weapon, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
 
-There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Color Techs, for example, then for your next level-up you must instead choose within your Weapon or Robo techs.
+There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Chroma Techs, for example, then for your next level-up you must instead choose within your Weapon or Robo techs.
 
 **Your Third Evolution** allows you to choose a new descriptive adjective to describe yourself based on your portrayal in the story thus far. Along with this adjective comes a +1 increase to any one of your six core stats - which in turn also increases its associated Commitment's balance maximum. This increase must narratively fit the nature of the chosen adjective. Talk to your team for suggestions, as they just may know your Pilot better than you do! Additionally, at this time you may *choose* to shift a single point within all three of your Commitments, based on your shifting motivations and goals from current play.
 
@@ -47,7 +47,7 @@ There is one other major restriction in play here: you cannot evolve the same ca
 
 ### Universal Techs
 
-There are four special "Universal" Techs that all Pilots have access to, regardless of their Color Roles. Whenever you earn a Tech Evolution, you can choose to level up one of the Universal Techs instead. Like all Techs, each of the four Universal Techs has three ranks of evolution. These Techs are detailed below:
+There are four special "Universal" Techs that all Pilots have access to, regardless of their Chromas. Whenever you earn a Tech Evolution, you can choose to level up one of the Universal Techs instead. Like all Techs, each of the four Universal Techs has three ranks of evolution. These Techs are detailed below:
 
 
 ##### Buffer Tech
@@ -83,13 +83,13 @@ Evolving this Tech increases your base Strike Range by +1 per Evolution rank.
 If any of your Pilot's Commitment balances is lower than 6, you can choose to spend a Tech evolution to instead restore a single point to that Commitment (and thus increase one of its Stats). This does not apply a new adjective, nor does it otherwise alter the cycle of evolution.
 
 
-## Loadouts: Switching Colors, Weapons, and Robos
+## Loadouts: Switching Chromas, Weapons, and Robos
 
-Although I am a strong believer that a Pilot's color, style, and chosen mecha deeply echo her own inner nature in an intensely personal way, no player should be forced to stick with their initial choices if they feel like trying out other character options over time. While changing your Color Role should be reserved for extremely rare matters of powerful story growth, changing your Weapon and Robo can be as simple as writing them down and swapping them out at the beginning of a new mission.
+Although I am a strong believer that a Pilot's Chroma, style, and chosen mecha deeply echo her own inner nature in an intensely personal way, no player should be forced to stick with their initial choices if they feel like trying out other character options over time. While changing your Chroma should be reserved for extremely rare matters of powerful story growth, changing your Weapon and Robo can be as simple as writing them down and swapping them out at the beginning of a new mission.
 
-For these occasions, use the **Alternate Evolution Pilot Sheet**. This allows you to track different Colors, Weapons, and Robos that you evolve over time. Following the standard Evolution cycle, acquiring a new Role, Weapon, or Robo can be as simple as investing a single Evolution to acquire its first Tech rank.
+For these occasions, use the **Alternate Evolution Pilot Sheet**. This allows you to track different Chromas, Weapons, and Robos that you evolve over time. Following the standard Evolution cycle, acquiring a new Role, Weapon, or Robo can be as simple as investing a single Evolution to acquire its first Tech rank.
 
-There is an important restriction here to note: **You can only use the Techs of one Color, Weapon, and Robo at a time.** When you change into a different Color suit, you *become* that Color. When you choose to pilot a certain Robo, you are bonded with that Robo *alone*. And you can only wield a single special Power Weapon at any one time. Coach may choose to allow you to freely swap between Tech "loadouts" throughout the same Scenario, but you cannot use the Techs of multiple Colors, Weapons, or Robos on the same mission. Swapping these out should only be done at the Team's home base, and only at dramatically-relevant times.
+There is an important restriction here to note: **You can only use the Techs of one Chroma, Weapon, and Robo at a time.** When you change into a different Chroma suit, you *become* that Chroma. When you choose to pilot a certain Robo, you are bonded with that Robo *alone*. And you can only wield a single special Power Weapon at any one time. Coach may choose to allow you to freely swap between Tech "loadouts" throughout the same Scenario, but you cannot use the Techs of multiple Chromas, Weapons, or Robos on the same mission. Swapping these out should only be done at the Team's home base, and only at dramatically-relevant times.
 
 Note that this kind of loadout-swapping can result in a non-trivial amount of additional bookkeeping, not to mention uncertainty in storytelling. As such we recommend discussing this heavily with your fellow players at the table before doing this too often.
 
@@ -98,7 +98,7 @@ Note that this kind of loadout-swapping can result in a non-trivial amount of ad
 
 ## Veteran-Level Evolution
 
-Since each Tech has at most three ranks of empowerment, there may come a point down the line in your Pilot's career where she has maxed out her entire ability allowances across her original Color, Weapon, and Robo. When you reach this point of Evolution, you are referred to as a **Veteran** Pilot. Veterans have a few "advanced" options to choose from.
+Since each Tech has at most three ranks of empowerment, there may come a point down the line in your Pilot's career where she has maxed out her entire ability allowances across her original Chroma, Weapon, and Robo. When you reach this point of Evolution, you are referred to as a **Veteran** Pilot. Veterans have a few "advanced" options to choose from.
 
 
 ### Graduation
@@ -112,7 +112,7 @@ Regardless of reasoning, the graduated Pilot leaves play, and you can make a new
 
 If you want to keep playing as the same Pilot, another option at this point is to start "locking in". This method allows you to use the Loadouts option above, while also accessing cross-playbook Techs. To do this, each new Tech Evolution that you spend allows you to lock in a single rank of a Tech that you already know in any of your Loadouts. That tech then onward is available to you at that locked rank, no matter what other loadouts you switch to.
 
-For example, a veteran Green Pilot could spend a Tech Evolution to lock in the first rank of her "I've Got This!" Passive Tech. She could then switch to another Color, and still keep using that Green Tech at rank 1. She can spend more Evolutions to then increase the locked-in rank, or start locking in other fully-mastered techs.
+For example, a veteran Green Pilot could spend a Tech Evolution to lock in the first rank of her "I've Got This!" Passive Tech. She could then switch to another Chroma, and still keep using that Green Tech at rank 1. She can spend more Evolutions to then increase the locked-in rank, or start locking in other fully-mastered techs.
 
 
 # Advanced: Factions

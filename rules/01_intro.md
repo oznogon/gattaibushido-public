@@ -45,7 +45,7 @@ The final battle had begun.
 
 Throughout the development of ***Gattaibushido:FUSION!***, I have struggled with my own internal conflicted design and player tastes. I am a huge fan of simplicity in play, such as the super-light Apocalypse Engine games as well as the myriad classic-inspired retro-clones that have become popular in recent years. I run and play those games quite frequently, and appreciate the ease of approach that they present.
 
-My love for that style of design has weighed heavily on my brain while writing this game, so much that I began second-guessing myself with each and every new tactical decision I put into its core flow. With every new Tech, Color concept, and process change, my brain repeatedly nagged at me to not "break simplicity" - whatever the heck that is supposed to mean. Core components that I had initially loved were suddenly being doubted, and many rewrites and triple-takes followed. For a while, the results were a conflicted mess that I was increasingly dismayed with.
+My love for that style of design has weighed heavily on my brain while writing this game, so much that I began second-guessing myself with each and every new tactical decision I put into its core flow. With every new Tech, Chroma concept, and process change, my brain repeatedly nagged at me to not "break simplicity" - whatever the heck that is supposed to mean. Core components that I had initially loved were suddenly being doubted, and many rewrites and triple-takes followed. For a while, the results were a conflicted mess that I was increasingly dismayed with.
 
 So I decided to kill those nags, scrap all the mess, and just "do it my way." In the end, I chose to focus on making a game that leans heavily on both narrative and technical strategy. Simplicity was partially sacrificed in favor of "layered complexity" mechanics that could blossom on their own. There are multiple layers to this system, and there is great opportunity for mastery over time.
 
@@ -79,7 +79,7 @@ The following media sources provided *immense* amounts of inspiration for the co
 * *Gunbuster* & *Majestic Prince*: This game is basically a love letter to those two series.
 * *Vandread*: ...okay and this one too.
 * *Voltron*: Because *duh*
-* *Steven Universe*: I'd be a liar if I said I hadn't already planned out gem-themed team colors...
+* *Steven Universe*: I'd be a liar if I said I hadn't already planned out gem-themed team Chromas...
 * *Chroma Squad*: Best (and only?) super sentai video game I've ever played (motorcycle chapter is best chapter).
 * *Dai-Guard*: I can't get that theme song out of my head!
 * *RWBY* and *gen:LOCK*: Rooster Teeth really *gets* teamwork-based stories, and these two shows are some of the absolute best.
@@ -101,7 +101,7 @@ The following media sources provided *immense* amounts of inspiration for the co
 
 The setting of this game is intentionally low on details. I want groups to come up with their own world stories, and then tell me about them. Much like *Motobushido* had a loosely-implied post-apocalyptic theme, *Gattaibushido* has a basic "Earth vs the Space Monsters!" theme to it that the players are encouraged to take in whatever direction they choose.
 
-The only constants are: Battle School, Color-Themed Mecha Pilots, Giant Transforming Robots, and Big Giant Monsters. And heck, even those can be defined however you wish. Maybe your "school" is a corporate proving arena, maybe your "pilots" are sleeve-jacked body-hopping trans-human consciousness clones, and maybe your Giant Monsters are a metaphor for corporate war. It's all up to you.
+The only constants are: Battle School, Chroma-Themed Mecha Pilots, Giant Transforming Robots, and Big Giant Monsters. And heck, even those can be defined however you wish. Maybe your "school" is a corporate proving arena, maybe your "pilots" are sleeve-jacked body-hopping trans-human consciousness clones, and maybe your Giant Monsters are a metaphor for corporate war. It's all up to you.
 
 Some Major Game themes:
 
@@ -134,9 +134,9 @@ The Pilots are the core focus of every game. This is the story of their lives an
 
 On the Pilot's Record Sheets are a handful of core game components that you should know about. First are their **Commitments**, this game's version of "attributes." Each Pilot has three core Commitments that frequently come into conflict with one another: **to the Team**, **to the Fight**, and **to the Future**. Each of these in turn is divided into two balanced **Stats**, representing dichotomies within the Pilot's life as a mecha battle jockey. The numerical ratings of these six stats determine the base mechanics for every extended game component.
 
-The Pilots also have three special empowering tools at their disposal: their **Color Role**, **Power Weapon**, and personal **Robo**. A Pilot's Color Role both sets the color of her outfit and defines the greater role that she plays in her team. Functioning similarly to a "character class," Colors provide unique mechanical **Techs** and extended role-playing inspiration. A Pilot's Power Weapon is that singular awesome tool she is most known for using in combat. Power Weapons start with a basic form and function (and associated weapon Techs), and can grow mightily over time. A Pilot's Robo is the badass giant Mecha that she pilots in the field against the invading monsters. Robos each come in different forms, and give their Pilots even more cool powers to use while in the cockpit. Oh, and they can also merge their robos together for even more power!
+The Pilots also have three special empowering tools at their disposal: their **Chroma**, **Power Weapon**, and personal **Robo**. A Pilot's Chroma both sets the color of her outfit and defines the greater role that she plays in her team. Functioning similarly to a "character class," Chromas provide unique mechanical **Techs** and extended role-playing inspiration. A Pilot's Power Weapon is that singular awesome tool she is most known for using in combat. Power Weapons start with a basic form and function (and associated weapon Techs), and can grow mightily over time. A Pilot's Robo is the badass giant Mecha that she pilots in the field against the invading monsters. Robos each come in different forms, and give their Pilots even more cool powers to use while in the cockpit. Oh, and they can also merge their robos together for even more power!
 
-Pilots have access to a couple of expendable resources over time, called **Buffers** and **Charges**. Buffers are their reserves of ability to resist the different types of damage thrown at them during play. Charges are constantly-fluctuating pools of energy that let them power up the various Techs bestowed to them by their Color Roles, Power Weapons, and Personal Robos.
+Pilots have access to a couple of expendable resources over time, called **Buffers** and **Charges**. Buffers are their reserves of ability to resist the different types of damage thrown at them during play. Charges are constantly-fluctuating pools of energy that let them power up the various Techs bestowed to them by their Chromas, Power Weapons, and Personal Robos.
 
 Speaking of damage, the world out there is full of many dangerous entities, all of which can bring harm to the Pilots, their allies, and the places they are trying their best to protect! These are most commonly enacted through **Microevents** which activate via **+Triggers** of different natures. A lot of these happen in the background, so for now, just know that it's not going to be an easy fight, and you need to be careful out there!
 

@@ -71,7 +71,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 (alterations for card references in core rules)
 
 
-### Color Role Techs
+### Chroma Role Techs
 
 
 

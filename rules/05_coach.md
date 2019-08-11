@@ -104,7 +104,7 @@ How to...
 
 Coach should keep track of:
 
-* Each player's various Triggers (from Color)
+* Each player's various Triggers (from Chroma)
 * Current Average Team Evolutions (AvTE)
 * Current Team Resources
 * Threats
