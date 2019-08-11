@@ -459,6 +459,10 @@ Each Playbook has her own unique "Gambit Specialty" role-playing trigger. Whenev
 Strike Range is a mechanic that has been mentioned before but not yet fully introduced as of this point in the book. Greater details on this mechanic are found on p. SQUARP. For now, this note exists only to clarify a major point: Strike Ranges *do not* apply to Gambits. If ever you have any questions about that, refer back to this section for written proof.
 
 
+## PVP Gambits?
+
+Gambits are meant to be quick resolution to questions of fate, put forth by Coach to Challenge the Pilots. As such, Gambits do not involve Pilot vs Pilot conflicts. If two or more Pilots have beef with each other and feel that cards are required to resolve it, but don't feel like it needs to be a full Throwdown, then as far as this game is concerned the issue doesn't actually require cards. In PVP situations, either narratively agree on what happens, or take it to a Throwdown.
+
 
 # Conflict Type 3: The Throwdown
 
