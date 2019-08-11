@@ -148,7 +148,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Remove
 
-*Very* occasionally the rules will call for a card to be **Removed from Play**. When this happens, take the card(s) in question and set them aside entirely. These cards do not go to Trash, and do not get reshuffled into the Deck. These cards remain out of play for the duration of the current session or scenario, whichever is specified by the effect at the time.
+*Very* occasionally the rules will call for a card to be **Removed from Play**. When this happens, take the card(s) in question and set them aside entirely. These cards do not go to Trash, and do not get reshuffled into the Deck. Unless otherwise specified, these cards remain out of play for the duration of the current *scenario*.
 
 
 ### Shuffle/Reshuffle

@@ -217,6 +217,14 @@ In addition to their own personal Techs, *every* Pilot has the following basic C
 
 * **Boost Strike (Support Action):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
 * **Restore Buffer (Story/Support Action):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
+* **AGSOMAFA! (Support Action):** Remove a card from play, gain its rank in immediate Charges. See further below for details.
+
+
+### The AGSOMAFA! Action
+
+The AGSOMAFA! is a potentially-disastrous action that any Pilot can attempt during any Throwdown in which they are an active participant. To activate the AGSOMAFA!, the player must first describe the desperation by which their Pilot is calling on her greatest powers, in as thematically-appropriate a manner as possibly. Once done, she then takes a card from her Hand or an active Faction and Removes it from play for the remainder of her Pilot's *existence* in the ongoing story. This card must match her Pilot's suit affinity.
+
+Once the card is chosen and Removed, she gains its value in immediate personal Charges, which can temporarily exceed her Max Charges limit, but must all be used before the end of the Throwdown. If she has any Charges remaining at the conclusion of the Throwdown, she burns them immediately and inflicts +Trauma:Self(X) where X equals the # of Charges burned.
 
 
 ## Pilots: Color Roles (Core)
