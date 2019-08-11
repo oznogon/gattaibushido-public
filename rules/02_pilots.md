@@ -319,7 +319,7 @@ If your Pilot suffers Trauma that is not otherwise deflected or absorbed (via Bu
 
 Fortunately there exist a handful of methods in the game that can heal a damaged Commitment track, including locations, Techs, and Gear. These effects often require some form of card conflict. As long as the damage is healed before the end of the scenario (which in most cases means "before the Big Giant Monster is defeated"), then the loss is not permanent. However, if the damage to the balance is not recovered by the end of the Scenario, then that Commitment's balance maximum is permanently reduced, and that specific loss cannot be "healed" in any way.
 
-Recovering from a permanent Commitment loss can only be done through Evolution, by increasing the maximum of a balance. This does *not* technically "heal" or restore lost points, instead merely increasing the current maximum by 1.
+Recovering from a permanent Commitment loss can only be done through Evolution. This is detailed in the Evolution section (p. XX).
 
 
 ###### SIDEBAR: Permanent Loss is Good for the Story!

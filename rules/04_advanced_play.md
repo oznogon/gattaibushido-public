@@ -3,6 +3,8 @@ section: advanced play
 
 # Advanced: Pilot Evolution
 
+> "Evolution happens when the rider and his armor become one." - El Dora Five
+
 As your Pilots complete missions and follow their personal hopes and dreams, they learn important **Lessons** which can unlock valuable **Evolutions**, increasing their mechanical prowess and versatility in play.
 
 
@@ -30,19 +32,6 @@ Not every Lesson will (or should!) be Learned from! This is important! Some Less
 **MVP Vote (1 Evolution):** Finally, the Pilots must then nominate each other for Most Valuable Pilot of that scenario. Who came through the strongest? Whose idea saved the day? Who carried the rest on their back? This should be an open discussion, and in the end the group will vote on who they think was the most awesome Pilot in the recent story sessions. If there's a tie, Coach breaks it. The winner gets one more Evolution.
 
 
-### ALTERNATE METHOD: The Lessons Tally (PLAYTEST)
-
-(**PLAYTEST NOTE:** This is an alternate "classic XP" version I'm considering instead. It simply replaces the above section, and really needs to be tested out. Established gamers may find this more comfortable, and thus its inclusion for consideration.)
-
-In short, this alternate method involved earning lessons like XP. You earn lessons, and after earning 7 lessons you unlock a new Evolution.
-
-In this method, Lessons are earned in the following three ways:
-
-* You automatically gain 1 Lesson per session in which you played.
-* You earn a lesson each time your Color's Lesson Trigger activates.
-* At the end of a scenario (or midpoint in a long story), everyone discusses whether you "truly learned anything at all," potentially earning you one more lesson.
-
-
 ## Applying Evolutions
 
 When you earn an Evolution, you get to spend it to unlock a new character enhancement. These advancements progress in a repeating three-step cycle:
@@ -55,6 +44,42 @@ There is one other major restriction in play here: you cannot evolve the same ca
 
 **All subsequent Evolutions** follow the same repeating cycle. Thus the fourth and fifth evolutions again level up your techs, the sixth adds another adjective and Commitment rank, and so on.
 
+
+### Restoring Damaged Commitments
+
+If any of your Pilot's Commitment balances is lower than 6, you can choose to spend a Tech evolution to instead restore a single point to that Commitment (and thus increase one of its Stats). This does not apply a new adjective, nor does it otherwise alter the cycle of evolution.
+
+
+## Loadouts: Switching Colors, Weapons, and Robos
+
+Although I am a strong believer that a Pilot's color, style, and chosen mecha deeply echo her own inner nature in an intensely personal way, no player should be forced to stick with their initial choices if they feel like trying out other character options over time. While changing your Color Role should be reserved for extremely rare matters of powerful story growth, changing your Weapon and Robo can be as simple as writing them down and swapping them out at the beginning of a new mission.
+
+For these occasions, use the **Alternate Evolution Pilot Sheet**. This allows you to track different Colors, Weapons, and Robos that you evolve over time. Following the standard Evolution cycle, acquiring a new Role, Weapon, or Robo can be as simple as investing a single Evolution to acquire its first Tech rank.
+
+There is an important restriction here to note: **You can only use the Techs of one Color, Weapon, and Robo at a time.** When you change into a different Color suit, you *become* that Color. When you choose to pilot a certain Robo, you are bonded with that Robo *alone*. And you can only wield a single special Power Weapon at any one time. Coach may choose to allow you to freely swap between Tech "loadouts" throughout the same Scenario, but you cannot use the Techs of multiple Colors, Weapons, or Robos on the same mission. Swapping these out should only be done at the Team's home base, and only at dramatically-relevant times.
+
+Note that this kind of loadout-swapping can result in a non-trivial amount of additional bookkeeping, not to mention uncertainty in storytelling. As such we recommend discussing this heavily with your fellow players at the table before doing this too often.
+
+(**PLAYTEST NOTE 2019:** this sheet is definitely planned, but still in development. For now, just note the differences on scratch paper)
+
+
+## Veteran-Level Evolution
+
+Since each Tech has at most three ranks of empowerment, there may come a point down the line in your Pilot's career where she has maxed out her entire ability allowances across her original Color, Weapon, and Robo. When you reach this point of Evolution, you are referred to as a **Veteran** Pilot. Veterans have a few "advanced" options to choose from.
+
+
+### Graduation
+
+The first option, of course, is **Graduation**. This involves your Pilot leaving the team in some way, but still sticking around in the background of the story. Perhaps she joins the Academy as an instructor, guiding new classes of rookies. Perhaps she joins one of the various crews of the base, lending her arm as a mechanic or taking over as the quartermaster of the armory. Or maybe instead she ventures out with the fleet to take the battle to a new quadrant, carrying on the fight outside of the Team.
+
+Regardless of reasoning, the graduated Pilot leaves play, and you can make a new character from scratch.
+
+
+### "Locking-in" Techs
+
+If you want to keep playing as the same Pilot, another option at this point is to start "locking in". This method allows you to use the Loadouts option above, while also accessing cross-playbook Techs. To do this, each new Tech Evolution that you spend allows you to lock in a single rank of a Tech that you already know in any of your Loadouts. That tech then onward is available to you at that locked rank, no matter what other loadouts you switch to.
+
+For example, a veteran Green Pilot could spend a Tech Evolution to lock in the first rank of her "I've Got This!" Passive Tech. She could then switch to another Color, and still keep using that Green Tech at rank 1. She can spend more Evolutions to then increase the locked-in rank, or start locking in other fully-mastered techs.
 
 
 # Advanced: Factions
