@@ -230,8 +230,6 @@ First create the play space for the session. This includes setting up basic supp
 
 **Jokers:** Leave the jokers out of the Decks for the moment. They'll be shuffled in shortly.
 
-**Seating Order:** Your seating order at the table is actually pretty important! Where you all sit determines your conflict initiative and flow order, since all action flows clockwise around the table from Coach (at least initially). If you have a few sessions under your wing and wish to strategize the order of your team’s actions, establishing a seating order is the way to do it - but make sure to do it before you get to the table, as that kind of meta-talk is generally discouraged during play. **Seating order for any active session is locked in once everyone completes the Team Salute (see below)!** However, Coach may allow a new group to change mid-game in the first session or two, as the Pilots learn how their abilities interact, and want to experiment with new seating configurations without having to wait 'til the next session.
-
 
 #### Starting Resources (First Session)
 
