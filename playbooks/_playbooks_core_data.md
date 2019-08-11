@@ -374,7 +374,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** When the Anthro-Guardian joins the battle, the Team can restore a number of spent Buffers equal to your Robo Rank, assigned as you choose.
 * **Rider Bonus:** As the stalwart defender, Anthro-Guardian's Endurance equals 6 plus 3x your Robo Rank (instead of 6 + Rank)
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -382,7 +381,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** As the great hunter, Eagle brings news of the coming storms on the distant horizons. When Eagle is summoned, if Coach has any Active (up) Omens on the table, he must flip one down (without spending it) for each Rank in your Robo.
 * **Rider Bonus:** Eagle's flight bestows supreme combat mobility, giving you +1 Strike while in the cockpit.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -390,7 +388,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** Lion always bursts into the scene with an inspiring roar, filling your Team with courage and the enemy with fear. When Lion is summoned, an opponent of your choice must Discard a number of cards equal to Lion's Rank. This cannot force them to discard their final card.
 * **Rider Bonus:** While piloting Lion, Pushes against your cards have -1 to their Strike, due to the fierceness of Lion's attacks.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -398,7 +395,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** Everyone loves the Panda! When Summoned, she brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Schism damage incurred during this battle.
 * **Rider Bonus:** Panda Belly Smash! When an enemy triggers +Trauma during the fight, you can choose to *immediately* shift it to Panda's endurance and then add +Trauma to your own Payload.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -406,7 +402,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** Rhino always makes a destructive entrance. When summoned, Rhino causes +Ruin, and you gain Charges equal to 2x your Robo Rank.
 * **Rider Bonus:** While piloting Rhino, all of your Push actions have +Trauma and +Ruin, because Rhino is rough and ready with zero craps to give.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -414,7 +409,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** Spider enters upon a growing network of powerful webs, which can hold together even the most chaotic battlefields. She brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Ruin damage incurred during this battle.
 * **Rider Bonus:** While piloting Spider, you draw a new card into your Hand every time one of your cards is Beat-Back, because Spider *totally* saw that coming.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -422,7 +416,6 @@ Most of these are Side Actions
 
 * **Summon Effect:** T-Rex charges into the fray with a hunger for immediate chewy-chewy-chomping action. If you Push on the same turn in which you summoned T-Rex, a modify your Strike for that Push by twice your Robo Rank.
 * **Rider Bonus:** While piloting T-Rex, all of your Push actions have +Trauma but are also -2 to Strike, because T-Rex has a massive bite but tiny widdle arms.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 
 
@@ -430,4 +423,3 @@ Most of these are Side Actions
 
 * **Summon Effect:** Wolf brings with it the reinforcement of the hunting pack. When summoned, draw a number of additional cards equal to Wolf's Rank.
 * **Rider Bonus:** As a dedicated member of the pack, Wolf adds a +1 to the result of any Assist Chain that you either Start, Continue, or Make Use of on your turn.
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z

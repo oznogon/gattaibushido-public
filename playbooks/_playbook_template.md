@@ -172,7 +172,6 @@ Note the following core components:
 * **Robo Rank:** This starts at 1
 * **Summon Effect:** (triggers when you first summon the Robo in a session) DESCRIPTION
 * **Rider Bonus:** (special bonus while in the cockpit) DESCRIPTION
-* **Final Form Affinity:** (favored positions in the Final Form) Pick one for now: X / Y / Z
 
 (**PLAYTEST NOTE:** Currently each playbook will likely be listed with a single robo, to save on cross-document multi-edits. In the final release, each playbook will be given multiple options - probably two or three. For now, if you want to use a different robo, use the data from the other playbooks.)
 
@@ -233,7 +232,7 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 
 * **Color Role:** Either add a Level to one of your Role Techs, or acquire a new Role Tech from your list.
 * **Power Weapon:** Add a new Quality Tech of your choice to the weapon.
-* **Personal Robo:** Increase your Robo Rank by 1, then choose any Final Form Position and increase its Affinity by 1.
+* **Personal Robo:** Increase your Robo Rank by 1.
 
 **Evolve Commitments:** When you evolve this, give yourself a new descriptive adjective, and an associated +1 increase to any single Commitment of your choice.
 
