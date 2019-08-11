@@ -115,7 +115,7 @@ Make sure you have the basics:
 
 * **Pencils and Paper** are the core tools of every student in Battle School, and you will make heavy use of them here. You kids might think you’re clever with those special digi-pad-whatsits, but when they eventually suffer a glitch and the Meta-Skein crashes, you’ll be glad you kept the old standbys on hand!
 * **Playing Cards** are absolutely necessary for play, and you’ll need two separate decks - one for the Pilots, and one for Coach. They’re also great for after-hours poker games in the barracks, but don’t let Coach find out you’ve been gambling!
-* **Tokens or counters** of different colors will be useful for tracking the fluctuating levels of damage that your Pilot and her Team will experience during play, and for use as Power Tokens on the Final Form Positions.
+* **Tokens or counters** of different colors will be useful for tracking the fluctuating levels of damage that your Pilot and her Team will experience during play.
 * **Pilot Playbooks** should be printed out in advance so you can each easily choose your team roles and first year school courses (aka "character creation").
 * **Pilot Record Sheets** allow you to keep detailed ongoing notes of your stats, abilities, skills, and class grades. Be careful now, these are your permanent records!
 * (***Still In Development***) The Team Harmony Tracker is required to keep up-to-date stats on your pilots’ harmonic frequencies with each other. Put one of these on the table for everyone to see.

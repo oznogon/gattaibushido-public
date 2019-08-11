@@ -150,9 +150,7 @@ Each of the three Resources begins at a free base amount of 1. As your group goe
 
 ##### Starting Harmony
 
-Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. Keep some tokens around to represent damage buildup during Throwdowns, too - this text assumes you are using red-colored tokens, but anything your group wishes to use instead should be fine.
-
-The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Schism event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
+Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Schism event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
 
 
 ##### Define Your Salute!
