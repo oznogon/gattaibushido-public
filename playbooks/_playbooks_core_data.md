@@ -36,9 +36,11 @@ Playbook base data is contained within this document as a reference until the fi
 
 ### Passive Tech
 
-**Chaos Void!** Black exists outside the Harmony spectrum, and thus her player carries no Hand of Cards between conflicts. Instead, Black carries her own personal Stash of cards, all kept face-down on the table before her. The limit of this Stash is equal to her rank in this Tech, and it begins the first session filled.
+**Chaos Void!** Black exists outside the Harmony spectrum, and as such her Hand has its own rules of management. During play, Black carries no personal Hand except for those bonus cards drawn during Throwdowns.
 
-Black can play a card from her Stash at any time the game would allow her to play from a Hand or a Faction. Her plays from this Stash are Wild. Cards played from this Stash do not replenish automatically. At the end of a Throwdown, as unplayed cards are being discarded, if Black has any remaining bonus draws she can invest them into her Stash, up to its limit.
+Instead, Black maintains a special stash of face-down cards called her Void. Black's Void can hold a maximum number of cards equal to her rank in this Tech, and begins each session filled.
+
+Black can play a card from her Void any time the rules allow her to play from her Hand. All of Black's plays from her Void are Wild. Void Cards do not replenish automatically. At the end of a Throwdown, during the Discard stage, if Black has any remaining bonus draws she can invest them into her Void, not exceeding its limit.
 
 
 ### Charge Tech
