@@ -261,7 +261,7 @@ The **+Fortify** trigger allows a Pilot to recover a single previously-spent Buf
 The **+Rally** trigger allows the Pilots to raise their Harmony rating by 1, to a maximum of 7 (Violet). If a +Rally trigger would raise the Harmony above 7, instead leave it at 7 and trigger +Chargeup:Each to the entire Team.
 
 
-### +RebuildSchism
+### +Rebuild
 
 **Valid Targets:** Pilots, Locations
 
@@ -466,10 +466,18 @@ Gambits are meant to be quick resolution to questions of fate, put forth by Coac
 
 # Conflict Type 3: The Throwdown
 
-**PLAYTEST NOTE:** This new project's goal now is to bring the game BACK in line with the Dueling system from Motobushido. Playtest response on this has been almost unanimous: the game drifted too far from its roots. I've heard you loud and clear, and now I'm bringing it back. Woot!
+When fiat won't do, and a quick card-draw still isn't enough to resolve a story conflict, there's only one option left: it's time to throw down.
+
+In ***Gattaibushido:FUSION!***, the **Throwdown** is the big extended mechanic used to resolve all manner of intense and involved multi-character conflicts. After school fights, galactic space battles, championship debate team bouts, robo vs monster beat-downs, volleyball tournaments and more, all are played out with a Throwdown.
 
 
 ## Throwdown Basics
+
+In a Throwdown, two sides of a conflict square off against each other in a multi-round exchange of cards. As cards are played, narrations are applied, and agendas are pushed, the stakes grow ever higher until one side finally concedes - either by choice or by complete lack of any other options.
+
+The end goal of every Throwdown is twofold. First, "winning" a Throwdown gives the victor greater (if not total) control of the narrative outcome of the conflict. There are times when the margin of success is slim, resulting in the loser also getting some say in what happens, but ultimately the resulting story benefits the victor the most.
+
+Second is the mechanical outcome, the more tangible spoils of conflict. Depending on the stakes in play, Throwdowns can cause or heal damage, hurt or restore Team Harmony and Resources, affect Factions or Locations, damage Threats, and more.
 
 
 ### Throwdown Flow / Rundown
@@ -498,7 +506,23 @@ Note that some Techs and Gear can increase your Strike temporarily, including th
 **Coach:** Your Strikes are *hard* limits. Unless specified otherwise (by a Threat power, for example), you cannot play outside of your calculated Strike. This is intentional: as Coach, you have more overall available power to wield, mitigated by hard limits via a tight mechanical leash.
 
 
-## Step 1: Initiative
+## Step 1: Initiating the Challenge
+
+Be you Pilot or Coach, to start a Throwdown you must take a card from your Hand and slam it face-down on the table. Accompany this action with a description of how you are challenging your opponent, such as "I step in and grab the bully's swinging fist before she can hit my friend!" or "The guard swings his gun to point at you, telling you to stand down!" or even the simple but effective "Bring it!"
+
+The challenged opponent must then likewise take a card from their own Hand and place it face-down, similarly narrating their acceptance of the challenge.
+
+Initiative cards can only be played directly from Hands (and not Factions). Neither side may draw a replacement for this card until the Throwdown has been resolved.
+
+
+### Initiative Strategy
+
+**Pilots:** Initiative is played half-blind, but still beholden to Strike Range. You want to play high, but not *too* high, because you want to beat your opponent, but not by too big of a margin.
+
+
+### Refusing the Challenge
+
+If you refuse the challenge, then you allow your opponent's goals in the moment to go unimpeded. This can be pretty disastrous in high stakes situations, and can even include your character's own death, so I hope you know what you're doing.
 
 
 ## Step 2: Establishment Questions
@@ -508,11 +532,11 @@ Misc questions for the pilots similar to duels in Moto:
 
 ### Pick Sides and Declare Leaders
 
-There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on.
+There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on..
 
-Each side must also declare a Throwdown Leader. This player is responsible for managing the flow of their side of the action, and also gains the benefit of additional potential bonus draws. Others can back up their leaders with their own actions, but only the Leader gets bonus draws at the start.
+Each side must also declare a Throwdown Leader. This player is responsible for managing the flow of their side of the action, and also gains the benefit of additional potential bonus draws. Others can back up their leaders with their own actions, but only the Leader gets bonus draws at the start. Note that by backing up a Leader, you also expose yourself to consequences should your side lose.
 
-The Leader role is *usually* given to whichever member of the conflict that either started the fight, or was instead specifically targeted by whoever else started the fight. This is usually an obvious choice, but if not, take a moment to discuss and set roles.
+The Leader role is most often given to whichever member of the conflict that either started the fight, or was instead specifically targeted by whoever else started the fight. This is usually an obvious choice, but if not, take a moment to discuss and set roles.
 
 Note that Throwdown Leader is a temporary role, and does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. In other words, Red doesn't have to be the leader of every throwdown, and in fact the game is more fun if she frequently just assists!
 
@@ -521,15 +545,20 @@ Note that Throwdown Leader is a temporary role, and does not need to be connecte
 
 For each Pilot that is leading a side of the Throwdown, Coach should ask every *other* player at the table, as a group: "Does this Pilot currently fight for her own goals, or for those of her Team?"
 
-Other players should answer aloud and honestly. The answer both sets crucial tone for the fight, and also determines how many bonus cards that leader will draw. If there's a voting tie, Coach breaks it.
+Other players should answer aloud and honestly. The answer both sets crucial tone for the fight, and also determines how many bonus cards that Pilot will draw. If there's a voting tie, Coach breaks it.
+
+
+### Who Started this Fight?
+
+The answer to this question is usually pretty obvious, but it requires acknowledgement, as it determines the Pilots' Strike Range base. If this is ever somehow in question, default to the side that put down the first Initiative card.
 
 
 ### Determine Draws and Strike Ranges
 
 **Pilots:**
 
-* **Bonus Draw (Side Leader Only):** Based on the answer to above questions. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat.
-* **Strike Ranges:** Based on who started the fight. If your team started the action, members use their Steel stat. If the fight was brought to them, members use their Flesh stat.
+* **Bonus Draw (Pilot Leader Only):** Based on the answer to above questions. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat.
+* **Strike Ranges:** Based on who started the fight. If your team started the action, members each use their own Steel stats. If the fight was brought to them, they use their Flesh stats instead.
 
 **Coach:**
 
@@ -546,7 +575,20 @@ With all the establishment settled, it's time to draw.
 **Coach:** Draw your Bonus draw as stated above, you are now ready to play.
 
 
-## Step 3: Play
+## Step 3: Resolve Initiative
+
+Both sides now turn their initiative cards face-up for all to see, and the Higher card (by rank, then suit) wins the initiative.
+
+Don't forget to check Strike Range! If a Pilot wins but their strike is outside Range, Coach checks against Dissonance. And if *Coach* wins but their card is outside range, discard it, and the Pilot wins Initiative without Dissonance, regardless of their own card.
+
+In the extremely rare case of the cards being identical in both rank *and* suit (i.e. the exact same card), either call the whole thing off, or simultaneously play new initiative cards until someone wins.
+
+In any case, discard all cards other than the winning card.
+
+This winning Initiative Card cannot be Blocked, and is immune to any special game effects that would force a discard.
+
+
+## Step 4: Play Rounds
 
 Play in one to three rounds of escalating stakes:
 
@@ -561,7 +603,7 @@ Each side goes back and forth in exchanges of turns, playing and escalating unti
 
 ### Taking Actions
 
-Pilots: each involved Pilot can take a single action per turn. One and only one of those actions must be a Play action. The other involved Pilots can take Support actions to assist the chosen Play action.
+Pilots: each involved Pilot can take a single action per turn. One and only one of those actions must be a Play action. The other involved Pilots can take Support actions to assist the chosen Play action. Once the chosen Play Action has been completed, the turn passes onward.
 
 Coach: TBD
 
@@ -572,6 +614,30 @@ Coach: TBD
 * Block: play a card of equal rank but higher suit than the topmost card on the Pile
 * Escalate: push current Pile aside, start new pile with higher stakes
 * Concede: put cards down, declare opponent the victor. If you cannot Counter, Block, or Escalate, you must Concede.
+
+##### Counter
+
+* **Type:** Play
+* **Turn Passes:** To opponent.
+
+
+##### Block
+
+* **Type:** Play
+* **Turn Passes:** To opponent.
+
+
+##### Escalate
+
+* **Type:** Play
+* **Turn Passes:** To opponent.
+
+
+##### Concede
+
+* **Type:** Play
+* **Turn Passes:** N/A. Throwdown concludes, resolve Outcome.
+
 
 
 #### Support Actions
@@ -585,6 +651,18 @@ Any other involved Pilot on the Team side can choose to perform a Support Action
 
 ### Escalating Stages and Stakes
 
+
+
 ### Scoring Points
 
-## Step 4: Resolve
+
+
+## (Optional) Step 5: Rumble!
+
+
+
+## Step 6: Outcome
+
+
+
+## Step 7: Discard and Draw
