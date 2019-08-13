@@ -213,9 +213,9 @@ Charges are spent to activate various Techs during play. Most Techs will come fr
 
 In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal:
 
-* **Boost Strike (Support Action):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
-* **Restore Buffer (Story/Support Action):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
-* **AGSOMAFA! (Support Action):** Remove a card from play, gain its rank in immediate Charges. See further below for details.
+* **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
+* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
+* **AGSOMAFA! (Assist):** Remove a card from play, gain its rank in immediate Charges. See further below for details.
 
 
 ### The AGSOMAFA! Action
