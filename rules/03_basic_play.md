@@ -488,6 +488,24 @@ Second is the mechanical outcome, the more tangible spoils of conflict. Dependin
 
 ### Throwdown Flow / Rundown
 
+(tbd)
+
+* 1: Initiative
+* 2: ask opening questions (where? why? who?)
+	* bonus draw
+* 3: FIGHT ROUNDS
+	* 1: Confrontation
+	* 2: Struggle
+	* 3: Final Attack
+	* ...now, do you Summon Final Form? if so, RUMBLE! Throwdown continues up to 4 more rounds.
+* 4: RUMBLE ROUNDS
+	* 4: OH SHIT IT'S ROBOT TIME
+	* 5: DUDE DID YOU SEE THAT
+	* 6: AW DAMN
+  * 7: Final round for real this time
+* 5: Outcome
+* 6: Discard/Draw
+
 
 ### Strike Range: Your Margin of Resonant Action
 
@@ -512,6 +530,24 @@ Note that some Techs and Gear can increase your Strike temporarily, including th
 **Coach:** Your Strikes are *hard* limits. Unless specified otherwise (by a Threat power, for example), you cannot play outside of your calculated Strike. This is intentional: as Coach, you have more overall available power to wield, mitigated by hard limits via a tight mechanical leash.
 
 
+### Scoring Points
+
+Throughout each exchange of the Throwdown, there is a running score of points being counted for both sides. When you Escalate to further stages of the fight, you give your opponent points in exchange for the increasingly-desperate chance to come out on top in the subsequent round. At the end of the Throwdown, when one side concedes, whoever has the most points ultimately wins, but it's *not* all-or-nothing here: losers with enough points in their score have a chance of adding some concessions to the victory.
+
+
+### Escalating Stages and Stakes
+
+Accompanying the mechanical back and forth, there is an expected escalation of tone and buildup of narrative stakes as the conflict moves into deeper stages of action. During the initial *Confrontation* stage of the Throwdown, stakes are lower, and likewise the description of your actions should be lower on the relative scale of narrative impact. Words exchange, insults pepper the air, initial points of debate lay down, fist clench, hard eyes stare with threatening frowns, and so on. No one is throwing punches *just* yet, literal or otherwise.
+
+As the Throwdown escalates, the players' actions grow more intense, more desperate. With the *Struggle* stage, punches are flying, insults are biting, monsters are stomping, lasers are blasting, and gun-chucks are gun-chucking. The battle is in full flow, everyone having dispensed with initial posturing and now unleashing what they got.
+
+Once things reach the *Final Attack!* stage, everyone is truly going for the kill. Blood is spraying, monster limbs litter the battlefield, and arguments cut straight to the marrow of the bone. If you get as far as this stage, chances are someone is not going to leave this conflict alive.
+
+But wait, there's more! If one side isn't satisfied at the end of the third round, they can activate the **Rumble**! This is when the Pilots join up for their Final Form, and when the Big Giant Monsters unleash their full destructive people-eating power. Rumble mode effectively extends the Throwdown *up to four more stages!* The stakes get even *more* insane during Rumbles. The Final Form summons more glorious attacks and calls upon deeper and more desperate reserves of power. At the same time, the Monster manifests new mutations, transforms to more insidious incarnations, and more. Whole cities can be laid to waste with single actions!
+
+Now, all that having been said, if your table wants to just go all-to-the-wall with every single counter and block, even blowing up entire moons in the Confrontation, feel free to embrace it and make it awesome.
+
+
 ## Step 1: Initiating the Challenge
 
 Be you Pilot or Coach, to start a Throwdown you must take a card from your Hand and slam it face-down on the table. Accompany this action with a description of how you are challenging your opponent, such as "I step in and grab the bully's swinging fist before she can hit my friend!" or "The guard swings his gun to point at you, telling you to stand down!" or even the simple but effective "Bring it!"
@@ -523,7 +559,9 @@ Initiative cards can only be played directly from Hands (and not Factions). Neit
 
 ### Initiative Strategy
 
-**Pilots:** Initiative is played half-blind, but still beholden to Strike Range. You want to play high, but not *too* high, because you want to beat your opponent, but not by too big of a margin.
+**Pilots:** Initiative is played half-blind, but still beholden to Strike Range. You want to play high, but not *too* high, because you want to beat your opponent, but not by too big of a margin. Losing the initiative means that you've effectively wasted a card, but there's a chance you'll get one back if Coach plays too high. Conversely, winning the initiative means that your card remains in the lead, but there's a chance you'll damage your Team's Harmony. And of course playing super low or super high means you won't be able to use those potentially-valuable cards later on in the battle. Decisions, decisions...
+
+**Coach:** Understand the strategy advised to the Pilots, and use that to mess with them. And if you're up for some wild times, just play a card at random and see what happens.
 
 
 ### Refusing the Challenge
@@ -533,18 +571,16 @@ If you refuse the challenge, then you allow your opponent's goals in the moment 
 
 ## Step 2: Establishment Questions
 
-Misc questions for the pilots similar to duels in Moto:
+Misc questions for the pilots similar to duels in Motobushido:
 
 
 ### Pick Sides and Declare Leaders
 
-There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on..
+There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on.
 
-Each side must also declare a Throwdown Leader. This player is responsible for managing the flow of their side of the action, and also gains the benefit of additional potential bonus draws. Others can back up their leaders with their own actions, but only the Leader gets bonus draws at the start. Note that by backing up a Leader, you also expose yourself to consequences should your side lose.
+On each side, whoever played the initiative card takes the lead. Only the Leader gets bonus draws at the start. Note that by backing up a Leader, you also expose yourself to consequences should your side lose.
 
-The Leader role is most often given to whichever member of the conflict that either started the fight, or was instead specifically targeted by whoever else started the fight. This is usually an obvious choice, but if not, take a moment to discuss and set roles.
-
-Note that Throwdown Leader is a temporary role, and does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. In other words, Red doesn't have to be the leader of every throwdown, and in fact the game is more fun if she frequently just assists!
+The lead player does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. Red doesn't have to be the leader of every throwdown, and in fact the game is more fun if she frequently just assists!
 
 
 ### Does She Fight for Her Team, or for Herself?
@@ -563,7 +599,7 @@ The answer to this question is usually pretty obvious, but it requires acknowled
 
 **Pilots:**
 
-* **Bonus Draw (Pilot Leader Only):** Based on the answer to above questions. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat.
+* **Bonus Draw (Pilot Leader Only):** Based on the answer to above questions, the Leader draws bonus cards. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat. Then, all other involved Pilots on her team can choose to give the leader any number of cards from their own current Hands. Finally, the leader must then give those Pilots back an equal number of cards (but they don't need to be the same ones).
 * **Strike Ranges:** Based on who started the fight. If your team started the action, members each use their own Steel stats. If the fight was brought to them, they use their Flesh stats instead.
 
 **Coach:**
@@ -572,103 +608,127 @@ The answer to this question is usually pretty obvious, but it requires acknowled
 * **Strike Range:** Coach's Strike Range is equal to the Threat Rating of the highest-rated involved Threat, plus one for each additional Threat involved.
 
 
-### Draw and Redistribute Hands
+## Step 3: Play Rounds
 
-With all the establishment settled, it's time to draw.
-
-**Pilots:** First the leader draws cards = her bonus draw, determined above. Then, all other involved Pilots on her team can choose to give the leader any number of cards from their own current Hands. Finally, the leader must then give those Pilots back an equal number of cards (but they don't need to be the same ones).
-
-**Coach:** Draw your Bonus draw as stated above, you are now ready to play.
-
-
-## Step 3: Resolve Initiative
-
-Both sides now turn their initiative cards face-up for all to see, and the Higher card (by rank, then suit) wins the initiative.
-
-Don't forget to check Strike Range! If a Pilot wins but their strike is outside Range, Coach checks against Dissonance. And if *Coach* wins but their card is outside range, discard it, and the Pilot wins Initiative without Dissonance, regardless of their own card.
-
-In the extremely rare case of the cards being identical in both rank *and* suit (i.e. the exact same card), either call the whole thing off, or simultaneously play new initiative cards until someone wins.
-
-In any case, discard all cards other than the winning card.
-
-This winning Initiative Card cannot be Blocked, and is immune to any special game effects that would force a discard.
-
-
-## Step 4: Play Rounds
-
-Play in one to three rounds of escalating stakes:
+We now play in one to three\* rounds of escalating stakes:
 
 1. The Confrontation
 2. The Struggle
 3. The Final Attack
 
+\* *or more, if evoking the Final Form! See p. XX*
+
 Each side goes back and forth in exchanges of turns, playing and escalating until one side concedes.
 
 
-### Taking Turns
+### Resolving Initiative
 
-### Taking Actions
+Both sides now turn their initiative cards face-up for all to see, and the Higher card (by rank, then suit) wins the initiative.
 
-Pilots: each involved Pilot can take a single action per turn. One and only one of those actions must be a Play action. The other involved Pilots can take Support actions to assist the chosen Play action. Once the chosen Play Action has been completed, the turn passes onward.
+**Check Strike Range:** If a Pilot wins but their strike is outside Range, Coach checks against Dissonance. And if *Coach* wins but their card is outside range, it stays but the Pilot opponent gets to draw a free card to their Hand.
 
-Coach: TBD
+In the extremely rare case of the cards being identical in both rank *and* suit (i.e. the exact same card), either call the whole thing off, or simultaneously play new initiative cards until someone wins.
+
+In any case, discard all cards other than the winning card. This winning Initiative Card cannot be Blocked, and is immune to any special game effects that would force a discard.
+
+It is now their opponent's turn.
+
+
+### Taking Turns and Actions
+
+Play begins in the Confrontation stage, with the initiative loser taking the first turn.
+
+**Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions must be a Play. The other involved Pilots can take Assist actions to assist the chosen Play. Once the chosen Play has been completed, the turn passes onward.
+
+**Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Play, after which the turn passes onward.
 
 
 #### Play Actions
+
+All players can do the following:
 
 * Counter: play a card of higher rank than the topmost card on the Pile
 * Block: play a card of equal rank but higher suit than the topmost card on the Pile
 * Escalate: push current Pile aside, start new pile with higher stakes
 * Concede: put cards down, declare opponent the victor. If you cannot Counter, Block, or Escalate, you must Concede.
 
-##### Counter
 
-* **Type:** Play
-* **Turn Passes:** To opponent.
+##### Counter (Play; All)
 
-
-##### Block
-
-* **Type:** Play
-* **Turn Passes:** To opponent.
+Play a card from any valid source available to you (Hand, Factions, etc), and narrate an accompanying action within the fiction, suitable for the tone of the current Stage. Your card's rank must exceed that of the currently-revealed highest card on the Pile. It is now your opponent's turn, and your played card is winning.
 
 
-##### Escalate
+##### Block (Play; All)
 
-* **Type:** Play
-* **Turn Passes:** To opponent.
+Play a card of equal rank and equal or higher suit than the currently winning card. *Discard* both cards. Narrate how you prevented their last action from happening. It is now your opponent's turn, and your previous card is winning.
 
+**If played against Escalate,** discard the escalating card and your blocking card, return the previous Pile to play, and negate points earned from that escalation. The battle is de-escalated to the previous stage, it is now your opponent's turn, and your previous card is winning.
 
-##### Concede
-
-* **Type:** Play
-* **Turn Passes:** N/A. Throwdown concludes, resolve Outcome.
+**Special:** You cannot Block an Initiative card. You cannot Block the card that initiates a Rumble.
 
 
+##### Escalate (Play; All)
 
-#### Support Actions
+Narrate how you are "pushing it" to the next level. Your opponent scores this stage, gaining points equal to the stage (1-7).
 
-Any other involved Pilot on the Team side can choose to perform a Support Action. They must discard any card from their Hand, which allows them to do one of the following:
+Push the current Pile aside and place a new card down to initiate the new stage. The rank of this card is subject to Strike Range rules. It is now your opponent's turn, and your played card is winning.
+
+**Special:** You cannot Escalate during the third Stage (use Rumble instead) or the seventh Stage (the final Stage).
+
+
+##### Concede (Play; All)
+
+Place your remaining Hand (if any) face-down on the table before you. Your opponent scores this stage, gaining points equal to the stage (1-7). Accept your narrative fate. The Throwdown has now concluded, move to resolve the Outcome.
+
+**Special:** No further Plays or Assists can follow the announcement of a Concede.
+
+
+##### Initiate Rumble / Summon BGM (Play; All)
+
+Narrate the summoning of your robos or Big Giant Monster. This functions as an Escalate play. Your opponent scores this stage, gaining points equal to the stage (1-7). Then *Discard* all previous Piles, and play down a new card to initiate the new stage. The rank of this card is subject to Strike Range rules (note that Final Forms have Strike Ranges based on Team Harmony).
+
+Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It is now your opponent's turn, and your played card is winning.
+
+**Special:** This can only be played during the third stage of a Throwdown. The card that activates this Play cannot be Blocked.
+
+
+#### Assist Actions
+
+Any other involved Pilot on the Team side can choose to perform an Assist. They must discard any card from their Hand, which allows them to do one of the following:
 
 * Use one of their Charge Techs to assist another Pilot's Play
 * Activate Gear to assist another Pilot's Play
 * ...and more to be decided
 
+Coach has additional Threat Assists:
 
-### Escalating Stages and Stakes
-
-
-
-### Scoring Points
+* Activate Wave or Storm
 
 
+##### Activate Wave or Storm (Assist; Coach)
 
-## (Optional) Step 5: Rumble!
+(TBD)
+
+Pick a Threat involved in this Throwdown, and discard a face or ace card from your Hand. With a face card, the chosen Threat activates a Wave. With an ace card, the chosen Threat activates a Storm.
+
+On your turn, you can use this at most once per involved Threat. Each Threat can activate a Wave or a Storm, but not both in the same Turn.
+
+
+## (Optional) Step 4: Rumble!
+
+
+### Why Not Just Rumble All the Time?
+
+misc:
+
+* robos get damaged!
+* gotta build up those robo stashes!
+* each round causes epic damage to locations!
+* chance of hurting innocents!
+
+
+## Step 5: Outcome
 
 
 
-## Step 6: Outcome
-
-
-
-## Step 7: Discard and Draw
+## Step 6: Discard and Draw
