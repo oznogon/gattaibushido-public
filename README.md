@@ -44,14 +44,12 @@ This document is very much a Work in Progress. Your feedback is both requested a
 
 The following components are still missing or incomplete as of the April 30, 2018 project rebase:
 
-* Black's Charge Tech is still under development. Could use input on it.
 * Weapon frames and qualities are still in need of a bit of further diversification
 * Most of the "flavor" text is unwritten, pending the final production reskinning of the text.
 * Pilot advice is still pending final write-up, which will happen following further play results of the new beta rules draft.
 * Coach's advice is similarly pending a rewrite, following further playtests.
 * Scenario Final Score is still a work in progress pending a lot of playtest results.
 * Threat creation and powers likely need a few balance passes after extended playtest data.
-* Rumble Rules are complete, but still need a lot more testing.
 
 
 ## The "Typical" Game
@@ -80,8 +78,6 @@ Some very specific questions I am wanting answers to, as they come to me:
 5. Are there enough opportunities to both damage Pilots/Harmony/Factions/Locations and also to repair/restore them? Does there need to be more, or fewer?
 6. The "Dual Payloads" thing in Throwdowns is something I'm not fully certain is described well. Feedback requested.
 7. The "No, and..." Gambit results are new, and need feedback, especially when combined with playbook gambit specialties.
-8. I feel the Rumble initiation is still a pretty wonky, and would love feedback on that. I'm considering an alternate option of requiring that it only be initiated *outside* of a Throwdown, to save on confusion of flow.
-
 
 
 # Markdown, Git, and Me
