@@ -196,7 +196,6 @@ We've listed them here for quick convenient reference. These are all explained i
 
 **Actions**
 
-* **+BREAK!** = action that allows Coach to disrupt a Lesser Fusion
 * **+Burn** = action that forces as target to discard their current Hand
 * **+Chargeup** = action that allows a Pilot to accrue a Charge
 * **+Favor** = action that allows a Pilot to invest into a Faction
@@ -219,13 +218,6 @@ We've listed them here for quick convenient reference. These are all explained i
 
 
 ## Action Microevents
-
-
-### +BREAK!
-
-**Valid Targets:** Pilots in a Lesser Fusion
-
-The heinous **+BREAK!** trigger allows Coach to disrupt an active Lesser Fusion.
 
 
 ### +Burn

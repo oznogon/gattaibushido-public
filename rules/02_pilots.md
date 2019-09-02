@@ -80,22 +80,13 @@ Along with the passing of time, you should establish how far removed the new Pil
 
 ##### How are Your Robos Summoned?
 
-If you haven't already established this fact, now is the time to do so. How does the team call their robos into a fight? This is a crucial point to clarify, as it will *drastically* shape the way that all Robo-related actions are handled in your story, especially the Fusion mechanics.
-
-Below are some examples from our many playtest games:
+If you haven't already established this fact, now is the time to do so. How does the team call their robos into a fight? Below are some examples from our many playtest games:
 
 * The Robos are manually dispatched from their orbital hangar base, and the Pilots must be physically present there to launch them.
 * The Robos are delivered along a vast network of underground tunnels, bursting from the ground at their destination when the Pilots call them from the field.
 * The Robos are direct physical manifestations of the Pilots' own psyches, and spring forth on the spot from power crystals the Pilots each carry with them.
 * The Robos are great bio-organic beasts which accompany the Pilots everywhere, and the Pilots *ride* them.
 * The Robos are *actually the Pilots themselves* who grow to gargantuan shapes and sizes when they get angry!
-
-
-##### How Do Your Pilots and Robos Fuze?
-
-Another just as important question: What are your group's manifestations of and limits upon Fusion? While the Fusion sub-system of this game provides the baseline rules for the *mechanical* components of merging Pilots and Robos, there is still a bit of discussion required around the *narrative* implementation of that combination. These considerations could affect the mechanics somewhat, so they're important to establish now.
-
-Can your group assemble partially, as in any two or more members can combine? Or does it require the whole team together? If partial Fusion is allowed, then as long as your individual Robos are present, your Pilots can assemble into different personalized mega-Robos for more immediate power boosts. However, if your group chooses a story experience more inspired by the "classic" tales of the genre, then you'll only be able to combine with *all* Robos present and ready. This latter option will most likely limit your Fusions to just the Final Form (and the Robo Rumbles with Big Giant Monsters), and create a more streamlined play experience.
 
 This is primarily a matter of thematic choice, especially if you're wishing to emulate the setup of one of your favorite shows. Either way, everyone can still take part in Rumbles, and the rules regarding those play modes do not change.
 
@@ -136,7 +127,7 @@ If the Pilots all actively make an effort to role-play this ritual each time in-
 
 **What is your unit's Motto?** What slogan or such statement do you frequently say to one another, that's maybe even printed on your jackets? Does anyone in the Team actually care about it?
 
-**What do you call your final form?** Combo Drive? Ultimate Form Fusion? Mega-Dino-Maximus? ATHENA PRIME!?! You can answer this now, or wait until the Fusion first happens during play for a bit more suspense.
+**What do you call your final form?** Combo Drive? Ultimate Form Fusion? Mega-Dino-Maximus? ATHENA PRIME!?! You can answer this now, or wait until the fusion first happens during play for a bit more suspense.
 
 Finally: **What is your team name?** Ultra Mega Assault Division? Team Triple Triumph? Loser Legion? The War Warriors?
 
@@ -185,7 +176,7 @@ With that, the Team is now Complete.
 >
 > Her custom Power Weapon also provides Techs, but they are intended to be minor extensions of ability. These can be used to either boost your base Chroma Techs, or instead diversify your skills and keep you from being an overly-specialized one-trick pony.
 >
-> Finally, your Robo mainly serves as an extension of your Pilot's core persona. While it provides some minor thematic abilities, it's primary purpose is as a vessel for Fusions and the Final Form.
+> Finally, your Robo mainly serves as an extension of your Pilot's core persona. While it provides some minor thematic abilities, it's primary purpose is as a vessel for Rumbles and the Final Form.
 
 
 
@@ -445,8 +436,7 @@ Some possible Gear selections for the basic team. In these notations and all fol
 Notes:
 
 * Robos are primarily mechanical extensions of the Pilots themselves
-* They have little in the way of additional powers, instead serving as the mechanism for Fusion and the Final Form
-* Required for Fusions by default (may differ in some groups)
+* They have little in the way of additional powers, instead serving as the mechanism for Rumbles and the Final Form
 * Required for Final Form (absolutely)
 * SUMMON EFFECTS: Only happen once per session per robo!
 
@@ -643,6 +633,6 @@ The **Pit Crew** represents the Team's support crew, the folks who work on their
 
 **Spending Pit Crew:** You can spend points of your Pit Crew to repair damaged Robos. It costs 1:1 for Endurance repairs while you're back at Home Base in your team's Robo Hangar, 2:1 if you're making repairs in the field, and 3:1 if you're calling on your Pit Crew for urgent assistance in anything that Coach deems to be a "high-risk situation."
 
-**Depleting Pit Crew:** If the Pit Crew is depleted, you cannot use your Robos at all! You can't Fuze, you can't use their Techs, and you won't stand a chance against the BGM!
+**Depleting Pit Crew:** If the Pit Crew is depleted, you cannot use your Robos at all!You can't use their Techs, and you won't stand a chance against the BGM!
 
 **Location:** The Pit Crew is directly tied to the Pilots' Hangar Location. If that Location is Razed, Pit Crew points can not be spent or restored until it is rebuilt.

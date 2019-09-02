@@ -574,7 +574,6 @@ To craft new ones, use these basic guidelines. Waves can do a minor effect, whil
 **UNSORTED IDEAS:**
 
 * restore threat buffers
-* +Break action - breaks lesser fusions! It's a vicious move, but awesome too. As a Wave, it just breaks the Fusion. As a Storm, it also causes immediate +Burn and +Purge to all the involved Pilots, too!
 * draw more cards
 
 
@@ -716,7 +715,7 @@ This should be needless to say, but anyway: the pilots and their players *should
 
 The First Contact scene serves two crucial purposes in play. First, it provides a learn-as-you-go tutorial for the game's core mechanics. A well-run First Contact scene should get the players all used to the flow of the cards, the role of the Decks in play, and the basics of full-team conflict resolution. There are a good number of extended mechanics that don't get play in this scene, but that's okay, as right now it's important to just learn the fundamentals.
 
-Secondly, the scene establishes the groundwork of your new campaign's world-story. At points during the process, the players will directly develop narrative facts about the game world. This results in no two games of Gattaibushido:FUSION! being identical, creating great variation in player stories and experiences.
+Secondly, the scene establishes the groundwork of your new campaign's world-story. At points during the process, the players will directly develop narrative facts about the game world. This results in no two games of ***Gattaibushido:FUSION!*** being identical, creating great variation in player stories and experiences.
 
 Not only that, but the entire core conflict of the scene defines the legacy that the "current age" Pilots (aka the future team that will be created afterward and played onward) inherit. One or more of the future Pilots could even be descended from the people in that encounter, if not having been actually present! How are their founders remembered? Does the Team inherit a legacy of honor, duty, and sacrifice? Or do they instead have to live under the shadow of their predecessors' shame and failures? Are they expected to fill the gigantic shoes of martyr heroes? This scene will decide that, and more.
 
