@@ -736,6 +736,7 @@ misc:
 
 ## Step 6: Discard and Draw
 
+With the outcome applied, it's time to return to story play. Any player with more cards in their Hand than their Max must discard-down to Max. Any player with fewer cards in their Hand than their Max must draw-up to Max. Discard any remaining cards in the Pile, and move on with the story. The Throwdown is now complete.
 
 
 ## Extended Clarifications
