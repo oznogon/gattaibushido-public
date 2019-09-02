@@ -502,19 +502,20 @@ The entire team uses the same singular, central Harmony tracker, and each of the
 * **FF Draw:** The number of additional cards drawn by The Head when the team executes their Final Form.
 * **Fuze Max:** The maximum number of Pilots that can participate on one side of a Throwdown.
 * **Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
+* **Robo Charges:** The number of special Charges the Team can use to power their Rumble Techs.
 * **Robo Strike:** The Strike Range of each Pilot while the team is in Rumble mode.
 
 **Harmony Table:**
 
-| Harmony | Rank | FF Draw | Fuze Max | Hand | Robo Strike |
-|---------|------|---------|----------|------|-------------|
-| Red     | 1    | 1       | 1        | 1    | 1           |
-| Orange  | 2    | 2       | 2        | 2    | 2           |
-| Yellow  | 3    | 3       | 3        | 3    | 3           |
-| Green   | 4    | 4       | 4        | 4    | 4           |
-| Blue    | 5    | 5       | 5        | 5    | 5           |
-| Indigo  | 6    | 6       | 6        | 6    | 6           |
-| Violet  | 7    | 7       | 7        | 7    | 7           |
+| Harmony | Rank | FF Draw | Fuze Max | Hand | Robo Charges | Robo Strike |
+|---------|------|---------|----------|------|--------------|-------------|
+| Red     | 1    | 1       | 1        | 1    | 1            | 1           |
+| Orange  | 2    | 2       | 2        | 2    | 2            | 2           |
+| Yellow  | 3    | 3       | 3        | 3    | 3            | 3           |
+| Green   | 4    | 4       | 4        | 4    | 4            | 4           |
+| Blue    | 5    | 5       | 5        | 5    | 5            | 5           |
+| Indigo  | 6    | 6       | 6        | 6    | 6            | 6           |
+| Violet  | 7    | 7       | 7        | 7    | 7            | 7           |
 
 **Playtest:** As you can see, all of these things are affected by the same rating, that being the Harmony Rank. I'm considering simplifying this in explanation later, but need to first develop an effective and evocative way of imparting this information on the Team Harmony print-out sheet.
 
