@@ -353,6 +353,11 @@ If any one of your Pilot's Commitment maximums is reduced to zero, she's at the 
 If you don't want her participation in the story to end just yet, then your other choice is to work with Coach, and try to develop together an alternate outcome that is more suitable to both your goals as a player, and the story that everyone is working to create.
 
 
+## Pilots: Final Form
+
+See "Pilots: Robos" on p. XX
+
+
 ## Pilots: Gear (IN PROGRESS)
 
 Gear is acquired via the Armory resource. Unused Gear at the end of a Mission can be returned to the Armory for a restoration of Resource points.
@@ -445,6 +450,15 @@ Notes:
 * Required for Final Form (absolutely)
 * SUMMON EFFECTS: Only happen once per session per robo!
 
+
+### The Robos
+
+(TBD)
+
+
+### The Final Form
+
+(wherein the Final Form Positions and their Techs are described)
 
 
 ## Pilots: Strike Ranges
