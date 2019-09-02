@@ -782,7 +782,7 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 > Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their Dissonant strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and ever Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
 
 
-### Rumble Step X: Describe It!
+### Rumble Step 1: Describe It!
 
 Now is the time you've all been waiting for: describe your fusion! Tell us what your Final Form looks like, and how all the assembled pieces fit together. Go wild, and don't forget the major increase in scale!
 
@@ -791,7 +791,7 @@ Coach must also describe the arrival of the Big Giant Monster, in all its fearso
 During this description, each Pilot still involved in the fight must now choose a Position in the assembled Final Form. Each position can be chosen once, and one Pilot *must* choose the Head. Take note of the Rumble Techs that each chosen Position provides.
 
 
-### Rumble Step X: Regroup and Redraw!
+### Rumble Step 2: Regroup and Redraw!
 
 **Pilots:** The Head draws additional cards equal to the current Harmony. She can then choose to distribute any of those cards to her teammates in the Final Form. Take note of new Buffers, Charges, and Strike Range as well.
 
