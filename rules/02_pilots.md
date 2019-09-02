@@ -209,12 +209,28 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 **Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Pilot Deck Jokers, as well as the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
 
-Charges are spent to activate various Techs during play. Most Techs will come from your Pilot's choice of Chroma, Power Weapon, and Robo. Not *all* of these Techs will require charges, but for those that do, the cost in Charges is specified by the Tech descriptions.
+**Techs** are the special powers that your Pilots have at their disposal, to assist them with overcoming the challenges before them. Most Techs will come from your Pilot's choice of Chroma, Power Weapon, and Robo. Many Techs require the expenditure of Charges, and as such are called **Charge Techs**, while all other non-Charge-requiring Techs are called **Passive Techs**.
+
+
+### Using Charge Techs
+
+The primary purpose of Charge Techs is to provide mechanical advantage during a Throwdown. The more powerful the Tech, the more Charges it costs to activate. For *most* Charge Techs, the default cost to activate the Tech is equal to the power rank at which you are activating it. Unless specified otherwise, you can always choose to activate a known Tech at a lower rank. For example, if you have a Charge Tech at rank 3, you can choose to activate it at rank 1 of ability, and only spend 1 Charge.
+
+Some Charge Techs specify different costs entirely, or instead alter the costs and output of the Core Techs (below). When a Charge Tech specifies its own Charge cost, use that cost instead of the default.
+
+
+#### Charge Techs Outside of Conflicts
+
+Unless specified by the Tech, your Pilot has access to all of her Charge Techs outside of Throwdowns, as well. While most of them might not seem to have much mechanical application outside of a fight, you may still be able to make a case for it in the moment, especially if you are aiming to create a really cool story moment with it.
+
+In such cases, you have two options, chosen by Coach. If the main focus of the action is to add awesome narrative flair, he may simply decide that your Tech activates with no cost. When this happens, you're free to narrate something cool and make the moment extra memorable.
+
+Otherwise Coach may decide that the Tech would be advantageous enough that using it will require Charges. In this case, you need to spend a number of Charges equal to the rank at which you are activating the Tech. Then resolve the story and mechanics of the moment, and move on.
 
 
 ### The Core Charge Techs
 
-In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal. Note that some of these may be made obsolete by stronger, more powerful Chroma-specific Techs.
+In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal, which can also be found on their Pilot Record Sheets. Note that some of these may be made obsolete by stronger, more powerful Chroma-specific Techs.
 
 * **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
 * **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
