@@ -720,14 +720,17 @@ On your turn, you can use this at most once per involved Threat. Each Threat can
 ## (Optional) Step 4: Rumble!
 
 
-### Why Not Just Rumble All the Time?
+###### (SIDEBAR: Why Not Just Rumble All the Time?)
 
-misc:
-
-* robos get damaged!
-* gotta build up those robo stashes!
-* each round causes epic damage to locations!
-* chance of hurting innocents!
+> (playtest note: this may be obvious information. possibly cut from final)
+>
+> With the Robos being such awesome tools, you probably wonder why you can't just use them all the time? Good question, that, and the answer is a rather lengthy one with both narrative and mechanical reasons.
+>
+> First and foremost, the limitation on Robo involvement in the story is deeply rooted in the themes of the inspirational source material. Like those comics and shows, ***Gattaibushido:FUSION!*** is ultimately a story of the Pilots themselves, and their personal struggles both as teammates and as the saviors of humanity. While the Robos are certainly *really cool* components of those stories, they usually only take front stage when it's time to finally confront the monster of the week. Before and after those fights, we always return to the Pilots and their more human-focused trials.
+>
+> This game is thus designed to place the Pilots themselves foremost in the story, supplying the Robos as colorful "super-weapon" components that flavor your heroes' actions, but which they can't always rely on to win *every* conflict in their lives. To reinforce this theme, there are a couple of mechanical limiters in place. First and foremost is, of course, **Team Harmony**. Harmony sets a number of crucial variables for the team while they Rumble. The higher their Harmony at the time of the Rumble, the greater their robotic strength. On the flip side, with a super low Harmony, there may be no real power incentive to Rumble in the first place!
+>
+> Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their Dissonant strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and ever Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
 
 
 ## Step 5: Outcome
