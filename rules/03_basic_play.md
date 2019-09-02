@@ -638,27 +638,30 @@ It is now their opponent's turn.
 
 Play begins in the Confrontation stage, with the initiative loser taking the first turn.
 
-**Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions must be a Play. The other involved Pilots can take Assist actions to assist the chosen Play. Once the chosen Play has been completed, the turn passes onward.
+**Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions must be a Drive Action. The other involved Pilots can take Assist actions to assist the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
 
-**Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Play, after which the turn passes onward.
-
-
-#### Play Actions
-
-All players can do the following:
-
-* Counter: play a card of higher rank than the topmost card on the Pile
-* Block: play a card of equal rank but higher suit than the topmost card on the Pile
-* Escalate: push current Pile aside, start new pile with higher stakes
-* Concede: put cards down, declare opponent the victor. If you cannot Counter, Block, or Escalate, you must Concede.
+**Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Drive, after which the turn passes onward.
 
 
-##### Counter (Play; All)
+#### Drive Actions
+
+**Drive** Actions are so named because they drive the conflict forward, all the way to its conclusion. On each side's Turn, the Commander *must* declare a single Drive action in order to pass the Turn back to their opponent.
+
+The available Drive actions are:
+
+* **Counter:** play a card of higher rank than the topmost card on the Pile
+* **Block:** play a card of equal rank but higher suit than the topmost card on the Pile
+* **Escalate:** push current Pile aside, start new pile with higher stakes
+* **Concede:** put cards down, declare opponent the victor. If you cannot Counter, Block, or Escalate, you must Concede.
+* **Initiate Rumble / Summon BGM:** activate the extended robo vs giant monster mode!
+
+
+##### Counter (Drive; All)
 
 Play a card from any valid source available to you (Hand, Factions, etc), and narrate an accompanying action within the fiction, suitable for the tone of the current Stage. Your card's rank must exceed that of the currently-revealed highest card on the Pile. It is now your opponent's turn, and your played card is winning.
 
 
-##### Block (Play; All)
+##### Block (Drive; All)
 
 Play a card of equal rank and equal or higher suit than the currently winning card. *Discard* both cards. Narrate how you prevented their last action from happening. It is now your opponent's turn, and your previous card is winning.
 
@@ -667,7 +670,7 @@ Play a card of equal rank and equal or higher suit than the currently winning ca
 **Special:** You cannot Block an Initiative card. You cannot Block the card that initiates a Rumble.
 
 
-##### Escalate (Play; All)
+##### Escalate (Drive; All)
 
 Narrate how you are "pushing it" to the next level. Your opponent scores this stage, gaining points equal to the stage (1-7).
 
@@ -676,28 +679,28 @@ Push the current Pile aside and place a new card down to initiate the new stage.
 **Special:** You cannot Escalate during the third Stage (use Rumble instead) or the seventh Stage (the final Stage).
 
 
-##### Concede (Play; All)
+##### Concede (Drive; All)
 
 Place your remaining Hand (if any) face-down on the table before you. Your opponent scores this stage, gaining points equal to the stage (1-7). Accept your narrative fate. The Throwdown has now concluded, move to resolve the Outcome.
 
-**Special:** No further Plays or Assists can follow the announcement of a Concede.
+**Special:** No further Drive or Assist actions can follow the announcement of a Concede.
 
 
-##### Initiate Rumble / Summon BGM (Play; All)
+##### Initiate Rumble / Summon BGM (Drive; All)
 
-Narrate the summoning of your robos or Big Giant Monster. This functions as an Escalate play. Your opponent scores this stage, gaining points equal to the stage (1-7). Then *Discard* all previous Piles, and play down a new card to initiate the new stage. The rank of this card is subject to Strike Range rules (note that Final Forms have Strike Ranges based on Team Harmony).
+Narrate the summoning of your robos or Big Giant Monster. This functions as an Escalate action. Your opponent scores this stage, gaining points equal to the stage (1-7). Then *Discard* all previous Piles, and play down a new card to initiate the new stage. The rank of this card is subject to Strike Range rules (note that Final Forms have Strike Ranges based on Team Harmony).
 
 Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It is now your opponent's turn, and your played card is winning.
 
-**Special:** This can only be played during the third stage of a Throwdown. The card that activates this Play cannot be Blocked.
+**Special:** This can only be played during the third stage of a Throwdown. The card that activates this Drive cannot be Blocked.
 
 
 #### Assist Actions
 
 Any other involved Pilot on the Team side can choose to perform an Assist. They must discard any card from their Hand, which allows them to do one of the following:
 
-* Use one of their Charge Techs to assist another Pilot's Play
-* Activate Gear to assist another Pilot's Play
+* Use one of their Charge Techs to assist another Pilot's Drive
+* Activate Gear to assist another Pilot's Drive
 * ...and more to be decided
 
 Coach has additional Threat Assists:

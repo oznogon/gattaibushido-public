@@ -96,6 +96,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Dissonance:** the calculated difference between played cards when you Counter outside your Strike Range  
 **Crisis Path:** a predetermined series of increasingly-dangerous events that unfold as Omens are revealed  
 **Crisis Level:** the current place on the Crisis Path that the game has advanced to, through the revelation of Omens  
+**Drive Action:** one of the core actions that advance the flow of a Throwdown  
 **Fan Club:** a Team Resource that helps them recover Harmony  
 **Fusion/Fuze:** a mechanic that lets two or more Pilots act as one enhanced unit  
 **Gambit:** a quick mechanic for resolution of minor conflicts  
