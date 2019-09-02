@@ -110,6 +110,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Push:** the core action of a Throwdown, in which a card is played to beat the last-played card  
 **Razed:** a Location that has been Razed cannot be used in play, and must be rebuilt  
 **Round:** one of three stages of robot-on-monster action during Robo Rumbles  
+**Rout:** a special victory condition in which an opponent is "killed" before the end of a Throwdown  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
 **+Schism:** a mechanical trigger than can potentially reduce team Harmony  

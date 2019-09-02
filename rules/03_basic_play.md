@@ -638,7 +638,7 @@ It is now their opponent's turn.
 
 Play begins in the Confrontation stage, with the initiative loser taking the first turn.
 
-**Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions must be a Drive Action. The other involved Pilots can take Assist actions to assist the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
+**Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions *must* be a Drive Action. The other involved Pilots can choose to take Assist actions to assist the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
 
 **Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Drive, after which the turn passes onward.
 
@@ -735,3 +735,19 @@ misc:
 
 
 ## Step 6: Discard and Draw
+
+
+
+## Extended Clarifications
+
+(Answering special circumstances that may arise.)
+
+
+### The Rout: What if I Die Mid-Throwdown?
+
+Due to certain combinations of +Trauma Techs and effects that can be applied during the flow of action, it is occasionally possible that one side of the conflict may be "taken out" before they get a chance to formally Concede. This situation is known as a **Rout**. A Rout can occur as a result of the following circumstances:
+
+* **Pilots:** the Commander of the Throwdown suffers Commitment Death (i.e. one of their Commitment balances bas been reduced to zero)
+* **Coach:** all of Coach's involved Threats have been reduced to rating zero
+
+As soon as either of the above happens during a Throwdow, a Rout occurs, and no further Actions may be taken. The Routed opponent is forced into an immediate Concede action, and play now moves to the Outcome stage.
