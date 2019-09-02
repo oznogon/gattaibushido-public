@@ -111,7 +111,8 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Rout:** a special victory condition in which an opponent is "killed" before the end of a Throwdown  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
-**+Schism:** a mechanical trigger than can potentially reduce team Harmony  
+**Schism:** a buildup of points that can damage Team Harmony  
+**+Schism:** a mechanical trigger than causes the buildup of Schism points  
 **Stat:** one of six numerical descriptors spread across three balanced Commitment pairs, forming the foundation of all core Pilot mechanics  
 **Storm:** one of Coach's two primary scripted Threat actions against the Pilots (the more heinous one)  
 **+Storm:** mechanical notation that an effect triggers one of Coach's Waves  

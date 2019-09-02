@@ -141,7 +141,7 @@ Each of the three Resources begins at a free base amount of 1. As your group goe
 
 ##### Starting Harmony
 
-Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each +Schism event the players triggered during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
+Finally, lay out the team Harmony sheet, and have a handy token or figurine ready to represent their location on it during play. The Team begins a new campaign with a default base Harmony of 4 (Green). Apply any "Starting Harmony" mods from the filled-out playbooks, if applicable. Subtract 1 point for each point of Schism accrued during the First Contact scene - those First Contact actions can really color the tone of the future team! When finished, if the total is less than 1 (Red, the minimum) then raise it to 1. Likewise if the total is greater than 7 (Violet, the maximum) then lower it to 7.
 
 
 ##### Define Your Salute!
@@ -191,7 +191,7 @@ The various subsections below are alphabetized by component name. Pilot-specific
 
 Your Pilot has a handy **Buffer** that starts with a base amount of tokens equal to her **Synapse** stat - we recommend using blue tokens to easily track these. This can be further increased by Gear, Techs, and more.
 
-By default you can use these tokens to prevent potential damage from +Purge, +Schism, and +Trauma triggers that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
+By default you can use these tokens to prevent potential +Purge, +Schism, and +Trauma damage that your Pilot would suffer from or directly cause to herself. Other Techs and abilities can extend their usefulness even further.
 
 As you use your Buffer to prevent damage, you tick off these tokens. They are a limited and valuable resource, so use them wisely! Buffers refresh at the beginning of every new Scenario (not session), and can also be restored mid-game as a result of various Techs and Actions during play.
 
@@ -508,7 +508,7 @@ The Names are simple enough. Your group should come up with a team name during t
 
 ## Team: Harmony
 
-**Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by **+Schism** triggers, which can lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
+**Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by the buildup of **Schism**, which can eventually lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
 
 ### The Harmony Table
 
@@ -535,13 +535,20 @@ The entire team uses the same singular, central Harmony tracker, and each of the
 **Playtest:** As you can see, all of these things are affected by the same rating, that being the Harmony Rank. I'm considering simplifying this in explanation later, but need to first develop an effective and evocative way of imparting this information on the Team Harmony print-out sheet.
 
 
-### Lowering Harmony
+### Schism: Lowering Team Harmony
 
-Harmony can be damaged not just by disastrous events, but also by the Pilots pushing themselves too hard and acting against the spirit of the team. Pilots can trigger **+Schism** events which directly lower Harmony unless somehow mitigated. See details on the +Schism microevent trigger on p. SQUARP.
+As the Pilots push themselves too hard and act against the spirit of the team, they can accrue points of **Schism** on their Harmony tracker. This usually comes as a result of **+Schism** damage events, most often as a result of striking wide during Throwdowns (see details on the +Schism microevent trigger on p. XX).
+
+Buffer tokens can help mitigate Schism, but only on a limited scale. A Pilot may spend her own Buffers to prevent points of Schism that *she herself* caused, at the time they are accrued. Outside of a few special character Techs, Pilots cannot prevent Schism for each other.
+
+Once the Team has accrued seven (7) points of Schism, they must erase those points (keeping any excess that may have piled on) and immediately lower the overall Harmony one step toward Red.
 
 Lowering Harmony can result in loss of cards from your Pilots' Hands. If the max Hand is lowered as a result, all Pilots holding more cards than this maximum must discard accordingly.
 
-The Harmony tracker can never be lower than 1 (Red). If an event or mechanic would lover the Team's Harmony below 1, leave it at 1 and instead trigger +Trauma:Each (yes, that means to *the entire Team*). This represents your Team's descent into self-destructive behaviors finally taking its toll out directly on their personal well-being.
+
+#### In the Red: Self-Destructive Behaviors
+
+The Harmony tracker can never be lower than 1, although the team *can* still accrue Schism while in the Red. Once the team is in this state, upon gaining a seventh (7th) point of Schism accrual, and for each additional point accrued thereafter, leave the Schism tally at 7 and instead trigger +Trauma:Each (yes, that means to *the entire Team*). This represents your Team's descent into self-destructive behaviors finally taking its toll out directly on their personal well-being.
 
 
 ### Restoring Harmony

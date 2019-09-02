@@ -340,9 +340,9 @@ The **+Ruin** trigger targets a Location, and its effect depends on that Locatio
 
 **Valid Targets:** Pilots
 
-The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team's Harmony is reduced by 1 rank. Harmony can never be reduced below 1 (Red); each instance of +Schism acquired while "in the Red" subsequently triggers +Trauma:Each to the *entire* team. See p. SQUARP for full details on Harmony.
+The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team accrues a point of Schism. After 7 points have been accrued, the Harmony is directly lowered. Harmony can never be reduced below 1 (Red). If the team is in the Red, once they accrue 7 Schism, and for each additional point accrued thereafter, trigger +Trauma:Each to the *entire* team. See p. XX for full details on Harmony.
 
-By default, any Pilot can spend her Buffers to prevent +Schism that she personally either triggers or is targeted by, one token per point of loss prevented.
+By default, any Pilot can spend her Buffers to prevent +Schism that she personally either triggers or is targeted by, one token per point of Schism prevented.
 
 
 ### +Trauma
@@ -503,9 +503,9 @@ Your Strike sets the maximum "safe" difference in ranks by which your Counter ca
 
 > For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence.
 
-You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, you "strike wide" and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger an immediate +Schism event. Otherwise, the play is "safe" and the action moves onward.
+You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, you "strike wide" and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-4 max). Otherwise, the play is "safe" and the action moves onward.
 
-> Concluding the above example, if you were to play a Five (5) or higher, you would trigger +Schism. Watch out, as this can lower your team Harmony!
+> Concluding the above example, if you were to play a Five (5) or higher, you would trigger +Schism. And if you're in a later stage of the fight, that Schism could hit you pretty hard! Watch out, as this can lower your team Harmony!
 
 Note that some Techs and Gear can increase your Strike temporarily, including the basic Charge Techs that all Pilots can use. I encourage you to apply them wisely.
 
@@ -740,7 +740,7 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 
 * **Buffers:** Your personal Buffers do not apply during Rumbles. Instead, your Final Form starts with Buffers equal to the current Team Harmony. Buffers can be spent to soak Trauma and prevent Ruin.
 * **Charges:** The assembled Final Form has its own special bank of Charges that empower the Rumble Techs. Each Tech costs one Charge, with output based on the current Rumble Stage (1-4).
-* **Harmony and +Schism:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers instead cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides.
+* **Harmony and +Schism:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers instead cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides. Amount of damage per trigger equals the current stage of the Rumble (1-4).
 * **Locations and +Ruin:** The location you're fighting in can be damaged by your actions. Each Escalate action is accompanied by +Ruin to the location, which can be soaked with Buffers.
 * **Robo Endurance:** Your Robos' Endurance ranks are especially important during a Rumble. Any +Trauma the Final Form takes must come out of Robo Endurance, assigned as the Head chooses. If a Robo's Endurance is reduced to Zero, it's Pilot is forced out of the Rumble!
 * **Strike Range:** Your personal Strike Ranges no longer apply. Instead, your Final Form's actions have a Strike Range equal to (you guessed it!) the current Team Harmony. This cannot be modified except by effects that explicitly modify Rumble Strike.

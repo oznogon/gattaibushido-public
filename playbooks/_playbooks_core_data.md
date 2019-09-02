@@ -192,7 +192,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 ### Charge Tech
 
-**Friendship Power!:** Pink can spend Charges as if they were Buffers to prevent +Schism from *any* source, including other teammates. She must be present in the scene/event in order to use them.
+**Friendship Power!:** Pink can spend Charges as if they were Buffers to prevent Schism from *any* source, including other teammates. She must be present in the scene/event in order to use them.
 1. Charges:Buffers Cost is 2:1
 2. Cost is 1:1
 3. Cost is 1:2! This is most effective in larger Throwdowns
@@ -407,7 +407,7 @@ Most of these are Side Actions
 
 ## Panda: Large and Loveable
 
-* **Summon Effect:** Everyone loves the Panda! When Summoned, she brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Schism damage incurred during this battle.
+* **Summon Effect:** Everyone loves the Panda! When Summoned, she brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter Schism damage incurred during this battle.
 * **Rider Bonus:** Panda Belly Smash! When an enemy triggers +Trauma during the fight, you can choose to *immediately* shift it to Panda's endurance and then inflict +Trauma.
 
 
