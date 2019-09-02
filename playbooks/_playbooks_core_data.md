@@ -324,7 +324,7 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 
 # POWER WEAPONS
 
-Your Power Weapon consists of a base Frame, which is then modified at the start with a single Quality. As you invest evolutions into your weapons, you can add more new Qualities, turning it into a versatile combo-tastic tool.
+Your initial Power Weapon consists of a base Frame, which bestows a core **Frame Tech**. You then can modify it with a single Quality. As you invest evolutions into your weapons, you can power up your Frame Tech rank (up to 3) or add more new Qualities, turning it into a versatile combo-tastic tool.
 
 
 ## Weapon Frames
@@ -338,6 +338,18 @@ Your Power Weapon consists of a base Frame, which is then modified at the start 
 * Shield: +1 to max Buffer
 * Spear or Sword: When you Push with a difference of 1, you gain 1 Charge
 * Staff or Whip: When you play a Beat-Back, you gain 1 Charge
+
+
+### Specific
+
+
+#### The Gauntlet
+
+**Frame Tech:** The Gauntlet increases the core power of the wearer by increasing their maximum Hand limit. Note that it is limited when combined with other Hand-increasing abilities.
+
+* **Rank 1:** Increase max Hand by +1, which cannot increase the total combined max over 5.
+* **Rank 2:** Increase max Hand by +2, which cannot increase the total combined max over 6.
+* **Rank 3:** Increase max Hand by +3, which cannot increase the total combined max over 7.
 
 
 ### Undecided...
