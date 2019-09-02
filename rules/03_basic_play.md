@@ -655,7 +655,7 @@ The available Drive actions are:
 * **Block:** play a card of equal rank but higher suit than the topmost card on the Pile
 * **Escalate:** push current Pile aside, start new pile with higher stakes
 * **Concede:** put cards down, declare opponent the victor. If you cannot Counter, Block, or Escalate, you must Concede.
-* **Initiate Rumble / Summon BGM:** activate the extended robo vs giant monster mode!
+* **Initiate Rumble:** activate the extended robo vs giant monster mode!
 
 
 ##### Counter (Drive; All)
@@ -678,7 +678,7 @@ Narrate how you are "pushing it" to the next level. Your opponent scores this st
 
 Push the current Pile aside and place a new card down to initiate the new stage. The rank of this card is subject to Strike Range rules. It is now your opponent's turn, and your played card is winning.
 
-**Special:** You cannot Escalate during the third Stage (use Rumble instead) or the seventh Stage (the final Stage).
+**Special:** You cannot Escalate during the third Stage (use Initiate Rumble instead) or the seventh Stage (the final Stage). Using the Escalate action during a Rumble additionally applies +Ruin to the current Location, which can be soaked with Robo Buffers.
 
 
 ##### Concede (Drive; All)
@@ -688,26 +688,45 @@ Place your remaining Hand (if any) face-down on the table before you. Your oppon
 **Special:** No further Drive or Assist actions can follow the announcement of a Concede.
 
 
-##### Initiate Rumble / Summon BGM (Drive; All)
+##### Initiate Rumble (Drive; All)
 
 Narrate the summoning of your robos or Big Giant Monster. This functions as an Escalate action. Your opponent scores this stage, gaining points equal to the stage (1-7). Then *Discard* all previous Piles, and play down a new card to initiate the new stage. The rank of this card is subject to Strike Range rules (note that Final Forms have Strike Ranges based on Team Harmony).
 
 Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It is now your opponent's turn, and your played card is winning.
 
-**Special:** This can not be played during active Rumble stages of a Throwdown. The card that activates this Drive cannot be Blocked.
+**Special:** This can not be played during an active Rumble. The card that activates this Drive cannot be Blocked.
 
 
 #### Assist Actions
 
 Any other involved Pilot on the Team side can choose to perform an Assist. They must discard any card from their Hand, which allows them to do one of the following:
 
-* Use one of their Charge Techs to assist another Pilot's Drive
-* Activate Gear to assist another Pilot's Drive
+* Activate Charge Techs to assist another Pilot's Drive
+* Activate or Sacrifice Gear to assist another Pilot's Drive
 * ...and more to be decided
 
 Coach has additional Threat Assists:
 
 * Activate Wave or Storm
+
+
+##### Activate Charge Tech (Assist; Pilots)
+
+(TBD)
+
+For Rumbles and Final Form Techs, see below...
+
+
+##### Activate Rumble Tech (Assist; Pilots; Rumble Only)
+
+During Rumble stages, an active Pilot in the Final Form can choose to activate their chosen Position's special Rumble Tech as an Assist action. Unless specified otherwise, each Rumble Tech can only be used once during any active Rumble.
+
+Using a Rumble Tech spends 1 Rumble Charge, and has an effect set by the current Rumble Stage (1-4). Timing the use of these Techs is crucial to winning a Rumble. See "Pilots: Robos" (p. XX) for details on the various Rumble Techs.
+
+
+##### Activate/Sacrifice Gear (Assist; Pilots)
+
+(TBD)
 
 
 ##### Activate Wave or Storm (Assist; Coach)
@@ -726,26 +745,28 @@ On your turn, you can use this at most once per involved Threat. Each Threat can
 
 When all other options fail, when the Big Giant Monster comes screaming at you, when humanity needs a final bastion to defend it against otherworldly annihilation, it's time to Rumble!
 
-Initiated by the "**Initiate Rumble / Summon BGM**" Drive action, a Rumble adds up to *four* additional stages to an active Throwdown.
+Initiated by the "**Initiate Rumble**" Drive action, a Rumble adds up to *four* additional stages to an active Throwdown. These flow very similarly to the previous stages, only with a few new options and particulars.
 
 
 ### A Whole New Level of Action
 
 Once a Rumble begins, the action is taken to a *much* bigger scale. Where the Pilots' previous actions focused on themselves and their personal scope of issues, Rumbles bring out the big toys and the giant monsters, with actions that can level entire cities (or more!) in a heartbeat.
 
-
 As such, a few mechanical components come into play during Rumbles, overriding those of the base Throwdown. The result is that some of the core mechanics (draw, strike range, etc) change on the new scale of battle. We break down these changes below based on which side of the battle you're on:
 
 **Pilots:**
 
+* **Buffers:** Your personal Buffers do not apply during Rumbles. Instead, your Final Form starts with Buffers equal to the current Team Harmony. Buffers can be spent to soak Trauma and prevent Ruin.
 * **Charges:** The assembled Final Form has its own special bank of Charges that empower the Rumble Techs. Each Tech costs one Charge, with output based on the current Rumble Stage (1-4).
-* **Harmony:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers instead cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides.
-* **Strike Range:** Your personal Strike Ranges no longer apply. Instead, your Final Form's actions have a Strike Range equal to the current Team Harmony. This cannot be modified except by effects that explicitly modify Rumble Strike.
+* **Harmony and +Schism:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers instead cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides.
+* **Locations and +Ruin:** The location you're fighting in can be damaged by your actions. Each Escalate action is accompanied by +Ruin to the location, which can be soaked with Buffers.
+* **Robo Endurance:** Your Robos' Endurance ranks are especially important during a Rumble. Any +Trauma the Final Form takes must come out of Robo Endurance, assigned as the Head chooses. If a Robo's Endurance is reduced to Zero, it's Pilot is forced out of the Rumble!
+* **Strike Range:** Your personal Strike Ranges no longer apply. Instead, your Final Form's actions have a Strike Range equal to (you guessed it!) the current Team Harmony. This cannot be modified except by effects that explicitly modify Rumble Strike.
 * **Techs:** Your Final Form has access to new Rumble Techs based on your chosen Positions. Unless otherwise specified, none of your Chroma or Weapon Techs can be used during Rumble stages, however your Robo's Techs still apply.
 
 **Coach:**
 
-(TBD)
+(TBD; time to bring in the special BGM moves!)
 
 
 ###### (SIDEBAR: Why Not Just Rumble All the Time?)
@@ -763,18 +784,29 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 
 ### Rumble Step X: Describe It!
 
+Now is the time you've all been waiting for: describe your fusion! Tell us what your Final Form looks like, and how all the assembled pieces fit together. Go wild, and don't forget the major increase in scale!
 
-### Rumble Step X: Select Positions
+Coach must also describe the arrival of the Big Giant Monster, in all its fearsome glory.
 
-
-### Rumble Step X: Draw and Distribute
-
-
-### Rumble Step X:
+During this description, each Pilot still involved in the fight must now choose a Position in the assembled Final Form. Each position can be chosen once, and one Pilot *must* choose the Head. Take note of the Rumble Techs that each chosen Position provides.
 
 
-### Rumble Step X:
+### Rumble Step X: Regroup and Redraw!
 
+**Pilots:** The Head draws additional cards equal to the current Harmony. She can then choose to distribute any of those cards to her teammates in the Final Form. Take note of new Buffers, Charges, and Strike Range as well.
+
+**Coach:** Pick up the BGM stack and add it to your Hand. You are ready to continue.
+
+
+### Rumble Step 3: Continue the Stages of Battle!
+
+The Rumble stages play out identically to the Throwdown flow already established. The same actions are available, only now there are up to four more stages of card-battle action. Each stage scores an increasing value, and both sides have Techs that only grow stronger as the fight rages onward.
+
+Remember the greater scale of conflict, and always push it further up and outward with your descriptions. For each side of the fight, Escalation represents taking the battle to an even more desperate level. The Final Form manifests never-before-seen last-ditch powers, the Monster evolves to even more hideous and destructive incarnations, and so on.
+
+Also remember the increased mechanical stakes mentioned above. Escalating now causes +Ruin to your current Location, and when the Final Form strikes Dissonant, it directly damages the robos!
+
+Play continues as before until one side Concedes. There is no escalating beyond the fourth Rumble stage.
 
 
 ## Step 5: Outcome
@@ -795,7 +827,7 @@ With the outcome applied, it's time to return to story play. Any player with mor
 
 Due to certain combinations of +Trauma Techs and effects that can be applied during the flow of action, it is occasionally possible that one side of the conflict may be "taken out" before they get a chance to formally Concede. This situation is known as a **Rout**. A Rout can occur as a result of the following circumstances:
 
-* **Pilots:** the Commander of the Throwdown suffers Commitment Death (i.e. one of their Commitment balances bas been reduced to zero)
+* **Pilots:** the Commander of the Throwdown suffers Commitment Death (i.e. one of their Commitment balances bas been reduced to zero), or the robo in the Head Position of the Final Form is reduced to zero Endurance.
 * **Coach:** all of Coach's involved Threats have been reduced to rating zero
 
 As soon as either of the above happens during a Throwdow, a Rout occurs, and no further Actions may be taken. The Routed opponent is forced into an immediate Concede action, and play now moves to the Outcome stage.
