@@ -211,7 +211,10 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 Charges are spent to activate various Techs during play. Most Techs will come from your Pilot's choice of Chroma, Power Weapon, and Robo. Not *all* of these Techs will require charges, but for those that do, the cost in Charges is specified by the Tech descriptions.
 
-In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal:
+
+### The Core Charge Techs
+
+In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal. Note that some of these may be made obsolete by stronger, more powerful Chroma-specific Techs.
 
 * **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
 * **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
