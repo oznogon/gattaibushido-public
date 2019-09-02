@@ -168,7 +168,7 @@ With that, the Team is now Complete.
 **Style Ideas:** Report Card, Yearbook bio, Yearbook quote, Data Panel Readout
 
 
-##### (SIDEBAR: "Chromas, Weapons, and Robos")
+###### (SIDEBAR: "Chromas, Weapons, and Robos")
 
 > Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Chroma, your Power Weapon, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
 >
@@ -332,7 +332,7 @@ Fortunately there exist a handful of methods in the game that can heal a damaged
 Recovering from a permanent Commitment loss can only be done through Evolution. This is detailed in the Evolution section (p. XX).
 
 
-###### SIDEBAR: Permanent Loss is Good for the Story!
+###### (SIDEBAR: Permanent Loss is Good for the Story!)
 
 > The idea of permanent stat loss in this game may come across as unfair during an initial read. However, I ask you to understand that this is an *expected* consequence of play, representing the unfortunate burnout of bright young lives who are thrown against great odds in the war to protect humanity from alien destruction. If this happens to your Pilot, embrace it, and see it as an opportunity for role-playing!
 

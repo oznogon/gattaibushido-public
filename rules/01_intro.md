@@ -216,7 +216,7 @@ Each session of play follows a basic flow:
 6. Session Breakdown
 
 
-##### (SIDEBAR: The First Contact Session)
+###### (SIDEBAR: The First Contact Session)
 
 > For your first time playing *Gattaibushido:FUSION!*, I ***strongly*** advise that you start the session with the **First Contact** scenario (detailed in the Coach rules section, p. SQUARP), and conclude that session with full-table character creation. First Contact is designed to serve as both a hands-on tutorial to the game's core mechanics and an interactive "Session Zero" live world-building experience. While not *required* to play the game, it can be invaluable for new campaigns and also for new players. See p. SQUARP for more information.
 
