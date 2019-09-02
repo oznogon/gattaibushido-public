@@ -479,30 +479,29 @@ The Names are simple enough. Your group should come up with a team name during t
 
 **Harmony** is a 7-point color-coded gauge that determines how in sync *the entire Team* is with each other. Harmony can be threatened by **+Schism** triggers, which can lower the team's Harmony as they act in ways that piss each other off. With a high Harmony, you are a tight-knit, top-notch team, drawing power and inspiration from each other to do your best. With a low Harmony, you are more out of sync with your goals, constantly at odds with one another, and acting in ways that are increasingly detrimental to each other's well-being.
 
-Mechanically, your Team's Harmony affects three core systems: your carried Hand size between conflicts, the size of the Team's collective Final Form Bank, and the maximum duration that your assembled Final Form can be maintained.
-
-
 ### The Harmony Table
 
-The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. The chart columns below detail the following:
+The entire team uses the same singular, central Harmony tracker, and each of their own actions can affect it. Mechanically, your Team's Harmony affects their maximum carried Hand between conflicts, as well as a number of crucial components of the Final Form robo battles.
+
+The chart columns below detail the following:
 
 * **Harmony:** A color code for that rank of Harmony
 * **Rank:** A numerical rank associated with that color
-* **Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
 * **FF Bank:** The maximum # of cards the Team can invest in their Final Form Bank.
-* **FF Integrity:** The maximum number of additional stages that they team can push a Throwdown in their Final Form.
+* **FF Draw:** The number of additional cards drawn by The Head when the team executes their Final Form.
+* **Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
 
 **Harmony Table:**
 
-| Harmony | Rank | Hand | FF Bank | FF Integrity |
-|---------|------|------|---------|--------------|
-| Red     | 1    | 1    | 1       | 0            |
-| Orange  | 2    | 2    | 2       | 1            |
-| Yellow  | 3    | 2    | 3       | 2            |
-| Green   | 4    | 3    | 4       | 2            |
-| Blue    | 5    | 4    | 5       | 2            |
-| Indigo  | 6    | 4    | 6       | 3            |
-| Violet  | 7    | 5    | 7       | 4            |
+| Harmony | Rank | FF Bank | FF Draw | Hand |
+|---------|------|---------|---------|------|
+| Red     | 1    | 1       | 1       | 1    |
+| Orange  | 2    | 2       | 2       | 2    |
+| Yellow  | 3    | 3       | 3       | 2    |
+| Green   | 4    | 4       | 4       | 3    |
+| Blue    | 5    | 5       | 5       | 4    |
+| Indigo  | 6    | 6       | 6       | 4    |
+| Violet  | 7    | 7       | 7       | 5    |
 
 
 ### Lowering Harmony
