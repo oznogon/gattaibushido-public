@@ -532,8 +532,6 @@ Defeat Conditions should be discoverable by the Pilots through a mix of action, 
 
 Threats that have this defeat condition can be taken out by the simple application of +Trauma.
 
-(**PLAYTEST** what if the Pilots lose a Throwdown against them, but their Payload still otherwise defeats the threat? and vice-versa? Hmmmm...)
-
 
 #### Simply Survive
 
@@ -567,7 +565,7 @@ To craft new ones, use these basic guidelines. Waves can do a minor effect, whil
 * Enforce - Can use Buffers to ignore Strike Range
 * Fortify - S: increase TR of existing Threats
 * Harbinger - Each Push in a Throwdown forces discards from your Deck
-* Heavy-Hitter - Each Push in a Throwdown adds +Trauma to the Threat's Payload
+* Heavy-Hitter - Each Push in a Throwdown deals +Trauma
 * Infiltrate (2X) - W: Discard 1 current Favor card *or* S: Discard 1 entire Favor card stack
 * Rumble Tech - Gives the BGM a new Rumble Tech
 * Sap - W: One player discards to burn Team Resouces *or* D: Choose and deplete a Team Resource
@@ -624,7 +622,7 @@ PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it
 
 #### Heavy-Hitter
 
-PASSIVE: Each time this Threat Pushes in a Throwdown, it adds +Trauma to its Payload.
+PASSIVE: Each time this Threat Pushes in a Throwdown, it deals +Trauma.
 
 
 #### Infiltrate (2X)
@@ -895,7 +893,7 @@ Your goal here is to guide things to a place where you can actually bring in the
 
 **The Threat:** TR 3. Powers: Attacker (W); Attacker (S); Heavy-Hitter.
 
-You will again not get to use all the extended Throwdown mechanics due to the simplicity of this tutorial. When resolving the outcome, instead of applying the Payloads and spending the final pile, we recommend saying what *would have* happened, and then simply using the totals to provide narrative color to the conclusion of the First Contact Scene.
+You will again not get to use all the extended Throwdown mechanics due to the simplicity of this tutorial. When resolving the outcome, we recommend saying what *would have* happened, and then simply using the score totals to provide narrative color to the conclusion of the First Contact Scene.
 
 And it's *totally okay* if the players don't win! Let them experience that kind of complete loss, and let it become part of their future team's backstory. Teams with tragic histories create some of the most inspiring and memorable moments of play!
 

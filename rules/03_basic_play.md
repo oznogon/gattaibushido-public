@@ -316,13 +316,9 @@ The **+Wave** trigger allows Coach to activate any one Wave action on his scenar
 (usually have a target stated; can usually be mitigated with Buffer tokens, within limits; etc)
 
 
-##### Payloads: On "Stacking" Damage
+##### On "Stacking" Damage
 
-(**PLAYTEST NOTE:** I feel this may need further clarification, but we'll see)
-
-During "Open Play" of the game, damage-type +Triggers are usually resolved immediately upon their activation. Unless otherwise noted, all damage-type +Triggers "stack" when multiple instances accrue at the same time. Multiple simultaneous +Triggers is very rare in Open Play, but there are chances they might occur due to multiple Pilots triggering them simultaneously. When a number of identical damage triggers fire off at once, they must then all be resolved at once as well, in the order they were triggered. If there is no clear order, resolve them in the order the Team sees fit.
-
-During Throwdowns, however, damage-type +Triggers are instead added to each side's relevant growing **Payload** stacks, to be applied altogether at the end of the conflict. The exceptions to this are a rare few abilities which specifically state that their effects are **immediate**. In these cases, resolve the +Triggers at the moment they occur, and do not add them to the Payloads.
+Damage-type +Triggers are resolved immediately upon their activation. Unless otherwise noted, all damage-type +Triggers "stack" when multiple instances accrue at the same time. When a number of identical damage triggers fire off at once, they must then all be resolved at once as well, in the order they were triggered. If there is no clear order, resolve them in the order the Team sees fit.
 
 
 ### +Disfavor

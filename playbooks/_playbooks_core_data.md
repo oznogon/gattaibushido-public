@@ -157,7 +157,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 **Shiny New Toys!** Orange gains extra versatility with her Gear loadouts.
 1. Orange can spend Charges to re-Activate Gear that was already used in the same Scene/Conflict. Charge Cost = Gear Tier.
 2. Orange can now freely exchange her Charges for Armory Resources, or vice versa, at a 2:1 Charge:Armory exchange rate.
-3. At the end of a Throwdown, as Payloads and Outcomes are being calculated and applied, Orange can spend Charges to recover any Gear sacrificed during that Throwdown. Charge cost = 2x Gear Tier.
+3. At during the Outcome stage of a Throwdown, Orange can spend Charges to recover any Gear sacrificed during that Throwdown. Charge cost = 2x Gear Tier.
 
 
 ### PLAYBOOK SPECIAL
@@ -274,7 +274,7 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 
 **Agsomafa!** (Side, Red Pilot): Burn your *entire* current Charge Pool, and apply the following effects for *each* Charge burned:
 
-* Rank 1: Add +Trauma to your side's Payload
+* Rank 1: Add +Trauma to your side
 * Rank 2: As Rank 1, plus the opponent of your choice must burn one Buffer
 * Rank 3: As Rank 2, plus any other Pilot can restore one spent Buffer
 
@@ -329,7 +329,7 @@ Your initial Power Weapon consists of a base Frame, which bestows a core **Frame
 
 ## Weapon Frames
 
-* Axe or Hammer: Add +Trauma to Payload when you Push within Strike
+* Axe or Hammer: Deliver +Trauma when you Push within Strike
 * Claws or Knives: Your Strike Range is -1, but your max Charges increases +2
 * Gauntlet or Pistols: Increase Throwdown Draw by +1
 * Bow or Rifle: +1 Strike Range
@@ -364,18 +364,18 @@ Most of these are Side Actions
 
 * Charge: Spend 1 Charge, target player gains 1 Charge.
 * Energy: ???
-* Friendship: Spend 3 charges, immediately remove any one +Schism trigger from current Payloads.
-* Giga-: If you would otherwise add +Trauma to your Payload on this turn, spend 1 charge and add another +Trauma
+* Friendship: ???
+* Giga-: If you would deal +Trauma, spend 1 charge and add another +Trauma
 * Laser: Your "Boost Strike" Basic Charge Tech only costs 1:1 (default is 3:1)
 * Nega-: Spend 2 Charges, discard bottom card from the Play Pile.
 * Power: Before you Push, spend 2 Charges and Discard a card. Increase your Strike Range by that card's pip rank.
 * Psy-: Spend X charges, look X cards in any one Hand
-* Razor: Spend 3 charges, add +Trauma to Payload
+* Razor: Spend 3 charges, inflict +Trauma
 * Retro-: Spend 2 charges, draw top card of Trash into your Hand
 * Science: Spend X charges, take X random cards from any one Hand, return X cards to that Hand
 * Sonic: ???
 * Tactical: Spend 1 Charge, give 1 card from your Hand to target player.
-* Thunder: Spend 1 Charge, add +Trauma and +Ruin to Payload
+* Thunder: Spend 1 Charge, inflict +Trauma and +Ruin
 * Turbo-: Spend 2 Charges, draw top card of Deck into your Hand
 * Vibro-: ???
 * Vortex: Spend 3 Charges, target player with two or more cards in their Hand discards a random card from their Hand.
@@ -408,7 +408,7 @@ Most of these are Side Actions
 ## Panda: Large and Loveable
 
 * **Summon Effect:** Everyone loves the Panda! When Summoned, she brings with her a pool of special Buffers equal to her Rank, which can only be spent to counter +Schism damage incurred during this battle.
-* **Rider Bonus:** Panda Belly Smash! When an enemy triggers +Trauma during the fight, you can choose to *immediately* shift it to Panda's endurance and then add +Trauma to your own Payload.
+* **Rider Bonus:** Panda Belly Smash! When an enemy triggers +Trauma during the fight, you can choose to *immediately* shift it to Panda's endurance and then inflict +Trauma.
 
 
 
