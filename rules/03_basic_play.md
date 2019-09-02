@@ -574,13 +574,13 @@ If you refuse the challenge, then you allow your opponent's goals in the moment 
 Misc questions for the pilots similar to duels in Motobushido:
 
 
-### Pick Sides and Declare Leaders
+### Pick Sides and Declare Commanders
 
 There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on.
 
-On each side, whoever played the initiative card takes the lead. Only the Leader gets bonus draws at the start. Note that by backing up a Leader, you also expose yourself to consequences should your side lose.
+On each side, whoever played the initiative card takes the lead. Only the Commander gets bonus draws at the start. Note that by backing up a Commander, you also expose yourself to consequences should your side lose.
 
-The lead player does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. Red doesn't have to be the leader of every throwdown, and in fact the game is more fun if she frequently just assists!
+The lead player does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. Red (the default "leader" of the group) doesn't have to be the Commander of every throwdown, and in fact the game is more fun if she frequently just assists!
 
 
 ### Does She Fight for Her Team, or for Herself?
@@ -599,7 +599,7 @@ The answer to this question is usually pretty obvious, but it requires acknowled
 
 **Pilots:**
 
-* **Bonus Draw (Pilot Leader Only):** Based on the answer to above questions, the Leader draws bonus cards. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat. Then, all other involved Pilots on her team can choose to give the leader any number of cards from their own current Hands. Finally, the leader must then give those Pilots back an equal number of cards (but they don't need to be the same ones).
+* **Bonus Draw (Pilot Commander Only):** Based on the answer to above questions, the Commander draws bonus cards. If you fight for the Team, your draw equals your Synch stat. If you fight for yourself, your draw equals your Solo stat. Then, all other involved Pilots on her team can choose to give the Commander any number of cards from their own current Hands. Finally, the Commander must then give those Pilots back an equal number of cards (but they don't need to be the same ones).
 * **Strike Ranges:** Based on who started the fight. If your team started the action, members each use their own Steel stats. If the fight was brought to them, they use their Flesh stats instead.
 
 **Coach:**
