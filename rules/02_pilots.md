@@ -458,7 +458,34 @@ Notes:
 
 ### The Final Form
 
-(wherein the Final Form Positions and their Techs are described)
+(TBD; wherein the Final Form Positions and their Techs are described; when to describe the final form; etc)
+
+
+#### Final Form Positions
+
+There are seven unique Positions that can assemble together to create the Final Form. When the team enters the Rumble stages of a Throwdown, one of them *must* pick the Head, and the others must each pick a different one.
+
+Each Position gives a special Rumble Tech. Activating a Rumble Tech costs 1 Robo Charge, with an effect "X" being equal to the current stage of the Rumble (1-4). Each time you use a Rumble Tech, you must yell out your special move's name. Make them up for yourself!
+
+Aside from the Wing, each Tech may be used only once per Rumble, so use them wisely!
+
+The Positions and their associated Techs are:
+
+**The Head (required):** Each other Pilot in the Final Form may choose to pass you up to X cards from their Hands. You may choose to keep any of those passed to you. You may also choose to pass each of them up to X cards back. The amount they passed you and the amount you pass back do not need to be the same.
+
+**The Heart:** Each Pilot other than the Heart may choose to draw up to X cards into their Hands.
+
+**The Hand:** Re-use any one Rumble Tech previously used in this battle.
+
+**The Foot:** Opponent must randomly discard X cards.
+
+**The Sword:** Apply immediate +Trauma:Opponent(X)
+
+**The Aegis:** Restore X lost Robo Endurance, or gain X additional buffers
+
+**The Wing:** (**Playtest this**) Special Tech. You draw 1 card and move the Rumble to a new Location. This Tech may be used once per Stage of the Rumble.
+
+
 
 
 ## Pilots: Strike Ranges
