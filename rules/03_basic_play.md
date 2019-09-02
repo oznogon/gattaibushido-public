@@ -527,6 +527,8 @@ If a Strike is Dissonant, Coach immediately Flips up a card. If its value is equ
 
 Note that some Techs and Gear can increase your Strike temporarily, including the basic Charge Techs that all Pilots can use. I encourage you to apply them wisely.
 
+**Robo Rumbles:** Pilots take note: Your strike Ranges in Rumble stages of a Throwdown are based entirely upon your Team Harmony. Not only that, but Dissonant Strikes during Rumbles directly damage your Robos! See "Rumble!" below for more information (p. XX).
+
 **Coach:** Your Strikes are *hard* limits. Unless specified otherwise (by a Threat power, for example), you cannot play outside of your calculated Strike. This is intentional: as Coach, you have more overall available power to wield, mitigated by hard limits via a tight mechanical leash.
 
 
@@ -692,7 +694,7 @@ Narrate the summoning of your robos or Big Giant Monster. This functions as an E
 
 Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It is now your opponent's turn, and your played card is winning.
 
-**Special:** This can only be played during the third stage of a Throwdown. The card that activates this Drive cannot be Blocked.
+**Special:** This can not be played during active Rumble stages of a Throwdown. The card that activates this Drive cannot be Blocked.
 
 
 #### Assist Actions
@@ -720,6 +722,32 @@ On your turn, you can use this at most once per involved Threat. Each Threat can
 ## (Optional) Step 4: Rumble!
 
 
+(Finally! It's time to break out those robots and fight some goddamn big giant monsters!)
+
+When all other options fail, when the Big Giant Monster comes screaming at you, when humanity needs a final bastion to defend it against otherworldly annihilation, it's time to Rumble!
+
+Initiated by the "**Initiate Rumble / Summon BGM**" Drive action, a Rumble adds up to *four* additional stages to an active Throwdown.
+
+
+### A Whole New Level of Action
+
+Once a Rumble begins, the action is taken to a *much* bigger scale. Where the Pilots' previous actions focused on themselves and their personal scope of issues, Rumbles bring out the big toys and the giant monsters, with actions that can level entire cities (or more!) in a heartbeat.
+
+
+As such, a few mechanical components come into play during Rumbles, overriding those of the base Throwdown. The result is that some of the core mechanics (draw, strike range, etc) change on the new scale of battle. We break down these changes below based on which side of the battle you're on:
+
+**Pilots:**
+
+* **Charges:** The assembled Final Form has its own special bank of Charges that empower the Rumble Techs. Each Tech costs one Charge, with output based on the current Rumble Stage (1-4).
+* **Harmony:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers instead cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides.
+* **Strike Range:** Your personal Strike Ranges no longer apply. Instead, your Final Form's actions have a Strike Range equal to the current Team Harmony. This cannot be modified except by effects that explicitly modify Rumble Strike.
+* **Techs:** Your Final Form has access to new Rumble Techs based on your chosen Positions. Unless otherwise specified, none of your Chroma or Weapon Techs can be used during Rumble stages, however your Robo's Techs still apply.
+
+**Coach:**
+
+(TBD)
+
+
 ###### (SIDEBAR: Why Not Just Rumble All the Time?)
 
 > (playtest note: this may be obvious information. possibly cut from final)
@@ -731,6 +759,22 @@ On your turn, you can use this at most once per involved Threat. Each Threat can
 > This game is thus designed to place the Pilots themselves foremost in the story, supplying the Robos as colorful "super-weapon" components that flavor your heroes' actions, but which they can't always rely on to win *every* conflict in their lives. To reinforce this theme, there are a couple of mechanical limiters in place. First and foremost is, of course, **Team Harmony**. Harmony sets a number of crucial variables for the team while they Rumble. The higher their Harmony at the time of the Rumble, the greater their robotic strength. On the flip side, with a super low Harmony, there may be no real power incentive to Rumble in the first place!
 >
 > Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their Dissonant strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and ever Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
+
+
+### Rumble Step X: Describe It!
+
+
+### Rumble Step X: Select Positions
+
+
+### Rumble Step X: Draw and Distribute
+
+
+### Rumble Step X:
+
+
+### Rumble Step X:
+
 
 
 ## Step 5: Outcome
