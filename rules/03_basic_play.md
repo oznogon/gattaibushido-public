@@ -100,9 +100,7 @@ Jacks, Queens, and Kings are typically played as number cards with values of 11,
 
 ### Aces
 
-Aces are the highest-ranked card in the Deck, with a functional rank of 14 in almost all cases, with one notable exception: when Coach flips for a Dissonance check, any Ace revealed has a value of 1.
-
-However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile.
+Aces are the highest-ranked card in the Deck, with a functional rank of 14. However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile.
 
 
 ### Jokers
@@ -505,17 +503,13 @@ Your Strike sets the maximum "safe" difference in ranks by which your Counter ca
 
 > For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence.
 
-You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, the play is called **Dissonant** and the resulting difference between the ranks, lowered by your Strike range, is called **Dissonance**.
+You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, you "strike wide" and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger an immediate +Schism event. Otherwise, the play is "safe" and the action moves onward.
 
-> Carrying forward the above example, if you instead played a King (13) against your opponent's Two (2), that's a difference of 11! Your Strike of 2 mitigates that somewhat, resulting in a Dissonance value of 9.
-
-If a Strike is Dissonant, Coach immediately Flips up a card. If its value is equal to or less than the Dissonance, you've triggered an immediate +Schism. If not, the play is safe, the flip is discarded, and the action moves onward. Aces are considered to have a value of One (1) for this flip.
-
-> Concluding the above example, with a calculated Dissonance of 9, if Coach's subsequent flip has a rank of Nine (9) or lower, you've triggered +Schism. If that Schism is not prevented (such as by spending a Buffer token), then your Team's Harmony is immediately lowered one step!
+> Concluding the above example, if you were to play a Five (5) or higher, you would trigger +Schism. Watch out, as this can lower your team Harmony!
 
 Note that some Techs and Gear can increase your Strike temporarily, including the basic Charge Techs that all Pilots can use. I encourage you to apply them wisely.
 
-**Robo Rumbles:** Pilots take note: Your strike Ranges in Rumble stages of a Throwdown are based entirely upon your Team Harmony. Not only that, but Dissonant Strikes during Rumbles directly damage your Robos! See "Rumble!" below for more information (p. XX).
+**Robo Rumbles:** Pilots take note: Your strike Ranges in Rumble stages of a Throwdown are based entirely upon your Team Harmony. Additionally, when you strike wide during Rumbles, you directly damage your Robos! See "Rumble!" below for more information (p. XX).
 
 **Coach:** Your Strikes are *hard* limits. Unless specified otherwise (by a Threat power, for example), you cannot play outside of your calculated Strike. This is intentional: as Coach, you have more overall available power to wield, mitigated by hard limits via a tight mechanical leash.
 
@@ -615,7 +609,7 @@ Each side goes back and forth in exchanges of turns, playing and escalating unti
 
 Both sides now turn their initiative cards face-up for all to see, and the Higher card (by rank, then suit) wins the initiative.
 
-**Check Strike Range:** If a Pilot wins but their strike is outside Range, Coach checks against Dissonance. And if *Coach* wins but their card is outside range, it stays but the Pilot opponent gets to draw a free card to their Hand.
+**Check Strike Range:** If a Pilot wins but their strike is wide, the Pilot triggers +Schism. And if *Coach* wins but their card is outside range, it stays but the Pilot opponent gets to draw a free card to their Hand.
 
 In the extremely rare case of the cards being identical in both rank *and* suit (i.e. the exact same card), either call the whole thing off, or simultaneously play new initiative cards until someone wins.
 
@@ -767,7 +761,7 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 >
 > This game is thus designed to place the Pilots themselves foremost in the story, supplying the Robos as colorful "super-weapon" components that flavor your heroes' actions, but which they can't always rely on to win *every* conflict in their lives. To reinforce this theme, there are a couple of mechanical limiters in place. First and foremost is, of course, **Team Harmony**. Harmony sets a number of crucial variables for the team while they Rumble. The higher their Harmony at the time of the Rumble, the greater their robotic strength. On the flip side, with a super low Harmony, there may be no real power incentive to Rumble in the first place!
 >
-> Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their Dissonant strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and ever Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
+> Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their wild strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and ever Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
 
 
 ### Rumble Step 1: Describe It!
@@ -792,7 +786,7 @@ The Rumble stages play out identically to the Throwdown flow already established
 
 Remember the greater scale of conflict, and always push it further up and outward with your descriptions. For each side of the fight, Escalation represents taking the battle to an even more desperate level. The Final Form manifests never-before-seen last-ditch powers, the Monster evolves to even more hideous and destructive incarnations, and so on.
 
-Also remember the increased mechanical stakes mentioned above. Escalating now causes +Ruin to your current Location, and when the Final Form strikes Dissonant, it directly damages the robos!
+Also remember the increased mechanical stakes mentioned above. Escalating now causes +Ruin to your current Location, and when the Final Form strikes wide, it directly damages the robos!
 
 Play continues as before until one side Concedes. There is no escalating beyond the fourth Rumble stage.
 

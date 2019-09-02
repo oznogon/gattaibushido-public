@@ -93,7 +93,6 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Deck:** where all cards are drawn from; two of these exist, one for Coach and one for the Pilots  
 **Discard:** the act of putting a card into its relevant trash  
 **+Disfavor:** mechanical notation that damages a Faction's trust in the Pilots  
-**Dissonance:** the calculated difference between played cards when you Counter outside your Strike Range  
 **Crisis Path:** a predetermined series of increasingly-dangerous events that unfold as Omens are revealed  
 **Crisis Level:** the current place on the Crisis Path that the game has advanced to, through the revelation of Omens  
 **Drive Action:** one of the core actions that advance the flow of a Throwdown  
@@ -117,6 +116,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Storm:** one of Coach's two primary scripted Threat actions against the Pilots (the more heinous one)  
 **+Storm:** mechanical notation that an effect triggers one of Coach's Waves  
 **Strike Range:** the "safe" difference in card ranks when you play a Counter action  
+**Strike Wide:** a card play whose difference is outside a safe Strike Range  
 **Suit:** the category of pip on the playing cards (Spades, Hearts, Diamonds, and Clubs)  
 **Suit Value:** a numerical value tied to a card's Suit (Spades=4, Hearts=3, Diamonds=2, and Clubs=1)  
 **+Tarry:** when the Pilots choose to spend time inactive, causing a Discard from Coach's Deck  
