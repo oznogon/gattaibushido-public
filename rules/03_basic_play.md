@@ -472,14 +472,14 @@ Gambits are meant to be quick resolution to questions of fate, put forth by Coac
 
 # Conflict Type 3: The Throwdown
 
-When fiat won't do, and a quick card-draw still isn't enough to resolve a story conflict, there's only one option left: it's time to throw down.
+When fiat won't do, and a quick card-draw still isn't enough to resolve a story conflict, there's only one option left: it's time to *throw down*.
 
-In ***Gattaibushido:FUSION!***, the **Throwdown** is the big extended mechanic used to resolve all manner of intense and involved multi-character conflicts. After school fights, galactic space battles, championship debate team bouts, robo vs monster beat-downs, volleyball tournaments and more, all are played out with a Throwdown.
+In ***Gattaibushido:FUSION!***, the **Throwdown** is the big extended mechanic used to resolve all manner of intense and involved multi-character conflicts. After-school fights, galactic space battles, championship debate team bouts, robo-vs-monster beat-downs, volleyball tournaments and more, all are played out with a Throwdown.
 
 
 ## Throwdown Basics
 
-In a Throwdown, two sides of a conflict square off against each other in a multi-round exchange of cards. As cards are played, narrations are applied, and agendas are pushed, the stakes grow ever higher until one side finally concedes - either by choice or by complete lack of any other options.
+In a Throwdown, two sides of a conflict square off against each other in a multi-round exchange of cards. As the participants play cards, apply narration, and push agendas, the stakes grow ever higher until one side finally concedes - either by choice or by complete lack of any other options.
 
 The end goal of every Throwdown is twofold. First, "winning" a Throwdown gives the victor greater (if not total) control of the narrative outcome of the conflict. There are times when the margin of success is slim, resulting in the loser also getting some say in what happens, but ultimately the resulting story benefits the victor the most.
 
@@ -501,7 +501,7 @@ Second is the mechanical outcome, the more tangible spoils of conflict. Dependin
 * 4: RUMBLE ROUNDS
 	* 4: OH SHIT IT'S ROBOT TIME
 	* 5: DUDE DID YOU SEE THAT
-	* 6: AW DAMN
+	* 6: DAYUM DAYUM DAYUM!
   * 7: Final round for real this time
 * 5: Outcome
 * 6: Discard/Draw
