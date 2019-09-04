@@ -234,7 +234,7 @@ The **+Chargeup** trigger allows a Pilot to add points to her Charge gauge. Unle
 
 ### +Favor
 
-**Valid Targets:** Pilots, Locations
+**Valid Targets:** Factions
 
 The **+Favor** trigger allows the Team to invest cards into a revealed Faction. Unless otherwise specified, by default the event allows a single card investment to a single Faction of their choice.
 
@@ -245,49 +245,51 @@ See p. SQUARP for full details on Factions and Favor.
 
 ### +Fortify
 
-**Valid Targets:** Pilots
+**Valid Targets:** Pilots, Threats
 
-The **+Fortify** trigger allows a Pilot to recover a single previously-spent Buffer token. If her Buffer is already at max, then this has no effect.
+The **+Fortify** trigger allows a Pilot or Threat to recover a single previously-spent Buffer token. If their Buffer is already at max, then this has no effect.
 
 
 ### +Rally
 
 **Valid Targets:** Pilots
 
-The **+Rally** trigger allows the Pilots to raise their Harmony rating by 1, to a maximum of 7 (Violet). If a +Rally trigger would raise the Harmony above 7, instead leave it at 7 and trigger +Chargeup:Each to the entire Team.
+The **+Rally** trigger allows the Pilots to cleanse Schism and raise their Harmony. If the Team has any amount of Schism, a single +Rally event will remove all accrued Schism points. If the Team has zero Schism, this trigger raises the Harmony rating by 1, to a maximum of 7 (Violet). If a +Rally trigger would raise the Harmony above 7, instead leave it at 7 and trigger +Chargeup:Each to the entire Team.
 
 
 ### +Rebuild
 
-**Valid Targets:** Pilots, Locations
+**Valid Targets:** Locations
 
 The **+Rebuild** trigger allows the team to repair a Damaged location, returning it to a Standing state. This cannot be used on Standing or Razed Locations.
 
 
 ### +Recover
 
-**Valid Targets:** Pilots
+**Valid Targets:** Pilots, Threats
 
 The **+Recover** trigger allows a Pilot to restore a single point of a temporarily-lowered Commitment Stat. If her Commitments are undamaged, this has no effect. This does *not* restore permanent Commitment loss.
+
+If used on a Threat, recover a single point of lowered Threat Rating.
 
 
 ### +Replenish
 
-**Valid Targets:** Pilots, Resources
+**Valid Targets:** Team Resources
 
-The **+Replenish** trigger allows the Pilots to add points to their Team Resources. Unless otherwise specified, by default the event increases a single Resource of their choice by +1. See p. SQUARP for full details on Team Resources.
+The **+Replenish** trigger allows the Pilots to add points to their Team Resources. Unless otherwise specified, by default the event increases a single Resource of their choice by +1. If value is "FULL" then raise target Resource to 10. See p. SQUARP for full details on Team Resources.
 
 
 ### +Storm
 
-**Valid Targets:** Coach (self)
+**Valid Targets:** Threats
 
 The **+Storm** trigger allows Coach to activate any one Storm action on his scenario Threats. This can and likely will trigger other microevents. See p. SQUARP for full details on Waves and Storms.
 
 
 ### +Tarry
 
-**Valid Targets:** Pilots, Coach (self)
+**Valid Targets:** Pilots
 
 The game's time and Crisis mechanics will occasionally call for a **+Tarry** action, most commonly when the Pilots make use of certain Location boons, but also occasionally when they waste time arguing and Coach feels necessary to mechanically nudge them into action.
 
@@ -296,7 +298,7 @@ Tarry is a quick and simple Coach-specific card action. When triggered, Coach ta
 
 ### +Wave
 
-**Valid Targets:** Coach (self)
+**Valid Targets:** Threats
 
 The **+Wave** trigger allows Coach to activate any one Wave action on his scenario Threats. This can and likely will trigger other microevents. See p. SQUARP for full details on Waves and Storms.
 
@@ -313,7 +315,7 @@ Damage-type +Triggers are resolved immediately upon their activation. Unless oth
 
 ### +Disfavor
 
-**Valid Targets:** Pilots, Factions
+**Valid Targets:** Factions
 
 The **+Disfavor** trigger targets a revealed Faction, adding a single Offense token to that Faction's card. When a Faction reaches the third Offense, it is either removed from play or converted into a Threat (Coach's choice). See p. SQUARP for full details on Factions and Offenses.
 
@@ -618,13 +620,36 @@ In any case, discard all cards other than the winning card. This winning Initiat
 It is now their opponent's turn.
 
 
-### Taking Turns and Actions
+### Stages, Turns, and Actions
+
+There are at most *three* stages to the vast majority of Throwdowns you will play (occasionally this can be extended even further; see **Rumbles**, below). The first stage is **The Confrontation,** which is followed by **The Struggle**, which is in turn followed by (and usually concluding during) **The Final Attack**. As the conflict escalates (via the **Escalate** action), the stakes increase and the narration grows more intense.
 
 Play begins in the Confrontation stage, with the initiative loser taking the first turn.
 
 **Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions *must* be a Drive Action. The other involved Pilots can choose to take Assist actions to assist the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
 
 **Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Drive, after which the turn passes onward.
+
+
+#### Scoring
+
+When your opponent either Escalates or Concedes, you win that stage of the Throwdown, and score points for that stage based on how many stages have occurred. Including the optional extended Rumble stages, there are potentially seven (7) stages to a Throwdown. Your score is based on which stage you scored, as follows:
+
+* Stage 1: 1 point
+* Stage 2: 2 points
+* Stage 3: 4 points
+* Stage 4\*: 8 points
+* Stage 5\*: 16 points
+* Stage 6\*: 32 points
+* Stage 7\*: 64 points
+
+\* = Only possible with Rumbles.
+
+> **Example 1:** Your opponent Escalates in the first stage, giving you **1** point. You then escalate in the second, giving your opponent **2** points. It's now stage 3, and if you can force your opponent to Concede in this stage, you'll score **4** more points, for a final match of **5** against **2**, in your favor.
+>
+> **Example 2:** Carrying forward the above example, instead of Conceding in the third state, your opponent chooses to Initiate Rumble! You still score the stage, earning **4** points. Robots and Monsters are now battling! You Escalate on the 4th stage, giving your opponent **8** points, and then your opponent finally Concedes on the 5th stage, giving you **16** points. The final score is **21** against **10**, still in your favor.
+
+Using this scoring system, the final card on the pile is guaranteed to be the winner of conflict. However, if the loser built up a score of their own, they may be eligible for additional concessions to the final outcome.
 
 
 #### Drive Actions
@@ -649,14 +674,14 @@ Play a card from any valid source available to you (Hand, Factions, etc), and na
 
 Play a card of equal rank and equal or higher suit than the currently winning card. *Discard* both cards. Narrate how you prevented their last action from happening. It is now your opponent's turn, and your previous card is winning.
 
-**If played against Escalate,** discard the escalating card and your blocking card, return the previous Pile to play, and negate points earned from that escalation. The battle is de-escalated to the previous stage, it is now your opponent's turn, and your previous card is winning.
+**If played against Escalate,** discard the escalating card and your blocking card, return the previous Pile to play, and *negate* points scored from that escalation. The battle is de-escalated to the previous stage, it is now your opponent's turn, and your previous card is winning.
 
 **Special:** You cannot Block an Initiative card. You cannot Block the card that initiates a Rumble.
 
 
 ##### Escalate (Drive; All)
 
-Narrate how you are "pushing it" to the next level. Your opponent scores this stage, gaining points equal to the stage (1-7).
+Narrate how you are "pushing it" to the next level. Your opponent scores this stage.
 
 Push the current Pile aside and place a new card down to initiate the new stage. The rank of this card is subject to Strike Range rules. It is now your opponent's turn, and your played card is winning.
 
@@ -665,18 +690,18 @@ Push the current Pile aside and place a new card down to initiate the new stage.
 
 ##### Concede (Drive; All)
 
-Place your remaining Hand (if any) face-down on the table before you. Your opponent scores this stage, gaining points equal to the stage (1-7). Accept your narrative fate. The Throwdown has now concluded, move to resolve the Outcome.
+Place your remaining Hand (if any) face-down on the table before you. Your opponent scores this stage. Accept your narrative fate. The Throwdown has now concluded, move to resolve the Outcome.
 
 **Special:** No further Drive or Assist actions can follow the announcement of a Concede.
 
 
 ##### Initiate Rumble (Drive; All)
 
-Narrate the summoning of your robos or Big Giant Monster. This functions as an Escalate action. Your opponent scores this stage, gaining points equal to the stage (1-7). Then *Discard* all previous Piles, and play down a new card to initiate the new stage. The rank of this card is subject to Strike Range rules (note that Final Forms have Strike Ranges based on Team Harmony).
+Narrate the summoning of your robos or Big Giant Monster. This functions as an Escalate action, and your opponent scores this stage. Then *Discard* all previous Piles, and play down a new card to initiate the new stage. The rank of this card is subject to Strike Range rules (note that Final Forms have Strike Ranges based on Team Harmony).
 
 Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It is now your opponent's turn, and your played card is winning.
 
-**Special:** This can not be played during an active Rumble. The card that activates this Drive cannot be Blocked.
+**Special:** This can *only* be played during the third stage of a Throwdown This can not be played during an active Rumble. The card that activates this Drive cannot be Blocked.
 
 
 #### Assist Actions
@@ -793,6 +818,52 @@ Play continues as before until one side Concedes. There is no escalating beyond 
 
 ## Step 5: Outcome
 
+The final outcome of a Throwdown is based on whose card is ultimately face-up on top of the Pile at the end, who is also assured to be the player with the highest score. Compare the final scores, and then each side gets to apply all qualifying outcome results below. If the situational feasibility of certain spoils options comes into question, Coach is the final arbiter.
+
+
+##### I Won the Throwdown...
+
+**"...by beating my opponent's score:"** Your side achieves its original stakes. You have earned the right to narrate the final outcome of the Throwdown, possibly working with the loser if they scored any points of their own. Additionally, for each stage of the Throwdown played, you can choose **one (1)** item from the Basic Spoils.
+
+**"...and it was a complete wipe!"** In addition to the above, your narration of victory requires no concessions be given to your opponent. You may also choose **one (1)** item from the Ultimate Spoils.
+
+**"...and I won with all 127 points!"** You've basically won the game forever. As above, and also choose **two (2)** more items from the Ultimate Spoils.
+
+
+##### I Lost the Throwdown...
+
+**"...but still managed to score something:** You have gained a story concession of your design, to be included in the final narrative of the Throwdown's outcome. Work with the victor to come to an agreeable (and agreeably awesome) conclusion together.
+
+**"...and scored over half of my opponent's score:"** Your narrative concession is great indeed. When working with the victor to describe the outcome, it is important to emphasis how hard-won a fight it truly was for them. Additionally, if your characters (or Threats) are still alive afterward, choose **one (1)** item from the Basic Spoils.
+
+
+### Spoils of Victory
+
+Below are the lists of mechanical boons that can be selected by the winners (and sometimes even the losers) of Throwdowns. Each Spoil may be selected more than once.
+
+
+#### Basic Spoils
+
+* Apply +Chargeup:Self(Full) or +Chargeup:Team(1)
+* Apply +Favor(1) or +Disfavor(1)
+* Apply +Fortify:Self(Full) or +Fortify:Team(1)
+* Apply +Purge:Choice
+* Apply +Recover:Self(1) or +Recover:Threat(1)
+* Apply +Replenish:Choice(1)
+* Apply +Schism:Team(1)
+* Apply +Trauma:Pilot(1) or +Trauma:Threat(1)
+* Apply +Wave
+
+
+#### Ultimate Spoils
+
+* Apply +Chargeup:Team(Full)
+* Apply +Fortify:Team(Full)
+* Apply +Rally(1)
+* Apply +Rebuild or +Ruin to current Location
+* Apply +Recover:Self(All) or +Recover:Threat(All)
+* Apply +Replenish:Choice(Full)
+* Apply +Storm
 
 
 ## Step 6: Discard and Draw
