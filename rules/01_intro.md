@@ -244,7 +244,7 @@ If the team's Harmony is below Green at the start of a new *session*, each Pilot
 
 #### Draw Starting Hands and Finalize the Decks
 
-Pilots' each draw their starting Hands of cards, based on the Team's current Harmony. Some characters will have special modifiers that increase this, as well. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
+Pilots' each draw their starting Hands of cards, as detailed on their Pilot Sheets. Some characters will have special modifiers that increase this, as well. Coach also deals himself a starting Hand equal to the number of Pilot Players present in the game session.
 
 After this is done, both sides shuffle the Jokers back into their Decks, face-up. The Decks are now prepared for play.
 

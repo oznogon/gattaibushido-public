@@ -501,7 +501,7 @@ Each Team of Gattai Pilots has the following components:
 
 The Names are simple enough. Your group should come up with a team name during the creation session. Likewise, the Derogatory Nickname is what people call them behind their backs - or to their faces even, if their rep is super low! Fail Force Four, The Suck Seven, Lame Kitties, Losertown, etc. The group can come up with their own, or let it emerge during play.
 
-**Harmony** is a color-coded reference for how "in sync" the team is at any one time. The greater their Harmony, the more coordinated they act, the more cards they have in their Hands, and the more powerful their Final Form.
+**Harmony** is a color-coded reference for how "in sync" the team is at any one time. The greater their Harmony, the more coordinated they act as a team, and the more powerful their Final Form will be in a Rumble.
 
 **Average Team Evolutions (AvTE)** is the average of all the team's total earned Evolutions. It's used to determine their relative field experience, and a few background factors are based off it (such as Threat suggestions, Gear availability, etc). To determine this, total the team's combined evolution count and divide by the number of team members, rounding up. At the very beginning of the game, a new team will have an AvTE of 0.
 
@@ -543,8 +543,6 @@ Buffer tokens can help mitigate Schism, but only on a limited scale. A Pilot may
 
 Once the Team has accrued seven (7) points of Schism, they must erase those points (keeping any excess that may have piled on) and immediately lower the overall Harmony one step toward Red.
 
-Lowering Harmony can result in loss of cards from your Pilots' Hands. If the max Hand is lowered as a result, all Pilots holding more cards than this maximum must discard accordingly.
-
 
 #### In the Red: Self-Destructive Behaviors
 
@@ -562,8 +560,6 @@ Harmony can be restored in the following ways:
 * Winning appropriate Gambits and Throwdowns, or involvement in other narrative activities\*
 
 \* Note that not all Throwdowns, Gambits, or other activities will be eligible for Harmony restoration. The situation must make sense, and the conflict needs to be directly related to the improvement of Team Spirit and teamwork, a matter which is ultimately Coach's call. Examples include therapy sessions, team spirit-boosting activities, group interventions, etc.
-
-Increasing Harmony can result in higher limits on your Pilots' Hands. If the max Hand is increased as a result, all Pilots must draw up accordingly.
 
 **PLAYTEST NOTE:** I am certain I need more ways to restore Harmony. This requires more feedback on the current systems, though.
 
