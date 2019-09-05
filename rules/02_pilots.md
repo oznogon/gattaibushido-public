@@ -530,19 +530,18 @@ The entire team uses the same singular, central Harmony tracker, and each of the
 * **Rank:** A numerical rank associated with that color
 * **FF Stats:** The number upon which all of your Final Form's stats (Buffers, Charges, Hand, etc) are based during Rumbles.
 * **Fuze Max:** The maximum number of Pilots that can participate on one side of a Throwdown.
-* **Hand:** The maximum number of cards a Pilot can hold in her Hand between conflicts.
 
 **Harmony Table:**
 
-| Harmony | Rank | FF Stats | Fuze Max | Hand |
-|---------|------|----------|----------|------|
-| Red     | 1    | 1        | 1        | 1    |
-| Orange  | 2    | 2        | 2        | 2    |
-| Yellow  | 3    | 3        | 3        | 3    |
-| Green   | 4    | 4        | 4        | 4    |
-| Blue    | 5    | 5        | 5        | 5    |
-| Indigo  | 6    | 6        | 6        | 6    |
-| Violet  | 7    | 7        | 7        | 7    |
+| Harmony | Rank | FF Stats | Fuze Max |
+|---------|------|----------|----------|
+| Red     | 1    | 1        | 1        |
+| Orange  | 2    | 2        | 2        |
+| Yellow  | 3    | 3        | 3        |
+| Green   | 4    | 4        | 4        |
+| Blue    | 5    | 5        | 5        |
+| Indigo  | 6    | 6        | 6        |
+| Violet  | 7    | 7        | 7        |
 
 **Playtest:** As you can see, all of these things are affected by the same rating, that being the Harmony Rank. I'm considering simplifying this in explanation later, but need to first develop an effective and evocative way of imparting this information on the Team Harmony print-out sheet.
 
