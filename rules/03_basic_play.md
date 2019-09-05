@@ -30,7 +30,7 @@ Your **Hand** is a collection of cards that you keep to yourself, hidden from th
 
 All players have a Hand size determined as follows:
 
-* **Pilots:** Your max Hand is determined by your Team's position on the Harmony scale, and only a handful of game effects will alter that.
+* **Pilots:** Your max Hand starts at three (3) cards, and increases through Evolution and a small variety of other options.
 * **Coach:** Your max Hand is set at the number of Pilots participating in the session.
 
 During active conflicts, your current Hand size may fluctuate wildly as cards are drawn, played, and discarded. Between conflicts, if you ever hold either *fewer* or *more* than your max Hand, you must either draw back up or discard back down to max, respectively.
@@ -60,7 +60,7 @@ Each Deck has an associated **Trash** heap, which is a stack of face-up cards ne
 
 ### Void
 
-The Black Chroma has a special unique stash of cards called the **Void**, which she keeps instead of a carried Hand. See the Black Chroma Techs for more details on this (p. XX).
+The Black Chroma has a special unique stash of cards called the **Void**, which she keeps between conflicts instead of a carried Hand. See the Black Chroma Techs for more details on this (p. XX).
 
 
 ## Card Details
@@ -409,7 +409,7 @@ If **the Pilot's card value is *higher*,** then the player achieves a **"Yes, an
 
 With this outcome, your success or failure will always be accompanied by some kind of different side effect.
 
-The extended details are below. Once the cards are revealed and the outcome is determined, the Gambit is complete. Discard the cards and move on with play.
+The extended details are below. Once the cards are revealed and the outcome is determined, the Gambit is complete. Discard the played cards, and if anyone has fewer cards than their max, draw back up. Then move on with play.
 
 
 ### "Yes, and..."

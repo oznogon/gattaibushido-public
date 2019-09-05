@@ -109,6 +109,8 @@ Green, on the other hand, is not a required role for a new game, but she does ha
 
 Once a player has chosen the Red playbook, let the others pick as they will. After each Pilot player has chosen a playbook, put the unused ones away. You should now go through the playbooks' instructions step by step as a team. Many of them will involve other players at the table, and they work best if everyone moves through them at the same pace.
 
+Everyone should take care to note all of their derived stats, like Hand Size, Buffers, Charges, and so on. Instructions on these are included in your playbooks!
+
 
 ## Step 4 (FINAL): Round Out the Team
 
@@ -422,6 +424,16 @@ Some possible Gear selections for the basic team. In these notations and all fol
 #### UNSORTED GEAR
 
 **Pocket Rocket:** S: Deal immediate +Trauma(4) to enemy
+
+
+## Pilots: Hands
+
+Your brand new Pilot begins her first session of play with a maximum carried Hand of **three (3)** cards, drawn from the Pilot Deck. Between active conflicts, you can never have more or fewer than this number. If you find yourself with more or fewer than your max, discard down or draw up, respectively.
+
+This maximum increases automatically through play, as you Evolve your Pilot. There are a small number of other ways to increase your max Hand, but you'll have to figure those out.
+
+For info on card Hands, see p. XX. For info on Evolving, see p. XX.
+
 
 
 ## Pilots: Power Weapons

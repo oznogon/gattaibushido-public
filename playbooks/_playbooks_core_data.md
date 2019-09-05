@@ -36,11 +36,21 @@ Playbook base data is contained within this document as a reference until the fi
 
 ### Passive Tech
 
-**Chaos Void!** Black exists outside the Harmony spectrum, and as such her Hand has its own rules of management. During play, Black carries no personal Hand except for those bonus cards drawn during Throwdowns.
+**Chaos Void!** Black exists outside the Harmony spectrum, and as such her Hand has its own rules of management. Between conflicts, Black carries no personal "Hand" except for those bonus cards drawn during Throwdowns. Instead, Black maintains a special stash of face-down cards called her Void. Black's Void can hold a maximum number of cards equal to her rank in this Tech plus any earned Hand Evolutions, and begins each session filled.
 
-Instead, Black maintains a special stash of face-down cards called her Void. Black's Void can hold a maximum number of cards equal to her rank in this Tech, and begins each session filled.
+* The Void is ***not*** a Hand, and thus cannot be targeted or affected by any other Hand mechanics or increases.
+* Black may not look at the values of the cards in her Void until they enter the Trash.
+* Black may play a card from her Void any time she would be allowed to play from her Hand.
+* All plays directly from her Void are face-down and Wild.
+* Bonus draws in conflicts are *not* Void cards, and function as a normal (temporary) Hand.
+* Plays from her Void do not replenish automatically.
+* During the Discard phase of a Throwdown, Black can invest her remaining bonus draws into her Void, up to its max. All others are discarded.
 
-Black can play a card from her Void any time the rules allow her to play from her Hand. All of Black's plays from her Void are Wild. Void Cards do not replenish automatically. At the end of a Throwdown, during the Discard stage, if Black has any remaining bonus draws she can invest them into her Void, not exceeding its limit.
+
+
+The Void cannot be increased
+
+Black can play a card from her Void any time the rules allow her to play from her Hand. All of Black's plays from her Void are Wild. The Void can be affected by any actions which force Hand discards, and unlike normal Hands the Cards in a Void do *not* replenish automatically when played. At the end of a Throwdown,
 
 
 ### Charge Tech

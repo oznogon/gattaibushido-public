@@ -242,7 +242,7 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 Note the following final array of derived stats for your Pilot:
 
 * **Buffer:** Base equals your Synapse stat.
-* **Max Hand:** Determined by your Team's current Harmony.
+* **Max Hand:** Begins at 3 cards.
 * **Charge Pool:** Your Maximum Charge Pool is set by your Circuit stat It begins play at half that (round up).
 * **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
 
@@ -268,5 +268,5 @@ If you haven't already, now go back through the sheet and take note of all of yo
 
 ## Basic Charge Techs:
 
-* **Restore Buffer (Side Action):** 3 Charges per 1 Buffer
-* **Boost Strike (Side Action):** 3 Charge per +1 to Strike
+* **Restore Buffer (Side Action):**
+* **Boost Strike (Side Action):**

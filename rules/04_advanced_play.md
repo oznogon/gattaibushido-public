@@ -34,15 +34,25 @@ Not every Lesson will (or should!) be Learned from! This is important! Some Less
 
 ## Applying Evolutions
 
-When you earn an Evolution, you get to spend it to unlock a new character enhancement. These advancements progress in a repeating three-step cycle:
+When you earn an Evolution, you get to spend it to unlock a new character enhancement. These advancements progress in a repeating cycle of threes-and-sevens:
 
-**Your First and Second Evolutions** allow you to level-up any one Tech within your three power categories (Chroma, Weapon, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Chroma, Weapon, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
+1. Tech Evolution
+2. Tech Evolution
+3. Commitment Evolution
+4. Tech Evolution
+5. Tech Evolution
+6. Commitment Evolution
+7. Hand Evolution
+
+After the seventh evolution, the cycle begins again from the start, and repeats as such until your character dies or graduates from play.
+
+**Tech Evolutions** allow you to level-up any one Tech within your three power categories (Chroma, Weapon, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Chroma, Weapon, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
 
 There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Chroma Techs, for example, then for your next level-up you must instead choose within your Weapon or Robo techs.
 
-**Your Third Evolution** allows you to choose a new descriptive adjective to describe yourself based on your portrayal in the story thus far. Along with this adjective comes a +1 increase to any one of your six core stats - which in turn also increases its associated Commitment's balance maximum. This increase must narratively fit the nature of the chosen adjective. Talk to your team for suggestions, as they just may know your Pilot better than you do! Additionally, at this time you may *choose* to shift a single point within all three of your Commitments, based on your shifting motivations and goals from current play.
+**Commitment Evolutions** allow you to choose a new descriptive adjective to describe yourself based on your portrayal in the story thus far. Along with this adjective comes a +1 increase to any one of your six core stats - which in turn also increases its associated Commitment's balance maximum. This increase must narratively fit the nature of the chosen adjective. Talk to your team for suggestions, as they just may know your Pilot better than you do! Additionally, at this time you may *choose* to shift a single point within all three of your Commitments, based on your shifting motivations and goals from current play.
 
-**All subsequent Evolutions** follow the same repeating cycle. Thus the fourth and fifth evolutions again level up your techs, the sixth adds another adjective and Commitment rank, and so on.
+**Hand Evolutions** permanently increase your maximum Hand (or Void) limit by **one (1)** card each.
 
 
 ### Universal Techs
