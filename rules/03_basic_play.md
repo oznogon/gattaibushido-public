@@ -162,6 +162,14 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 Whenever the rules call for a **Shuffle** or **Reshuffle** of a Deck, the Deck's owner picks up both the Deck and its Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Hands, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
+###### (SIDEBAR: The Empty Deck)
+
+If a Deck runs out of cards outside of an active conflict, immediately reshuffle its Trash back into a new Deck. If a Deck runs out of cards *during* an active conflict, *do not* reshuffle it until the conflict Outcome has been resolved and it is time to drop and draw.
+
+No Player may Discard, Draw, Flip, Play, or Remove cards from an empty Deck; If a game mechanic tells you to do so, the mechanic is negated.
+
+
+
 
 # +Triggers: Microevents
 
