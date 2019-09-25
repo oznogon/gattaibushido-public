@@ -237,9 +237,9 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 **Evolve Commitments:** When you evolve this, give yourself a new descriptive adjective, and an associated +1 increase to any single Commitment of your choice.
 
 
-# Derive Additional Stats
+# Finishing Touches
 
-Note the following final array of derived stats for your Pilot:
+You're almost done! Note your **Class Rank** as "Freshman," and then jot down the following final array of derived stats for your Pilot:
 
 * **Buffer:** Base equals your Synapse stat.
 * **Max Hand:** Begins at 3 cards.
@@ -252,6 +252,8 @@ Note the following final array of derived stats for your Pilot:
 If you haven't already, now go back through the sheet and take note of all of your choices, copying them to the attached Pilot Record Sheet. From now on that will be your main game details reference, but keep this playbook worksheet around to in can you need to go back and revive your inspiration!
 
 **Finally:** Not enough options for you? Want to tweak the choices, or roll with something else? Got your eye on a different Robo entirely? Coach has all the details and is here to help you, just ask him!
+
+**Welcome to Battle School, Freshman!**
 
 [INSERT CHIBI PORTRAIT ART]
 
