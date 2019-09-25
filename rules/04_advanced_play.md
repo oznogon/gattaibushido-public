@@ -42,17 +42,29 @@ When you earn an Evolution, you get to spend it to unlock a new character enhanc
 4. Tech Evolution
 5. Tech Evolution
 6. Commitment Evolution
-7. Hand Evolution
+7. Course Advancement
 
 After the seventh evolution, the cycle begins again from the start, and repeats as such until your character dies or graduates from play.
+
+#### Tech Evolutions
 
 **Tech Evolutions** allow you to level-up any one Tech within your three power categories (Chroma, Weapon, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Chroma, Weapon, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
 
 There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Chroma Techs, for example, then for your next level-up you must instead choose within your Weapon or Robo techs.
 
+#### Commitment Evolutions
+
 **Commitment Evolutions** allow you to choose a new descriptive adjective to describe yourself based on your portrayal in the story thus far. Along with this adjective comes a +1 increase to any one of your six core stats - which in turn also increases its associated Commitment's balance maximum. This increase must narratively fit the nature of the chosen adjective. Talk to your team for suggestions, as they just may know your Pilot better than you do! Additionally, at this time you may *choose* to shift a single point within all three of your Commitments, based on your shifting motivations and goals from current play.
 
-**Hand Evolutions** permanently increase your maximum Hand (or Void) limit by **one (1)** card each.
+#### Course Advancement
+
+At every seventh evolution, instead of repeating the three-step process above, you "level up" through what is called a **Course Advancement**, and acquire a new Class Rank at your battle school. All new Pilots begin play as Freshmen, with all the basic abilities established through their core Playbooks. As they move up to Sophomore rank and beyond, they gain more core grounding in play, including increased Hands and access to more and better Gear.
+
+At each Course Advancement, your Pilot acquires the following:
+
+* **Class Rank:** Your Class Rank increases from Freshman to Sophomore, and then Junior, and then Senior, and finally Graduate. These terms are mainly just story flavor, but they also provide an easy gauge of character power.
+* **Hand Size:** Your Max Hand increases by **one (1)** card. For Black, this increases your Void.
+* **Gear Slots:** You gain one additional Gear Slot of either Armor, Accessory, or Tool type.
 
 
 ### Universal Techs
