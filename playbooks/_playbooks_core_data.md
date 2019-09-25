@@ -282,7 +282,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 
 Red can tap into a deep well of raw heroic strength, but unfortunately has almost no control over it when she does. This gives her amazing power, but at the cost of temporarily depleting her entire reserves of potential. At rank 1 gain a new Side Action:
 
-**Agsomafa!** (Side, Red Pilot): Burn your *entire* current Charge Pool, and apply the following effects for *each* Charge burned:
+**Burn Flare Max!** (Side, Red Pilot): Burn your *entire* current Charge Pool, and apply the following effects for *each* Charge burned:
 
 * Rank 1: Add +Trauma to your side
 * Rank 2: As Rank 1, plus the opponent of your choice must burn one Buffer
