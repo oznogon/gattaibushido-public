@@ -562,11 +562,18 @@ Misc questions for the pilots similar to duels in Motobushido:
 
 ### Pick Sides and Declare Commanders
 
-There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead. All players who wish to be involved should declare what side they are fighting on.
+There are two sides to every Throwdown, usually Coach vs Pilots but also occasionally Pilots vs Pilots instead.
 
-On each side, whoever played the initiative card takes the lead. Only the Commander gets bonus draws at the start. Note that by backing up a Commander, you also expose yourself to consequences should your side lose.
+On each side, whoever played the initiative card takes the lead and is called the **Commander** for this Throwdown. The Commander is ultimately responsible for driving forward her side's agenda during the conflict, and is the only Pilot who gets Bonus Draws at the start.
 
-The lead player does not need to be connected to the established Team social hierarchy in any way unless the players wish to do so. Red (the default "leader" of the group) doesn't have to be the Commander of every throwdown, and in fact the game is more fun if she frequently just assists!
+Any other Pilots who wish to back up the Commander should declare their intentions to do so. There is a limit to how many Pilots can act together in a Throwdown, set by the current Team Harmony. For example, if their Harmony is only at Yellow (3), then the Pilots can have at most three active players in the fight, including the Commander. If you want to be a stronger team, you gotta keep your Harmony up!
+
+Trigger-happy Pilots be warned: by backing up a Commander, you also expose yourself to consequences should your side lose!
+
+
+###### (SIDEBAR: On Commanders)
+
+The role of "Commander" is only a temporary mechanical role, and not related to any actual team hierarchy that may exist within your game's narrative. The lead player does not need to be connected to the Team's established social ranks in any way unless the players wish to do so. Red (the default "leader" of the group) doesn't have to be the Commander of every Throwdown, and in fact the game is more fun if she frequently just assists!
 
 
 ### Does She Fight for Her Team, or for Herself?
