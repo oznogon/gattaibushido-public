@@ -641,7 +641,7 @@ There are at most *three* stages to the vast majority of Throwdowns you will pla
 
 Play begins in the Confrontation stage, with the initiative loser taking the first turn.
 
-**Pilots:** On your side's turn, each involved Pilot can take a single action per turn. One and only one of those actions *must* be a Drive Action. The other involved Pilots can choose to take Assist actions to assist the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
+**Pilots:** On your side's turn, each involved Pilot *can* perform a single  Assist action per turn, and one and only one Pilot *must* also perform a single Drive action. All Assists must be performed before the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
 
 **Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Drive, after which the turn passes onward.
 
