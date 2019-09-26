@@ -353,18 +353,36 @@ See "Pilots: Robos" on p. XX
 
 ## Pilots: Gear (IN PROGRESS)
 
-Gear is acquired via the Armory resource. Unused Gear at the end of a Mission can be returned to the Armory for a restoration of Resource points.
+In addition to cool powers, weapons, and robos, your Pilots also have access to a wide array of supplementary tools called **Gear**. These can be used out in the field to provide bonus effects and boosts, giving your Pilot just the edge she needs to get ahead of the enemy and complete her missions!
 
-Sometimes Coach may let the Pilots find new pieces of Gear out in the field, too. This is entirely up to his discretion.
+Gear is normally acquired via the Armory. By spending points of that resource while at the home base, you can "rent" Gear for use on your upcoming mission. Unused (and *undamaged*) Gear at the end of a Mission can be returned to the Armory for a restoration of some of those spent Resource points. And sometimes Coach may even let your team find new pieces of Gear out in the field, too. This is entirely up to his discretion, though, so don't go out there expecting freebies.
 
-Gear has four tiers of availability, based on the team's AvTE (Average Team Evolutions) stat. The team has to meet certain AvTE stat minimums to make new gear available. As the game progresses and the Pilots evolve to higher Tiers of ability, they unlock new Gear acquisitions available at their Armory.
+Gear has four tiers of availability, and only upper classmen are allowed to use the higher-grade stuff. As a Freshman, you're only allowed to handle the Tier 1 stuff. But once you have proven yourself in the field and earned your letters, new ranks will open up to you. Sophomores can get Tier 2 stuff, Juniors Tier 3, and Seniors Tier 4. Rumor has it there are even more powerful gadgets available to Battle School Graduates, but we can neither confirm nor deny the validity of these allegations.
 
-| Gear Tier | AvTE Required |
-|:----------|:--------------|
-| 1         | 0             |
-| 2         | 5             |
-| 3         | 10            |
-| 4         | 15            |
+
+### Acquiring Gear
+
+
+#### Returning Gear
+
+
+### Equipping Gear
+
+
+### Using Gear
+
+Mostly, Gear is used in Throwdowns, on Side actions. It is either Activated for a small bonus, or Sacrificed (and destroyed) for a greater bonus.
+
+Pretty much every single piece of Gear in the game can be "Activated" for a single +1 draw bonus in a Throwdown, or "Sacrificed" for a +3 draw instead. Activated Gear remains in your pack, available for repeated use in future scenes, while Sacrificed Gear is destroyed in the process of its use. Each form of use requires both a very cleverly-narrated statement of how you wish to make use of the gear, and of course Coach's approval that said usage makes sense.
+
+Coach may rule that some Gear can be used outside of Throwdowns as well. In such a case, consider every item to have a "once per-scene" activation limit, with Coach being the final arbiter over what qualifies for a "scene."
+
+You can only Activate gear once in any given scene, even if it has multiple actions associated with it! And you can't first Activate and then later Sacrifice the same item in the same Throwdown or scene - the act of Activation makes a piece of Gear un-Sacrificeable in the same scene. It can still be Sacrificed in a *later* scene, of course.
+
+
+### Gear Lists
+
+(wip)
 
 Things Gear needs to note:
 
@@ -378,25 +396,6 @@ Possible gear effects (X = gear tier):
 * Tools
 * Weapons
 
-
-### Using Gear
-
-Mostly, Gear is used in Throwdowns, on Side actions. It is either Activated for a small bonus, or Sacrificed (and destroyed) for a greater bonus.
-
-Pretty much every single piece of Gear in the game can be "Activated" for a single +1 draw bonus in a Throwdown, or "Sacrificed" for a +3 draw instead. Activated Gear remains in your pack, available for repeated use in future scenes, while Sacrificed Gear is destroyed in the process of its use. Each form of use requires both a very cleverly-narrated statement of how you wish to make use of the gear, and of course Coach's approval that said usage makes sense.
-
-Coach may rule that some Gear can be used outside of Throwdowns as well. In such a case, consider every item to have a "once per-scene" activation limit, with Coach being the final arbiter over what qualifies for a "scene."
-
-You can only Activate gear once in any given scene, even if it has multiple actions associated with it! And you can't first Activate and then later Sacrifice the same item in the same Throwdown or scene - the act of Activation makes a piece of Gear un-Sacrificeable in the same scene. It can still be Sacrificed in a *later* scene, of course.
-
-### Gear Limits - PLAYTEST
-
-**PLAYTEST NOTE:** Currently there are no set limits to how much Gear the Pilots can carry. That would just be one more thing to keep track of, so I'm currently leaning against doing it. I suspect the costs will keep the loadouts small enough. That's my hope, anyway. This remains to be seen in play! If Gear gets a bit OP, then I may consider adding "gear slots" of some kind, like kitting out your character in a video game. My gut says to avoid that, though.
-
-### Gear Lists
-
-#### Tier 1 Gear: Basic Kitting
-
 Some possible Gear selections for the basic team. In these notations and all following, the "A:" means "Activation effect" and the "S:" means "Sacrifice effect." A "Passive" effect is always active.
 
 **First Aid Kit:** A: restore 2 spent Buffer to any Pilot / S: restore 3 spent Buffers to a Pilot
@@ -409,21 +408,55 @@ Some possible Gear selections for the basic team. In these notations and all fol
 
 **Patch Kit:** S: Restore 1 Endurance to Robo (no activation effect)
 
-#### Tier 2 Gear: Seasoned Supplies
-
-(TBD)
-
-#### Tier 3 Gear: Advanced Technology
-
-(TBD)
-
-#### Tier 4 Gear: Top Secret Experiments
-
-(TBD)
-
-#### UNSORTED GEAR
-
 **Pocket Rocket:** S: Deal immediate +Trauma(4) to enemy
+
+
+#### Accessories
+
+
+##### Tier 1
+
+
+##### Tier 2
+
+
+##### Tier 3
+
+
+##### Tier 4
+
+
+#### Armor
+
+
+##### Tier 1
+
+
+##### Tier 2
+
+
+##### Tier 3
+
+
+##### Tier 4
+
+
+#### Tools
+
+
+##### Tier 1
+
+
+##### Tier 2
+
+
+##### Tier 3
+
+
+##### Tier 4
+
+
+### Tier 5 Gear
 
 
 ## Pilots: Hands
@@ -632,7 +665,7 @@ Second, you can use them for intel. If you have an evening or so of downtime ava
 
 The **Armory** represents your Team's collection of stockpiled goods, including extra weapons and other valuable Gear that they can make use of on their important missions battling against the enemy.
 
-**Spending Armory:** Your Armory points allow you to check gear out for missions. Each point spent equates to one point of Gear rating checked out. The points are spent immediately, however if the Gear is returned safely the points are restored.
+**Spending Armory:** Your Armory points allow you to check gear out for missions. Each piece of Gear costs its tier in Armory points (e.g. Tier 1 gear costs 1 point, Tier 2 costs 2, and so on). The points are spent immediately, however if the Gear is returned safely the points are restored. See the Gear section for extended rules (see p. XX).
 
 Pilots can generally acquire Armory Gear at any time their character would be considered to have easy access to their base of operations. If Coach allows it, the pilots can requisition gear in the field for an additional cost per item, at his discretion.
 
