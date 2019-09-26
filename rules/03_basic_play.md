@@ -724,7 +724,7 @@ Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It i
 Any other involved Pilot on the Team side can choose to perform an Assist. They must discard any card from their Hand, which allows them to do one of the following:
 
 * Activate Charge Techs to assist another Pilot's Drive
-* Activate or Sacrifice Gear to assist another Pilot's Drive
+* Use Gear to assist another Pilot's Drive
 * ...and more to be decided
 
 Coach has additional Threat Assists:
@@ -746,11 +746,6 @@ During Rumble stages, an active Pilot in the Final Form can choose to activate t
 Using a Rumble Tech spends 1 Rumble Charge, and has an effect set by the current Rumble Stage (1-4). Timing the use of these Techs is crucial to winning a Rumble. See "Pilots: Robos" (p. XX) for details on the various Rumble Techs.
 
 
-##### Activate/Sacrifice Gear (Assist; Pilots)
-
-(TBD)
-
-
 ##### Activate Wave or Storm (Assist; Coach)
 
 (TBD)
@@ -758,6 +753,11 @@ Using a Rumble Tech spends 1 Rumble Charge, and has an effect set by the current
 Pick a Threat involved in this Throwdown, and discard a face or ace card from your Hand. With a face card, the chosen Threat activates a Wave. With an ace card, the chosen Threat activates a Storm.
 
 On your turn, you can use this at most once per involved Threat. Each Threat can activate a Wave or a Storm, but not both in the same Turn.
+
+
+##### Use Gear (Assist; Pilots)
+
+(TBD)
 
 
 ## (Optional) Step 4: Rumble!
