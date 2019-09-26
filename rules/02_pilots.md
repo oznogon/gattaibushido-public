@@ -355,29 +355,55 @@ See "Pilots: Robos" on p. XX
 
 In addition to cool powers, weapons, and robos, your Pilots also have access to a wide array of supplementary tools called **Gear**. These can be used out in the field to provide bonus effects and boosts, giving your Pilot just the edge she needs to get ahead of the enemy and complete her missions!
 
-Gear is normally acquired via the Armory. By spending points of that resource while at the home base, you can "rent" Gear for use on your upcoming mission. Unused (and *undamaged*) Gear at the end of a Mission can be returned to the Armory for a restoration of some of those spent Resource points. And sometimes Coach may even let your team find new pieces of Gear out in the field, too. This is entirely up to his discretion, though, so don't go out there expecting freebies.
+Gear is normally acquired via the Bunker location. By spending points of the Armory resource while at your team's Bunker, you can "rent" Gear for use on your upcoming mission. Unused (and *undamaged*) Gear at the end of a Mission can be returned to the Armory for a restoration of some of those spent Resource points. And sometimes Coach may even let your team find new pieces of Gear out in the field, too. This is entirely up to his discretion, though, so don't go out there expecting freebies.
 
-Gear has four tiers of availability, and only upper classmen are allowed to use the higher-grade stuff. As a Freshman, you're only allowed to handle the Tier 1 stuff. But once you have proven yourself in the field and earned your letters, new ranks will open up to you. Sophomores can get Tier 2 stuff, Juniors Tier 3, and Seniors Tier 4. Rumor has it there are even more powerful gadgets available to Battle School Graduates, but we can neither confirm nor deny the validity of these allegations.
-
-
-### Acquiring Gear
-
-
-#### Returning Gear
+Gear is distributed across four tiers of availability, and only upper classmen are allowed to use the higher-grade stuff. As a Freshman, you're only allowed to handle the Tier 1 stuff. But once you have proven yourself in the field and earned your letters, new ranks will open up to you. Sophomores can get Tier 2 stuff, Juniors Tier 3, and Seniors Tier 4. Rumor has it there are even more powerful gadgets available to Battle School Graduates, but we can neither confirm nor deny the validity of these allegations.
 
 
 ### Equipping Gear
 
+All Gear is classified into one of three different types: Armor, Accessories, and Tools. Your Pilot begins her schooling with three available "slots" where she can equip her Gear, one for each of the three types. As you learn your lessons and rise in your Class, you'll get more slots to add more Gear. Some Chromas (such as Orange!) will have additional Gear options available to them as well.
+
+However, aside from your allotment of Gear slots, you are unable to carry any other Gear with you into the field. If you find new Gear in the field, and your slots are full, you'll need to either swap an old item out with the new, find another Pilot to carry it, or else leave it behind.
+
+Finally, you can not equip Gear of a higher Tier than your current Class. In other words, Freshmen can only equip Tier 1 Gear, Sophomores can equip up to Tier 2, and so on. Fortunately, any new and unclassified Gear that you find in the field has no assigned Tier, and is free game to Pilots of all classes! But once you bring it back home and add it to your Armory, Coach will assign it a Tier and you might not be able to check it out again until much later! See below.
+
+
+### Acquiring Gear
+
+The easiest way to get your hands on new Gear is by requisitioning it from your team's home base. While at your Bunker, you can spend points from your Armory resource to requisition Gear for a Mission. Each item costs a number of resource points equal to its Tier, but if the Gear is returned in good shape later you might be able to get those points back (this is Coach's call, though). Ultimately the availability of any Gear is up to Coach, and may change based on narrative events.
+
+If you're lucky, you can also acquire new Gear while out on a mission, provided Coach adds it to the scene. He'll let you know if and when this happens, and you'll have the option to add it to your inventory if you have the space. Gear acquired in this spontaneous manner is considered "loot" and does not cost any initial Armory points when found.
+
+**Remember:** You can't use your Armory requisition Gear of a tier higher than your current Class, but you *can* use any new Gear acquired in the field. Just be careful when using new Gear that is clearly out of your class, as it may have unintended consequences!
+
+
+#### Returning Gear
+
+If you are holding onto Gear that you no longer need, you can bring it back to the Bunker to return to the Armory. If the gear is undamaged or only lightly used, Coach may allow you to recover some or all of its initial Armory resource cost.
+
+If you find new Gear in the field, you might be able to bring it back home to add to your Armory. If Coach allows it, new Gear can be researched, assigned an appropriate Tier, and added to the stock, possibly even increasing the Armory resource. Just make sure to not break it before you can bring it home! Once added to your Armory, it *will* require the standard costs in order to requisition later.
+
 
 ### Using Gear
 
-Mostly, Gear is used in Throwdowns, on Side actions. It is either Activated for a small bonus, or Sacrificed (and destroyed) for a greater bonus.
+You will primarily use your Gear during Throwdowns, as part of the "Use Gear" Assist Action. When you perform this action, you must choose to either **Activate** a piece of your Gear for a small bonus, or **Sacrifice** it for a greater bonus. Activating your Gear allows you to hold onto it and use it again in a later conflict, while Sacrificing it destroys the item entirely.
 
-Pretty much every single piece of Gear in the game can be "Activated" for a single +1 draw bonus in a Throwdown, or "Sacrificed" for a +3 draw instead. Activated Gear remains in your pack, available for repeated use in future scenes, while Sacrificed Gear is destroyed in the process of its use. Each form of use requires both a very cleverly-narrated statement of how you wish to make use of the gear, and of course Coach's approval that said usage makes sense.
+Most of the example Gear listed in this book will have different effects that happen when Activated or Sacrificed. Outside of those lists, for any "default" or undefined new items you introduce, we recommend the following baseline abilities for basic Tier 1 Gear:
 
-Coach may rule that some Gear can be used outside of Throwdowns as well. In such a case, consider every item to have a "once per-scene" activation limit, with Coach being the final arbiter over what qualifies for a "scene."
+* **Activate:** You can make an immediate bonus Draw of one card.
+* **Sacrifice:** You can make an immediate bonus Draw of three cards.
 
-You can only Activate gear once in any given scene, even if it has multiple actions associated with it! And you can't first Activate and then later Sacrifice the same item in the same Throwdown or scene - the act of Activation makes a piece of Gear un-Sacrificeable in the same scene. It can still be Sacrificed in a *later* scene, of course.
+Regardless of their abilities, each use of Gear requires both a very cleverly-narrated statement of how you wish to make use of the item, and of course Coach's approval that said usage makes sense.
+
+You can use your Gear in Gambits as well, with a one-item-per-Gambit limit. You must declare its use before declaring the final outcome, and it must make sense in the story. By default, Activation allows you to play a second card (choosing the best), while Sacrificing allows you to play *three* additional cards.
+
+You can only Activate any specific piece of Gear once in any given conflict, even if it has multiple actions associated with it! And you can't first Activate and then later Sacrifice the same item in the same conflict - the act of Activation makes a piece of Gear un-Sacrificeable in the same conflict (and the reverse of that is even more so true).
+
+
+###### (SIDEBAR: Narrative use of Gear)
+
+There may come times outside of conflicts when it makes sense for the Story to be affected by one or more pieces of your Pilot's Gear. There is no hard rule for these situations in this text. If you feel that your Gear would make a difference in a story moment, present your ideas to Coach. He may agree, and allow you to add more flair to the moment, possibly even bypassing potentially-risky Gambits entirely. If so, we recommend that each item have at most a "once per-scene" activation limit, and that you try to make each such moment unique.
 
 
 ### Gear Lists
