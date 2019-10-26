@@ -504,13 +504,6 @@ For info on card Hands, see p. XX. For info on Evolving, see p. XX.
 
 (PLAYTEST NOTE: Currently in the Playbooks)
 
-Notes:
-
-* Robos are primarily mechanical extensions of the Pilots themselves
-* They have little in the way of additional powers, instead serving as the mechanism for Rumbles and the Final Form
-* Required for Final Form (absolutely)
-* SUMMON EFFECTS: Only happen once per session per robo!
-
 
 ### The Robos
 

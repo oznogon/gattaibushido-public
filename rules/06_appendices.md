@@ -75,9 +75,6 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 
 
 
-
-
-
 # Reference: Glossary
 
 (use hanging indent in final doc, include primary page refs as well)

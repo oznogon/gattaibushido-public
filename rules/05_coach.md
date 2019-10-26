@@ -137,7 +137,6 @@ Waves and Storms are primarily triggered by three events during play:
 
 
 
-
 # Coach: Meta-Game Structure
 
 Most of the rest of this text talks about mechanics and numbers and math and gee whiz, but this section here is about managing the greater meta-flow of sessions and scenarios.
@@ -463,7 +462,6 @@ Note that the colors here are the reverse of those the Pilots use, and this is i
 #### Defeat Conditions
 
 (blah; different ways to remove them from play; should be some narrative options! see below; etc)
-
 
 
 ## Threat Design

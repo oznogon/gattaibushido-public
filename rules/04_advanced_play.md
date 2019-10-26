@@ -313,7 +313,6 @@ The grand fleet of the Galactic Government, here to enforce the martial will of 
 Every Location has the following core components:
 
 * **Boons:** One or more special effects the Pilots can access while at that Location.
-* **Setbacks:** (PLAYTEST/OPTIONAL) One or more negative side effects of hanging out at this Location
 * **State:** The Location's current state of being: **Standing**, **Damaged**, and **Razed**.
 
 
@@ -345,15 +344,6 @@ Many Boons make use of the **+Tarry** mechanic, which allows Coach to push time 
 **TacOps Center:** If the group +Tarries here, they can each swap a single card from their Hand with others in the group.
 
 **Ultralopolis IV:** With all the buildings and human shields, it's easier to avoid getting hurt here. During any conflict here, each Pilot has +1 to their Max Buffer.
-
-
-### Setbacks - NEW 2018 RE-ORG
-
-**PLAYTEST NOTE:** This is a new idea, needs some work and input.
-
-Ideas:
-
-* Due to cramped spaces, all Push actions in Robos here add +Ruin triggers
 
 
 ### Structural States
