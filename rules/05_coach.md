@@ -105,7 +105,7 @@ How to...
 Coach should keep track of:
 
 * Each player's various Triggers (from Chroma)
-* Current Average Team Evolutions (AvTE)
+* Team Class Rank (based on the mode value across the team)
 * Current Team Resources
 * Threats
 
@@ -493,19 +493,19 @@ The table below shows what creation-specific components are determined by the Th
 
 * **Color:** The Color of the Threat, which is usually an inverse of the Pilot Harmony colors.
 * **TR:** The Color's associated Threat Level. This determines # of Powers, Buffers, and More.
-* **AvTE:** The recommended minimum Average Team Evolutions that should be in play before this Threat is considered a "normal" challenge for the players. (**Playtest:** This is very much still a work in progress that requires further playtesting.)
+* **Class:** The recommended minimum Class Rank that most of the team should have acquired for this to be considered a "normal" challenge for players.
 * **DC:** The minimum number of defeat conditions that must be determined when designing this Threat.
 * **Notes:** Descriptive guidelines for Threats of that color
 
-| Threat Color | TR | AvTE  | DC   | Notes                                               |
-|--------------|----|-------|------|---------------------------------------------------- |
-| Violet       | 1  | 0     | 1    | Weakest, basic enemy, a standard starting challenge |
-| Indigo       | 2  | 0     | 1    | TBD |
-| Blue         | 3  | 1     | 1    | TBD |
-| Green        | 4  | 1     | 2    | TBD |
-| Yellow       | 5  | 2     | 2    | TBD |
-| Orange       | 6  | 3     | 2    | TBD |
-| Red          | 7  | 3     | 3    | World-shaking threat, greatest non-BGM enemy robos. |
+| Threat Color | TR | Class     | DC | Notes                                               |
+|--------------|----|-----------|----|-----------------------------------------------------|
+| Violet       | 1  | Freshman  | 1  | Weakest, basic enemy, a standard starting challenge |
+| Indigo       | 2  | Freshman  | 1  | TBD                                                 |
+| Blue         | 3  | Sophomore | 1  | TBD                                                 |
+| Green        | 4  | Sophomore | 2  | TBD                                                 |
+| Yellow       | 5  | Junior    | 2  | TBD                                                 |
+| Orange       | 6  | Senior    | 2  | TBD                                                 |
+| Red          | 7  | Senior    | 3  | World-shaking threat, greatest non-BGM enemy robos. |
 
 
 ### Step 3: Set Defeat Conditions

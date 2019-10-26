@@ -563,7 +563,7 @@ Each Team of Gattai Pilots has the following components:
 * Team Name (descriptor): What is the team called?
 * Derogatory Nickname (descriptor): What is the team called by its haters?
 * A central Harmony Tracker
-* Average Team Evolutions / AvTE (derivative): The average amount of character evolutions earned by the entire team
+* Team Class Rank: the average "Class" of the combined team of Pilots. This is determined by total Evolutions (see p. XX), and while one or two Pilots may be a grade apart at times, the bulk of the Team will likely advance together over time.
 * Three Home Base Locations: Barracks, Bunker, and Hangar
 * Three Team Resources:
     * Fan Club: The general reputation of the team in the public eye
@@ -573,8 +573,6 @@ Each Team of Gattai Pilots has the following components:
 The Names are simple enough. Your group should come up with a team name during the creation session. Likewise, the Derogatory Nickname is what people call them behind their backs - or to their faces even, if their rep is super low! Fail Force Four, The Suck Seven, Lame Kitties, Losertown, etc. The group can come up with their own, or let it emerge during play.
 
 **Harmony** is a color-coded reference for how "in sync" the team is at any one time. The greater their Harmony, the more coordinated they act as a team, and the more powerful their Final Form will be in a Rumble.
-
-**Average Team Evolutions (AvTE)** is the average of all the team's total earned Evolutions. It's used to determine their relative field experience, and a few background factors are based off it (such as Threat suggestions, Gear availability, etc). To determine this, total the team's combined evolution count and divide by the number of team members, rounding up. At the very beginning of the game, a new team will have an AvTE of 0.
 
 
 ## Team: Harmony

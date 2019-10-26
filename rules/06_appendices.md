@@ -84,9 +84,9 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 
 **TERM:** DEFINITION  
 **Armory:** a Team Resource that gives the Pilots sweet gear  
-**AvTE:** Average Team Evolutions, a gauge of relative team power and experience  
 **Buffer:** a pool of tokens that a Pilot can use to soak damage  
 **Hand:** the hand of cards that a player holds, their personal array of play options  
+**Class Rank:** the Pilot or Team's current "grade level" in Battle School (Freshman, Sophomore, etc)  
 **Commander:** the active Pilot of the current Throwdown  
 **Commitment:** one of three core character components, each split into two balanced stats that determine the base for all game mechanics  
 **Conflict:** one of the core game mechanics where the cards determine the outcome of in-story events  
