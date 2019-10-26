@@ -641,7 +641,7 @@ There are at most *three* stages to the vast majority of Throwdowns you will pla
 
 Play begins in the Confrontation stage, with the initiative loser taking the first turn.
 
-**Pilots:** On your side's turn, each involved Pilot *can* perform a single  Assist action per turn, and one and only one Pilot *must* also perform a single Drive action. All Assists must be performed before the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
+**Pilots:** On your side's turn, each involved Pilot *can* perform a single Assist action per turn, and one and only one Pilot *must* also perform a single Drive action. All Assists must be performed before the chosen Drive. Once the chosen Drive has been completed, the turn passes onward.
 
 **Coach:** On your Turn, each of your Threat can perform a single Assist action. To conclude your turn, one of your Threats must also perform a Drive, after which the turn passes onward.
 
@@ -721,20 +721,19 @@ Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It i
 
 #### Assist Actions
 
-Any other involved Pilot on the Team side can choose to perform an Assist. They must discard any card from their Hand, which allows them to do one of the following:
+On the Pilots' Turns, each Pilot can choose to perform a single Assist action, before their side plays its chosen Drive action. On Coach's Turn, he can choose to activate any number of Assists as long as he has the ability to pay for them (usually with required Discards).
 
-* Activate Charge Techs to assist another Pilot's Drive
-* Use Gear to assist another Pilot's Drive
-* ...and more to be decided
+The available Assist actions are:
 
-Coach has additional Threat Assists:
+* **Activate Assist Tech:** use one of your several Assist-tagged Techs.
+* **Activate Rumble Tech:** use one of the special Final Form Rumble Techs (requires Rumble mode).
+* **Activate Wave or Storm:** Coach activates one of his special custom Threat actions.
+* **Use Gear:** activate or sacrifice a single piece of carried Gear.
 
-* Activate Wave or Storm
 
+##### Activate Assist Tech (Assist; Pilots)
 
-##### Activate Charge Tech (Assist; Pilots)
-
-(TBD)
+This action allows your Pilot to trigger any one of her Techs that are tagged as "Assist" actions. These are often used to boost the effects of the Team's planned Drive action. Remember that each Pilot (aside from Pink) can only activate a *single* Assist Tech each turn.
 
 For Rumbles and Final Form Techs, see below...
 
