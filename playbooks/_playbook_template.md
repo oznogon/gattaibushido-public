@@ -270,5 +270,6 @@ If you haven't already, now go back through the sheet and take note of all of yo
 
 ## Basic Charge Techs:
 
-* **Restore Buffer (Side Action):**
-* **Boost Strike (Side Action):**
+* **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
+* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
+* **AGSOMAFA! (Assist):** Permanently Remove a card from play, gain its rank in immediate Charges.
