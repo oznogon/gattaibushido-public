@@ -141,9 +141,9 @@ When you incorporate your Chroma's specialty directly into a Gambit, you add mor
 * **Gambit Specialties:** DESCRIPTION.
 
 
-# What Weapon Do You Wield?
+# Your Daisho: What Weapon Do You Wield?
 
-Now it's time to choose the weapon that you specialize in when fighting The Enemy face to face. First pick the frame that speaks to your style, or instead choose based on the power you like the most!
+Now it's time to build your Daisho! This is the unique weapon that you specialize in when fighting The Enemy face to face. First pick the frame that speaks to your style, or instead choose based on the power you like the most!
 
 * base choice 1: TECH DESCRIPTION (does not require a charge)
 * base choice 2: TECH DESCRIPTION (does not require a charge)
@@ -151,7 +151,7 @@ Now it's time to choose the weapon that you specialize in when fighting The Enem
 
 #### Now Give It Some Power!
 
-Once you've chosen your base weapon, pick from one of the following extra powers and add it to the weapon!
+Once you've chosen your base Frame, pick from one of the following extra powers and add it to the Daisho!
 
 * quality choice 1: TECH DESCRIPTION (requires a charge)
 * quality choice 2: TECH DESCRIPTION (requires a charge)
@@ -231,7 +231,7 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 **Evolve Tech Paths:** When you evolve this, pick one of the following:
 
 * **Chroma:** Either add a Level to one of your Role Techs, or acquire a new Role Tech from your list.
-* **Power Weapon:** Add a new Quality Tech of your choice to the weapon.
+* **Daisho:** Add a new Quality Tech of your choice to your Daisho.
 * **Personal Robo:** Increase your Robo Rank by 1.
 
 **Evolve Commitments:** When you evolve this, give yourself a new descriptive adjective, and an associated +1 increase to any single Commitment of your choice.
@@ -270,6 +270,6 @@ If you haven't already, now go back through the sheet and take note of all of yo
 
 ## Basic Charge Techs:
 
-* **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
-* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
+* **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 2 Charges per +1 to Strike
+* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 2 Charges per 1 Buffer token restored.
 * **AGSOMAFA! (Assist):** Permanently Remove a card from play, gain its rank in immediate Charges.

@@ -92,6 +92,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **+Disfavor:** mechanical notation that damages a Faction's trust in the Pilots  
 **Crisis Path:** a predetermined series of increasingly-dangerous events that unfold as Omens are revealed  
 **Crisis Level:** the current place on the Crisis Path that the game has advanced to, through the revelation of Omens  
+**Daisho:** the special customizable "power weapon" every Pilot carries  
 **Drive Action:** one of the core actions that advance the flow of a Throwdown  
 **Fan Club:** a Team Resource that helps them recover Harmony  
 **Gambit:** a quick mechanic for resolution of minor conflicts  

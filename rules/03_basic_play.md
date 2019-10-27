@@ -783,7 +783,7 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 * **Locations and +Ruin:** The location you're fighting in can be damaged by your actions. Each Escalate action is accompanied by +Ruin to the location, which can be soaked with Buffers.
 * **Robo Endurance:** Your Robos' Endurance ranks are especially important during a Rumble. Any +Trauma the Final Form takes must come out of Robo Endurance, assigned as the Head chooses. If a Robo's Endurance is reduced to Zero, it's Pilot is forced out of the Rumble!
 * **Strike Range:** Your personal Strike Ranges no longer apply. Instead, your Final Form's actions have a Strike Range equal to (you guessed it!) the current Team Harmony. This cannot be modified except by effects that explicitly modify Rumble Strike.
-* **Techs:** Your Final Form has access to new Rumble Techs based on your chosen Positions. Unless otherwise specified, none of your Chroma or Weapon Techs can be used during Rumble stages, however your Robo's Techs still apply.
+* **Techs:** Your Final Form has access to new Rumble Techs based on your chosen Positions. Unless otherwise specified, none of your Chroma or Daisho Techs can be used during Rumble stages, however your Robo's Techs still apply.
 
 **Coach:**
 

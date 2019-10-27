@@ -110,7 +110,7 @@ also random plays in gambits, if black then 2x value, if red then auto fail. May
 
 (Flavor description pending final release)
 
-**Advice:** (charge tech can cost you a lot of charges! invest in charge limit increasing weapons, and make use of the recharge action in throwdowns)
+**Advice:** (charge tech can cost you a lot of charges! invest in charge limit increasing Daisho, and make use of the recharge action in throwdowns)
 
 **Starting Mods:**
 * Green (The Noob): +1 Fan Club, +2 Pit Crew
@@ -332,63 +332,56 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 
 
 
-# POWER WEAPONS
+# Daisho
 
-Your initial Power Weapon consists of a base Frame, which bestows a core **Frame Tech**. You then can modify it with a single Quality. As you invest evolutions into your weapons, you can power up your Frame Tech rank (up to 3) or add more new Qualities, turning it into a versatile combo-tastic tool.
-
-
-## Weapon Frames
-
-* Axe or Hammer: Deliver +Trauma when you Push within Strike
-* Claws or Knives: Your Strike Range is -1, but your max Charges increases +2
-* Gauntlet or Pistols: Increase Throwdown Draw by +1
-* Bow or Rifle: +1 Strike Range
-* Multi-Tool: All of your Gambit plays are at +2 value
-* Scythe: During Drop/Draw end phase of Throwdown, you can add any one card from the Pile to your Hand after it is resolved.
-* Shield: +1 to max Buffer
-* Spear or Sword: When you Push with a difference of 1, you gain 1 Charge
-* Staff or Whip: When you play a Beat-Back, you gain 1 Charge
+Your initial Daisho consists of a base Frame, which bestows a core **Frame Tech**. You then can modify it with a single Quality. As you invest evolutions into your weapons, you can power up your Frame Tech rank (up to 3) or add more new Qualities, turning it into a versatile combo-tastic tool.
 
 
-### Specific
+## Daisho Frames
+
+Below is a list of sample base Frames and their accompanying core Techs. Passive Frame Techs apply at all times while the Daisho is carried. Active Frame Techs must be used as an action within their described circumstances.
+
+* Aegis, Shield: (Passive) Your max Buffers is increased by 1.
+* Axe, Hammer: (Passive) You deliver +Trauma when you safely Counter.
+* Bombs, Cannon: (Active, Assist) Trigger +Ruin, then double Strike for next Drive.
+* Boomerang, Chakrams: (Active, Special) During Drop/Draw end phase of Throwdown, you can add any one card from the Pile to your Hand after it is resolved, not to exceed your Max Hand.
+* Bulwark: (Passive) Your Strike is decreased by 1, but your max Buffers increase by 3.
+* Claws, Knives: (Passive) Your Strike is decreased by 1, but your max Charges increase by 3.
+* Gauntlet, Pistols: (Passive) Your Bonus Draw is increased by 1.
+* Bow, Rifle: (Passive) Your Strike Range is increased by 1.
+* Multi-Tool: (Passive) All of your Gambit plays are at +2 value
+* Scythe: (Passive) Whenever you cause +Trauma, trigger +Fortify:Self.
+* Spear, Sword: (Passive) When you Counter with a play difference of exactly 1, you gain 1 Charge.
+* Staff, Whip: (Passive) When you Block, trigger +Chargeup:Self.
 
 
-#### The Gauntlet
+## Daisho Qualities
 
-**Frame Tech:** The Gauntlet increases the core power of the wearer by increasing their maximum Hand limit. Note that it is limited when combined with other Hand-increasing abilities.
+In addition to the core Frame, each Daisho can have one to three empowering Qualities. Many of these give special Assist actions you can use during Throwdowns, while others give minor Passive enhancements. Qualities are best used to make unique power combos that enhance the rest of your Pilot's skills in clever ways.
 
-* **Rank 1:** Increase max Hand by +1, which cannot increase the total combined max over 5.
-* **Rank 2:** Increase max Hand by +2, which cannot increase the total combined max over 6.
-* **Rank 3:** Increase max Hand by +3, which cannot increase the total combined max over 7.
-
-
-### Undecided...
-
-* Bombs or Cannon:
-* Boomerang or Chakrams:
-
-
-## Weapon Qualities
-
-Most of these are Side Actions
-
-* Charge: Spend 1 Charge, target player gains 1 Charge.
-* Energy: ???
-* Friendship: ???
-* Giga-: If you would deal +Trauma, spend 1 charge and add another +Trauma
-* Laser: Your "Boost Strike" Basic Charge Tech only costs 1:1 (default is 3:1)
-* Nega-: Spend 2 Charges, discard bottom card from the Play Pile.
-* Power: Before you Push, spend 2 Charges and Discard a card. Increase your Strike Range by that card's pip rank.
-* Psy-: Spend X charges, look X cards in any one Hand
-* Razor: Spend 3 charges, inflict +Trauma
-* Retro-: Spend 2 charges, draw top card of Trash into your Hand
-* Science: Spend X charges, take X random cards from any one Hand, return X cards to that Hand
-* Sonic: ???
-* Tactical: Spend 1 Charge, give 1 card from your Hand to target player.
-* Thunder: Spend 1 Charge, inflict +Trauma and +Ruin
-* Turbo-: Spend 2 Charges, draw top card of Deck into your Hand
-* Vibro-: ???
-* Vortex: Spend 3 Charges, target player with two or more cards in their Hand discards a random card from their Hand.
+* Charge: (Passive) Your "Restore Buffer" Basic Charge Tech only costs 1:1 (default is 2:1)
+* Energy: (Assist) Spend 1 Charge, target Pilot gains 1 Charge.
+* Experimental: (Passive) When your Played card is Blocked, you inflict and resolve +Trauma:Self(1) and then trigger +Chargeup:Self(2).
+* Friendship: (Assist) When you would trigger +Schism, spend 2 Charges to prevent it.
+* Giga-: (Passive) When you would inflict +Trauma, you can spend 1 charge to increase Trauma amount by 1.
+* Laser: (Passive) Your "Boost Strike" Basic Charge Tech only costs 1:1 (default is 2:1)
+* Masochistic: (Passive) When you take damage, trigger +Chargeup:Self(X), with X = amount of damage not prevented by Buffers.
+* Nega-: (Assist) Spend 2 Charges, then keep 1 card you would have Discarded.
+* Power: (Assist) Discard a card, then increase your Strike by that card's pip rank.
+* Pseudo-: (Assist) Spend 1 Charges, then re-trigger any other Daisho Assist Tech previously used during this Throwdown, at normal cost.
+* Psy-: (Assist) Spend 1 Charge, look at any one card in any one player's Hand.
+* Psycho-: (Assist) Trigger and resolve +Schism:Self, then trigger +Trauma:Choice and +Chargeup:Self.
+* Razor: (Assist) Spend 3 Charges, then inflict +Trauma:Choice.
+* Retro-: (Assist) Spend 2 Charges, then draw the top card of your Trash into your Hand.
+* Sadistic: (Passive) When you inflict +Trauma, trigger +Chargeup:Self(1) per occurrence.
+* Science: (Assist) Spend 1 charge, take 1 random cards from any one Hand, then return 1 card to that Hand
+* Sonic: (Assist) Activate before you Escalate, and trigger +Chargeup:Self(2)
+* Tactical: (Assist) Spend 1 Charge, then give 1 card from your Hand to player of choice.
+* Thunder: (Assist) Spend 1 Charge, inflict and resolve +Trauma:Choice, and then either +Trauma:Self or +Ruin
+* Turbo-: (Assist) Spend 1 Charges, then draw the top card of your Deck into your Hand.
+* Vibro-: (Assist) Spend up to 3 Charges, opponent's Strike Range on their next Drive is decreased by an equal amount.
+* Vortex: (Assist) Spend 2 Charges, then player of choice with two or more cards in their Hand discards a random card from their Hand.
+* Xeno-: (Passive) Your Bonus Draw is reduced by 1 against Threats, but is increased by 2 against other Pilots.
 
 
 

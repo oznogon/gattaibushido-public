@@ -170,13 +170,13 @@ With that, the Team is now Complete.
 **Style Ideas:** Report Card, Yearbook bio, Yearbook quote, Data Panel Readout
 
 
-###### (SIDEBAR: "Chromas, Weapons, and Robos")
+###### (SIDEBAR: "Chromas, Daisho, and Robos")
 
-> Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Chroma, your Power Weapon, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
+> Your playbook gives you a number of creative options for your Pilot, but the three main sources of power are your Chroma, your Daisho, and your Robo. Each of these aspects give you a number of cool in-game abilities, but they do so in very different ways.
 >
 > Your Pilot's Chroma provides the main bulk of your power and versatility. Her Chroma Techs will be your core tools for empowerment, both in and out of the mecha cockpits.
 >
-> Her custom Power Weapon also provides Techs, but they are intended to be minor extensions of ability. These can be used to either boost your base Chroma Techs, or instead diversify your skills and keep you from being an overly-specialized one-trick pony.
+> Her custom Daisho also provides Techs, but they are intended to be minor extensions of ability. These can be used to either boost your base Chroma Techs, or instead diversify your skills and keep you from being an overly-specialized one-trick pony.
 >
 > Finally, your Robo mainly serves as an extension of your Pilot's core persona. While it provides some minor thematic abilities, it's primary purpose is as a vessel for Rumbles and the Final Form.
 
@@ -202,7 +202,7 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 **Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Pilot Deck Jokers, as well as the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
 
-**Techs** are the special powers that your Pilots have at their disposal, to assist them with overcoming the challenges before them. Most Techs will come from your Pilot's choice of Chroma, Power Weapon, and Robo. Many Techs require the expenditure of Charges, and as such are called **Charge Techs**, while all other non-Charge-requiring Techs are called **Passive Techs**.
+**Techs** are the special powers that your Pilots have at their disposal, to assist them with overcoming the challenges before them. Most Techs will come from your Pilot's choice of Chroma, Daisho, and Robo. Many Techs require the expenditure of Charges, and as such are called **Charge Techs**, while all other non-Charge-requiring Techs are called **Passive Techs**.
 
 
 ### Using Charge Techs
@@ -226,7 +226,7 @@ Otherwise Coach may decide that the Tech would be advantageous enough that using
 In addition to their own personal Techs, *every* Pilot has the following basic Charge Techs at their disposal, which can also be found on their Pilot Record Sheets. Note that some of these may be made obsolete by stronger, more powerful Chroma-specific Techs.
 
 * **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 1 Charge per +1 to Strike
-* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 3 Charges per 1 Buffer token restored.
+* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 1 Charge per 1 Buffer token restored.
 * **AGSOMAFA! (Assist):** Remove a card from play, gain its rank in immediate Charges. See further below for details.
 
 
@@ -288,7 +288,7 @@ Your ranks in these stats determine how many bonus draws you receive at the begi
 
 **Core Stats:** Flesh (leftward) vs Steel (rightward)  
 **Stat Mechanic:** Determines base *Strike Ranges* in conflicts.  
-**Tied To:** Personal Power Weapon
+**Tied To:** Personal Daisho
 
 A Pilot with a higher Flesh stat tends to go more with the flow of the world around her, starting few fights of her own volition, but fighting harder when the war comes to her. A Pilot with a higher Steel stat instead more often brings the fight on her own terms, taking action with confidence and force, at the cost of diminished adaptability when she is not in direct control of her circumstances.
 
@@ -346,6 +346,29 @@ If any one of your Pilot's Commitment maximums is reduced to zero, she's at the 
 If you don't want her participation in the story to end just yet, then your other choice is to work with Coach, and try to develop together an alternate outcome that is more suitable to both your goals as a player, and the story that everyone is working to create.
 
 
+## Pilots: Daisho
+
+(PLAYTEST NOTE: Currently in the Playbooks)
+
+A Daisho consists of a base Frame, which is then further modified by additional Qualities. The Frame sets the Daisho's core Tech, and Qualities allow you to then customize it further. Each Daisho can be customized with at most three Qualities, which cannot be swapped or removed. Since there is no hard limit on the number of Daisho your Pilot can possess, provided your Evolutions are plentiful then you can potentially build out quite an arsenal of them.
+
+**Notes and Limitations:**
+
+* Your Pilot's Daisho are hers and hers alone, and cannot be used by any other Pilot.
+* No two Pilots can begin play with the same starting Daisho frame. For Pilots added later during play, this is up to Coach's discretion.
+* A Daisho can have no more than three Quality techs, but you can build an unlimited number of Daisho provided bountiful access to Evolutions.
+* You cannot remove or swap Qualities once they are chosen and applied.
+* You can only ever carry and use a single Daisho, but you can change out your carried Daisho by returning to your Bunker. Only the Techs of your currently-carried Daisho are accessible.
+* Being a core evolution resource, your Daisho can never be permanently removed from your character. It may be temporarily removed or disabled during play as consequences of story, but will always return to your possession at the beginning of a new scenario, if not sooner.
+
+
+###### (SIDEBAR: Why Daisho?)
+
+> The name "*daisho*" is used here for a couple of reasons. First off, I needed a single memorable term to use that would clearly differentiate the importance of the Pilot's core focus weapon from that of common weaponry she can get from her Gear loadout (Gear is explained later, on p.XX). And it needed to fit the flow of the "core three" empowerments, alongside Chroma and Robo. Second, I liked the idea of including a noted reference to both the name of the game - Gattai-**bushido** - as well as the heavy samurai themes of its predecessor, *Motobushido*. Given that real-world daisho were seen as one of the most visible and spiritual marks of station for the samurai of old, the term fits both those needs quite nicely.
+>
+> What does the term mean for your own game settings? Well that's up to you. You can ignore the term entirely if you wish, but I think it's fun to come up with unique ways of incorporating it if possible. Perhaps your Pilots are indeed directly chosen from Space Samurai breeding, and they use the term as a hand-down from ages before. Or perhaps it's an acronym in your military structure - I suggest **Dynamic Armament Integration System for Human Overdrive!**
+
+
 ## Pilots: Final Form
 
 See "Pilots: Robos" on p. XX
@@ -353,7 +376,7 @@ See "Pilots: Robos" on p. XX
 
 ## Pilots: Gear (IN PROGRESS)
 
-In addition to cool powers, weapons, and robos, your Pilots also have access to a wide array of supplementary tools called **Gear**. These can be used out in the field to provide bonus effects and boosts, giving your Pilot just the edge she needs to get ahead of the enemy and complete her missions!
+In addition to cool powers, daisho, and robos, your Pilots also have access to a wide array of supplementary tools called **Gear**. These can be used out in the field to provide bonus effects and boosts, giving your Pilot just the edge she needs to get ahead of the enemy and complete her missions!
 
 Gear is normally acquired via the Bunker location. By spending points of the Armory resource while at your team's Bunker, you can "rent" Gear for use on your upcoming mission. Unused (and *undamaged*) Gear at the end of a Mission can be returned to the Armory for a restoration of some of those spent Resource points. And sometimes Coach may even let your team find new pieces of Gear out in the field, too. This is entirely up to his discretion, though, so don't go out there expecting freebies.
 
@@ -492,12 +515,6 @@ Your brand new Pilot begins her first session of play with a maximum carried Han
 This maximum increases automatically through play, as you Evolve your Pilot. There are a small number of other ways to increase your max Hand, but you'll have to figure those out.
 
 For info on card Hands, see p. XX. For info on Evolving, see p. XX.
-
-
-
-## Pilots: Power Weapons
-
-(PLAYTEST NOTE: Currently in the Playbooks)
 
 
 ## Pilots: Robos
@@ -686,7 +703,7 @@ The **Armory** represents your Team's collection of stockpiled goods, including 
 
 Pilots can generally acquire Armory Gear at any time their character would be considered to have easy access to their base of operations. If Coach allows it, the pilots can requisition gear in the field for an additional cost per item, at his discretion.
 
-**Depleting Armory:** If the Armory is ever depleted, you cannot make use of your Power Weapons' active Techs!
+**Depleting Armory:** If the Armory is ever depleted, you cannot make use of your Daisho' active Techs!
 
 **Location:** The Armory is directly tied to the Pilots' Bunker Location. If that Location is Razed, Armory points can not be spent or restored.
 

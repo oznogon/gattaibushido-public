@@ -48,9 +48,23 @@ After the seventh evolution, the cycle begins again from the start, and repeats 
 
 #### Tech Evolutions
 
-**Tech Evolutions** allow you to level-up any one Tech within your three power categories (Chroma, Weapon, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Chroma, Weapon, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
+**Tech Evolutions** allow you to level-up any one Tech within your three power categories (Chroma, Daisho, and Robo). You can increase the level of one ability you already have, or instead unlock the first level of a Tech you don't have yet. You must choose from those Techs available to your chosen Chroma, Daisho, and Robo, and cannot choose from others. Your Playbooks have the basics all ready for you to choose from.
 
-There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Chroma Techs, for example, then for your next level-up you must instead choose within your Weapon or Robo techs.
+There is one other major restriction in play here: you cannot evolve the same category back to back. So if your previous level-up was within your Chroma Techs, for example, then for your next level-up you must instead choose within your Daisho or Robo techs.
+
+##### Evolving Chroma Techs
+
+
+
+##### Evolving Daisho Techs
+
+When you choose to evolve a Daisho, you can either add a new Quality to an existing Daisho in your collection, or instead acquire a new base weapon frame to add to your collection. You cannot add more than three Qualities to any single Frame.
+
+
+##### Evolving Robo Techs
+
+
+
 
 #### Commitment Evolutions
 
@@ -115,13 +129,13 @@ Evolving this Tech increases your base Strike Range by +1 per Evolution rank.
 If any of your Pilot's Commitment balances is lower than 6, you can choose to spend a Tech evolution to instead restore a single point to that Commitment (and thus increase one of its Stats). This does not apply a new adjective, nor does it otherwise alter the cycle of evolution.
 
 
-## Loadouts: Switching Chromas, Weapons, and Robos
+## Loadouts: Switching Chromas, Daisho, and Robos
 
-Although I am a strong believer that a Pilot's Chroma, style, and chosen mecha deeply echo her own inner nature in an intensely personal way, no player should be forced to stick with their initial choices if they feel like trying out other character options over time. While changing your Chroma should be reserved for extremely rare matters of powerful story growth, changing your Weapon and Robo can be as simple as writing them down and swapping them out at the beginning of a new mission.
+Although I am a strong believer that a Pilot's Chroma, style, and chosen mecha deeply echo her own inner nature in an intensely personal way, no player should be forced to stick with their initial choices if they feel like trying out other character options over time. While changing your Chroma should be reserved for extremely rare matters of powerful story growth, changing your Daisho and Robo can be as simple as writing them down and swapping them out at the beginning of a new mission.
 
-For these occasions, use the **Alternate Evolution Pilot Sheet**. This allows you to track different Chromas, Weapons, and Robos that you evolve over time. Following the standard Evolution cycle, acquiring a new Role, Weapon, or Robo can be as simple as investing a single Evolution to acquire its first Tech rank.
+For these occasions, use the **Alternate Evolution Pilot Sheet**. This allows you to track different Chromas, Daiso, and Robos that you evolve over time. Following the standard Evolution cycle, acquiring a new Role, Daisho, or Robo can be as simple as investing a single Evolution to acquire its first Tech rank.
 
-There is an important restriction here to note: **You can only use the Techs of one Chroma, Weapon, and Robo at a time.** When you change into a different Chroma suit, you *become* that Chroma. When you choose to pilot a certain Robo, you are bonded with that Robo *alone*. And you can only wield a single special Power Weapon at any one time. Coach may choose to allow you to freely swap between Tech "loadouts" throughout the same Scenario, but you cannot use the Techs of multiple Chromas, Weapons, or Robos on the same mission. Swapping these out should only be done at the Team's home base, and only at dramatically-relevant times.
+There is an important restriction here to note: **You can only use the Techs of one Chroma, Daisho, and Robo at a time.** When you change into a different Chroma suit, you *become* that Chroma. When you choose to pilot a certain Robo, you are bonded with that Robo *alone*. And you can only wield a single special Daisho at any one time. Coach may choose to allow you to freely swap between Tech "loadouts" throughout the same Scenario, but you cannot use the Techs of multiple Chromas, Daisho, or Robos on the same mission. Swapping these out should only be done at the Team's home base, and only at dramatically-relevant times.
 
 Note that this kind of loadout-swapping can result in a non-trivial amount of additional bookkeeping, not to mention uncertainty in storytelling. As such we recommend discussing this heavily with your fellow players at the table before doing this too often.
 
@@ -130,7 +144,7 @@ Note that this kind of loadout-swapping can result in a non-trivial amount of ad
 
 ## Veteran-Level Evolution
 
-Since each Tech has at most three ranks of empowerment, there may come a point down the line in your Pilot's career where she has maxed out her entire ability allowances across her original Chroma, Weapon, and Robo. When you reach this point of Evolution, you are referred to as a **Veteran** Pilot. Veterans have a few "advanced" options to choose from.
+Since each Tech has at most three ranks of empowerment, there may come a point down the line in your Pilot's career where she has maxed out her entire ability allowances across her original Chroma, Daisho, and Robo. When you reach this point of Evolution, you are referred to as a **Veteran** Pilot. Veterans have a few "advanced" options to choose from.
 
 
 ### Graduation
