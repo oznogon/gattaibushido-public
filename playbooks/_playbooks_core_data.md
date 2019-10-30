@@ -36,32 +36,16 @@ Playbook base data is contained within this document as a reference until the fi
 
 ### Passive Tech
 
-**Chaos Void!** Black exists outside the Harmony spectrum, and as such her Hand has its own rules of management. Between conflicts, Black carries no personal "Hand" except for those bonus cards drawn during Throwdowns. Instead, Black maintains a special stash of face-down cards called her Void. Black's Void can hold a maximum number of cards equal to her rank in this Tech plus any earned Hand Evolutions, and begins each session filled.
+**New Special Action: "Wild Surge!"** (Passive, Black Pilot)
 
-* The Void is ***not*** a Hand, and thus cannot be targeted or affected by any other Hand mechanics or increases.
-* Black may not look at the values of the cards in her Void until they enter the Trash.
-* Black may play a card from her Void any time she would be allowed to play from her Hand.
-* All plays directly from her Void are face-down and Wild.
-* Bonus draws in conflicts are *not* Void cards, and function as a normal (temporary) Hand.
-* Plays from her Void do not replenish automatically.
-* During the Discard phase of a Throwdown, Black can invest her remaining bonus draws into her Void, up to its max. All others are discarded.
-
-
-
-The Void cannot be increased
-
-Black can play a card from her Void any time the rules allow her to play from her Hand. All of Black's plays from her Void are Wild. The Void can be affected by any actions which force Hand discards, and unlike normal Hands the Cards in a Void do *not* replenish automatically when played. At the end of a Throwdown,
+Black gains power from the whims of chaos, drawing greater boons from both good fortune *and* the looming threats of disaster. When a Player Joker is revealed, Black gains up to her this Tech's rank in temporary bonus Buffers, in addition to the normal Joker effects. When a Coach Joker is revealed, she gains up to this Tech's rank in temporary bonus Charges. In either case, these temporary pools cannot exceed this Tech's rank. When she would spend Buffers or Charges during play, she must spend them from these pools first.
 
 
 ### Charge Tech
 
-(**PLAYTEST NOTE:** I suspect this will be tweaked A LOT before final release. Please send me feedback and suggestions!)
+**New Special Action: "Wild Power!"** (Passive, Black Pilot)
 
-**New Special Action: "Wild Chance!"** (Side, Black Pilot)
-
-...something about flipping top card of the deck, getting a bonus if black, or something else if red? Or a different effect for each suit, three of which are good, one is bad.
-
-also random plays in gambits, if black then 2x value, if red then auto fail. Maybe a separate power?
+If there's one thing you can always expect from Black, it's that she never does what's expected. When Black plays down a card to Counter or Escalate, she can choose to spend up to her Wild Power rank in Charges, and then Flip the same number of cards from her Deck. She can choose to play any one of those cards instead of her already-played card. If Black plays one of the Flipped cards instead, she can then choose to double the Charge cost and return her initially-played card to her Hand. After a card is selected for Play, Discard the rest.
 
 
 ### PLAYBOOK SPECIAL
