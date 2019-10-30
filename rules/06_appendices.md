@@ -99,6 +99,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Harmony:** a seven-point scale representing the strength of your team's spirit  
 **Locations:** a place in the game where events happen, with mechanics that modify those events  
 **Omens:** when a Joker reaches the top of a Deck, it becomes an Active Omen on the table. Omens can be Spent for in-game effects and Crisis escalation.  
+**Perfect Play:** any card play whose differences are both Safe (within Strike) and True (exactly 1)  
 **Pile:** the stack of all played cards during an active Throwdown  
 **Pit Crew:** a Team Resource that keeps their robos in working order  
 **Play:** the act of taking a card from your Hand and introducing it to the table, activating one or more mechanics  
@@ -108,6 +109,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Round:** one of three stages of robot-on-monster action during Robo Rumbles  
 **Rout:** a special victory condition in which an opponent is "killed" before the end of a Throwdown  
 **Rumble:** the full-on Final Form vs Big Giant Monster battle system  
+**Safe Play:** any card play whose difference is within Strike Range  
 **Scene:** the loose structure block of this game's story-telling; an event at a place at a time  
 **Schism:** a buildup of points that can damage Team Harmony  
 **+Schism:** a mechanical trigger than causes the buildup of Schism points  
@@ -123,6 +125,7 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **Throwdown:** the standard full-team conflict resolution system  
 **Trash:** a face-up stack of cards next to each Deck; discarded cards from a Deck are sent here  
 **+Trauma:** a trigger that damages your Pilot by reducing her Commitment ranks  
+**True Play:** any card play whose difference is exactly 1 rank  
 **Wave:** one of Coach's two primary scripted Threat actions against the Pilots (the less heinous one)  
 **+Wave:** mechanical notation that an effect triggers one of Coach's Waves  
 

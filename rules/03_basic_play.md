@@ -503,15 +503,15 @@ Second is the mechanical outcome, the more tangible spoils of conflict. Dependin
 * 6: Discard/Draw
 
 
-### Strike Range: Your Margin of Resonant Action
+### Strike Range: Your Margin of Harmonic Action
 
 For playtest purposes, I'll try to keep this simple and without colorful text. Understanding the concept of the "Strike Range" (also simply known as "Strike") is crucial to mastering the strategy of Throwdowns.
 
 **Pilots:** When you use the Counter action, you must play a card of higher numerical rank than your opponent's last-played card (i.e. the card currently on top of the Pile). There is technically no limit on how high of a rank that card can be, but there is an incentive to keeping the differences between the cards low. This is because playing too high has the chance of damaging your Team's Harmony. This is represented through your Pilot's *Strike Range*, which is determined at the start of every new Throwdown.
 
-Your Strike sets the maximum "safe" difference in ranks by which your Counter card can exceed your opponent's. As long as the difference is within this range, your play is "safe" (or "Resonant") and suffers no innate adverse effect.
+Your Strike sets the maximum "safe" difference in ranks by which your Counter card can exceed your opponent's. As long as the difference is within this range, your play is **safe** and suffers no innate adverse effect. Additionally, if your difference is *exactly one (1) rank higher*, then your play is also considered **true**. And lastly, any plays that are both safe *and* true are considered **perfect**.
 
-> For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence.
+> For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence. If you play a Four, your play is *safe* and you suffer no schism. If you instead play a Three, your play is also *true* as its difference is exactly 1 rank - and since it's both safe and true then it is considered **perfect** as well.
 
 You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, you "strike wide" and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-4 max). Otherwise, the play is "safe" and the action moves onward.
 
