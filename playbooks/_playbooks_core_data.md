@@ -342,7 +342,7 @@ Your initial Daisho consists of a base Frame, which bestows a core **Frame Tech*
 Below is a list of sample base Frames and their accompanying core Techs. Passive Frame Techs apply at all times while the Daisho is carried. Active Frame Techs must be used as an action within their described circumstances.
 
 * Aegis, Shield: (Passive) Your max Buffers is increased by 1.
-* Axe, Hammer: (Passive) You deliver +Trauma when you safely Counter.
+* Axe, Hammer: (Passive) You deliver +Trauma when your Counter strikes true.
 * Bombs, Cannon: (Active, Assist) Trigger +Ruin, then double Strike for next Drive.
 * Boomerang, Chakrams: (Active, Special) During Drop/Draw end phase of Throwdown, you can add any one card from the Pile to your Hand after it is resolved, not to exceed your Max Hand.
 * Bulwark: (Passive) Your Strike is decreased by 1, but your max Buffers increase by 3.
@@ -351,7 +351,7 @@ Below is a list of sample base Frames and their accompanying core Techs. Passive
 * Bow, Rifle: (Passive) Your Strike Range is increased by 1.
 * Multi-Tool: (Passive) All of your Gambit plays are at +2 value
 * Scythe: (Passive) Whenever you cause +Trauma, trigger +Fortify:Self.
-* Spear, Sword: (Passive) When you Counter with a play difference of exactly 1, you gain 1 Charge.
+* Spear, Sword: (Passive) When your Counter strikes true, trigger +Chargeup:Self(2).
 * Staff, Whip: (Passive) When you Block, trigger +Chargeup:Self.
 
 
