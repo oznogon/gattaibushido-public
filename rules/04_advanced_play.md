@@ -77,7 +77,7 @@ At every seventh evolution, instead of repeating the three-step process above, y
 At each Class Advancement, your Pilot acquires the following:
 
 * **Class Rank:** Your Class Rank increases from Freshman to Sophomore, and then Junior, and then Senior, and finally Graduate. These terms are mainly just story flavor, but they also provide an easy gauge of character power.
-* **Hand Size:** Your Max Hand increases by **one (1)** card. For Black, this increases your Void.
+* **Hand Size:** Your Max Hand increases by **one (1)** card.
 * **Gear Slots:** You gain one additional Gear Slot of either Armor, Accessory, or Tool type.
 
 **Class Advancement Reference Table:**

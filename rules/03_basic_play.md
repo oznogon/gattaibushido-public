@@ -19,7 +19,6 @@ During the course of play, the cards will cycle between the following places in 
 * the **Trash** (where they are discarded, face-up); a Trash is next to each respective Deck.
 * your **Hand** (which you hold during play, facing you); this is your personal ongoing and ever-changing hand of immediately-accessible playing cards.
 * one or more **Factions** (as Favor, stacked face-down with topmost card face-up)
-* the Black Chroma Pilot's unique **Void** stash (always face-down).
 * certainly not your **Sleeve**, because that's cheating...
 * and occasionally the **Floor**, where we all inevitably drop them from time to time!
 
@@ -57,10 +56,6 @@ During Throwdowns, a **Pile** of cards temporarily exists in the middle of the t
 
 Each Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card is discarded during play, it goes on top of the Trash heap of the relevant Deck, face-up.
 
-
-### Void
-
-The Black Chroma has a special unique stash of cards called the **Void**, which she keeps between conflicts instead of a carried Hand. See the Black Chroma Techs for more details on this (p. XX).
 
 
 ## Card Details
