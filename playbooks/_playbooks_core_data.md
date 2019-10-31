@@ -177,19 +177,12 @@ If there's one thing you can always expect from Black, it's that she never does 
 
 ### Passive Tech
 
-**We Can Do This!** Pink's spirits are nigh undefeatable. She is a shining example of the Hope of the Future, always pushing the Team to try harder, lifting them up when they are down. With this ability, Pink's *personal* Harmony is always considered to be equal to the Team's Harmony plus her rank in this Tech. This has the following effects:
-* Pink (and only Pink) can *initiate* a Lesser Fusion while the rest of the Team is in the Red (she cannot initiate Final Form, however).
-* When Pink initiates a Lesser Fusion, applied Fusion Modifiers are based on her modified Harmony level.
-* Pink Assists with bonuses determined by her modified Harmony
-* While Pink's modified Harmony exceeds Violet (7), she treats it as 7 and enters the **Nirvana State!** While in Nirvana, Pink's Base Strike, Max Hand, Max Buffers, and Max Charges are all temporarily increased by +1.
+**Friendship is Power!:** Pink is always there to get your back, even when everyone else has reached their limit. Pink can use more than one Assist action on the Pilots' turn of a Throwdown. Each turn, her Assist limit is equal to 1 plus her rank in this Tech.
 
 
 ### Charge Tech
 
-**Friendship Power!:** Pink can spend Charges as if they were Buffers to prevent Schism from *any* source, including other teammates. She must be present in the scene/event in order to use them.
-1. Charges:Buffers Cost is 2:1
-2. Cost is 1:1
-3. Cost is 1:2! This is most effective in larger Throwdowns
+**We Can Do This!** Pink is will do her best to keep the Team's spirits as high as she can, even if she has to hurt herself in the process. Pink has the ability to hold strong against low Harmony by taking on the burdens of the Team. If the Team's Harmony would drop equal to or below her rank in this Tech, she can choose to prevent any amount of it by triggering +Trauma:Self with damage equal to *twice* the amount of Harmony loss prevented. She can choose to spend her own Charges to soak this damage as if they were Buffers.
 
 
 ### PLAYBOOK SPECIAL
