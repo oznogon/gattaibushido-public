@@ -209,7 +209,7 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 Your pool of Charges is commonly represented by a pile of tokens that you keep in front of you while you play. Your base maximum is equal to *twice* the value of your **Circuit** stat, derived from your Commitments. This maximum can be increased through a handful of Chroma, Daisho, and Robo Techs, too.
 
-As you use your powers, you will remove Charge tokens from your pool. Likewise as you replenish your Charges (from Techs and Jokers), you will add tokens back to the Pool. Unless certain Techs specifically state otherwise, the number of Charges in your pool can never exceed your maximum allowance.
+As you use your powers, you will remove Charge tokens from your pool. You will regain spent Charges through the +Chargeup microevent, which is most commonly triggered by Perfect Strikes, some special Techs, and the revelation of Jokers from the Pilot Deck. Unless certain Techs specifically state otherwise, the number of Charges in your pool can never exceed your maximum allowance.
 
 
 ### Using Charge Techs
