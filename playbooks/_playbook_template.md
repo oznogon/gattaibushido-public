@@ -243,7 +243,7 @@ You're almost done! Note your **Class Rank** as "Freshman," and then jot down th
 
 * **Buffer:** Base equals your Synapse stat.
 * **Max Hand:** Begins at 3 cards.
-* **Charge Pool:** Your Maximum Charge Pool is set by your Circuit stat It begins play at half that (round up).
+* **Charge Pool:** Your Maximum Charge Pool is equal to *twice* your Circuit stat. It begins play half-filled.
 * **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
 
 

@@ -200,9 +200,16 @@ As you use your Buffer to prevent damage, you tick off these tokens. They are a 
 
 ## Pilots: Charges & Techs
 
-**Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Pilot Deck Jokers, as well as the use of special Actions, Gear, and Techs. Your Pilot can build up a maximum of Seven charges - any earned beyond that are lost, so make sure to use them frequently!
+**Charges** are expendable, fluctuating pools of energy that you use to empower your various Techs. They are primarily built up through the revelation of Pilot Deck Jokers, as well as the use of special Actions, Gear, and Techs.
 
 **Techs** are the special powers that your Pilots have at their disposal, to assist them with overcoming the challenges before them. Most Techs will come from your Pilot's choice of Chroma, Daisho, and Robo. Many Techs require the expenditure of Charges, and as such are called **Charge Techs**, while all other non-Charge-requiring Techs are called **Passive Techs**.
+
+
+### Your Charge Pool
+
+Your pool of Charges is commonly represented by a pile of tokens that you keep in front of you while you play. Your base maximum is equal to *twice* the value of your **Circuit** stat, derived from your Commitments. This maximum can be increased through a handful of Chroma, Daisho, and Robo Techs, too.
+
+As you use your powers, you will remove Charge tokens from your pool. Likewise as you replenish your Charges (from Techs and Jokers), you will add tokens back to the Pool. Unless certain Techs specifically state otherwise, the number of Charges in your pool can never exceed your maximum allowance.
 
 
 ### Using Charge Techs
@@ -303,7 +310,7 @@ Your rank in this stat gives you a solid and tangible fighting edge in battle, s
 
 A Pilot with a higher Synapse stat has a much closer relation to the deep resiliency that protects humanity in its push to the stars. She excels at weathering all that the war can throw at her, often to the detriment of her own martial power. A Pilot with a higher Circuit stat instead has a greater connection to the weapons and machines that she must employ, sacrificing resilience for a stronger reserve of applied power.
 
-Your rank in this stat determines the balance between your maximum Buffers and Charges. Your base Buffers pool is set by your Synapse Stat, while your maximum pool of Charges is set by your Circuit stat.
+Your rank in this stat determines the balance between your maximum Buffers and Charges. Your base Buffers pool is equal to your Synapse Stat, while your maximum pool of Charges is equal to *twice* (2x) your Circuit stat.
 
 
 ### Managing Your Commitments
