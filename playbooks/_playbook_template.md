@@ -38,22 +38,7 @@ Below are some initial "personal" questions to answer, and suggested options. Ci
 
 **What is your "thing?"** blah, blah, blah
 
-(examples:)
-
-* Anime/Manga
-* Ballet
-* Bonsai
-* Cooking
-* Cosplay
-* Kickboxing
-* Finding a Boyfriend
-* Military Fangirl
-* Motorcycle Racing
-* RPGs
-* Scrapbooking
-* Tennis
-* Wine
-* ...or something else!*
+(examples: Anime/Manga, Bonsai, Cosplay, Finding a Boyfriend, Military Fangirl, Motorcycle Racing, RPGs, Scrapbooking)
 
 **What is your Yearbook Quote?** What quote did you have under your yearbook photo for this most recent year of Battle School? This one's all up to you!
 
