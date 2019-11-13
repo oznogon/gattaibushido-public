@@ -60,18 +60,21 @@ Below are some initial "personal" questions to answer, and suggested options. Ci
 
 # What Do Your Friends Think of You?
 
-Now let's take your concept a step further, and start writing down some numbers! Use the following descriptive adjective choices to build your Pilot's initial **Commitments** spread. **First pick one** on your own and fill in its dot. **Then** have the players to your left and right each pick one as well. **Finally**, once three have been selected, total their stat mods and note them on your final record sheet under Commitments, resulting in six point mods in total.
+Now let's take your concept a step further, and start writing down some numbers! Use the following descriptive adjective choices to build your Pilot's initial **Commitments** spread. **First pick three** on your own and fill in the dots indicated, three for each adjective. **Second** have the players to your left and right each pick one as well. **Third** have Coach select a sixth and final one. **Finally**, once six have been selected, total their stat mods and note them on your final record sheet under Commitments, resulting in six point mods in total.
 
-(bubble dot list):
+| Adjective       | Add +1 to            | Adjective       | Add +1 to            |
+|-----------------|----------------------|-----------------|----------------------|
+| All to the Wall | Sync, Steel, Circuit | Intrepid        | Solo, Steel, Circuit |
+| Brash           | Solo, Steel, Circuit | Invested        | Sync, Flesh, Synapse |
+| Carefree        | Solo, Flesh, Circuit | Over-Protective | Sync, Steel, Synapse |
+| Cheerful        | Sync, Flesh, Synapse | Reserved        | Solo, Flesh, Synapse |
+| Gung-Ho         | Sync, Steel, Circuit | Selfless        | Sync, Steel, Synapse |
+| Heartless       | Solo, Steel, Circuit | Territorial     | Solo, Flesh, Circuit |
+| Helpful         | Sync, Flesh, Synapse | Withdrawn       | Solo, Flesh, Synapse |
 
-* Arrogant: +2 Self
-* Brash: +1 Fight, +1 Self
-* Heroic: +1 Team, +1 Fight
-* Popular: +1 Team, +1 Self
-* Selfless: +2 Team
-* Violent: +2 Fight
+Feel free to go off-list and come up with new ones! Think of an adjective you like, and then put a +1 in each of the three Commitments, increasing one of its sub-stats by 1 based on how you think that adjective applies to you.
 
-Don't see something you like? Coach has rules for custom stats and adjectives!
+When done, you should have 6 total points spread within the stats of each of your six Commitments.
 
 (**PLAYTEST NOTE #1:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the Chroma.)
 

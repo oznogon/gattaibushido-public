@@ -315,7 +315,7 @@ Your rank in this stat determines the balance between your maximum Buffers and C
 
 ### Managing Your Commitments
 
-At the start of a new Pilot's career, the playbooks are designed to give you an initial six-point balance between each of your Pilot's three Commitments. Likewise, this sets the maximum total in each of her three Commitments to an initial score of 6.
+At the start of a new Pilot's career, the playbooks are designed to give you an initial six-point balance between each of your Pilot's three Commitments. Likewise, this sets the maximum total in each of her three Commitments to an initial score of 6. This maximum can eventually increase through long-term character evolution, and can similarly *decrease* through repeated closeness to death.
 
 Through extended play, there are a handful of circumstances in which these stat pairs may shift, and even a few in which their totals may increase or decrease. The mechanics of this are explained further below.
 
