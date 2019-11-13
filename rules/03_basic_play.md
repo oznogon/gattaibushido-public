@@ -504,17 +504,17 @@ For playtest purposes, I'll try to keep this simple and without colorful text. U
 
 **Pilots:** When you use the Counter action, you must play a card of higher numerical rank than your opponent's last-played card (i.e. the card currently on top of the Pile). There is technically no limit on how high of a rank that card can be, but there is an incentive to keeping the differences between the cards low. This is because playing too high has the chance of damaging your Team's Harmony. This is represented through your Pilot's *Strike Range*, which is determined at the start of every new Throwdown.
 
-Your Strike sets the maximum "safe" difference in ranks by which your Counter card can exceed your opponent's. As long as the difference is within this range, your play is **safe** and suffers no innate adverse effect. Additionally, if your difference is *exactly one (1) rank higher*, then your play is also considered **true**. And lastly, any plays that are both safe *and* true are considered **perfect**. Perfect Strikes are especially noteworthy because when you perform one, you automatically trigger +Chargeup:Self.
+Your Strike sets the maximum "safe" difference in ranks by which your Counter card can exceed your opponent's. As long as the difference is within this range, your play is **safe** and suffers no innate adverse effect. Additionally, if your difference is *exactly one (1) rank higher*, then your play is also considered **true**. And lastly, any plays that are both safe *and* true are considered **Resonant**. Resonant Strikes are especially noteworthy because when you perform one, you automatically trigger +Chargeup:Self.
 
-> For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence. If you play a Four, your play is *safe* and you suffer no schism. If you instead play a Three, your play is also *true* as its difference is exactly 1 rank - and since it's both safe and true then it is considered **perfect** as well.
+> For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence. If you play a Four, your play is *safe* and you suffer no schism. If you instead play a Three, your play is also *true* as its difference is exactly 1 rank - and since it's both safe and true then it is considered **Resonant** as well.
 
-You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, you "strike wide" and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-4 max). Otherwise, the play is "safe" and the action moves onward.
+You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, your play is **Dissonant** and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-4 max). Regardless, the play is still valid and moves the action onward.
 
 > Concluding the above example, if you were to play a Five (5) or higher, you would trigger +Schism. And if you're in a later stage of the fight, that Schism could hit you pretty hard! Watch out, as this can lower your team Harmony!
 
 Note that some Techs and Gear can increase your Strike temporarily, including the basic Charge Techs that all Pilots can use. I encourage you to apply them wisely.
 
-**Robo Rumbles:** Pilots take note: Your strike Ranges in Rumble stages of a Throwdown are based entirely upon your Team Harmony. Additionally, when you strike wide during Rumbles, you directly damage your Robos! See "Rumble!" below for more information (p. XX).
+**Robo Rumbles:** Pilots take note: Your strike Ranges in Rumble stages of a Throwdown are based entirely upon your Team Harmony. Additionally, when you strike Dissonant during Rumbles, you directly damage your Robos! See "Rumble!" below for more information (p. XX).
 
 **Coach:** Your Strikes are *hard* limits. Unless specified otherwise (by a Threat power, for example), you cannot play outside of your calculated Strike. This is intentional: as Coach, you have more overall available power to wield, mitigated by hard limits via a tight mechanical leash.
 
@@ -621,7 +621,7 @@ Each side goes back and forth in exchanges of turns, playing and escalating unti
 
 Both sides now turn their initiative cards face-up for all to see, and the Higher card (by rank, then suit) wins the initiative.
 
-**Check Strike Range:** If a Pilot wins but their strike is wide, the Pilot triggers +Schism. And if *Coach* wins but their card is outside range, it stays but the Pilot opponent gets to draw a free card to their Hand.
+**Check Strike Range:** If a Pilot wins but their strike is Dissonant, the Pilot triggers +Schism. And if *Coach* wins but their card is outside range, it stays but the Pilot opponent gets to draw a free card to their Hand.
 
 In the extremely rare case of the cards being identical in both rank *and* suit (i.e. the exact same card), either call the whole thing off, or simultaneously play new initiative cards until someone wins.
 
@@ -820,7 +820,7 @@ The Rumble stages play out identically to the Throwdown flow already established
 
 Remember the greater scale of conflict, and always push it further up and outward with your descriptions. For each side of the fight, Escalation represents taking the battle to an even more desperate level. The Final Form manifests never-before-seen last-ditch powers, the Monster evolves to even more hideous and destructive incarnations, and so on.
 
-Also remember the increased mechanical stakes mentioned above. Escalating now causes +Ruin to your current Location, and when the Final Form strikes wide, it directly damages the robos!
+Also remember the increased mechanical stakes mentioned above. Escalating now causes +Ruin to your current Location, and when the Final Form strikes Dissonant, it directly damages the robos!
 
 Play continues as before until one side Concedes. There is no escalating beyond the fourth Rumble stage.
 
