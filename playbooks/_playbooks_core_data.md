@@ -34,18 +34,18 @@ Playbook base data is contained within this document as a reference until the fi
 **Gambit Specialties:** *All* of Black's Gambits are played Blind from the Deck, and count as her Specialty. If the resulting card is Black, ignore its value and use 12 instead (or 11 in Ichi Mode). If the resulting card is Red, ignore its value and "fail" the Gambit.
 
 
-### Passive Tech
-
-**New Special Action: "Wild Surge!"** (Passive, Black Pilot)
-
-Black gains power from the whims of chaos, drawing greater boons from both good fortune *and* the looming threats of disaster. When a Player Joker is revealed, Black gains up to her this Tech's rank in temporary bonus Buffers, in addition to the normal Joker effects. When a Coach Joker is revealed, she gains up to this Tech's rank in temporary bonus Charges. In either case, these temporary pools cannot exceed this Tech's rank. When she would spend Buffers or Charges during play, she must spend them from these pools first.
-
-
-### Charge Tech
+### Primary Tech
 
 **New Special Action: "Wild Power!"** (Passive, Black Pilot)
 
 If there's one thing you can always expect from Black, it's that she never does what's expected. When Black plays down a card to Counter or Escalate, she can choose to spend up to her Wild Power rank in Charges, and then Flip the same number of cards from her Deck. She can choose to play any one of those cards instead of her already-played card. If Black plays one of the Flipped cards instead, she can then choose to double the Charge cost and return her initially-played card to her Hand. After a card is selected for Play, Discard the rest.
+
+
+### Secondary Tech
+
+**New Special Action: "Wild Surge!"** (Passive, Black Pilot)
+
+Black gains power from the whims of chaos, drawing greater boons from both good fortune *and* the looming threats of disaster. When a Player Joker is revealed, Black gains up to her this Tech's rank in temporary bonus Buffers, in addition to the normal Joker effects. When a Coach Joker is revealed, she gains up to this Tech's rank in temporary bonus Charges. In either case, these temporary pools cannot exceed this Tech's rank. When she would spend Buffers or Charges during play, she must spend them from these pools first.
 
 
 ### PLAYBOOK SPECIAL
@@ -71,19 +71,19 @@ If there's one thing you can always expect from Black, it's that she never does 
 **Gambit Specialties:** Logistics, project management, economic planning (i.e. "the boring stuff").
 
 
-### Passive Tech
-
-**Advance Warning!:** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Crisis event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Crisis Level remains at its previous position.
-
-**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when one of Coach's Jokers is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
-
-
-### Charge Tech
+### Primary Tech
 
 **Strategic Action!** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:
 * New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
 * New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
 * New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on any Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are. This is the *only* time when a Pilot is allowed to touch the cards in Coach's Deck.
+
+
+### Secondary Tech
+
+**Advance Warning!:** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Crisis event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Crisis Level remains at its previous position.
+
+**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when one of Coach's Jokers is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
 
 
 ### PLAYBOOK SPECIAL
@@ -107,17 +107,17 @@ If there's one thing you can always expect from Black, it's that she never does 
 **Gambit Specialties:** Everyone else's annoying, demeaning, and back-breaking crap work.
 
 
-### Passive Tech
+### Primary Tech
+
+**Hey, Let ME Try That!** Green is still learning the ropes, and as such needs to practice all she can to be her best. What better way then to try the other Pilots' skills for herself! By investing ranks into this Tech, Green can mimic any Charge Tech previously used by another Pilot in the same Throwdown. The activated rank of the mimicked Tech cannot exceed Green's own rank in this power. Green must be able to pay the mimicked Tech's base Charge cost, plus an additional number of Charges equal to that Tech's activated rank (1 to 3).
+
+
+### Secondary Tech
 
 **I've Got This!** Green has more options to keep Pushing against seemingly-unbeatable high cards during Throwdowns.
 1. In a Throwdown, Green beats Aces with Twos *and* Threes
 2. ...and Fours
 3. ...and she can beat Tens with Twos!
-
-
-### Charge Tech
-
-**Hey, Let ME Try That!** Green is still learning the ropes, and as such needs to practice all she can to be her best. What better way then to try the other Pilots' skills for herself! By investing ranks into this Tech, Green can mimic any Charge Tech previously used by another Pilot in the same Throwdown. The activated rank of the mimicked Tech cannot exceed Green's own rank in this power. Green must be able to pay the mimicked Tech's base Charge cost, plus an additional number of Charges equal to that Tech's activated rank (1 to 3).
 
 
 ### PLAYBOOK SPECIAL
@@ -141,17 +141,17 @@ If there's one thing you can always expect from Black, it's that she never does 
 **Gambit Specialties:** Anything to do with cool never-before-encountered tech.
 
 
-### Passive Tech
-
-**Private Arsenal!** Orange is constantly acquiring cool new gadgets and weapons for her private collection. Once per Scenario per rank in this Tech, she can suddenly produce a brand new piece of Gear from her arsenal, with a Gear Tier no higher than this Tech's rank. She must describe what the new item is, why she never mentioned it until now, and how she got it in the first place. Use the gear lists for ideas. If this Tech is used outside of a Throwdown, it happens immediately. Using this ability during a Throwdown require a special new Action she gets: **Private Arsenal! (Side, Orange Pilot)**
-
-
-### Charge Tech
+### Primary Tech
 
 **Shiny New Toys!** Orange gains extra versatility with her Gear loadouts.
 1. Orange can spend Charges to re-Activate Gear that was already used in the same Scene/Conflict. Charge Cost = Gear Tier.
 2. Orange can now freely exchange her Charges for Armory Resources, or vice versa, at a 2:1 Charge:Armory exchange rate.
 3. At during the Outcome stage of a Throwdown, Orange can spend Charges to recover any Gear sacrificed during that Throwdown. Charge cost = 2x Gear Tier.
+
+
+### Secondary Tech
+
+**Private Arsenal!** Orange is constantly acquiring cool new gadgets and weapons for her private collection. Once per Scenario per rank in this Tech, she can suddenly produce a brand new piece of Gear from her arsenal, with a Gear Tier no higher than this Tech's rank. She must describe what the new item is, why she never mentioned it until now, and how she got it in the first place. Use the gear lists for ideas. If this Tech is used outside of a Throwdown, it happens immediately. Using this ability during a Throwdown require a special new Action she gets: **Private Arsenal! (Side, Orange Pilot)**
 
 
 ### PLAYBOOK SPECIAL
@@ -175,14 +175,14 @@ If there's one thing you can always expect from Black, it's that she never does 
 **Gambit Specialties:** Performance, communication, and diplomacy.
 
 
-### Passive Tech
-
-**Friendship is Power!:** Pink is always there to get your back, even when everyone else has reached their limit. Pink can use more than one Assist action on the Pilots' turn of a Throwdown. Each turn, her Assist limit is equal to 1 plus her rank in this Tech.
-
-
-### Charge Tech
+### Primary Tech
 
 **We Can Do This!** Pink is will do her best to keep the Team's spirits as high as she can, even if she has to hurt herself in the process. Pink has the ability to hold strong against low Harmony by taking on the burdens of the Team. If the Team's Harmony would drop equal to or below her rank in this Tech, she can choose to prevent any amount of it by triggering +Trauma:Self with damage equal to *twice* the amount of Harmony loss prevented. She can choose to spend her own Charges to soak this damage as if they were Buffers.
+
+
+### Secondary Tech
+
+**Friendship is Power!:** Pink is always there to get your back, even when everyone else has reached their limit. Pink can use more than one Assist action on the Pilots' turn of a Throwdown. Each turn, her Assist limit is equal to 1 plus her rank in this Tech.
 
 
 ### PLAYBOOK SPECIAL
@@ -206,12 +206,7 @@ If there's one thing you can always expect from Black, it's that she never does 
 **Gambit Specialties:** The pursuit of any action that the rest of the Team truthfully does not want her to pursue.
 
 
-### Passive Tech
-
-**You don't know me! I do what I want!** Purple draws strength when she causes dissonance within the Team. Whenever Purple triggers +Schism, she restores a number of Buffers equal to her Rank in this Tech. If this occurs in the pursuit of a course of action that she was specifically ordered not to follow beforehand, she also gains an equal number of Charges.
-
-
-### Charge Tech
+### Primary Tech
 
 Purple is not bound by anyone's rules and expectations. She does what she wants, in glorious, dangerous, and surprising ways. At rank 1, she acquires a new special action:
 
@@ -220,6 +215,12 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 * Rank 3: As rank 2, but you can recover up to all charges spent on this action.
 
 **PLAYTEST NOTE:** Gosh, I'm having a hard time finalizing this one. I need some power that Purple can use, that costs her charges, but still fits with the Rebel theme. Input welcome!
+
+
+### Secondary Tech
+
+**You don't know me! I do what I want!** Purple draws strength when she causes dissonance within the Team. Whenever Purple triggers +Schism, she restores a number of Buffers equal to her Rank in this Tech. If this occurs in the pursuit of a course of action that she was specifically ordered not to follow beforehand, she also gains an equal number of Charges.
+
 
 ### PLAYBOOK SPECIAL
 
@@ -244,18 +245,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 **Gambit Specialties:** Athletics, bullheaded bravado, and just plain showing off.
 
 
-### Passive Tech
-
-**Hero Power!** As the Captain of the Team, Red must strive to be excellent at all things, and set an example of strength and reliability for the others. Likewise, she must be able to fill in the gaps between the others' specialties, ensuring the Team is properly balanced. Each time she advances this Tech, she chooses one of the following permanent benefits. Each can be chosen only once.
-
-* Base Strike Range increases +2
-* Max Buffers increase by +2
-* Max Charges increase by +2
-* Max Hand increases +1
-* Recurring Scenario Bonuses each increase by +1
-
-
-### Charge Tech
+### Primary Tech
 
 Red can tap into a deep well of raw heroic strength, but unfortunately has almost no control over it when she does. This gives her amazing power, but at the cost of temporarily depleting her entire reserves of potential. At rank 1 gain a new Side Action:
 
@@ -266,6 +256,17 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 * Rank 3: As Rank 2, plus any other Pilot can restore one spent Buffer
 
 **Playtest Note:** So yeah, this is probably broken. Needs extensive testing, possibly further limits. Once per session/scenario per rank maybe? Not sure. Let me know!
+
+
+### Secondary Tech
+
+**Hero Power!** As the Captain of the Team, Red must strive to be excellent at all things, and set an example of strength and reliability for the others. Likewise, she must be able to fill in the gaps between the others' specialties, ensuring the Team is properly balanced. Each time she advances this Tech, she chooses one of the following permanent benefits. Each can be chosen only once.
+
+* Base Strike Range increases +2
+* Max Buffers increase by +2
+* Max Charges increase by +2
+* Max Hand increases +1
+* Recurring Scenario Bonuses each increase by +1
 
 
 ### PLAYBOOK SPECIAL
@@ -289,20 +290,20 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 **Gambit Specialties:** Any task involving standing her ground and holding the line.
 
 
-### Passive Tech
-
-**Get Behind Me!** Yellow can spend her Buffers to help others!
-1. Yellow can redirect to herself any +Trauma events targeting other teammates in the same scene.
-2. Each time Yellow suffers the effects of unprevented +Trauma, she recovers a Buffer token (one per trigger).
-3. Each Buffer Yellow spends prevents *two* incoming +Trauma triggers.
-
-
-### Charge Tech
+### Primary Tech
 
 **Fortify!** As the stalwart Aegis of the team, Yellow has a much easier time restoring her Buffers.
 1. Yellow restores her own Buffers at 2:1 Charge cost.
 2. Yellow restores her own Buffers at 1:1 Charge cost.
 3. Yellow restores her own Buffers at 1:2 Charge cost.
+
+
+### Secondary Tech
+
+**Get Behind Me!** Yellow can spend her Buffers to help others!
+1. Yellow can redirect to herself any +Trauma events targeting other teammates in the same scene.
+2. Each time Yellow suffers the effects of unprevented +Trauma, she recovers a Buffer token (one per trigger).
+3. Each Buffer Yellow spends prevents *two* incoming +Trauma triggers.
 
 
 ### PLAYBOOK SPECIAL
