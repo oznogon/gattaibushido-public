@@ -312,6 +312,18 @@ When Red seizes the moment of glory and perfection, her valor spreads into the w
 
 
 
+# SPECIAL PLAYBOOKS
+
+
+## Grey
+
+
+## Rainbow
+
+
+## Branwen
+
+
 # Daisho
 
 Your initial Daisho consists of a base Frame, which bestows a core **Frame Tech**. You then can modify it with a single Quality. As you invest evolutions into your weapons, you can power up your Frame Tech rank (up to 3) or add more new Qualities, turning it into a versatile combo-tastic tool.
