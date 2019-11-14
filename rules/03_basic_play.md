@@ -345,7 +345,12 @@ The **+Ruin** trigger targets a Location, and its effect depends on that Locatio
 
 **Valid Targets:** Pilots
 
-The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team accrues a point of Schism. After 7 points have been accrued, the Harmony is directly lowered. Harmony can never be reduced below 1 (Red). If the team is in the Red, once they accrue 7 Schism, and for each additional point accrued thereafter, trigger +Trauma:Each to the *entire* team. See p. XX for full details on Harmony.
+The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team accrues one or more points of Schism, which can be represented by tokens placed on the central Harmony track. Unless specified otherwise, the amount of Schism accrued per triggering event is as follows:
+
+* During an active Throwdown, Schism = current Stage of the conflict (1 to 7)
+* Outside of an active Throwdown, Schism = 1
+
+After 7 points have been accrued, the Harmony is directly lowered. Harmony can never be reduced below 1 (Red). If the team is in the Red, once they accrue 7 Schism, and for each additional point accrued thereafter, trigger +Trauma:Each to the *entire* team. See p. XX for full details on Harmony.
 
 By default, any Pilot can spend her Buffers to prevent +Schism that she personally either triggers or is targeted by, one token per point of Schism prevented.
 
@@ -508,7 +513,7 @@ Your Strike sets the maximum "safe" difference in ranks by which your Counter ca
 
 > For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence. If you play a Four, your play is *safe* and you suffer no schism. If you instead play a Three, your play is also *true* as its difference is exactly 1 rank - and since it's both safe and true then it is considered **Resonant** as well.
 
-You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, your play is **Dissonant** and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-4 max). Regardless, the play is still valid and moves the action onward.
+You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, your play is **Dissonant** and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-7). Regardless, the play is still valid and moves the action onward.
 
 > Concluding the above example, if you were to play a Five (5) or higher, you would trigger +Schism. And if you're in a later stage of the fight, that Schism could hit you pretty hard! Watch out, as this can lower your team Harmony!
 
