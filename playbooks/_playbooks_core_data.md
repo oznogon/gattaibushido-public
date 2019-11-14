@@ -283,7 +283,7 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 * Yellow (The Tank): +2 Armory, +1 Pit Crew
 
 **Recurring Mods:**
-* Yellow (The Tank): +1 Armor
+* Yellow (The Tank): +1 Armory
 
 **Lesson Trigger:** Yellow earns a Lesson when she causes loss to the Team by turtling up.
 
@@ -292,18 +292,22 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 
 ### Primary Tech
 
-**Fortify!** As the stalwart Aegis of the team, Yellow has a much easier time restoring her Buffers.
-1. Yellow restores her own Buffers at 2:1 Charge cost.
-2. Yellow restores her own Buffers at 1:1 Charge cost.
+**Fortify!** As the stalwart Aegis of the team, Yellow has a much easier time restoring her Buffers. This directly alters the core "Restore Buffer" Tech.
+
+1. Yellow restores her own Buffers at 1:1 Charge cost.
+2. Yellow's max Buffer pool is now equal to twice the adjusted max (Synapse + other mods).
 3. Yellow restores her own Buffers at 1:2 Charge cost.
 
 
 ### Secondary Tech
 
-**Get Behind Me!** Yellow can spend her Buffers to help others!
-1. Yellow can redirect to herself any +Trauma events targeting other teammates in the same scene.
-2. Each time Yellow suffers the effects of unprevented +Trauma, she recovers a Buffer token (one per trigger).
-3. Each Buffer Yellow spends prevents *two* incoming +Trauma triggers.
+**Protective Friendship!** Yellow is the Tank Queen of damage prevention! When a teammate is targeted by Trauma during a Throwdown in which Yellow is active, Yellow can choose to redirect that Trauma to herself instead. *Additionally* at each tier (including tier 1), pick one of the following powers:
+
+* When Yellow suffers the effects of unmitigated +Trauma, she triggers +Fortify:Self.
+* When Yellow suffers the effects of unmitigated +Trauma, she inflicts +Trauma(1) to the source of the original Damage.
+* When Yellow spends a Buffer to prevent incoming Trauma, she triggers +Recover:Self.
+* When Team Harmony is reduced, Yellow triggers +Fortify:Self for each point of reduction.
+* When a teammate fails to prevent Trauma during a Throwdown in which Yellow is active, Yellow triggers +Chargeup:Self.
 
 
 ### PLAYBOOK SPECIAL
