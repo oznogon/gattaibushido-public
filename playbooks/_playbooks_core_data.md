@@ -151,7 +151,7 @@ Black gains power from the whims of chaos, drawing greater boons from both good 
 
 ### Secondary Tech
 
-**Private Arsenal!** Orange is constantly acquiring cool new gadgets and weapons for her private collection. Once per Scenario per rank in this Tech, she can suddenly produce a brand new piece of Gear from her arsenal, with a Gear Tier no higher than this Tech's rank. She must describe what the new item is, why she never mentioned it until now, and how she got it in the first place. Use the gear lists for ideas. If this Tech is used outside of a Throwdown, it happens immediately. Using this ability during a Throwdown require a special new Action she gets: **Private Arsenal! (Side, Orange Pilot)**
+**Private Arsenal!** Orange is constantly acquiring cool new gadgets and weapons for her private collection, and knows who to talk to to acquire 'special" goods. These may or may not be "regulation" per se, so it's a good thing she's also adept at hiding them away until just the right time! At each rank of this Tech, Orange acquires an additional two (2) Gear slots that can be used for any type. Additionally, she enjoys a discount to all Gear acquisitions equal to her Tech tier, to a minimum of 1 cost.
 
 
 ### PLAYBOOK SPECIAL
