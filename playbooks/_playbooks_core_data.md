@@ -109,15 +109,15 @@ Black gains power from the whims of chaos, drawing greater boons from both good 
 
 ### Primary Tech
 
-**Hey, Let ME Try That!** Green is still learning the ropes, and as such needs to practice all she can to be her best. What better way then to try the other Pilots' skills for herself! By investing ranks into this Tech, Green can mimic any Charge Tech previously used by another Pilot in the same Throwdown. The activated rank of the mimicked Tech cannot exceed Green's own rank in this power. Green must be able to pay the mimicked Tech's base Charge cost, plus an additional number of Charges equal to that Tech's activated rank (1 to 3).
+**I've Got This!** Green has more options to keep Pushing against seemingly-unbeatable high cards during Throwdowns.
+1. In a Throwdown, Green beats Aces with Twos *and* Threes
+2. ...and Fours
+3. ...and she can beat Kings with Twos!
 
 
 ### Secondary Tech
 
-**I've Got This!** Green has more options to keep Pushing against seemingly-unbeatable high cards during Throwdowns.
-1. In a Throwdown, Green beats Aces with Twos *and* Threes
-2. ...and Fours
-3. ...and she can beat Tens with Twos!
+**It Was Like That When I Found It!** Green is adept at avoiding the blame for the worst of situations, and preserving the status quo. During a new Mission Scenario, Green can choose to negate self-caused +Schism events, up to a number of occurrences equal to her Tier in this Tech.
 
 
 ### PLAYBOOK SPECIAL
