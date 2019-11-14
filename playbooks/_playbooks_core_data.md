@@ -247,15 +247,13 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 
 ### Primary Tech
 
-Red can tap into a deep well of raw heroic strength, but unfortunately has almost no control over it when she does. This gives her amazing power, but at the cost of temporarily depleting her entire reserves of potential. At rank 1 gain a new Side Action:
+When Red seizes the moment of glory and perfection, her valor spreads into the world around her, changing the very nature of the battle. This gives Red the following new Tech:
 
-**Burn Flare Max!** (Side, Red Pilot): Burn your *entire* current Charge Pool, and apply the following effects for *each* Charge burned:
+**Inspiring Strike!** (Assist) Cost: X Charges, and X = current Throwdown stage. Activate when Countering or Escalating with a Resonant Strike. Effects based on tier:
 
-* Rank 1: Add +Trauma to your side
-* Rank 2: As Rank 1, plus the opponent of your choice must burn one Buffer
-* Rank 3: As Rank 2, plus any other Pilot can restore one spent Buffer
-
-**Playtest Note:** So yeah, this is probably broken. Needs extensive testing, possibly further limits. Once per session/scenario per rank maybe? Not sure. Let me know!
+1. Red Draws X cards into her Hand
+2. ...and triggers +Chargeup(X) to up to X involved other teammates (excluding Red)
+3. ...and inflicts +Trauma(X) to an involved opponent
 
 
 ### Secondary Tech
@@ -266,7 +264,7 @@ Red can tap into a deep well of raw heroic strength, but unfortunately has almos
 * Max Buffers increase by +2
 * Max Charges increase by +2
 * Max Hand increases +1
-* Recurring Scenario Bonuses each increase by +1
+* Recurring Scenario Bonuses each increase by +2
 
 
 ### PLAYBOOK SPECIAL
