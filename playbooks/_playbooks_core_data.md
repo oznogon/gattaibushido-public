@@ -73,17 +73,18 @@ Black gains power from the whims of chaos, drawing greater boons from both good 
 
 ### Primary Tech
 
-**Strategic Action!** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:
-* New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
-* New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
-* New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on any Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are. This is the *only* time when a Pilot is allowed to touch the cards in Coach's Deck.
+**Strategic Action!** Each rank invested in this Tech gives Blue an exclusive new Throwdown Action chosen from the list below. In each case, X equals Blue's rank in this tech.
+
+* "**Strategic Foresight!**" (Assist): Spend up to X Charges and look at same number of cards from the top of any Deck. Then return them to the top of that Deck in any order. You cannot tell anyone else what they are. This is the *only* time when a Pilot is allowed to touch the cards in Coach's Deck.
+* **Strategic Override!** (Assist): Spend up to X Charges, and up to an equal number Pilots in the Throwdown must discard a combined total of that many cards. Blue's target opponent must discard an equal number of cards. This cannot force them to discard their last card.
+* "**Strategic Reassessment!**" (Assist): Spend Charges to draw up to X cards from either the top of the Deck (for 1 Charge) or the top of the Trash (for 2 Charges). Then, Discard an equal number of cards.
+* **Strategic Reconfiguration!** (Assist): Spend up to X Charges and take up to X cards from up to X Pilots involved in the fight. You can then choose to distribute up to X cards to up to X Pilots involved in the fight. These do not need to be the same cards or Pilots.
+* **Strategic Retreat!** (Assist): Trigger +Schism, then Spend up to X Charges and completely withdraw from the Throwdown. Give the same number of cards from your hand to up to as many other Pilots that remain. You are not allowed to participate further, nor be targeted by the Outcome, but you must participate in the Drop and Draw stage.
 
 
 ### Secondary Tech
 
-**Advance Warning!:** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Crisis event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Crisis Level remains at its previous position.
-
-**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when one of Coach's Jokers is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
+**Advance Warning!:** Blue is always prepared for the dangers ahead. Once per Mission Scenario per rank invested in this Tech, when one of Coach's Jokers is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.
 
 
 ### PLAYBOOK SPECIAL
