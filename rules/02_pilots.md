@@ -121,9 +121,11 @@ Everyone should take care to note all of their derived stats, like Hand Size, Bu
 
 (everyone work together to answer some narrative questions about the Team)
 
-**What weird pre-battle ritual does your team have?** As a team you should develop some special ritual that the Pilots engage in right before a fight that they know is coming. Maybe the whole team recites their team code aloud, or jams out their favorite songs in That Popular Rock Music Game (TM), or even disobeys school protocol entirely and just gets really trashed together!
+**What unique pre-battle ritual does your team have?** As a team you should develop some special ritual that the Pilots engage in right before a fight that they know is coming. Maybe the whole team recites their team code aloud, or jams out their favorite songs in That Popular Rock Music Game (TM), or even disobeys school protocol entirely and just gets really trashed together!
 
 If the Pilots all actively make an effort to role-play this ritual each time in-game, Coach may give the team a Harmony boost. Conversely, if they fail to perform their team rituals at crucial moments, Coach may instead trigger a +Schism microevent.
+
+**What are your weird Team taboos?** What odd taboos does your Team adhere to, no matter how obscure or nonsensical they may be? Never leave port without a cat on board? Always accept an offered drink? Never touch another Pilot's Robo? Never start a mission with an unkept bunkroom?
 
 **Which of you is known as Coach's pet?** Is it true? Who does this bother the most? Who couldn't give a rat's ass either way?
 
