@@ -1,16 +1,8 @@
 section: appendices
 
-
-# Appendix XX: One-Shot Games
-
-**PLAYTEST** Maybe include in Coach section instead...
-
-
-
 # Appendix A: Final Acknowledgements
 
 To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel taught me that a fun role-playing game can be both modern and complex, requiring strategy and mastery. Of all the games that inspired me on this project, Burning Wheel is the one that keeps coming back into my brain when I need to justify a strategic decision. ***Gattaibushido:FUSION!*** would not exist without Burning Wheel.
-
 
 
 # Appendix G: Glossary
@@ -68,7 +60,6 @@ To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel ta
 **+Wave:** mechanical notation that an effect triggers one of Coach's Waves  
 
 
-
 # Appendix I: Inspirations
 
 The following media sources provided *immense* amounts of inspiration for the conception and further development of this game:
@@ -81,3 +72,8 @@ The following media sources provided *immense* amounts of inspiration for the co
 * *Dai-Guard*: I can't get that theme song out of my head!
 * *RWBY* and *gen:LOCK*: Rooster Teeth really *gets* teamwork-based stories, and these two shows are some of the absolute best.
 * *She-Ra and the Princesses of Power:* Not only is the theme song super badass, the show is a great portrayal of how intra-team conflict can drive a great heroic story.
+
+
+# Appendix O: One-Shot Games
+
+TBD (details on adjusting the game for one-shot play, running with or without a First Contact, using pregens, etc)
