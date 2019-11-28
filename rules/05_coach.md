@@ -13,17 +13,17 @@ This whole section is a big ol' Work in Progress. Essentially the "How to GM" se
 
 ### You Are Not the Enemy!
 
-As Coach, your primary role is arbiter (of the rules), narrator (of the world), and challenger (of the opposition). One thing that is very specifically excluded from this list is Antagonist. While you may control the forces that oppose the Pilots, your job is not to destroy them, but instead to challenge them. You guide the actions of their enemies, but you must do so fairly, and not take pleasure in the Pilot's defeats or suffering.
+As Coach, your primary role is arbiter (of the rules), narrator (of the world), and challenger (of the opposition). You should note that one role that is very specifically excluded from this list is Antagonist. While you may control the forces that oppose the Pilots, your job is not to destroy them, but instead to challenge them. You guide the actions of their enemies, but you must do so fairly, and not take pleasure in the Pilots' defeats or suffering.
 
 
 ### Draw Inspiration from the Genre
 
-**Watch a lot of mecha anime!**
+**Watch a lot of mecha anime!** I mean, this part should be self-explanatory! This game's inspirations are *deeply* rooted in both the gattai-mecha and super-sentai genres of anime. That inspiration is visible everywhere from the team Chromas to the exclamatory power names and more. If you are lacking ideas for your next session, check out the inspirations list in the appendices for new sources.
 
 
 ### You Don't Have to Fight the Formula...
 
-**The source genre is pretty formulaic, but that's okay!** In the classic stories, the Pilots go off on side missions, make deals, and get in sword fights until the inevitable arrival of the Big Giant Monster of the Week, after which they go all Final Form and kick its butt. This is pretty standard for the genre, and there's nothing wrong with that. The shows keep following that formula because it works, and players of this game will likewise expect it. It's fun, it's comfortable, and it entertains.
+**The source genre is pretty formulaic, but that's okay!** In the classic stories, the Pilots go off on side missions, make deals, and get in sword-and-laser fights until the inevitable arrival of the Big Giant Monster of the Week, after which they go all Final Form and kick its butt. This is pretty standard for the genre, and there's nothing wrong with that. The shows keep following that formula because it works, and players of this game will likewise expect it. It's fun, it's comfortable, and it entertains.
 
 What I'm saying here is that you should not feel pressured to avoid the "railroad" style of play in this game. It's practically expected in these stories, and following that flow will make your first few scenarios a lot easier to manage. Stick with the tracks as you learn, they're there to guide you along your journey.
 
@@ -32,11 +32,11 @@ What I'm saying here is that you should not feel pressured to avoid the "railroa
 
 Once you've mastered the formula, feel free to totally break from it when you see a good opportunity to do so. That's exactly what the Crisis Paths are for. Using the defaults is fun for a while, but if you keep at them over and over the play can get a little stale. While the basic flow usually assumes that the Pilots spend time pursuing personal goals and gathering power before the inevitable BGM shows up, you don't *have* to follow that pattern every single time.
 
-Using your Crisis Paths, switch it up from time to time. Have the BGM attack sooner than they might expect, fully planning for it to totally devastate them. After it's done, spend the rest of the scenario focusing on them trying to recover and rebuild from a major defeat. Or instead have multiple successive BGM attacks take place across the story. Keep them working at it, desperately trying to save humanity from destruction!
+Using your Crisis Paths, you can switch it up from time to time. Have the BGM attack sooner than they might expect, and plan for it to totally devastate them. After it's done, spend the rest of the scenario focusing on them trying to recover and rebuild from a major defeat. Or instead have multiple successive BGM attacks take place across the story. Keep them working at it, desperately trying to save humanity from destruction!
 
-Your BGM doesn't even have to be a Big Giant Monster, either. The BGM at its mechanical core is really nothing more than a set of abilities that get used in the Robo Rumbles against the Pilots' assembled Final Form. None of those mechanics actually *require* it to be a "Monster" at all. The players will probably expect a horrible space creature... but what if a Fleet of Alien Spaceships shows up instead? Or what if it's actually a planetary defense system they have to defeat, or a sentient black hole, or even a shadow copy of their own Final Form? Maybe the Pilots have gone rogue, and the "BGM" is in fact the assembled Earth Armada trying to destroy them! The same mechanics apply, and your group's story will benefit from the switch-up.
+Your BGM doesn't even have to be a Big Giant Monster, either. None of the BGM's core mechanics actually *require* it to be a "Monster" at all. The players will probably expect a horrible space creature... but what if a Fleet of Alien Spaceships shows up instead? Or what if it's actually a planetary defense system they have to defeat, or a sentient black hole, or even a shadow copy of their own Final Form? Maybe the Pilots have gone rogue, and the "BGM" is in fact the assembled Earth Armada trying to destroy them! The same mechanics apply, and your group's story will benefit from the switch-up.
 
-An even more unexpected change is to exclude the BGM from your scenario entirely! If the players expect a Big Giant Monster to show up at the end of every story, they'll get comfortable in rote patterns of development. By excluding the BGM from your Crisis path, you can spend a scenario or two focusing instead on completely different aspects of the world. Sometimes the core conflict of a story isn't the monsters, but instead the smaller, more personal battles that the Pilots have to fight. Skip the BGM for a game, focus on the personal stories entirely, and you will both surprise the players and also keep the rhythm fresh.
+An even more unexpected change is to exclude the BGM from your scenario entirely! If the players expect a Big Giant Monster to show up at the end of every story, they'll get comfortable in rote patterns of development. By excluding the BGM from your Crisis path, you can spend a scenario or two focusing instead on completely different aspects of the world. Sometimes the core conflict of a story isn't the monsters, but instead the smaller, more personal battles that the Pilots have to fight (who's dating who, gotta win the volleyball tournament, the Space Dance is next week and your rivals are planning a big surprise, etc). Skip the BGM for a game, focus on the personal stories entirely, and you will both surprise the players and also keep the rhythm fresh.
 
 
 ### Keep Them on their Toes
@@ -44,6 +44,8 @@ An even more unexpected change is to exclude the BGM from your scenario entirely
 Don't let the team get too comfortable with their synergies! Let them enjoy a solid round-table full-party victory every now and then, but don't let them grow complacent with their killer combos. Put in challenges that split them up, like multiple fronts of enemies, or simultaneous conflicts that require divided attention.
 
 Similarly, don't let individual Pilots get too cozy with one-trick pony shows. If a Pilot is too specced out on Assists, for example, put her in the hot seat from time to time where she needs to overcome challenges all by her lonesome. Conversely, if a "lone wolf" pilot is too cocky, throw her against an obstacle that requires teamwork.
+
+The **Ripple** mechanic can be useful for keeping the story tense, but it requires you to pay real close attention to what the players say and do, both in and out of character. Listen for moments when the Pilots break their personal and team taboos, when their rituals don't get followed, or when they say things like "what's the worst that could happen?" Activate a Ripple and keep the tension high!
 
 
 ### Use Your Threes and Sevens
@@ -53,15 +55,15 @@ Three and Seven are the best numbers. They are common in the source fiction, and
 Once the players are used to your threes and sevens, throw them for a spin with a sudden five or six!
 
 
-### Factions, Threats, and Non-Player Characters
+### Other Non-Player Characters
 
 Does Everyone Have to be a Faction or Threat? Easy answer: No, they don't! In ***Gattaibushido:FUSION!***, the only characters that have game mechanics are the Pilots, the Factions, and the Threats. But there are many other characters and creatures in the universe that don't need to fall into these categories. The vast majority of these exist as little more than narrative color, but sometimes you can use them as the components of other game mechanics.
 
 The easiest way to bring in non-mechanics characters is as narrative power behind a Gambit. For example, if a Pilot has offended the locals of a backwoods colony and they are trying to lynch her, instead of statting them out you can just use them as the crux of a Gambit. Can she talk them out of their furor? Can she run away? Can she call on her friends' help in time? Play out a quick Gambit and find out!
 
-Or instead, you can just "say what happens" and move on. There's no need to bring numbers and mechanics into play unless it's important to the greater story. For example, if a Pilot is out on a shopping trip in the Enzirian Bazaar and wants to find something interesting, role-play her interactions with the locals, and describe the fancy new scarf she gets from a pleasant off-world trader. Keep it simple, and enjoy the scenery for a while.
+Or instead, you can just "say what happens" and move on. There's no need to bring numbers and mechanics into play unless it's important to the greater story. For example, if a Pilot is out on a shopping trip in the Enzirian Bazaar and wants to find something interesting, role-play her interactions with the locals, and describe the fancy new scarf she gets from a pleasant off-world trader. Keep it simple, set the cards aside, and just enjoy the scenery for a while.
 
-Similarly, you can use this same method to build up the feeling of danger in a purely descriptive way. For example, while the Pilots are making their way through monstrous caves on an alien planet, suddenly you describe how a young larval centipede-thing attacks them! Instead of throwing down a card, though, see how they respond, and just play it out with words. Let them blast it to smithereens and kick its carcass down a deep pit and move on. Bring more and more of these things into the scene, until you eventually reach a point where you finally feel that it's Throwdown time.
+Similarly, you can use this same method to build up the feeling of danger in a purely descriptive way. For example, while the Pilots are making their way through monstrous caves on an alien planet, suddenly you describe how a young larval centipede-*thing* attacks them! Instead of throwing down a card, though, see how they respond, and just play it out with words. Let them blast it to smithereens and kick its carcass down a deep pit and move on. Bring more and more of these things into the scene, until you eventually reach a point where you finally feel that it's Throwdown time.
 
 
 ## Coach's Basic Mechanics
@@ -75,9 +77,13 @@ Coach plays the game very differently than the Pilots. Below are the major mecha
 
 **Coach's Hand:** Coach's Max Hand is set equal to the number of Pilot Players in the current game session.
 
-**Charges:** Coach doesn't spend Charges to empower his own Techs (aka Waves and Storms) during Throwdowns. Instead, you *Discard* from your Hand in order to activate these options (Faces for Waves, Aces for Storms).
+**Coach's Techs:** Just as the Pilots can have a myriad assortment of Techs at their disposal, Coach likewise has his own special powers. These all fall into three groups: Ripples, Waves, and Storms.
 
-**Strike Ranges:** Coach has different limits in regard to Strike Ranges. Unlike the Pilots, who have the ability to play outside of Strike Ranges by risking team stress, by default your Threats are hard-limited by Strike Range and cannot play outside of them. Some of your custom Threats may have specific exemptions to this, however.
+**Coach's Buffers:** Your individual Threats each have their own Buffer pools, set by their Threat Ratings.
+
+**Coach's Charges:** Coach doesn't spend Charges to empower his own Techs during Throwdowns. Instead, you *Discard* from your Hand in order to activate these options (Faces for Waves, Aces for Storms).
+
+**Coach's Strike Ranges:** Coach has different limits in regard to Strike Ranges. Unlike the Pilots, who have the ability to play outside of Strike Ranges by risking team stress, by default your Threats are hard-limited by Strike Ranges (set by Threat Ratings) and cannot play outside of them. Some of your custom Threats may have specific exemptions to this, however.
 
 **Factions:** TBD
 
@@ -117,56 +123,75 @@ Time and Urgency of the Mission are important aspects of play. The Pilots can ch
 If they still don't get the hint, you can just invoke the **+Tarry** trigger, to subtly let them know that the clock is ticking.
 
 
-### Waves and Storms - REWRITE 2018
+### Omens and Jokers
 
-Waves and Storms are Coach's special actions that he can take at predetermined times in order to make the Pilots' lives more complicated and dangerous. Waves tend to have smaller and/or more direct and localized effects. Storms are much more heinous, and frequently broad-reaching.
+The Jokers and Omens are integral to your control of the story's pacing. They're also a key source of your Threats' powers. The Pilots will balance between using theirs for immediate power and saving them for later, while you must balance between keeping yours out (to empower your Threats) and spending them to push the story along. There's a mess of balancing going on here, believe you me.
+
+By keeping your eyes on the number of Omens in play, you can know how dangerous your Threats will be when conflicts arise. We recommend aiming to keep at least one in play at all times, if you can manage it, either from the Pilots' Deck or your own.
+
+For more on Jokers and Omens, see the basic cards rules on p. XX
+
+
+### Ripples
+
+As the players explore the story, they may have their Pilots affect the world in unexpectedly dangerous ways. Their actions and intentions can have unintended consequences that aren't always worthy of playing Gambits and Throwdowns.
+
+In such cases, you may still want there to be *some* minor mechanical impact on the game, and that's where Ripples come in handy. Whenever an entirely story-driven portent arises during play, you can choose to visibly Discard a card from your Deck. The following in-game event examples would each be Ripple-worthy:
+
+* A Team taboo is broken inadvertently
+* A teammate or ally insults a Pilot's dead father.
+* A character rolls three sevens in a game of dice at the barracks.
+* Coach manages to Block three times in a row.
+* A Pilot unknowingly takes a course of action that helps out the enemy.
+
+The triggers for Ripples are entirely spontaneous, and there is no hard science to bringing them into play. Just be on the lookout for strange coincidences and unintentionally dark moments of story that may arise, and remember your Threes and Sevens. The primary purpose of Ripples is to push through the cards and bring forth new Omens more rapidly.
+
+Omens and Ripples have similar thematic feel, but there is a distinct mechanical difference in how they enter play. Omens are mechanical results of the revelation of Jokers, and are accompanied by additional reactionary narration. Ripples on the other hand are mechanical reactions to "ominous" events and narrations that occur spontaneously during play, and are not reliant upon Jokers.
+
+
+### Waves and Storms: Your Techs
+
+**Waves** and **Storms** are Coach's core special tools for making the Pilots' lives more complicated and dangerous. Waves tend to have smaller and/or more direct and localized effects. Storms are much more heinous, and frequently broad-reaching.
 
 Waves and Storms come directly from the Threats in any particular scenario. High- and/or Multi-Threat scenarios will likely have multiple Wave and Storm options.
 
-When the rules call for a Wave or Storm, you can only trigger *one* of those available to you, unless the rules specifically say otherwise.
+When the rules call for a Wave or Storm, you can only trigger *one* of those available to you, unless the rules specifically say otherwise. When the rules call for a Storm, however, you can choose to trigger a Wave instead.
 
-Regardless of the mechanics, every wave and storm *must* have a suitable narrative description. Coach can't just say "Okay, I do a Wave, so Janys takes 1 damage" and move on. You must describe what exactly is happening in the story that is causing this damage. This can be tricky for those unexpectedly triggered by Crisis Path events, but by keeping aware of your Threats and their abilities, you should be able to come up with some ideas.
+Regardless of the mechanics, every Wave and Storm *must* have a suitable narrative description. Coach can't just say "Okay, I do a Wave, so Jannys takes 1 damage" and move on. You must describe what exactly is happening in the story that is causing this damage. By keeping aware of your Omens and your Threats' abilities, you should be able to come up with some ideas.
 
 Every Scenario comes default with a basic Wave and Storm event built-in. All others come from custom Threats in the Scenario.
 
 Waves and Storms are primarily triggered by three events during play:
 
-* Crisis Path Steps (aka Omens)
-* Throwdown "Trigger" Actions (require discards of faces or aces)
+* Crisis Path Steps
+* The "Activate Wave or Storm" Assist action in Throwdowns
 * Some Threat actions
 
 
 
-# Coach: Meta-Game Structure
-
-Most of the rest of this text talks about mechanics and numbers and math and gee whiz, but this section here is about managing the greater meta-flow of sessions and scenarios.
+# Coach: Campaign Structure
 
 If you've made it this far, you've probably figured out that ***Gattaibushido:FUSION!*** has a somewhat different approach to a lot of the same tasks as other RPGs. However, the biggest hurdle for new players tends to be figuring out the expected flow of process. Hopefully this section can help you get over those bumps and smooth out your play experience.
 
-Contained within are details on the basic game structure for the two expected modes of play: Campaign Mode, and One-Shot Mode.
+This game is primarily built and balanced around "campaign" play, meaning that you are expecting to play this story for multiple sessions. I've found that 13 sessions or so tends to make for a good story arc. With proper adjudication of Lessons and Evolution votes, this can see the original Pilots grow into very capable characters - provided they live that long, of course.
 
 
-## Campaign Mode
-
-In Campaign play, you are all expecting to play this story for multiple sessions. I've found that 13 sessions or so tends to be a good story arc, and with proper adjudication of Lessons and Evolution votes, this can see the original Pilots grow into very capable characters - provided they live that long, of course.
-
-
-### Session 1: First Contact and Creation
+## Session 1: First Contact and Creation
 
 Campaigns work best if the group spends the entire first meetup session just talking about the game they want to play, and the story they want to tell. During that process, they should run through the **First Contact** tutorial scene, and then afterward make their characters together as a group.
 
 
-#### Start with a Blank Slate
+### Start with a Blank Slate
 
 This means story *and* rules! Don't pre-write the world details, and likewise don't front-load the rules! Trust in the First Contact scene to kickstart both story and rules knowledge, and you'll be good to go.
 
 
-#### Run the First Contact
+### Run the First Contact
 
 The First Contact kicks off the game and the grander story. It is both tutorial and world-building session. Every game should begin with one *before* the actual player character Pilots are even discussed at all.
 
 
-#### Run the Team Creation Sequence
+### Run the Team Creation Sequence
 
 After the First Contact, run the Team Creation process. Coach's involvement with this will largely be one of mechanical guidance and "story wrangling," as you ask questions of the group and encourage them to add more details to the world.
 
@@ -175,19 +200,19 @@ When determining the details of the time between the First Contact and the start
 Keep in mind that the default game intends for the characters to all be young Pilots fresh in Battle School. If this is a brand new group of ***Gattaibushido:FUSION!*** players, I highly encourage everyone to play young neophytes, so they can all experience the new developments together. However, if you have some veteran players, you might consider letting them play more established Pilots, possibly even those who survived the First Contact, if it was recent enough.
 
 
-#### Optional: Enhance Creation with Helper Tools
+### Optional: Enhance Creation with Helper Tools
 
 In recent years, a number of really fantastic gaming tools have become available, several of which greatly enhance the process of character creation in a new game. One tool in particular that I am very fond of is a deck of *Backstory Cards* produced by Galileo Games. These cards work particularly well with ***Gattaibushido:FUSION!*** games, as they follow a round-table flow of story establishment very compatible with the extended action flow in Gattai. There's even a sci-fi themed expansion for the deck, which adds more thematic components fitting for exactly this kind of game.
 
 This game is not affiliated in any way with Galileo Games, but I've used their cards so heavily in my own campaigns that I wanted to mention them here as a valuable possible addition to yours.
 
 
-#### End the Session There
+### End the Session There
 
 With the First Contact scene and the subsequent team creation complete, you should now have the foundation of an exciting new game world, and a promising new team of Pilots to explore it. I recommend concluding the first session at this point, so you have time to plan out the first game scenario and have it ready for the next session of play.
 
 
-### Sessions 2-4: The First Mission
+## Sessions 2-4: The First Mission
 
 TBD (pending final scenario design rules section)
 
@@ -198,7 +223,7 @@ Things to cover:
 * take your time!
 
 
-### Sessions 5 and Beyond: Campaign Play
+## Sessions 5 and Beyond: Campaign Play
 
 TBD
 
@@ -207,9 +232,9 @@ Things to cover:
 * Usually anywhere from 3-7 scenarios in a standard 13-episode campaign
 
 
-## One-Shot Mode
+###### (SIDEBAR: One-Shot Games)
 
-TBD (extended advice on running one-shot sessions and convention games, pending final stage playtesting process notes conversion)
+> As noted already, this game was primarily designed with campaign focus in mind. Multiple sessions of play allows character concepts to blossom and thrive, and that kind of development is a core intent of the story focus here. However, one-shot and convention games are always a lot of fun, and this game can easily be adapted to fit the confines of such a single-serving gaming experience. For more information on this, check out Appendix O on p. XX).
 
 
 
@@ -223,7 +248,6 @@ To develop a scenario:
 * Add Factions and Locations
 * Develop Threats
 * Develop the Crisis Path
-* Develop a Downtime Draw Table (or use the standard)
 * Finalize Waves and Storms
 
 This is presented as an ordered process, but you will most likely skip back and forth between them, as ideas and developments in later steps re-inform prior decisions.
@@ -346,12 +370,7 @@ The current Crisis has a direct impact on the power of the Big Giant Monster, wh
 Additionally, "by the book" the BGM can't attack (as in initiating a Rumble) until that level of the Crisis has been reached. You can always push it lower on the path if you like, but that remains to be tested in play.
 
 
-## Step 5: Develop a Downtime Draw-Table
-
-(TBD: a draw-table of events that happen between scenarios and potentially alter team Harmony, threats, and more. Should be an equal balance of good and bad things. 13 total options, one for each rank, with each option giving four different outcomes based on suit)
-
-
-## Step 6: Finalize Waves and Storms
+## Step 5: Finalize Waves and Storms
 
 Every Scenario comes default with two free basic actions:
 
@@ -408,7 +427,7 @@ I highly recommend *not* telling new Pilots about the scoring system in advance,
 
 
 
-# Coach: Threats - RE-ORG IN PROGRESS 2018
+# Coach: Threats
 
 **Threats** are the vast majority of the opposition in the game. Monsters, bullies, mean teachers, natural obstacles, and even Big Giant Space Monsters.
 
@@ -549,97 +568,151 @@ For each point of TR, you can assign the Threat a power. Powers are either:
 * **Storms:** Powerful but rarer attacks
 * **Passives:** Special constant rules tweaks
 
-Powers marked **"2X"** have two separate versions, making them effectively two different powers. These are usually damage-based powers that have separate Wave and Storm mechanics These versions must be purchased separately as individual powers with TR allowances. They can be purchased separately as needed - meaning that you do not need to purchase either version in order to acquire the other.
+Powers marked **"Dual"** have two separate versions, making them effectively two different powers. These are usually damage-based powers that have separate Wave and Storm mechanics These versions must be purchased separately as individual powers with TR allowances. They can be purchased separately as needed - meaning that you do not need to purchase either version in order to acquire the other.
 
 To craft new ones, use these basic guidelines. Waves can do a minor effect, while Storms can do a Major effect. A minor effect can do something small to one player. A major effect can do something heavy to one player, or something small to all players. A minor effect can have a lesser narrative effect. A major effect can have a drastic story-changing narrative effect.
 
-**Threat Powers:**
+In all the Power descriptions, the variable **X** represents the total number of Omens currently on the table, from any Deck, in any state. If there are no Omens on the table, any Powers that require them have no effect.
 
-* Attack (2X) - W: +Trauma:Choice *or* S: +Trauma:Each (immediate)
-* Big Giant Monster (BGM) - Designates the Threat as a BGM
-* Corrupt (2X) - W: +Disfavor:Choice *or* S: +Disfavor:Each
-* Debilitate (2X) - W: One Pilot Discards *or* S: Each Pilot Discards/One Pilot discards entirely
-* Demolish (2X) - W: +Ruin:Choice *or* S: +Ruin:Each
-* Enforce - Can use Buffers to ignore Strike Range
-* Fortify - S: increase TR of existing Threats
-* Harbinger - Each Push in a Throwdown forces discards from your Deck
-* Heavy-Hitter - Each Push in a Throwdown deals +Trauma
-* Infiltrate (2X) - W: Discard 1 current Favor card *or* S: Discard 1 entire Favor card stack
-* Rumble Tech - Gives the BGM a new Rumble Tech
-* Sap - W: One player discards to burn Team Resouces *or* D: Choose and deplete a Team Resource
-* Summon - S: add one new minion Threat with TR = 1/2 (round down)
-
-**UNSORTED IDEAS:**
-
-* restore threat buffers
-* draw more cards
+We recommend you build a good balance of Waves and Storms across your Threats, for better availability of options in Throwdowns and Crisis Events. Your potential drawable supply of Faces and Aces may decrease over the course of the Scenario as you invest cards into your BGM, so make sure to cover all the bases.
 
 
-#### Attack (2X)
+##### List of Powers
 
-Wave Version: Inflict +Trauma upon a valid target of choice. Storm Version: Inflict +Trauma upon each valid target in play.
+* **Attack (Dual):** Inflict immediate Trauma
+* **Big Giant Monster / BGM (Passive):** Designates the Threat as a BGM
+* **Corrupt (Dual):** Inflict Disfavor upon Factions, possibly converting them to Threats
+* **Debilitate (Dual):** Force the Pilots of Discard
+* **Demolish (Dual):** Lay Ruin down upon Locations
+* **Dire (Passive):** Increase Strike Range by Omens
+* **Empower (Dual):** Draw additional cards mid-conflict
+* **Enforcer (Passive):** Can use Buffers to ignore Strike Range
+* **Fortify (Dual):** Restore spent Buffers to existing Threats
+* **Harbinger (Passive):** Countering and Escalating forces discards from your Deck
+* **Heavy-Hitter (Passive):** Threat deals Trauma when Countering
+* **Infiltrate (Dual):** Reduce the Pilots' current stocks of Faction Favor
+* **Reinforce (Dual):** Increase TR of existing Threats
+* **Rumble Tech (Passive):**  Gives the BGM a new Rumble Tech
+* **Sap (Dual):** Burn through the Team's Resources
+* **Seer (Passive):** Draws more cards at the start of a Conflict
+* **Sinister (Passive):** Gambits related to this Threat are more difficult
+* **Summon (Dual):** Add new threats to the scenario
 
 
-#### Big Giant Monster / BGM
+#### Attack (Dual)
+
+**Wave:** Inflict +Trauma(X) to a single Pilot.
+
+**Storm:** Inflict +Trauma(X) to each Pilot.
+
+
+#### Big Giant Monster / BGM (Passive)
 
 This Power designates the Threat as this scenario's Big Giant Monster (or BGM), subject to all the extended rules of the BGMs. BGM Threats can purchase additional Rumble Techs for use during Robo Rumble conflicts (see Robo Rumbles, p. SQUARP).
 
 
-#### Corrupt (2X)
+#### Corrupt (Dual)
 
-Wave Version: Inflict +Disfavor upon a revealed Faction of choice. Storm Version: Inflict +Disfavor upon each revealed Faction in play. Factions pushed to three (3) Offenses as a result of either form of this Power convert to Threats.
+**Wave:** Inflict +Disfavor upon a revealed Faction of choice.
 
+**Storm:** Inflict +Disfavor upon each revealed Faction in play.
 
-#### Debilitate (2X)
-
-Wave Version: A Pilot of your choice Discards a card from her Hand. Storm Version: Each Pilot discards a card from their Hand, *or* a single Pilot Discards her entire hHnd. In either version, the Pilot(s) immediately redraws unless in the middle of an active Throwdown, in which case she only redraws after the Throwdown concludes.
-
-
-#### Demolish (2X)
-
-Wave Version: Inflict +Ruin upon a revealed Location of choice. Storm Version: Inflict +Ruin upon each revealed Location in play.
+In either use, Factions pushed to three (3) Offenses as a result of either form of this Power convert to Threats.
 
 
-#### Enforce
+#### Debilitate (Dual)
 
-PASSIVE: This Threat can spend its Buffers to ignore Strike Ranges in Throwdowns. Each Buffer spent allows the Threat to ignore the Strike Range for a single Push.
+**Wave:** A Pilot of your choice Discards a card from her Hand.
 
-
-#### Fortify
-
-As a Storm, increase TR of any scenario threat by +2, OR Increase TR of any two scenario threats by +1.
-
-When designing a Threat with this Power, you should make sure that every planned Threat in your scenario has a predetermined "upgrade path" in place. This will save time during play, letting you quickly decide what new Threat Powers to add to each such boosted Threat.
+**Storm:** Each Pilot discards a card from their Hand, *or* a single Pilot Discards her entire hHnd. In either version, the Pilot(s) immediately redraws unless in the middle of an active Throwdown, in which case she only redraws after the Throwdown concludes.
 
 
-#### Harbinger
+#### Demolish (Dual)
 
-PASSIVE: This Threat pushes toward Crisis with each action it takes. Whenever it Pushes in a Throwdown, you Discard a number of cards from your Deck equal to one plus the current number of Omens present on the table (all Decks, active or spent).
+**Wave:** Inflict +Ruin upon a revealed Location of choice.
 
-
-#### Heavy-Hitter
-
-PASSIVE: Each time this Threat Pushes in a Throwdown, it deals +Trauma.
+**Storm:** Inflict +Ruin upon each revealed Location in play.
 
 
-#### Infiltrate (2X)
+#### Dire (Passive)
 
-Wave Version: Force a single Favor card discard from any one invested Faction in play. Storm Version: Discard the entire Favor stack from any one invested Faction in play.
+Coach's Strike Range in Throwdowns using this Threat are increased by X.
 
 
-#### Rumble Tech
+#### Empower (Dual)
+
+**Wave:** Draw X cards into your Hand.
+
+**Storm:** Draw 3X cards into your Hand.
+
+
+#### Enforcer (Passive)
+
+This Threat can spend its Buffers to ignore Strike Ranges in Throwdowns. Each Buffer spent allows the Threat to ignore the Strike Range for a single Counter or Escalate Action.
+
+
+#### Fortify (Passive)
+
+**Wave:** Restore up to X spent Buffers to a single revealed Threat.
+
+**Storm:** Restore all spent Buffers to all revealed Threats.
+
+
+#### Harbinger (Passive)
+
+This Threat pushes toward Crisis with each action it takes. Whenever it Counters or Escalates in a Throwdown, you Discard X number of cards from your Deck.
+
+
+#### Heavy-Hitter (Passive)
+
+Each time this Threat Counters in a Throwdown, it deals +Trauma:Choice(1).
+
+
+#### Infiltrate (Dual)
+
+**Wave:** Discard up to X Favor cards from a Faction in play.
+
+**Storm:** Discard the entire Favor stack from any one Faction in play.
+
+
+#### Reinforce (Dual)
+
+This power increases the TR of existing Threats in play. When designing a Threat with this Power, you should make sure that every planned Threat in your scenario has a predetermined "upgrade path" in place. This will save time during play, letting you quickly decide what new Threat Powers to add to each such boosted Threat.
+
+**Wave:** Increase TR of any scenario threat by +1.
+
+**Storm:** Increase TR of any scenario threat by +X, OR Increase TR of up to X scenario threats by +1.
+
+
+#### Rumble Tech (Passive)
 
 Each time this power is taken, the BGM Threat gains a new Rumble Tech of your choice.
 
 
-#### Sap (2X)
+#### Sap (Dual)
 
-Wave Version: Player of your choice must discard a card of her choice, and then reduce Team Resources by that amount, applied as she sees fit. Storm Version: Choose a Team Resource and deplete it entirely.
+**Wave:** Reduce one Team Resource by X.
+
+**Storm:** Choose a Team Resource and deplete it entirely.
 
 
-#### Summon
+#### Seer (Passive)
 
-As a Storm, summon a new minion/reinforcement Threat into the scenario and active play. The new Threat's TR is equal to 1/2 (round down) that of the summoning Threat. When building a Threat with this power, we recommend predefining the new Threat that will be summoned when this activates.
+This Threat draws X additional bonus cards at the beginning of a Throwdown. If this Threat is involved in a Rumble, it again draws X at the start of the Rumble.
+
+
+#### Sinister (Passive)
+
+When a Pilot attempts a Gambit that involves or opposes this Threat, Coach flips X additional cards, taking the highest value of the array.
+
+
+#### Summon (Dual)
+
+This Tech brings new individual Threats into a Scenario, even during an active conflict. If used mid-Throwdown, the new Threat adds cards to Coach's Hand, and can act immediately. When building a Threat with this power, it's easier in play to predefine the new Threat that will be summoned when this activates.
+
+**Wave:** The new Threat's TR is 1/2 (round up) of X.
+
+**Storm:** The new Threat's TR is the same as the Summoning Threat or X, whichever is higher.
 
 
 ### ADVANCED: Deeper Threat Customization
