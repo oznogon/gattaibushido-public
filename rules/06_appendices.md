@@ -6,76 +6,14 @@ section: appendices
 **PLAYTEST** Maybe include in Coach section instead...
 
 
-# Appendix XX: Alternate Mechanic: Using "Ichi" Cards
 
-**PLAYTEST NOTE SUMMER 2018:** This whole section is potentially being discarded. I need to revisit the Ichi play down the road, as it just hasn't provided the positive play results I've wanted. It isn't currently a high priority unfortunately, as I instead need to revisit the core game.
+# Appendix A: Final Acknowledgements
 
-Using this set of replacement mechanics, the core double-standard Deck of ***Gattaibushido:FUSION!*** playing cards is replaced with a single deck of that "One" color-coded, number-matching, turn-skipping card game that many of us have played since we were in grade school - henceforth referred to in this text as an **"Ichi" Deck**. These cards are available both online and at countless toy and game stores across the entire world, and there are even themed variants of them for things such as anthropomorphic cartoon young-adult warrior turtles, cute "Hi There, Cat!" pop icon characters, several major anime series, and more.
-
-
-## Ichi Deck Details
-
-The "Ichi" deck consists of 108 total cards, broken down as follows:
-
-* 4 Color-Coded Suits of 25 cards each
-* Each suit: 19 numbers (2x each 1-9, 1x 0) and 6 special (2 skip, 2 reverse, 2 draw-2)
-* 4 regular wild cards
-* 4 Draw-4 wild cards
-
-This results in a similar deck structure as the Core Rules, with four fewer Ace-like cards but four more Joker-like cards.
-
-**A Special Note on Pacing:** Using this deck of cards has a chance of drastically increasing the game's pace and danger level. We've provided a set of alternate options for using the new "Draw 4 Wild" cards in your game, which you should consider before using the Ichi Deck. You may wish to simply exclude these special cards, as their presence doubles the occurrence rate of Jokers and thus potentially doubles the rate at which the Crisis track progresses.
-
-
-### Card Suits
-
-The card suits are color-based, and subject to the "Roy G Biv" scale of value, with Red as the lowest. This sets the card order from highest to lowest at: Blue (SV 4) > Green (SV 3) > Yellow (SV 2) > Red (SV 1).
-
-
-### Number Cards 1-9
-
-The Ichi Deck effectively shifts the values of all of the standard number cards downwards by 1. Where the standard Deck ranges 2-10, the Ichi Deck ranges 1-9. This preserves the core ranges of play without change.
-
-
-### Number Card 0
-
-Similar to Aces in the standard Deck, Zero cards in the Ichi Deck have the same double function, with the following changes:
-
-* **Diminished state:** Value is Zero (0)
-* **Empowered atate:** Value is Ten (10)
-
-Any rule from the core game or modules that affect Aces instead affect Zeroes.
-
-
-### Special Cards
-
-**Reverse:** As Queen in Core Rules, either reversing the rotation direction or played as a Phantom.
-
-**Skip:** As Jack in Core Rules, either skipping the next player in the rotation or played as a Phantom.
-
-**Draw 2:** As King in Core Rules, but with a set value of 2 cards drawn, regardless of Suit. Can instead be played as a Phantom.
-
-**Wild:** As Joker in Core Rules.
-
-**Wild Draw 4 (Option A):** As Joker in Core Rules
-
-**Wild Draw 4 (Option B):** As Joker in Core Rules, plus: When revealed each Pilot gets Four (4) charges (instead of 1), and Coach immediately activates a free Storm. Afterward, remove from play for the rest of the current Scenario.
-
-**Wild Draw 4 (Option C):** Shuffle in face-down like other cards. Can be played as a Number Card 0 of any Suit the Player declares.
-
-**Wild Draw 4 (Option D):** Remove these from the Deck before playing.
-
-
-## Extended Rules Considerations
-
-(alterations for card references in core rules)
-
-
-### Chroma Role Techs
+To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel taught me that a fun role-playing game can be both modern and complex, requiring strategy and mastery. Of all the games that inspired me on this project, Burning Wheel is the one that keeps coming back into my brain when I need to justify a strategic decision. ***Gattaibushido:FUSION!*** would not exist without Burning Wheel.
 
 
 
-# Reference: Glossary
+# Appendix G: Glossary
 
 (use hanging indent in final doc, include primary page refs as well)
 
@@ -130,6 +68,16 @@ Any rule from the core game or modules that affect Aces instead affect Zeroes.
 **+Wave:** mechanical notation that an effect triggers one of Coach's Waves  
 
 
-# Final Acknowledgements
 
-To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel taught me that a fun role-playing game can be both modern and complex, requiring strategy and mastery. Of all the games that inspired me on this project, Burning Wheel is the one that keeps coming back into my brain when I need to justify a strategic decision. ***Gattaibushido:FUSION!*** would not exist without Burning Wheel.
+# Appendix I: Inspirations
+
+The following media sources provided *immense* amounts of inspiration for the conception and further development of this game:
+
+* *Gunbuster* & *Majestic Prince*: This game is basically a love letter to those two series.
+* *Vandread*: ...okay and this one too.
+* *Voltron*: Because *duh*
+* *Steven Universe*: I'd be a liar if I said I hadn't already planned out gem-themed team Chromas...
+* *Chroma Squad*: Best (and only?) super sentai video game I've ever played (motorcycle chapter is best chapter).
+* *Dai-Guard*: I can't get that theme song out of my head!
+* *RWBY* and *gen:LOCK*: Rooster Teeth really *gets* teamwork-based stories, and these two shows are some of the absolute best.
+* *She-Ra and the Princesses of Power:* Not only is the theme song super badass, the show is a great portrayal of how intra-team conflict can drive a great heroic story.
