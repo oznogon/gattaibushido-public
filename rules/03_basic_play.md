@@ -102,7 +102,14 @@ Aces are the highest-ranked card in the Deck, with a functional rank of 14. Howe
 
 Four Joker cards are used as a special Pacing and Empowerment mechanic. The Jokers are always shuffled into their respective Decks *face-up*. When a Joker is revealed (by reaching the top of a Deck), immediately take it from its Deck and set it out face-up beside it for all to see. Jokers sitting forth in such a fashion are called **Omens**.
 
-Omens in play exist in two states: Active (face-up) and Spent (face-down). When first revealed, they remain Active until used for one of the following purposes, based on their Deck of origin.
+When an Omen enters play, you must immediately narrate the nature of this unexpected new Omen to fit the moment in which it was drawn. Some examples of possible Omen narration:
+
+* Your mecha scrapes the side of the Hangar as it is leaving base.
+* The lights of the mission location suddenly flicker with a sickening hue.
+* When your opponent charges at you, you remember a terrifying moment from your first time seeing the aliens.
+* You hear the voice of your dead sister - the one you accidentally killed through your own recklessness - suddenly whispered over the Team's comms channel.
+
+Omens in play exist in two states: **Active** (face-up) and **Spent** (face-down). When first revealed, they remain Active until used for one of the following purposes, based on their Deck of origin.
 
 **Pilot Omens** can be Spent at any time by a Pilot to gain additional Charges. The Pilot first flips the Active Omen face-down, and then gets to choose: she can either the +Chargeup:Self(Full) or the +Chargeup:All(2) event triggers.
 
