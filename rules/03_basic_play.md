@@ -110,7 +110,7 @@ Omens in play exist in two states: Active (face-up) and Spent (face-down). When 
 
 It is important to note that the buildup of *any* number of Omens can benefit several of Coach's Threats, so players are advised to spend their quickly.
 
-Jokers are *never* sent to Play Piles or the Trash. Once both of a Deck's Jokers have been revealed and Spent, return them face-up to the Deck, then Reshuffle the Deck.
+Jokers are *never* sent to Play Piles or the Trash. Once both of a Deck's Jokers have been revealed and Spent, return them face-up to their Deck, then Reshuffle that Deck.
 
 
 ### "Wild" Cards
@@ -154,7 +154,7 @@ If the rules call for a "**blind**" play, you must play that card directly from 
 
 ### Shuffle/Reshuffle
 
-Whenever the rules call for a **Shuffle** or **Reshuffle** of a Deck, the Deck's owner picks up both the Deck and its Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Hands, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
+Whenever the rules call for a **Shuffle** or **Reshuffle** of a Deck, the Deck's owner picks up both the Deck *and* its Trash and then reshuffles them back together. Unless specific rules state otherwise, the following items are not typically reshuffled into the Deck during common reshuffles: Hands, Factions, Omens, Piles, Zones, etc - in other words, any other card locations that are not specifically the Deck or the Trash.
 
 
 ###### (SIDEBAR: The Empty Deck)
