@@ -111,7 +111,7 @@ When an Omen enters play, you must immediately narrate the nature of this unexpe
 
 Omens in play exist in two states: **Active** (face-up) and **Spent** (face-down). When first revealed, they remain Active until used for one of the following purposes, based on their Deck of origin.
 
-**Pilot Omens** can be Spent at any time by a Pilot to gain additional Charges. The Pilot first flips the Active Omen face-down, and then gets to choose: she can either the +Chargeup:Self(Full) or the +Chargeup:All(2) event triggers.
+**Pilot Omens** can be Spent at any time by a Pilot to gain additional Charges. The Pilot first flips the Active Omen face-down, and then gets to choose: she can trigger either +Chargeup:Self(Full) or +Chargeup:All(2).
 
 **Coach Omens** can be Spent by Coach to trigger Crisis events. These are explained in more detail in Coach's Handbook.
 
