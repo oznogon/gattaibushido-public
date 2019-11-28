@@ -5,6 +5,18 @@ section: appendices
 To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel taught me that a fun role-playing game can be both modern and complex, requiring strategy and mastery. Of all the games that inspired me on this project, Burning Wheel is the one that keeps coming back into my brain when I need to justify a strategic decision. ***Gattaibushido:FUSION!*** would not exist without Burning Wheel.
 
 
+# Appendix B: Bonus Pilot Options
+
+
+## The Civic Defense Team (Robos)
+
+
+## The Gemstone Prism Team (Chromas)
+
+
+## The Ultra Music Team (Daisho)
+
+
 # Appendix G: Glossary
 
 (use hanging indent in final doc, include primary page refs as well)
@@ -75,3 +87,8 @@ The following media sources provided *immense* amounts of inspiration for the co
 # Appendix O: One-Shot Games
 
 TBD (details on adjusting the game for one-shot play, running with or without a First Contact, using pregens, etc)
+
+
+# Appendix S: Three Alternate Settings
+
+TBD
