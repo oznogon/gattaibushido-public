@@ -221,7 +221,7 @@ If you are kicking off a whole new team of Pilots in a brand new scenario, their
 
 #### Recurring Resource Changes (Second Scenario and Beyond)
 
-**Harmony:** At the beginning of each new Scenario, Coach will most likely alter your Harmony rank from last time. This may be due to specifications written into the scenario itself, or due to events on the Downtime Draw Table (in Coach's Handbook). Additionally, some Playbooks will affect Harmony each time a new Scenario begins.
+**Harmony:** At the beginning of each new Scenario, Coach may choose to alter your Harmony rank from last time. This may be due to specifications written into the scenario itself, or due to "off screen" events that occur between missions. Additionally, some Playbooks will affect Harmony each time a new Scenario begins.
 
 If the team's Harmony is below Green at the start of a new *session*, each Pilot must name one thing that the others have recently done to piss her off (the lower the Harmony, the greater the offense). Conversely, if the team's Harmony is somehow above green, each Pilot must state one thing that’s super awesome in her life, awesome enough that it could make others jealous. These can be previous in-game events, or even whole new off-screen things that happened between sessions, mentioned at the game now for the first time ever. This is a prime moment to sow the seeds for some juicy intra-team conflicts!
 
