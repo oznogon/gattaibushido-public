@@ -46,7 +46,6 @@ To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel ta
 **+Schism:** a mechanical trigger than causes the buildup of Schism points  
 **Stat:** one of six numerical descriptors spread across three balanced Commitment pairs, forming the foundation of all core Pilot mechanics  
 **Storm:** one of Coach's two primary scripted Threat actions against the Pilots (the more heinous one)  
-**+Storm:** mechanical notation that an effect triggers one of Coach's Waves  
 **Strike Range:** the "safe" difference in card ranks when you play a Counter action  
 **Suit:** the category of pip on the playing cards (Spades, Hearts, Diamonds, and Clubs)  
 **Suit Value:** a numerical value tied to a card's Suit (Spades=4, Hearts=3, Diamonds=2, and Clubs=1)  
@@ -57,7 +56,6 @@ To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel ta
 **+Trauma:** a trigger that damages your Pilot by reducing her Commitment ranks  
 **True Play:** any card play whose difference is exactly 1 rank  
 **Wave:** one of Coach's two primary scripted Threat actions against the Pilots (the less heinous one)  
-**+Wave:** mechanical notation that an effect triggers one of Coach's Waves  
 
 
 # Appendix I: Inspirations

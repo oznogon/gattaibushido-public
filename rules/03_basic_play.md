@@ -212,9 +212,7 @@ We've listed them here for quick convenient reference. These are all explained i
 * **+Rebuild** = action that allows the Team to repair a damaged Location
 * **+Restore** = action that allows a Pilot to recover a lost Stat point
 * **+Replenish** = action that allows a Pilot to boost a Team Resource
-* **+Storm** = action that allows Coach to activate a Storm
 * **+Tarry** = action that causes a Deck Discard to simulate the passage of time
-* **+Wave** = action that allows Coach to activate a Wave
 
 **Damage:**
 
@@ -290,13 +288,6 @@ If used on a Threat, recover a single point of lowered Threat Rating.
 The **+Replenish** trigger allows the Pilots to add points to their Team Resources. Unless otherwise specified, by default the event increases a single Resource of their choice by +1. If value is "FULL" then raise target Resource to 10. See p. SQUARP for full details on Team Resources.
 
 
-### +Storm
-
-**Valid Targets:** Threats
-
-The **+Storm** trigger allows Coach to activate any one Storm action on his scenario Threats. This can and likely will trigger other microevents. See p. SQUARP for full details on Waves and Storms.
-
-
 ### +Tarry
 
 **Valid Targets:** Pilots
@@ -304,13 +295,6 @@ The **+Storm** trigger allows Coach to activate any one Storm action on his scen
 The game's time and Crisis mechanics will occasionally call for a **+Tarry** action, most commonly when the Pilots make use of certain Location boons, but also occasionally when they waste time arguing and Coach feels necessary to mechanically nudge them into action.
 
 Tarry is a quick and simple Coach-specific card action. When triggered, Coach takes a number of cards from the top of his Deck equal to the current Crisis tier, and sends them directly to the Trash. This risks bringing the Deck ever closer to the revelation of another Omen (and potential escalation of Crisis!).
-
-
-### +Wave
-
-**Valid Targets:** Threats
-
-The **+Wave** trigger allows Coach to activate any one Wave action on his scenario Threats. This can and likely will trigger other microevents. See p. SQUARP for full details on Waves and Storms.
 
 
 ## Damaging Microevents
@@ -755,11 +739,9 @@ Using a Rumble Tech spends 1 Rumble Charge, and has an effect set by the current
 
 ##### Activate Wave or Storm (Assist; Coach)
 
-(TBD)
+Choose a Threat involved in this Throwdown, and discard a face or ace card from your Hand. With a face card, the chosen Threat activates a Wave. With an ace card, the chosen Threat activates a Storm.
 
-Pick a Threat involved in this Throwdown, and discard a face or ace card from your Hand. With a face card, the chosen Threat activates a Wave. With an ace card, the chosen Threat activates a Storm.
-
-On your turn, you can use this at most once per involved Threat. Each Threat can activate a Wave or a Storm, but not both in the same Turn.
+On your turn, you can use this action at most once per involved Threat. Each Threat can activate a Wave or a Storm, but not both in the same Turn.
 
 
 ##### Use Gear (Assist; Pilots)
@@ -874,7 +856,7 @@ Below are the lists of mechanical boons that can be selected by the winners (and
 * Apply +Replenish:Choice(1)
 * Apply +Schism:Team(1)
 * Apply +Trauma:Pilot(1) or +Trauma:Threat(1)
-* Apply +Wave
+* Activate a Wave on an involved Threat
 
 
 #### Ultimate Spoils
@@ -885,7 +867,7 @@ Below are the lists of mechanical boons that can be selected by the winners (and
 * Apply +Rebuild or +Ruin to current Location
 * Apply +Recover:Self(All) or +Recover:Threat(All)
 * Apply +Replenish:Choice(Full)
-* Apply +Storm
+* Activate a Storm on an involved Threat
 
 
 ## Step 6: Discard and Draw
