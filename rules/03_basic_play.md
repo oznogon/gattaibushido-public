@@ -347,8 +347,9 @@ The **+Ruin** trigger targets a Location, and its effect depends on that Locatio
 
 The **+Schism** trigger hurts the Pilots by damaging their central team Harmony. Each time anyone in the team either triggers on their own or is otherwise afflicted with +Schism, the Team accrues one or more points of Schism, which can be represented by tokens placed on the central Harmony track. Unless specified otherwise, the amount of Schism accrued per triggering event is as follows:
 
-* During an active Throwdown, Schism = current Stage of the conflict (1 to 7)
-* Outside of an active Throwdown, Schism = 1
+* During an active Throwdown, Schism = current Stage of the conflict (1 to 3).
+* During an active Rumble, do not cause Schism. Instead Damage Robo Endurance by an amount equal to the current stage of the Rumble (1 to 4).
+* Outside of an active Throwdown or Rumble, Schism = 1
 
 After 7 points have been accrued, the Harmony is directly lowered. Harmony can never be reduced below 1 (Red). If the team is in the Red, once they accrue 7 Schism, and for each additional point accrued thereafter, trigger +Trauma:Each to the *entire* team. See p. XX for full details on Harmony.
 
@@ -513,7 +514,7 @@ Your Strike sets the maximum "safe" difference in ranks by which your Counter ca
 
 > For example, if your opponent played a Two (2), and your Strike is 2, then you can safely play a Three (3) or Four (4) without additional consequence. If you play a Four, your play is *safe* and you suffer no schism. If you instead play a Three, your play is also *true* as its difference is exactly 1 rank - and since it's both safe and true then it is considered **Resonant** as well.
 
-You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, your play is **Dissonant** and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown or Rumble (1-7). Regardless, the play is still valid and moves the action onward.
+You *can* play higher than this Range, but doing so risks Harmony loss. When you do so, your play is **Dissonant** and your narrative action is "emotionally flawed" in some fashion, as your Pilot pushes herself too far out of sync with her team. As a result, you trigger immediate +Schism(X), with X equaling the current stage of the Throwdown (1-3; note that Rumbles cause Robo damage instead, see below). Regardless, the play is still valid and moves the action onward.
 
 > Concluding the above example, if you were to play a Five (5) or higher, you would trigger +Schism. And if you're in a later stage of the fight, that Schism could hit you pretty hard! Watch out, as this can lower your team Harmony!
 
@@ -779,7 +780,7 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 
 * **Buffers:** Your personal Buffers do not apply during Rumbles. Instead, your Final Form starts with Buffers equal to the current Team Harmony. Buffers can be spent to soak Trauma and prevent Ruin.
 * **Charges:** The assembled Final Form has its own special bank of Charges that empower the Rumble Techs. Each Tech costs one Charge, with output based on the current Rumble Stage (1-4).
-* **Harmony and +Schism:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers instead cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides. Amount of damage per trigger equals the current stage of the Rumble (1-4).
+* **Harmony and +Schism:** Team Harmony is "locked-in" for the entire duration of a Rumble. +Schism triggers do not damage Harmony during Rumbles - instead they cause direct Endurance damage to your Final Form, distributed across Robos as your Head decides. Amount of damage per trigger equals the current stage of the Rumble (1-4).
 * **Locations and +Ruin:** The location you're fighting in can be damaged by your actions. Each Escalate action is accompanied by +Ruin to the location, which can be soaked with Buffers.
 * **Robo Endurance:** Your Robos' Endurance ranks are especially important during a Rumble. Any +Trauma the Final Form takes must come out of Robo Endurance, assigned as the Head chooses. If a Robo's Endurance is reduced to Zero, it's Pilot is forced out of the Rumble!
 * **Strike Range:** Your personal Strike Ranges no longer apply. Instead, your Final Form's actions have a Strike Range equal to (you guessed it!) the current Team Harmony. This cannot be modified except by effects that explicitly modify Rumble Strike.
@@ -800,7 +801,7 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 >
 > This game is thus designed to place the Pilots themselves foremost in the story, supplying the Robos as colorful "super-weapon" components that flavor your heroes' actions, but which they can't always rely on to win *every* conflict in their lives. To reinforce this theme, there are a couple of mechanical limiters in place. First and foremost is, of course, **Team Harmony**. Harmony sets a number of crucial variables for the team while they Rumble. The higher their Harmony at the time of the Rumble, the greater their robotic strength. On the flip side, with a super low Harmony, there may be no real power incentive to Rumble in the first place!
 >
-> Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their wild strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and ever Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
+> Also of crucial importance is the highly-damaging nature of the immense scale at which Rumbles happen. When the Pilots act in Rumbles, their wild strikes apply immediate damage *directly* to the Robos themselves, *instead* of Team Harmony. Additionally, each and every Drive action has the risk of laying ruin to the place of battle - if they are trying to defend a populated city against a monster, this can be disastrous indeed!
 
 
 ### Rumble Step 1: Describe It!
