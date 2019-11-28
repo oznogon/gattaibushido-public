@@ -98,7 +98,7 @@ Jacks, Queens, and Kings are typically played as number cards with values of 11,
 Aces are the highest-ranked card in the Deck, with a functional rank of 14. However, Aces have a weakness against Twos. In a Gambit, a Two always beats an Ace. In a Throwdown, an Ace on top of the Pile can be beaten by a Two (and only a Two), and similarly cannot be played against a Two on the top of the Pile.
 
 
-### Jokers
+### Jokers (and Omens)
 
 Four Joker cards are used as a special Pacing and Empowerment mechanic. The Jokers are always shuffled into their respective Decks *face-up*. When a Joker is revealed (by reaching the top of a Deck), immediately take it from its Deck and set it out face-up beside it for all to see. Jokers sitting forth in such a fashion are called **Omens**.
 
