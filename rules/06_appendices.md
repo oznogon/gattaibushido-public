@@ -89,6 +89,37 @@ The following media sources provided *immense* amounts of inspiration for the co
 TBD (details on adjusting the game for one-shot play, running with or without a First Contact, using pregens, etc)
 
 
+## One-Shot Crisis Paths
+
+We've presented an alternate shorter 7-step version for Coaches who want to run a much quicker story. It's meant for a standard single-session game, such as a pick-up game or a convention session. If you have new players, you might event want to reduce this to 5 or 6 steps, while experienced players who push through the Deck quickly might instead warrant extending it to 8, 9, or even 10.
+
+A standard one-shot Path is:
+
+| Omens | Event        |
+|-------|--------------|
+| 1     | Wave         |
+| 2     | Wave         |
+| 3     | Storm        |
+| 4     | Wave         |
+| 5     | Wave         |
+| 6     | Storm        |
+| 7     | BGM Attacks! |
+
+A "Steady and Hard" more difficult path is:
+
+| Omens | Event         |
+|-------|---------------|
+| 1     | Wave          |
+| 2     | Wave          |
+| 3     | Storm         |
+| 4     | Storm         |
+| 5     | Storm + Wave  |
+| 6     | Storm + Storm |
+| 7     | BGM Attacks!  |
+
+To provide suitable challenge for one-shot Robo Rumbles, add the BGM's Threat rating to Coach's Hand Limit and Draw on each round.
+
+
 # Appendix S: Three Alternate Settings
 
 TBD
