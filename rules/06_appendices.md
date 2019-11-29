@@ -29,6 +29,7 @@ To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel ta
 **Commander:** the active Pilot of the current Throwdown  
 **Commitment:** one of three core character components, each split into two balanced stats that determine the base for all game mechanics  
 **Conflict:** one of the core game mechanics where the cards determine the outcome of in-story events  
+**DC:** "Defeat Conditions" by which a Threat can be removed from a Scenario for good  
 **Deck:** where all cards are drawn from; two of these exist, one for Coach and one for the Pilots  
 **Discard:** the act of putting a card into its relevant trash  
 **+Disfavor:** mechanical notation that damages a Faction's trust in the Pilots  

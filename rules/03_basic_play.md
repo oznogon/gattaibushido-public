@@ -354,7 +354,7 @@ The **+Trauma** trigger is the primary method for applying direct damage to both
 
 **Pilots:** Against Pilots, it damages them by temporarily lowering their six core Stats. Each time a Pilot suffers +Trauma, she must temporarily reduce a Stat rank of her choosing by 1 point. A Stat cannot be reduced below Zero (0) ranks. Reducing a stat also reduces the balance maximum of its parent Commitment. For more info on managing Stat and Commitment loss, see "*Pilots: Commitments & Attributes*" (p. XX).
 
-**Threats:** Against Threats, this trigger directly lowers the enemy's Threat Rating. If a Threat's Rating is reduced to Zero (0), it is defeated and removed from play.
+**Threats:** Against Threats, this trigger directly lowers the enemy's Threat Rating. If a Threat's Rating is reduced to Zero (0), it may be defeated and removed from play (see Defeat Conditions, p. XX).
 
 **Both:** Pilot and Threats can spend Buffer tokens to prevent +Trauma that targets or affects them, at a cost of one token per point of damage prevented.
 
