@@ -57,7 +57,6 @@ During Throwdowns, a **Pile** of cards temporarily exists in the middle of the t
 Each Deck has an associated **Trash** heap, which is a stack of face-up cards next to it on the table. When a card is discarded during play, it goes on top of the Trash heap of the relevant Deck, face-up.
 
 
-
 ## Card Details
 
 ***Gattaibushido:FUSION!*** uses standard playing cards, available just about everywhere. The assumptions are:
@@ -739,9 +738,11 @@ Using a Rumble Tech spends 1 Rumble Charge, and has an effect set by the current
 
 ##### Activate Wave or Storm (Assist; Coach)
 
-Choose a Threat involved in this Throwdown, and discard a face or ace card from your Hand. With a face card, the chosen Threat activates a Wave. With an ace card, the chosen Threat activates a Storm.
+Choose a Threat involved in this Throwdown, discard a face or ace card from your Hand. With a face card, the chosen Threat activates a Wave. With an ace card, the chosen Threat activates a Wave *or* a Storm.
 
 On your turn, you can use this action at most once per involved Threat. Each Threat can activate a Wave or a Storm, but not both in the same Turn.
+
+**Rumble Upgrade:** During an active Rumble, the BGM can use this Action with a reduced discard cost. Activating a Wave requires *any* card, while activating a Storm requires a Face or an Ace.
 
 
 ##### Use Gear (Assist; Pilots)
@@ -750,9 +751,6 @@ On your turn, you can use this action at most once per involved Threat. Each Thr
 
 
 ## (Optional) Step 4: Rumble!
-
-
-(Finally! It's time to break out those robots and fight some goddamn big giant monsters!)
 
 When all other options fail, when the Big Giant Monster comes screaming at you, when humanity needs a final bastion to defend it against otherworldly annihilation, it's time to Rumble!
 
@@ -777,7 +775,9 @@ As such, a few mechanical components come into play during Rumbles, overriding t
 
 **Coach:**
 
-(TBD; time to bring in the special BGM moves!)
+Your changes are minimal. If your BGM is present in the conflict, it's time for it to get big, if it hasn't done so already. It has reduced Discard costs for its Waves and Storms during the Rumble. All of your Escalations likewise trigger +Ruin.
+
+If your BGM is *not* present, none of the above applies to you.
 
 
 ###### (SIDEBAR: Why Not Just Rumble All the Time?)
@@ -806,7 +806,9 @@ During this description, each Pilot still involved in the fight must now choose 
 
 **Pilots:** The Head draws additional cards equal to the current Harmony. She can then choose to distribute any of those cards to her teammates in the Final Form. Take note of new Buffers, Charges, and Strike Range as well.
 
-**Coach:** Pick up the BGM stack and add it to your Hand. You are ready to continue.
+**Coach with BGM:** Reshuffle your Trash into the Deck. Draw a number of cards equal to the current Crisis tier. Take note of the decreased Discard costs of your Waves and Storms. You are ready to continue.
+
+**Coach without BGM:** Reshuffle your Trash into the Deck. Draw a number of cards equal to the number of Threats active in this conflict. You *do not* receive decreased Discard costs of your Waves and Storms. You are ready to continue.
 
 
 ### Rumble Step 3: Continue the Stages of Battle!
