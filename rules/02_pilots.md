@@ -245,7 +245,7 @@ The AGSOMAFA! is a potentially-disastrous action that any Pilot can attempt duri
 
 Once the card is chosen and Removed, she gains its value in immediate personal Charges, which can temporarily exceed her Max Charges limit, but must all be used before the end of the Throwdown. If she has any Charges remaining at the conclusion of the Throwdown, she burns them immediately and inflicts +Trauma:Self(X) where X equals the # of Charges burned.
 
-**Limit:** Each Pilot may activate the Agsomafa no more than once per game session.
+**Limit:** The Team may activate the Agsomafa no more than once per game session.
 
 
 ## Pilots: Chromas (Core)
