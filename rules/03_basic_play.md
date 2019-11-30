@@ -747,7 +747,7 @@ On your turn, you can use this action at most once per involved Threat. Each Thr
 
 ##### Use Gear (Assist; Pilots)
 
-(TBD)
+Select a piece of Gear in your Pilot's inventory. You must choose to use either its Activation effect or its Sacrifice effect. Activating your Gear allows you to hold onto it and use it again in a later conflict, while Sacrificing it destroys the item entirely. See the Gear section for more information (p. XX).
 
 
 ## (Optional) Step 4: Rumble!
