@@ -587,6 +587,11 @@ Other players should answer aloud and honestly. The answer both sets crucial ton
 The answer to this question is usually pretty obvious, but it requires acknowledgement, as it determines the Pilots' Strike Range base. If this is ever somehow in question, default to the side that put down the first Initiative card.
 
 
+### Are Your Robos Involved?
+
+Involving your Robos is awesome, both making for a cool story and giving you some additional mechanical advantages. If you are already piloting your Robos when the conflict begins, you must spend 1 point of Pit Crew for each Robo involved. If you start the conflict on your Robos, note that you cannot use the Summon action or activate their Summon Effects this battle.
+
+
 ### Determine Draws and Strike Ranges
 
 **Pilots:**
@@ -748,7 +753,7 @@ On your turn, you can use this action at most once per involved Threat. Each Thr
 
 ##### Summon Robo (Assist, Pilots)
 
-Call forth your personal Robo to join the Battle! This activates your Robo's Summon Effect and makes its Rider Bonus and Attack! powers available to you. If your Robo is already present in the battle, you cannot re-summon it with this action.
+Call forth your personal Robo to join the Battle! You must spend 1 point from your Pit Crew Resource to use this action. This activates your Robo's Summon Effect and makes its Rider Bonus available to you. If your Robo is already present in the battle, you cannot re-summon it with this action.
 
 
 ##### Use Gear (Assist; Pilots)

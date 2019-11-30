@@ -535,6 +535,14 @@ For info on card Hands, see p. XX. For info on Evolving, see p. XX.
 
 (TBD)
 
+**Robos Require Pit Crew:** Each time you bring a Robo into a conflict, it costs 1 Pit Crew, be it at the start or middle of the action. If your Pit Crew is empty, your Robos cannot be used!
+
+**Summon Effects:** These only trigger *once* per Scenario, and only when summoned mid-Throwdown. If the Scenario is more than a couple of sessions long, Coach may allow them to trigger once per Session instead.
+
+**Robo Endurance:** Base endurance = 6 plus your Pilot's Robo Rank (1 to 3). See Robo descriptions for exceptions to this.
+
+**Rider Bonus:** These special powers are only available to you while you are actively piloting the Robo during a conflict.
+
 
 ### The Final Form
 
@@ -721,8 +729,10 @@ Pilots can generally acquire Armory Gear at any time their character would be co
 
 The **Pit Crew** represents the Team's support crew, the folks who work on their Robos and keep them in optimal operational condition. Like the Fan Club, the Pit Crew consists of an actual team of additional characters that are there to help the Pilots on the sideline. You are encouraged to give them names, personalities, and back-stories.
 
-**Spending Pit Crew:** You can spend points of your Pit Crew to repair damaged Robos. It costs 1:1 for Endurance repairs while you're back at Home Base in your team's Robo Hangar, 2:1 if you're making repairs in the field, and 3:1 if you're calling on your Pit Crew for urgent assistance in anything that Coach deems to be a "high-risk situation."
+**Spending Pit Crew:** You can spend points of your Pit Crew for two purposes: summoning Robos and repairing them afterward. Each time you involve a Robo in a conflict, you must send 1 point of Pit Crew, representing general wear and tear maintenance.
 
-**Depleting Pit Crew:** If the Pit Crew is depleted, you cannot use your Robos at all!You can't use their Techs, and you won't stand a chance against the BGM!
+To repair damaged Robos, it costs 1:2 for Endurance repairs while you're back at Home Base in your team's Robo Hangar, 1:1 if you're making repairs in the field, and 2:1 if you're calling on your Pit Crew for urgent assistance in anything that Coach deems to be a "high-risk situation."
+
+**Depleting Pit Crew:** If the Pit Crew is depleted, you cannot use your Robos at all! You can't Summon them or use their Bonuses, and you won't stand a chance against the BGM!
 
 **Location:** The Pit Crew is directly tied to the Pilots' Hangar Location. If that Location is Razed, Pit Crew points can not be spent or restored until it is rebuilt.
