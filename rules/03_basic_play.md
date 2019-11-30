@@ -716,10 +716,11 @@ On the Pilots' Turns, each Pilot can choose to perform a single Assist action, b
 
 The available Assist actions are:
 
-* **Activate Assist Tech:** use one of your several Assist-tagged Techs.
-* **Activate Rumble Tech:** use one of the special Final Form Rumble Techs (requires Rumble mode).
+* **Activate Assist Tech:** Use one of your several Assist-tagged Techs.
+* **Activate Rumble Tech:** Use one of the special Final Form Rumble Techs (requires Rumble mode).
 * **Activate Wave or Storm:** Coach activates one of his special custom Threat actions.
-* **Use Gear:** activate or sacrifice a single piece of carried Gear.
+* **Summon Robo:** Call forth your Robo to join the battle.
+* **Use Gear:** Activate or sacrifice a single piece of carried Gear.
 
 
 ##### Activate Assist Tech (Assist; Pilots)
@@ -743,6 +744,11 @@ Choose a Threat involved in this Throwdown, discard a face or ace card from your
 On your turn, you can use this action at most once per involved Threat. Each Threat can activate a Wave or a Storm, but not both in the same Turn.
 
 **Rumble Upgrade:** During an active Rumble, the BGM can use this Action with a reduced discard cost. Activating a Wave requires *any* card, while activating a Storm requires a Face or an Ace.
+
+
+##### Summon Robo (Assist, Pilots)
+
+Call forth your personal Robo to join the Battle! This activates your Robo's Summon Effect and makes its Rider Bonus and Attack! powers available to you. If your Robo is already present in the battle, you cannot re-summon it with this action.
 
 
 ##### Use Gear (Assist; Pilots)
