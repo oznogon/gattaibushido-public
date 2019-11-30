@@ -337,7 +337,7 @@ Black gains power from the whims of chaos, drawing greater boons from both good 
 
 (Flavor description pending final release)
 
-**Advice:** (charge tech can cost you a lot of charges! invest in charge limit increasing Daisho, and make use of the recharge action in throwdowns)
+**Advice:** TBD
 
 **Starting Mods:**
 * Green (The Noob): +1 Fan Club, +2 Pit Crew
@@ -352,7 +352,7 @@ Black gains power from the whims of chaos, drawing greater boons from both good 
 
 ##### Primary Tech
 
-**I've Got This!** Green has more options to keep Pushing against seemingly-unbeatable high cards during Throwdowns.
+**I've Got This!** Green has more options to keep Pushing against seemingly-unbeatable high cards during Throwdowns. Each use costs a single Charge.
 1. In a Throwdown, Green beats Aces with Twos *and* Threes
 2. ...and Fours
 3. ...and she can beat Kings with Twos!
@@ -363,8 +363,9 @@ Black gains power from the whims of chaos, drawing greater boons from both good 
 **It Was Like That When I Found It!** Green is adept at avoiding the blame for the worst of situations, and preserving the status quo. During a new Mission Scenario, Green can choose to negate self-caused +Schism events, up to a number of occurrences equal to her rank in this Tech.
 
 
-##### PLAYBOOK SPECIAL
+##### Special Notes
 
+Green is at the very bottom of the Team's hierarchy, both officially and socially. She's the newest to join, and hasn't had time to make really strong friendships yet. As such, she gets assigned the absolute shit duties no one else wants, and is sent out on pointless errands whenever they want to get rid of her. If you are interested in starting play as the lowest of the team and taking on this role-playing challenge, then Green is the Pilot for you!
 
 
 #### Orange: The Otaku (hyperfocus to the max)
@@ -456,7 +457,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 **You don't know me! I do what I want!** Purple draws strength when she causes dissonance within the Team. Whenever Purple triggers +Schism, she restores a number of Buffers *and* Charges equal to her Rank in this Tech. If this occurs in the pursuit of a course of action that she was specifically ordered not to follow beforehand, the amount restored is doubled.
 
 
-##### PLAYBOOK SPECIAL
+##### Special Notes
 
 
 #### Red: The Captain (the hero she deserves to be)
@@ -482,7 +483,7 @@ Purple is not bound by anyone's rules and expectations. She does what she wants,
 
 When Red seizes the moment of glory and perfection, her valor spreads into the world around her, changing the very nature of the battle. This gives Red the following new Tech:
 
-**Inspiring Strike!** (Assist) Cost: X Charges, and X = current Throwdown stage. Activate when Countering or Escalating with a Resonant Strike. Effects based on rank:
+**Inspiring Strike!** (Assist) Cost: # of Charges = current Throwdown stage. Activate when Countering or Escalating with a Resonant Strike. Effects based on rank:
 
 1. Red Draws X cards into her Hand
 2. ...and triggers +Chargeup(X) to up to X involved other teammates (excluding Red)
@@ -495,12 +496,12 @@ When Red seizes the moment of glory and perfection, her valor spreads into the w
 
 * Base Strike Range increases +2
 * Max Buffers increase by +2
-* Max Charges increase by +2
+* Max Charges increase by +4
 * Max Hand increases +1
-* Recurring Scenario Bonuses each increase by +2
+* Add a recurring Scenario bonus of +2 to all three Team Resources
 
 
-##### PLAYBOOK SPECIAL
+##### Special Notes
 
 
 
