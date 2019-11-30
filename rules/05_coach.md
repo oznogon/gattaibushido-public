@@ -85,7 +85,7 @@ Coach plays the game very differently than the Pilots. Below are the major mecha
 
 **Coach's Strike Ranges:** Coach has different limits in regard to Strike Ranges. Unlike the Pilots, who have the ability to play outside of Strike Ranges by risking team stress, by default your Threats are hard-limited by Strike Ranges (set by Threat Ratings) and cannot play outside of them. Some of your custom Threats may have specific exemptions to this, however.
 
-**Factions:** TBD
+**Factions:** Coach does not have Factions under his control - at least not initially. Factions can be corrupted through Disfavor, and this can result in them becoming new Threats under your control. In either case, you never invest cards into Factions.
 
 **Locations:** TBD
 
@@ -121,6 +121,26 @@ Coach should keep track of:
 Time and Urgency of the Mission are important aspects of play. The Pilots can choose to go off and do whatever they ultimately want, but if they linger inactive for too long, the enemy grows more powerful as the heroes idle. Occasionally if you feel like the Pilots are screwing around too much with unimportant stuff, or just overly turtling up, subtly remind them that danger is always near, and steer them toward action.
 
 If they still don't get the hint, you can just invoke the **+Tarry** trigger, to subtly let them know that the clock is ticking.
+
+
+### Structuring Scenes
+
+To use the old adage, a Scene is the "basic building block" of narrative flow in this game. A Scene is a simple term which means "A Thing at a Place at a Time, where *Something Interesting* happens." Think of this game like any of the TV shows that inspired it, and imagine how those stories move along from scene to scene, focusing only on the interesting things relevant to the story. Gattaibushido's use of Scenes is exactly like that.
+
+There's no real need to be super formal with the introduction or conclusion of scenes. Just open it up like a TV show would, by telling the players where the action is happening (a game Location), who's there (the Pilots, other background characters, maybe some Threats, etc), and what is immediately happening to focus their attention (sneaking along, going shopping, training montage, etc). Then ask the Pilots to describe what they're doing, and let the rest happen organically from there.
+
+Likely a Conflict will be called for, and it will probably be pretty obvious when it's that time. But basically, the guidelines are:
+
+* If a Pilot has a question about "Hey, can I do this?" or "What happens if I do that?" are you think something interesting might happen, play out a **Gambit** (p. SQUARP)
+* If an argument, fight, or other major clash of interests breaks out, use a **Throwdown** (p. SQUARP)
+* If a Big Giant Monster attacks, and/or the Pilots go Full Force and fuse together, it's time to **Rumble** (p. SQUARP)
+
+Otherwise, just keep talking with the Pilots. Ask questions, answer questions, build out the world around them, and create a memorable experience. Remember, you started this Scene for a reason, so at some point you need to either **Get To The Damn Point** or just close it out and move to something more interesting. If you can't think of *Something Interesting* to happen, then it's a lousy Scene and not worth wasting valuable play time on.
+
+
+#### Per-Scene Mechanics
+
+You might encounter a handful of effects that have "per scene" limitations. Think of Conflicts as entities contained within Scenes. If an ability says it can only be used "once per scene," and it has already been used once during the scene, starting a conflict within that scene does not reset that counter.
 
 
 ### Omens and Jokers
@@ -214,22 +234,22 @@ With the First Contact scene and the subsequent team creation complete, you shou
 
 ## Sessions 2-4: The First Mission
 
-TBD (pending final scenario design rules section)
+(the "noob gm" suggestions on starting your first mission. take what you set down in the FC, build out an intro plan. start with side stories of the pilots' personal lives. maybe a school scene or two. introduce their first mission through an in-game briefing. expect about 3 sessions of play on it, but be ready for more. extended scenario design details in next chapter.)
 
-Things to cover:
 
-* the first scenario
-* slowly introduce more of the extended rule systems
-* take your time!
+### Introducing Extended Rules Systems
+
+(repeat from before: don't pre-load all the rules! bring in a handful of gambits at the start, then get a single pilot into a throwdown, then bring in more pilots on a following one to introduce assists. save the rumble for the end of the first scenario, build up to it, make it awesome.)
+
+
+### Remember to Take Your Time!
+
+(don't rush through the crisis path unless you already know what you are doing. give the players time to explore their characters outside of battles and conflicts. stop and smell the flowers, factions, and locations too.)
 
 
 ## Sessions 5 and Beyond: Campaign Play
 
-TBD
-
-Things to cover:
-
-* Usually anywhere from 3-7 scenarios in a standard 13-episode campaign
+(13 sessions or "episodes" is a good first campaign target. can usually get anywhere from 3-7 scenarios in a standard 13-episode campaign, based on group understanding of the system)
 
 
 ###### (SIDEBAR: One-Shot Games)
@@ -240,51 +260,51 @@ Things to cover:
 
 # Coach: Scenario Development
 
-(major development in progress)
-
 To develop a scenario:
 
-* Develop a Premise
+* Set the Premise
+* Establish the Threats
 * Add Factions and Locations
-* Develop Threats
-* Develop the Crisis Path
+* Develop Intra-Team Conflicts
+* Build the Crisis Path
 * Finalize Waves and Storms
 
 This is presented as an ordered process, but you will most likely skip back and forth between them, as ideas and developments in later steps re-inform prior decisions.
 
 
-## Step 1: Develop the Premise
+## Step 1: Set the Premise
 
-TBD
+What's the situation?
 
-Includes:
+What's the first Story Event for the Crisis Path?
 
-* Come up with a situation
-* Add additional intra-team conflicts
-* Write team buy-in questions
+What's the Team's buy-in, both together and individually?
 
+What's the Mission Objective(s)?
 
-## Step 2: Add Factions and Locations
-
-TBD
-
-Prepare a Faction card for each Faction of the scenario, to be placed on the table when it is discovered by the Pilots.
-
-Similarly prepare behind-the-scene Threat stats for any Faction that may potentially be a Threat to the players.
+What's the worst possible outcome?
 
 
-## Step 3: Develop Threats
-
-TBD
-
-(defined in own chapter for now, see below)
+## Step 2: Establish the Threats
 
 The Threats present in your scenario directly affect its design. Every Scenario should have a "Total Threat Rating" which is an "X/Y/Z" number. X = total number of Threats, Y = Average Threat Rating of those Threats, and Z = number of Threats designated as BGMs. Threats give Waves and Storms.
 
 Threats are more fully explained in the next chapter, starting on p. SQUARP
 
 
-## Step 4: Develop the Crisis Path
+## Step 3: Add Factions and Locations
+
+Prepare a Faction card for each Faction of the scenario, to be placed on the table when it is discovered by the Pilots.
+
+I can be a good idea to prepare Threat stats for any Faction that you think may potentially be a Threat to the players.
+
+
+## Step 4: Develop Intra-Team Conflicts
+
+(give the team something to fight each other over! who is picking on who, who is favored at another's expense, what recent events can drive wedges between them, etc. need reasons to hit that Harmony)
+
+
+## Step 5: Build the Crisis Path
 
 The Crisis Path is a pre-scripted series of event triggers that make the game more dangerous (and interesting!) for the Pilots.
 
@@ -309,56 +329,26 @@ Below is the "standard" default Crisis Path setup. Each "stanza" of four events 
 | 10          | Storm               |
 | 11          | Story Event + Storm |
 | 12          | Wave                |
-| 13          | BGM ATTACKS         |
+| 13          | BGM ATTACKS!     |
 
 **Playtest Note:** You can add whatever you want to your Path, really. As more playtest data is received, I hope to be able to codify this, and have a greater formula for overall Scenario difficulty. Until then, play around with these, try different combos, and see what works and what doesn't.
 
 
-#### One-Shot Games
-
-We've presented an alternate shorter 7-step version for Coaches who want to run a much quicker story. It's meant for a standard single-session game, such as a pick-up game or a convention session. If you have new players, you might event want to reduce this to 5 or 6 steps, while experienced players who push through the Deck quickly might instead warrant extending it to 8, 9, or even 10.
-
-A standard one-shot Path is:
-
-| Omens | Event        |
-|-------|--------------|
-| 1     | Wave         |
-| 2     | Wave         |
-| 3     | Storm        |
-| 4     | Wave         |
-| 5     | Wave         |
-| 6     | Storm        |
-| 7     | BGM Attacks! |
-
-A "Steady and Hard" more difficult path is:
-
-| Omens | Event         |
-|-------|---------------|
-| 1     | Wave          |
-| 2     | Wave          |
-| 3     | Storm         |
-| 4     | Storm         |
-| 5     | Storm + Wave  |
-| 6     | Storm + Storm |
-| 7     | BGM Attacks!  |
-
-To provide suitable challenge for one-shot Robo Rumbles, add the BGM's Threat rating to Coach's Hand Limit and Draw on each round.
-
-
 ### Triggering the First Event
 
-You can trigger the first item on the Crisis Path at any time outside of an active card conflict, without requiring the use of an Omen. You are encouraged to do this early on in the first play session or a new scenario, in order to set its story in motion.
+The first item on the Path should usually be a Story Event that introduces (or at least strongly hints at) the conflict of the Scenario. Like all Crisis Path events, you'll need to spend an Omen in order to activate it. But this is a good thing, because it gives the group a bit of time to explore the
+pre-Mission setting of the story a bit before the action starts.
 
-Additionally, since the +Tarry event is based on the current Crisis level, you will want to get it raised to level 1 before the Pilots start using any Location benefits. However, if they are starting off at low resources or otherwise in dire straits, you may instead wish to let them have a few freebies and relax a bit while they set their own stories in motion.
+Note that since the +Tarry event is based on the current Crisis level, you will probably want to get it raised to level 1 before the Pilots get the idea to start using any Location benefits for free. However, if they are starting off at low resources or otherwise in dire straits, you may instead wish to let them have a few freebies and relax a bit while they set their own stories in motion.
 
 
 ### Moving Along the Path
 
-As the cards move during play, Jokers that reach the top of a Deck enter play as Active Omens, face-up next to their Decks. The owners of these respective Decks can Spend their Active Omens to perform side-specific actions. The Pilots' Omens are explained earlier in this text, while yours are explained here.
+As the cards move during play and Jokers become Omens, the owners of their respective Decks can Spend their Active Omens to perform special actions. The Pilots' Omens are explained earlier in this text (see p. XX), while yours are explained here.
 
-At any point outside of an active conflict, you can Spend one or both of your Active Omens by flipping it to its face-down state. Doing so triggers the next one or two events on the Crisis Path. Your Jokers are not returned to your Deck until both have been revealed *and* spent, at which point both are returned face-up and your Deck is reshuffled.
+At any point outside of an active conflict, you can Spend one or both of your Active Omens by flipping them face-down. Doing so triggers the next one or two events on the Crisis Path. Only once they are *both* Spent do you get to return them to your Deck and Reshuffle.
 
-This builds a rough structure for pacing right into the game, while also giving you a bit of leeway as Coach on how to time these events for maximum impact. While it is technically possible to sit on the unspent Omens for as long as you want, we highly recommend spending them whenever you can, so as to get more tension and action into the game, and better move the story along!
+This builds a rough structure for pacing right into the game, while also giving Coach a bit of control on how to time these events for maximum impact. While it is technically possible to sit on the unspent Omens for as long as you want, we highly recommend spending them whenever you can, so as to get more tension and action into the game, and better move the story along!
 
 Once you've reached the end of the path, that *usually* means the Big Monster finally attacks, but that doesn't mean that the Omens stop! Keep them flowing through the Deck as normal. Whenever you spend Omens from then on, they can be Waves (by spending one) or Storms (by spending two).
 
@@ -367,63 +357,23 @@ Once you've reached the end of the path, that *usually* means the Big Monster fi
 
 The current Crisis has a direct impact on the power of the Big Giant Monster, whenever it is eventually encountered, because the BGM's Hand is directly increased in size by the Crisis level.
 
-Additionally, "by the book" the BGM can't attack (as in initiating a Rumble) until that level of the Crisis has been reached. You can always push it lower on the path if you like, but that remains to be tested in play.
+The BGM-assigned Threat cannot *initiate* a Rumble until the "BGM ATTACKS!" level of the Crisis has been reached. If you want to whip out the BGM sooner, then you need to push its event further down the Crisis Path. However, there are **two very specific instances** in which the BGM can be "fully summoned" before this point.
+
+**First**, if the Pilots are in a Throwdown against the BGM-tagged Threat and they choose to activate a Rumble, then the BGM will use that moment to go "full beast mode" and likewise evolve to its more powerful form. This immediately moves the Crisis Path ahead to the appropriate level, skipping all preceding events on the Path, and allowing Coach to draw bonus cards accordingly.
+
+**Second**, if the Pilots are in a Throwdown against the BGM and somehow defeat it before the Throwdown ends (usually with mid-conflict applications of Trauma), on Coach's next turn the BGM immediately moves the Crisis Path ahead to the ATTACK stage, and activates a Rumble accordingly.
+
+In either case, if the story is still going after the Rumble concludes, you will likely have to extend your Crisis Path to adjust for potential Story Event restructuring.
 
 
-## Step 5: Finalize Waves and Storms
+## Step 6: Finalize Waves and Storms
 
-Every Scenario comes default with two free basic actions:
+Every Scenario comes default with two free basic actions which can be used on Crisis Path triggers:
 
-* The **Basic Wave** effect is a +Trauma:Choice effect.
-* The **Basic Storm** effect is +Trauma:Each effect (to **all** Pilots).
+* The **Basic Wave** effect is a +Trauma:Choice(1) effect.
+* The **Basic Storm** effect is +Trauma:Each(1) effect (to **all** Pilots).
 
-
-
-# Coach: Running Scenarios
-
-(TBD)
-
-
-## Structuring Scenes
-
-To use the old adage, a Scene is the "basic building block" of narrative flow in this game. A Scene is a simple term which means "an event, at a place, at a time, where something interesting happens." This of this game like any of the TV shows that inspired it, and imagine how those stories move along from scene to scene, focusing only on the interesting things relevant to the story. Gattaibushido's use of Scenes is exactly like that.
-
-There's no real need to be super formal with the introduction or conclusion of scenes. Just open it up like a TV show would, by telling the players where the action is happening (a game Location), who's there (the Pilots, other background characters, maybe some Threats, etc), and what is immediately happening to focus their attention (sneaking along, going shopping, training montage, etc). Then ask the Pilots to describe what they're doing, and let the rest happen organically from there.
-
-Likely a Conflict will be called for, and it will probably be pretty obvious when it's that time. But basically, the guidelines are:
-
-* If a Pilot has a question about "Hey, can I do this?" or "What happens if I do that?" are you think something interesting might happen, play out a **Gambit** (p. SQUARP)
-* If an argument, fight, or other major clash of interests breaks out, use a **Throwdown** (p. SQUARP)
-* If a Big Giant Monster attacks, and/or the Pilots go Full Force and fuse together, it's time to **Rumble** (p. SQUARP)
-
-Otherwise, just keep talking with the Pilots. Ask questions, answer questions, build out the world around them, and create a memorable experience. Remember, you started this Scene for a reason, so at some point you need to **Get To The Damn Point** or close it out and move to something more interesting.
-
-You might encounter a handful of effects that have "per scene" limitations. Think of Conflicts as entities contained within Scenes. If an ability says it can only be used "once per scene," and it has already been used once during the scene, starting a conflict within that scene does not reset that counter.
-
-
-## Final Score - REWRITE 2018
-
-At the end of every completed scenario, calculate a final score for the party, to determine possible additional post-adventure rewards.
-
-I highly recommend *not* telling new Pilots about the scoring system in advance, so that they play their first scenario without the potential pressure of feeling that they need to maximize their score. Let them experience it later, as a lesson of play, so that they may experience their first story "raw" and develop strategies on their own down the road.
-
-**Playtest Note:** This is *definitely* a work in progress. The idea is inspired by a number of genre video games which provide adventure scores based on how well the heroes performed. I wish to use that as a direct component of character evolution.
-
-**Factors which work against the Pilots:**
-
-* Total location damage involved, amplified by number of Razed Locations
-
-**Factors which work in their favor:**
-
-* Total invested Favor cards, amplified by any still remaining unused
-* Excess points of Team Resources
-
-
-### UNSORTED OLD NOTES:
-
-- reward lessons?
-- for every X score, they accrue a new evolution, possibly increases to locations, factions, resources, and more.
-- accomplishing personal non-battle goals should reward points!
+These will be on the final Scenario Sheet. Beneath them you should take note of any of your Threats' Waves and Storms that you find particularly noteworthy, to keep handy for future Crisis events.
 
 
 
@@ -440,47 +390,32 @@ They also work from the background, activating their Waves and Storms as the Cri
 Threats are by nature very different than Pilots, and as such use different mechanics. For example, whereas Pilots have many numbers, Threats all have only one: their Threat Rating. This quasi-exponential stat has multiple uses, greatly increasing a Threat's level of danger as the stat goes up.
 
 
-## Threat Basics
+## Threat Rating
 
+Threat are built around the following core components:
 
-### Anatomy of a Threat
-
-Every Threat has the following core components:
-
-* **Threat Rating:** A numerical rating from 1 to 7.
+* **Threat Rating (TR):** A numerical rating from 1 to 7.
 * **Threat Color:** An associated Color Code based on the Rating
 * **Powers:** One or more powers
-* **Defeat Conditions:** One or more methods for the Pilots to remove the Threat from play.
+* **Defeat Conditions (DCs):** One or more methods for the Pilots to remove the Threat from play.
 
+The last three are detailed further, but before that it's important to understand the first one. Every Threat has a singular number, called its **Threat Rating** (TR). Threat Rating does the following:
 
-#### Threat Rating
-
-Every Threat has a singular number, called its **Threat Rating** (TR). Threat Rating does the following:
-
-* Determines number of bonus cards Coach draws at start of a Throwdown involving this Threat;
-* Determines how many Buffer tokens the Threat has to resist damage triggers;
+* Determines Coach's Bonus Draws at the start of a Throwdown involving this Threat;
+* Determines available Buffers pool the Threat can use to resist damage;
 * Determines how many Threat Powers can be attached to it;
 * Sets the Threat's hard Strike Range in Throwdowns;
 * and Serves as an overall gauge of that enemy's power within the scenario.
 
-With multiple increases in power tied directly to its rank, Threat Rating is thus a quasi-exponential stat. This means that rating 2 threats are *significantly* more powerful than rating 1, and so on.
+With multiple increases in power tied into this stat, each rank of a Threat's TR is an order of magnitude more powerful than the previous. This means that rating 2 threats are *significantly* more powerful than rating 1, and so on.
 
 
-#### Threat Color
+### Threat Rating Damage
 
-(During play, Coach should try and refer to Threats by their colors over their numbers. This keeps the narrative and themes in play. associated with Rating, inverse of Pilot Harmony: 7 = Red (the worst they can face), 1 = Violet (the easiest to defeat)
+A Threat's TR can be damaged by Trauma from Throwdowns. When TR is reduced, it likewise reduces all of the Threat's available options (Cards, Buffers, Powers, etc), determined as you choose when applicable. If the Threat has "Violence" as one of its Defeat Conditions, then reducing its TR can remove it from play entirely.
 
-Note that the colors here are the reverse of those the Pilots use, and this is intentional. In every one of the game's seven-point color scales, Red is the *worst* for the Pilots, and Violet is the *best*. Thus a Violet Threat is small beans for them, while a Red Threat is earth-shattering doom.
+Thankfully for you, Coach, not all of your Threats need to have that as an option. Threats without the Violence defeat condition may be harmed by Trauma, but reducing them to zero TR will only remove them from play for the current Scene. You can bring them back at full Threat in any later scene as you desire.
 
-
-#### Threat Powers
-
-(each is EITHER a blanket modification, OR a special action; see Creating Threats below for more; etc)
-
-
-#### Defeat Conditions
-
-(blah; different ways to remove them from play; should be some narrative options! see below; etc)
 
 
 ## Threat Design
@@ -500,15 +435,13 @@ The Threat design system is intended to be fairly straightforward and modular.
 
 ### Step 2: Assign a Threat Rating
 
-(When designing a Threat, take into account just how powerful you want this Threat to be; etc)
-
 With the new Threat's concept in place, it's time to give it a Threat Rating. This singular number determines all other aspects of the Threat, including its powers, weaknesses, defeat conditions, and versatility in play.
 
 The higher the rating the more difficult a time the Pilots will have defeating it. Each one-point increase in Threat Rating is a *significant* boost in power.
 
 The table below shows what creation-specific components are determined by the Threat Rating.
 
-* **Color:** The Color of the Threat, which is usually an inverse of the Pilot Harmony colors.
+* **Color:** The Color of the Threat, for narrative flavor.
 * **TR:** The Color's associated Threat Level. This determines # of Powers, Buffers, and More.
 * **Class:** The recommended minimum Class Rank that most of the team should have acquired for this to be considered a "normal" challenge for players.
 * **DC:** The minimum number of defeat conditions that must be determined when designing this Threat.
@@ -524,14 +457,14 @@ The table below shows what creation-specific components are determined by the Th
 | Orange       | 6  | Senior    | 2  | TBD                                                 |
 | Red          | 7  | Senior    | 3  | World-shaking threat, greatest non-BGM enemy robos. |
 
+Note that the colors here are the reverse of those the Pilots use, and this is intentional. In every one of the game's seven-point color scales, Red is the *worst* for the Pilots, and Violet is the *best*. Thus a Violet Threat is small beans for them, while a Red Threat is earth-shattering doom. During play, Coach should try and refer to Threats by their colors instead of their numbers. This keeps the narrative and themes in play. Thus a "Code Red!" Threat (TR7) is the worst they could face.
+
 
 ### Step 3: Set Defeat Conditions
 
-Each Threat *must* have at least one scripted narrative defeat condition. This can be something as simple as "Pull the 'Destroy Bob' level in room 414B of the secret complex" or as complex as solving a complicated puzzle involving a prophecy, a sunken temple, seven British grandmothers, and the letter Q. No matter how complex or simple, however, there must be at least one such condition for defeat. Something like "Shoot it until it dies" is always a useful classic stand-by, but we encourage having some solid unexpected round-about ways for the Pilots to defeat things with a bit of applied creativity and narrative exploration.
+Each Threat *must* have at least one scripted narrative **Defeat Condition (DC)**. This can be something as simple as "Pull the 'Destroy Bob' level in room 414B of the secret complex" or as complex as solving a complicated puzzle involving a prophecy, a sunken temple, seven British grandmothers, and the letter Q. No matter how complex or simple, however, there must be at least one such condition for defeat. Something like "Shoot it until it dies" is always a useful classic stand-by, but we encourage having some solid unexpected round-about ways for the Pilots to defeat things with a bit of applied creativity and narrative exploration. Regardless of it's nature, a Threat cannot be ultimately removed from the Scenario until one of its DCs is attained.
 
-At TRs 4 and 7, the minimum number of required defeat conditions increases. See the table above.
-
-You can choose to set a Threat *more* Defeat Conditions than required. Each one you set over the minimum allows you to give it one more Power than its TR would otherwise allow.
+At TRs 1 through 3, a Threat only requires one pre-determined DC. At TRs 4 and 7, the minimum number of required defeat conditions increases by +1. You can choose to set a Threat *more* Defeat Conditions than required. Each one you set over the minimum allows you to give it one more Power than its TR would otherwise allow.
 
 Defeat Conditions should be discoverable by the Pilots through a mix of action, investigation, and open play. Intel on these conditions can be made available as they uncover clues about the identity and powers of their enemies.
 
@@ -548,6 +481,9 @@ Defeat Conditions should be discoverable by the Pilots through a mix of action, 
 #### Default: Violence
 
 Threats that have this defeat condition can be taken out by the simple application of +Trauma.
+
+Not all Threats can be defeated by trauma alone. Threats *without* this regenerate lost TR points between scenes. See Threat Rating, above (p. XX).
+
 
 
 #### Simply Survive
@@ -570,17 +506,19 @@ For each point of TR, you can assign the Threat a power. Powers are either:
 
 Powers marked **"Dual"** have two separate versions, making them effectively two different powers. These are usually damage-based powers that have separate Wave and Storm mechanics These versions must be purchased separately as individual powers with TR allowances. They can be purchased separately as needed - meaning that you do not need to purchase either version in order to acquire the other.
 
-To craft new ones, use these basic guidelines. Waves can do a minor effect, while Storms can do a Major effect. A minor effect can do something small to one player. A major effect can do something heavy to one player, or something small to all players. A minor effect can have a lesser narrative effect. A major effect can have a drastic story-changing narrative effect.
+Powers marked **Multi** may be selected multiple times, stacking their effects.
 
 In all the Power descriptions, the variable **X** represents the total number of Omens currently on the table, from any Deck, in any state. If there are no Omens on the table, any Powers that require them have no effect.
 
-We recommend you build a good balance of Waves and Storms across your Threats, for better availability of options in Throwdowns and Crisis Events. Your potential drawable supply of Faces and Aces may decrease over the course of the Scenario as you invest cards into your BGM, so make sure to cover all the bases.
+To craft new ones, use these basic guidelines. Waves can do a minor effect, while Storms can do a Major effect. A minor effect can do something small to one player. A major effect can do something heavy to one player, or something small to all players. A minor effect can have a lesser narrative effect. A major effect can have a drastic story-changing narrative effect. A Passive effect should be roughly on-par with the other Passives in usefulness. Make sure you don't end up with broken "must-take" or "why bother?" powers.
+
+We recommend you build a good balance of Waves and Storms across your Threats, for better availability of options in Throwdowns and Crisis Events.
 
 
 ##### List of Powers
 
 * **Attack (Dual):** Inflict immediate Trauma
-* **Big Giant Monster / BGM (Passive):** Designates the Threat as a BGM
+* **Big Giant Monster / BGM (Passive):** Designate the Threat as a BGM
 * **Corrupt (Dual):** Inflict Disfavor upon Factions, possibly converting them to Threats
 * **Debilitate (Dual):** Force the Pilots of Discard
 * **Demolish (Dual):** Lay Ruin down upon Locations
@@ -592,11 +530,11 @@ We recommend you build a good balance of Waves and Storms across your Threats, f
 * **Heavy-Hitter (Passive):** Threat deals Trauma when Countering
 * **Infiltrate (Dual):** Reduce the Pilots' current stocks of Faction Favor
 * **Reinforce (Dual):** Increase TR of existing Threats
-* **Rumble Tech (Passive):**  Gives the BGM a new Rumble Tech
 * **Sap (Dual):** Burn through the Team's Resources
-* **Seer (Passive):** Draws more cards at the start of a Conflict
+* **Seer (Passive):** Draw more cards at the start of a Conflict
 * **Sinister (Passive):** Gambits related to this Threat are more difficult
 * **Summon (Dual):** Add new threats to the scenario
+* **Tough (Passive, Multi):** Increase the Threat's base Buffers Pool
 
 
 #### Attack (Dual)
@@ -608,7 +546,7 @@ We recommend you build a good balance of Waves and Storms across your Threats, f
 
 #### Big Giant Monster / BGM (Passive)
 
-This Power designates the Threat as this scenario's Big Giant Monster (or BGM), subject to all the extended rules of the BGMs. BGM Threats can purchase additional Rumble Techs for use during Robo Rumble conflicts (see Robo Rumbles, p. SQUARP).
+This Power designates the Threat as this scenario's Big Giant Monster (or BGM), one of the primary dangers of the entire game. See further below for details (p. XX)
 
 
 #### Corrupt (Dual)
@@ -684,11 +622,6 @@ This power increases the TR of existing Threats in play. When designing a Threat
 **Storm:** Increase TR of any scenario threat by +X, OR Increase TR of up to X scenario threats by +1.
 
 
-#### Rumble Tech (Passive)
-
-Each time this power is taken, the BGM Threat gains a new Rumble Tech of your choice.
-
-
 #### Sap (Dual)
 
 **Wave:** Reduce one Team Resource by X.
@@ -715,50 +648,61 @@ This Tech brings new individual Threats into a Scenario, even during an active c
 **Storm:** The new Threat's TR is the same as the Summoning Threat or X, whichever is higher.
 
 
-### ADVANCED: Deeper Threat Customization
+#### Tough (Passive, Multi)
 
-(**PLAYTEST:** adding more weaknesses for additional build points; might be too complicated)
+Each time this Power is selected, the Threat's base Buffers Pool is increased by +2.
+
+
+### Big Giant Monsters! (BGM)
+
+You may have been expecting a larger section here, but in mechanical truth, a BGM is little more than a Threat with the BGM Power, which gives it a few extra options when it comes to Throwdowns and Rumbles.
+
+BGMs are technically base Threats, so you can include them in the main scenario as opposing forces, possibly even in a much smaller physical form. This is a common trope in the super sentai style of shows, where the end boss doesn't actually grow to full BGM size until the end of the episode. You can also just leave them unrevealed until they show up to destroy the heroes at the end, if you like, it's your call.
+
+The BGM has only a small handful of special rules exceptions, but they're important.
+
+
+#### Rule 1. The BGM Cannot Initiate a Rumble Until the Assigned Crisis Stage
+
+The BGM Threat cannot *initiate* full-size Rumble combat until the proper Crisis point has been reached. However, if you design your scenario to accommodate such, the Pilots might seek out and encounter the BGM much sooner and go into Rumble on their own. In such a case, your BGM is able to return the favor in kind. More details are found in the Crisis Path section above, p. XX.
+
+
+#### Rule 2. The BGM Cannot Be Killed by Regular Throwdowns or Gambits
+
+The base Threat with the BGM power functions like any other Threat until its true nature is revealed. If the Pilots somehow manage to defeat it before its assigned ATTACK stage on the Crisis Path, it instead is restored to full TR and a Rumble immediately initiates. See the previous rule.
+
+
+#### Rule 3. The BGM Has Reduced Costs of Waves and Storms During Rumbles
+
+During Rumble stages, the BGM can activate its own Waves and Storms at a lower discard cost (*any* card for Waves, Faces and Aces for Storms). Other involved Threats must still use standard costs.
+
+
+## Threats on the Fly
+
+TBD
 
 
 ## Threats in Play
 
-Threats primarily exist to participate in Throwdowns under your control. The following differences apply to your conflicts:
+Threats are your core tools for bringing conflict to the Pilots.
+
+
+### Threats in Gambits
+
+TBD
+
+(**PLAYTEST:** I have yet to have a case of a Threat needing to be involved in a Gambit. If this is you, please give me feedback.)
+
+
+### Threats in Throwdowns
+
+Coach
+
+During Throwdowns
 
 * **Initial Draw:** Your initial Hand Draw in a new Throwdown is equal to the combined Threat Ratings of all the Threats that are actively participating in the conflict.
-* **Buffers:** Each Threat has its own separate Buffers. *Do not* combine them if multiple Threats are participating.
-* **Strike Range:** Your Strike Range is equal to the combined Threat Ratings of the participants. Unlike Pilots, Threats simply *can not* play outside of this Range, unless one of the participants has the Enforcer power and spends its own Buffers to activate it.
-* **Side Action - Trigger Wave:** As a Side Action, a Threat can discard a Face to activate one of its Waves.
-* **Side Action - Trigger Storm:** As a Side Action, a Threat can discard an Ace to activate one of its Storms.
-
-
-## Big Giant Monsters! (BGM)
-
-Mechanically, a BGM is little more than a Threat with the BGM Power, which gives it a few extra Techs to use specifically in the flow of Robo Rumbles.
-
-Since BGMs are technically base threats, you can include them in the main scenario as opposing forces. This is a common trope in the super sentai style of shows, where the end boss doesn't actually grow to full BGM size until the end of the episode. You can also just leave them unrevealed until they show up to destroy the heroes at the end, if you like, it's your call.
-
-The BGM Threat cannot *initiate* full-size Rumble combat until the proper Crisis point has been reached. However, if you design your scenario to accommodate such, the Pilots might seek out and encounter the BGM much sooner and go into Rumble on their own. In such a case, your BGM is able to return the favor.
-
-
-### BGM Rumble Techs
-
-You can add special Robo Rumble Techs to any BGM Threat by buying them as additional Threat Powers per the standard Threat creation rules.
-
-**Playtest Notes:** These require a lot of extended testing. This is a completely new take on the prior Rumble mechanic, and as such most of these have not even seen lab testing. They don't have cool monster-y names yet, either. Bear with me, it's a work in progress.
-
-**Action** Techs always require you to spend a Turn using them, and usually require playing or discarding one or more cards from your BGM's Hand.
-
-**Passive** Techs instead provide constant bonuses that do require actions or turns.
-
-**Rumble Techs:**
-
-* **Devastate:** (Action) For every two (2) cards you discard, Pilot Team must discard 1 from their Hands as they see fit. This cannot force a Pilot to Discard their final card.
-* **Extend Hand:** (Passive) This Tech increases the BGM max Hand by +1 card. Can be taken multiple times.
-* **Power Up:** (Action) Discard X cards, increase your max Hand by +X cards for the *next* Round only.
-* **Tech Name:** (Passive/Active) Template...
-
-
-## Extended Considerations
+* **Strike Range:** Your Strike Range is equal to the combined Threat Ratings of the participants. Unlike Pilots, Threats simply *can not* play outside of this Range, unless specific rules declare otherwise.
+* **Techs and Charges:** Threats can activate Waves and Storms by using the "Activate Wave or Storm" Assist action. Threats have no Charges, instead requiring Discards to use these actions.
 
 
 ### Threats and Factions
@@ -776,9 +720,7 @@ When Disfavor ends up turning a Faction against the Pilots, that Faction becomes
 
 ### Threats and Player Awareness
 
-This should be needless to say, but anyway: the pilots and their players *should not* know anything about the Threats' mechanics prior to a scenario (other than *maybe* the overall scenario X/Y/Z rating, and usually only during cons games and demos). This means they have no way of knowing of enemies are weak, powerful, mortal, or otherwise. They must discover this through play!
-
-**Playtest Note:** Perhaps knowledge of one or more Threat Powers can be narratively imparted through successful Throwdown goals…
+This should be needless to say, but anyway: the pilots and their players *should not* know anything about the Threats' mechanics prior to a scenario (other than *maybe* the overall scenario X/Y/Z rating, and usually only during cons games and demos). This means they have no way of knowing if enemies are weak, powerful, mortal, or otherwise. They must discover this through play, either by direct confrontation or through the exploration of the story.
 
 
 
@@ -796,7 +738,7 @@ Not only that, but the entire core conflict of the scene defines the legacy that
 
 ### Three is the Magic Number
 
-For all mechanics in this scene, use a simple base value of 3. Each player has three cards in their base Hand. At the beginning of a Throwdown, each player draws three more into their Hand. All Strike Ranges are 3, and no one gains or uses Charges. If anyone uses the Strike-Assist action in a conflict, the assist bonus is +3. The final Threat is TR 3. If there's a need for a mechanical number, use 3.
+For all mechanics in this scene, use a simple base value of 3. Each player has three cards in their base Hand. At the beginning of a Throwdown, each player draws three more into their Hand. All Strike Ranges are 3, and no one gains or uses Charges. The final Threat is TR 3. If there's a need for a mechanical number, use 3.
 
 
 ### Focus on the Core Stuff
@@ -913,7 +855,7 @@ The following canned text is from an example setting of alien hordes attacking a
 >
 > If you work together, you might have a chance of escaping - maybe one of the lifeships will make it through, and warn the people back home? But as you ponder this, you notice one more screen, showing a video feed of a dim, now-abandoned room deeper in the bunker. In that room, beyond that camera, under a single flickering light, is **The Weapon**...
 >
-> Each of the named cards I just laid down is a "Faction" which you can use for potential added pwoer later in this scene. If you would like, you each have the *option* to invest any *one* of your cards in any of the Factions you choose, and then draw another into your Hand to replace it. *Any* of you can play the cards from the Factions later on, but for now it's up to you if you want to invest.
+> Each of the named cards I just laid down is a "Faction" which you can use for potential added power later in this scene. If you would like, you each have the *option* to invest any *one* of your cards in any of the Factions you choose, and then draw another into your Hand to replace it. *Any* of you can play the cards from the Factions later on, but for now it's up to you if you want to invest.
 >
 > Now with that set up... what do you do?
 
