@@ -24,6 +24,7 @@ layout: Gray Pawn
 * **Alt2:** DESCRIPTION
 
 
+
 # Concept Pitch
 
 Tell us about your Pilot. We want to know her as a real person, a living and breathing member of the team. What's her recent story? What's she all about? Just enough to give us an introduction and some ideas for now - we don't need a deep dive or a grand speech!
@@ -41,6 +42,7 @@ Below are some initial "personal" questions to answer, and suggested options. Ci
 (examples: Anime/Manga, Bonsai, Cosplay, Finding a Boyfriend, Military Fangirl, Motorcycle Racing, RPGs, Scrapbooking)
 
 **What is your Yearbook Quote?** What quote did you have under your yearbook photo for this most recent year of Battle School? This one's all up to you!
+
 
 
 # What Do Your Friends Think of You?
@@ -63,31 +65,18 @@ When done, you should have 6 total points spread within the stats of each of you
 
 (**PLAYTEST NOTE #1:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the Chroma.)
 
-(**PLAYTEST NOTE #2:** I'm reassessing these to bring them back in line with the reverted Commitment Dualities. The new idea is to pick three descriptors, from three different lists, but I'm working to rewrite the lists anew.)
 
 
 # (Chroma Name's) Power Profile
 
 As the (Role Name), your specialty is (Role Details Shortform). **First**, this lets you pick one of your two core powers as your Pilot's starting specialty. These can evolve over time, and you can eventually unlock all three if you want! Pick one right now, and fill in the "Level 1" dot next to it.
 
-* **"Power Name!"** - (Passive Tech) Description
-* **"Power Name!"** - (Charge Tech) Description
+* **"Power Name!"** - (Primary Tech) Description
+* **"Power Name!"** - (Secondary Tech) Description
 
 (Text Note for Players: You don't actually *have* to pick right now if you aren't sure. It can be even more fun to decide later on once the game begins, letting your power emerge in the story as something new and unknown! Be sure and tell Coach if you want to do this.)
 
-**Design note for Gray Pawn:** each of the core techs might display slightly differently based on the playbook. For example, Blue's Passive Tech just gives her one basic power with three ranks, each increasing it +1 in ability. However her Active Tech actually gives her three different brand new actions to choose from! Some of them have three choices for each, some a mix like Blue, and some have two basic multi-rank powers just like Blue's Passive.
-
-**Design note for Gray Pawn, Continued:** For example, I've included the current versions of Blue's two powers below:
-
-* **Passive Tech: "Advance Warning!"** Blue is always prepared for the dangers ahead. One per *Scenario* per rank invested in this Tech, when Coach chooses to Spend (flip) an Active Omen to trigger an Crisis event, Blue can negate the event. The Omen is still spent, but the event does not trigger, and the Crisis Level remains at its previous position.
-* (**PLAYTEST ALTERNATE:** Blue is always prepared for the dangers ahead. Once per *Session* per rank invested in this Tech, when a Joker is revealed, Blue can choose to immediately send it to the bottom of the Deck, skipping all Joker-related events and effects.)
-
-* **Charge Tech: "Strategic Action!"** Each rank invested in this Tech gives you an exclusive new Throwdown Action of your choice from the list below, in any order you desire:
-
-* New Action: "Strategic Pass" (Main, Blue Pilot): Spend 2 Charges to voluntarily skip your turn in the rotation. You cannot take any Side Actions this turn, and active assist chains skip over you. You cannot take this action if you are the only active Pilot in the rotation.
-* New Action: "Strategic Reassessment!" (Side, Blue Pilot): Spend Charges to draw one card into your Hand, from either the top of the Deck (1 Charge) or the top of the Trash (2 Charges). Then, discard one card from your Hand.
-* New Action: "Strategic Foresight!" (Side, Blue Pilot): Spend X # of Charges and look at the top X cards on any Deck, then put them back down on top in the same order, or instead spend the same amount of Charges again to reorder them. You cannot tell anyone else what they are. This is the *only* time when a Pilot is allowed to touch the cards in Coach's Deck.
-
+***Design note for Gray Pawn:*** each of the core techs might display slightly differently based on the playbook. For example, Blue's Passive Tech just gives her one basic power with three ranks, each increasing it +1 in ability. However her Active Tech actually gives her multiple different brand new actions to choose from! Some of them have choices for each, some a mix like Blue, and some have two basic multi-rank powers just like Blue's Passive.
 
 
 ## Team Mods
@@ -129,6 +118,7 @@ When you incorporate your Chroma's specialty directly into a Gambit, you add mor
 * **Gambit Specialties:** DESCRIPTION.
 
 
+
 # Your Daisho: What Weapon Do You Wield?
 
 Now it's time to build your Daisho! This is the unique weapon that you specialize in when fighting The Enemy face to face. First pick the frame that speaks to your style, or instead choose based on the power you like the most!
@@ -144,6 +134,7 @@ Once you've chosen your base Frame, pick from one of the following extra powers 
 * quality choice 1: TECH DESCRIPTION (requires a charge)
 * quality choice 2: TECH DESCRIPTION (requires a charge)
 * quality choice 3: TECH DESCRIPTION (requires a charge)
+
 
 
 # What Robo Do You Pilot?
@@ -162,6 +153,7 @@ Note the following core components:
 * **Rider Bonus:** (special bonus while in the cockpit) DESCRIPTION
 
 (**PLAYTEST NOTE:** Currently each playbook will likely be listed with a single robo, to save on cross-document multi-edits. In the final release, each playbook will be given multiple options - probably two or three. For now, if you want to use a different robo, use the data from the other playbooks.)
+
 
 
 # Concept Expansion
@@ -208,6 +200,7 @@ Now that you have figured out all the math stuff, let's get back to finishing up
 - DESCRIPTION
 
 
+
 # For Later: Evolution!
 
 As you learn Lessons through play, you will acquire Evolutions which you can spend to increase your Pilot's current powers, or even add new ones. The rules are explained more in the game book, but for now, follow this basic flow when you start getting them:
@@ -225,6 +218,7 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 **Evolve Commitments:** When you evolve this, give yourself a new descriptive adjective, and an associated +1 increase to any single Commitment of your choice.
 
 
+
 # Finishing Touches
 
 You're almost done! Note your **Class Rank** as "Freshman," and then jot down the following final array of derived stats for your Pilot:
@@ -233,6 +227,7 @@ You're almost done! Note your **Class Rank** as "Freshman," and then jot down th
 * **Max Hand:** Begins at 3 cards.
 * **Charge Pool:** Your Maximum Charge Pool is equal to *twice* your Circuit stat. It begins play half-filled.
 * **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
+
 
 
 # Playbook Wrap-Up
@@ -246,9 +241,11 @@ If you haven't already, now go back through the sheet and take note of all of yo
 [INSERT CHIBI PORTRAIT ART]
 
 
+
 # FINAL: The Pilot Record Sheet
 
 (TBD: A record of all the character numbers generated through the playbook process; etc; PENDING PLAYTEST PROGRESS)
+
 
 
 # QUICK REFERENCE RULES

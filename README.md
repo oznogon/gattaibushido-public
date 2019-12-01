@@ -1,4 +1,4 @@
-# Gattaibushido:FUSION! RPG Rules Public BETA
+# Gattaibushido:FUSION! RPG Rules Public BETA, STAGE TWO
 
 ## About This Repository
 
@@ -15,7 +15,7 @@ The Rules are found in the following sections:
 * [Coach's Handbook](./rules/05_coach.md)
 * [Appendices](./rules/06_appendices.md)
 
-Character playbooks are found [here](./playbooks/).
+Character playbooks are (or will be) found [here](./playbooks/).
 
 Playtest-specific information is further below.
 
@@ -39,45 +39,14 @@ This text is both a game and a toolkit for developing story worlds that share ce
 
 This document is very much a Work in Progress. Your feedback is both requested and highly appreciated! If you have any input, please send it my way, through whichever channel brought this to you in the first place. This Beta Playtest document (and likely the official release that will follow) has been designed to follow a format that I *hope* will be most conducive to new reader education. The concepts of play are introduced in a way that I think will make sense both on a first-time read-through and again later when referencing at the table. There are a number of concepts presented early that are crucial to understanding those presented later, and as such I've placed the more "advanced" subjects later in the book. The one section that is specifically set up as a complete reference of "lists" is the section on Character Creation and extended team abilities.
 
-
-## What's Missing?
-
-The following components are still missing or incomplete as of the April 30, 2018 project rebase:
-
-* Weapon frames and qualities are still in need of a bit of further diversification
-* Most of the "flavor" text is unwritten, pending the final production reskinning of the text.
-* Pilot advice is still pending final write-up, which will happen following further play results of the new beta rules draft.
-* Coach's advice is similarly pending a rewrite, following further playtests.
-* Scenario Final Score is still a work in progress pending a lot of playtest results.
-* Threat creation and powers likely need a few balance passes after extended playtest data.
+**For extended playtest details and notes on participating,** read the Playtest document, [linked here](./rules/00_playtest.md).
 
 
 ## The "Typical" Game
 
 This game is meant to play out like an episode of any of your favorite team-based mecha-pilot anime series. The team gets a mission that they need to complete, usually involving fighting and/or defending against an alien menace. All the while, they will each have their own personal goals and desires, which will quite frequently clash both with each other and with the mission objectives as well.
 
-The game is built on Scenarios, which usually encompass individual missions. A Scenario is really just like an adventure "module" from just about any other RPG, although less dungeon-crawl-y and more story-explore-y. The scenario design process is probably going to end up being one of the last sections fleshed out, so for now, here's a quick rundown. Some variables that Coach (the GM) must consider and play out:
-
-* How is the mission assigned? is it an official command from above? A sudden personal quest they just stumble upon? A failed mission from another pilot team that they are now expected to complete? A completely random event that they get caught up in? Something else entirely? Coach must decide this when assembling the scenario.
-* What is the mission Objective?
-* What dangers are encountered? These take the form of Threats, each with their own ranges of abilities.
-* What conflicts (both new and recurring) exist between the Pilots themselves? As they default game assumes that the heroes are a group of teenage girls, it also assumes there is a lot of social strife in the ranks. There should be heavy recurring intra-team tensions, so their Harmony will have plenty of opportunities to be threatened.
-* What side events might unexpectedly get in the way of their mission? Are these events connected, or just red herring distractions? Having side stories makes the world come alive, and also gives the Pilots more opportunity to see some action, enjoy their powers, learn the system, and complicate their own lives even further.
-* What are the team's weaknesses, and how can you exploit them? Coach must keep an eye out for obvious gaps, and push at them in order to train the team to work harder.
-* What are their strengths? Coach should make sure to give them opportunities to make use of those strengths, so they can feel suitably awesome from time to time.
-
-
-## Playtester Questions
-
-Some very specific questions I am wanting answers to, as they come to me:
-
-1. Does the document structure work for you? In this case, I'm referring to the flow of the different sections - are rules explanations in places where you would expect to find them?
-2. Does the "First Contact" scene work? It is derived from the "First Founding" of Motobushido, where it serves the same purpose. What works? What doesn't? How can it be improved?
-3. Are there any "obvious choices" in the character, power, and Tech options? Are some just genuinely more beneficial than others, to the point of making the others invalid or obsolete?
-4. Do Threats work? Are they too powerful? Too weak? Just right? Does the Wave/Storm + Escalation thing work okay?
-5. Are there enough opportunities to both damage Pilots/Harmony/Factions/Locations and also to repair/restore them? Does there need to be more, or fewer?
-6. The "Dual Payloads" thing in Throwdowns is something I'm not fully certain is described well. Feedback requested.
-7. The "No, and..." Gambit results are new, and need feedback, especially when combined with playbook gambit specialties.
+The game is built on Scenarios, which usually encompass individual missions. A Scenario is really just like an adventure "module" from just about any other RPG, although less dungeon-crawl-y and more story-explore-y. Extended details on scenario design are in Coach's Handbook.
 
 
 # Markdown, Git, and Me
@@ -89,14 +58,14 @@ Git has been a clear choice for me as I work with code already. I've never tried
 My work flow currently makes use of the following programs:
 
 * [Atom][atom] (I do the bulk of my writing in Atom on Win, Linux, and Mac)
-* [Simplenote][simple] (which I can make use of for additional on-the-go editing via android and iOS devices)
+* [QOwnNotes][qown] (a fantastic markdown-formatted note sync tool which works for on-the-go editing and notes via windows, mac, android, and iOS)
 
 [atom]: https://atom.io/
-[simple]: https://simplenote.com/
+[qown]: https://www.qownnotes.org/
 
 title: Gattaibushido:FUSION! RPG   
 author: N. Phillip Cole  
-copyright: 2016-2018 Nathanael Cole  
+copyright: 2016-2020 Nathanael Cole  
 license: [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 started: 2016-04-16  
 rebased: 2018-04-40  

@@ -712,7 +712,7 @@ Narrate the summoning of your robos or Big Giant Monster. This functions as an E
 
 Move to Rumble mode, initiate fusions, and bring out the Big Giant Monster. It is now your opponent's turn, and your played card is winning.
 
-**Special:** This can *only* be played during the third stage of a Throwdown This can not be played during an active Rumble. The card that activates this Drive cannot be Blocked. Coach cannot use this action until certain conditions have been met (see "Crisis and the Big Giant Monster" p. XX).
+**Special:** This can not be played during an active Rumble. The card that activates this Drive cannot be Blocked. Coach cannot use this action until certain conditions have been met (see "Crisis and the Big Giant Monster" p. XX).
 
 
 #### Assist Actions

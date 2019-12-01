@@ -69,7 +69,7 @@ For those of you looking forward to the challenge, I say: *Stride Forward, Princ
 
 When this text refers to "players" it includes *all* those at the table who are involved in the game, Coach and Pilots alike. For purposes of clarity, when rules are meant to refer only to Coach or the Pilots, they will use those specific terms. The term "Pilot" is often used to reference both the Pilot characters *and* their players, but *never* Coach.
 
-This game welcomes players of all mixings of genders (and lack thereof). For sake of instructional distinction, specific pronouns have been chosen in the actual game text. These pronouns are used entirely for clarity of text, and are specifically inspired by the very first media on the list of inspirations below. The pronouns "she" and "they" are used interchangeably within the text in all cases of reference to the Pilots and their players. The pronoun "he" is used in all references to Coach.
+This game welcomes players of all mixings of genders (and lack thereof). For sake of instructional distinction, specific pronouns have been chosen in the actual game text. These pronouns are used entirely for clarity of text, and are specifically inspired by the very first media on the list of inspirations in Appendix I. The pronouns "she" and "they" are used interchangeably within the text in all cases of reference to the Pilots and their players. The pronoun "he" is used in all references to Coach.
 
 
 ## The Golden Rules
@@ -91,6 +91,7 @@ The only constants are: Battle School, Chroma-Themed Mecha Pilots, Giant Transfo
 
 Some Major Game themes:
 
+* "Humanity is lost unless we fight!"
 * "I need to be friends with these other girls, or the rest of humanity will die."
 * "I need to be the best I can be, but there's all these life problems getting in the way."
 
