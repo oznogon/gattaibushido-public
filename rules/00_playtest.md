@@ -7,7 +7,7 @@ This document contains information for those who would join our Open Beta playte
 
 ## What's Missing?
 
-The following components are still missing or incomplete as of Beta Stage 1, released Dec 01, 2019:
+The following components are still missing or incomplete as of Beta Stage 2, released Dec 02, 2019:
 
 * Most of the "flavor" text is unwritten, pending the final production reskinning of the text. **The production document is already in a formatting stage** so final flavor text will appear there first, to keep some fun surprises for the release version.
 * Pilot advice is still pending final write-up, which will happen following further play results of the new beta rules draft.
