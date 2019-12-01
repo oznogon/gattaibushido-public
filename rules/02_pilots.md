@@ -239,7 +239,7 @@ In addition to their own personal Techs, *every* Pilot has the following basic C
 * **AGSOMAFA! (Assist):** Remove a card from play, gain its rank in immediate Charges. See further below for details.
 
 
-### The AGSOMAFA! Action
+### The AGSOMAFA! (Assist Action, Pilots)
 
 The AGSOMAFA! is a potentially-disastrous action that any Pilot can attempt during any Throwdown in which they are an active participant. To activate the AGSOMAFA!, the player must first describe the desperation by which their Pilot is calling on her greatest powers, in as thematically-appropriate a manner as possibly. Once done, she then takes a card from her Hand or an active Faction and Removes it from play for the remainder of her Pilot's *existence* in the ongoing story, regardless of how long your campaign may play.
 
