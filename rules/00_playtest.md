@@ -2,7 +2,7 @@ section: playtest details
 
 # About this Playtest
 
-This document contains information for those who would join our Open Beta playtest stage of development. We are not in **STAGE TWO** of public beta testing.
+This document contains information for those who would join our Open Beta playtest stage of development. We are now in **STAGE TWO** of public beta testing.
 
 
 ## What's Missing?
