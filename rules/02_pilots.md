@@ -8,42 +8,7 @@ section: pilots
 
 ## Piloting Tips
 
-(**PLAYTEST NOTE** various bits of advice for pilot players)
-
-
-### Start Small, and Take Your Time
-
-The rules of this game don't actually have all that many moving parts, but there are a *lot* of ways in which you can move what little parts there are. The playbooks were designed to make the introduction to the core components easier to process, with Role-targeted pieces up front. Focus on the basics in front of you, and take your time figuring them out.
-
-
-### Coach Is Not Your Enemy
-
-TBD
-
-
-### Synergize
-
-TBD
-
-
-### Evoke Awesome
-
-TBD
-
-
-### Evoke Melodrama
-
-TBD
-
-
-### Name Your Moves
-
-TBD
-
-
-### Externalize Your Power
-
-TBD (make use of factions and locations, mainly)
+**MOVED TO LAYOUT**
 
 
 
