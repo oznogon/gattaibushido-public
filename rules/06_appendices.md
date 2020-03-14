@@ -73,16 +73,7 @@ To Luke Crane, creator of *The Burning Wheel Roleplaying Game*: Burning Wheel ta
 
 # Appendix I: Inspirations
 
-The following media sources provided *immense* amounts of inspiration for the conception and further development of this game:
-
-* *Gunbuster* & *Majestic Prince*: This game is basically a love letter to those two series.
-* *Vandread*: ...okay and this one too.
-* *Voltron*: Because *duh*
-* *Steven Universe*: I'd be a liar if I said I hadn't already planned out gem-themed team Chromas...
-* *Chroma Squad*: Best (and only?) super sentai video game I've ever played (motorcycle chapter is best chapter).
-* *Dai-Guard*: I can't get that theme song out of my head!
-* *RWBY* and *gen:LOCK*: Rooster Teeth really *gets* teamwork-based stories, and these two shows are some of the absolute best.
-* *She-Ra and the Princesses of Power:* Not only is the theme song super badass, the show is a great portrayal of how intra-team conflict can drive a great heroic story.
+**MOVED TO LAYOUT**
 
 
 # Appendix O: One-Shot Games
