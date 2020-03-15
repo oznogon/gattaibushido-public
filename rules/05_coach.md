@@ -727,21 +727,3 @@ This should be needless to say, but anyway: the pilots and their players *should
 # Coach: First Contact
 
 **MOVED TO LAYOUT**
-
-# Coach: Example Scenario Packs
-
-TBD
-
-
-## Extraction
-
-
-## Graduation Day
-
-
-## Relocation
-
-(gotta find a new headquarters; play this if the team ever suffers a crippling defeat)
-
-
-## Two-Headed Serpent
