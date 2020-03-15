@@ -169,8 +169,3 @@ For example, a veteran Green Pilot could spend a Tech Evolution to lock in the f
 # Advanced: Locations & Base-Building
 
 **MOVED TO LAYOUT**
-
-
-## Threat Locations
-
-**Playtest Notes:** One obvious option for this system is to provide Locations that primarily benefit Coach's Threats. These would have Boons of their own, which benefit only the Threats. I'm still considering this. One consideration is that I've planned a number of drawbacks in the system that damage locations as unfortunate consequences of the Pilots' actions. As such, the option to turn those unfortunate consequences into assets when attacking the bad guys might be too powerful and broken when dealing with enemy Locations. I need to get more feedback before delving deeper into this idea.
