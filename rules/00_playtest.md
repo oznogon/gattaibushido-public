@@ -25,7 +25,7 @@ Play this game "in good faith" and let me know if it works for you. Stick with b
 
 ### 2. Stress Test
 
-Play this game again, and this time try to break it. Build broken character combos and go to town. Tell me how easy it was to achieve maximum game breakage. Tell me how you think certain concepts can be countered, with minimal exception-based tweaks.
+Play this game again, and this time try to break it. Build broken character combos and go to town. Tell mw how easy it was to achieve maximum game breakage. Tell me how you think certain concepts can be countered, with minimal exception-based tweaks.
 
 
 ### 3. Specific Notes and Requests
@@ -33,8 +33,8 @@ Play this game again, and this time try to break it. Build broken character comb
 A few things that I am concerned about, or specifically seeking input on:
 
 * Individual Playbooks are not built yet, to minimize data drift across versions. Once the core things are finalized, they'll be extrapolated and built out. For now, use the custom build process.
-* Gear list is far from complete. Go wild, use your best judgment, and tell me any cool items you come up with.
-* I'm not happy with Purple's Techs. I'm mulling over alternatives. I want her whole schtick to be Rebellion, and I'd ultimately like her to have themed techs that are fun to use, but I'm hitting a wall on ideas.
+* gear list is far from complete. Go wild, use your best judgment, and tell me any cool items you come up with.
+* I'm not happy with Purple's Techs. I'm mulling over alternatives. I want her who schtick to be Rebellion, and I'd ultimately like her to have themed techs that are fun to use, but I'm hitting a wall on ideas.
 * Most of Branwen's abilities are directly converted from her predecessor Bronson, in Motobushido. I'd like to add two more options to her Primary tech list of choices, but need more feedback.
 * Does the document structure work for you? In this case, I'm referring to the flow of the different sections - are rules explanations in places where you would expect to find them?
 * Does the "First Contact" scene work? It is derived from the "First Founding" of Motobushido, where it serves the same purpose. What works? What doesn't? How can it be improved?

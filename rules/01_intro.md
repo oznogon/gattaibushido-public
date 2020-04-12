@@ -51,11 +51,11 @@ So I decided to kill those nags, scrap all the mess, and just "do it my way." In
 
 Just like this system's predecessor ***Motobushido***, you'll find that there is more here to master than meets the eye. You will need to read the book through at least once in order to grasp the concepts, but hopefully I've presented it in a way that makes it both an enjoyable and educational initial read. It isn't a simple game, but with mastery it can be both fast, rewarding, and incredibly fun.
 
-**TL;DR:** This game is not simple to pick up and play, but it is hopefully both fun to learn, and exciting to master.
+**TL;DR:** This game is not simple to pick up and play, but it is hopefully fun to learn, and exciting to master.
 
 For those of you looking forward to the challenge, I say: *Stride Forward, Princess of War!*
 
-\- N. Phillip Cole, 2019
+\- N. Phillip Cole, 2018
 
 
 # Welcome Freshmen!
