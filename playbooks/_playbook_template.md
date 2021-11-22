@@ -1,18 +1,4 @@
-title: playbook design template for Gattaibushido:FUSION! RPG  
-author: N. Phillip Cole  
-layout: Gray Pawn  
-
-**Note to Gray Pawn:** This document is written in Markdown, a simple text-based markup language and my preferred method of pre-production game design these days. It will look best in an actual Markdown editor. I recommend the following editors, depending on your platform:
-
-* ALL: [Atom](https://atom.io/) (but if you're not used to it, it can be a pain to figure out)
-* MAC: [Macdown](https://macdown.uranusjr.com/)
-* PC: either [Ghostwriter](https://github.com/wereturtle/ghostwriter) or [Markdown Edit](https://github.com/mike-ward/Markdown-Edit)
-* Linux: [Remarkable](https://remarkableapp.github.io/)
-
-
 # (PLAYBOOK TITLE) Chroma: The Role (evocative quip)
-
-(**Design example for Gray Pawn:**  "Pink: The Heart of the Team (right there, on her sleeve, for all to see)" )
 
 [INSERT PORTRAIT ART]
 
@@ -31,52 +17,189 @@ Tell us about your Pilot. We want to know her as a real person, a living and bre
 
 Below are some initial "personal" questions to answer, and suggested options. Circle one of the given options if it speaks to you, or develop your own. And when you're ready, tell everyone!
 
-**Name Suggestions:** blah, blah, blah
+**What is your favorite accessory?** EX: Mom's Army Jacket, SpaceBall Cap, Kitty Hairband, All the Rings, Badass Retro Mono-glove, Star Barrettes, Aviator Shades, Mirrored Lipstick.
 
-**Favorite Accessory:** blah, blah, blah
+**What is your favorite food?** EX: Breakfast, Hot Dogs, Tempura, Spumoni Ice Cream, Fish Stew, Pizza, Pineapple Salad, Fry Bits, Paladin Lunch.
 
-**Favorite Food:** blah, blah, blah
+**What is your "thing?"** EX: Anime/Manga, Bonsai, Cosplay, Finding a Boyfriend, Military Fangirl, Motorcycle Racing, RPGs, Scrapbooking
 
-**What is your "thing?"** blah, blah, blah
+**What is your distinctive visual trait?** EX: Crazy Hair, Always a Different Scarf, Three-fingered Hands, Eternal Braces, Resting Grumpy Face, Always Chewing Gum.
 
-(examples: Anime/Manga, Bonsai, Cosplay, Finding a Boyfriend, Military Fangirl, Motorcycle Racing, RPGs, Scrapbooking)
+**What is your Yearbook Quote?** What quote did you have under your yearbook photo for this most recent year of Battle School? Here are some examples from the source media:
 
-**What is your Yearbook Quote?** What quote did you have under your yearbook photo for this most recent year of Battle School? This one's all up to you!
-
+> "I'm going to leave a beautiful corpse, an open bar tab, and no regrets."
+> "TO MERGE IS TO EXPLODE!"
+> "Water cannot be made into tea until the ripples of fear and doubt subside."
 
 
 # What Do Your Friends Think of You?
 
-Now let's take your concept a step further, and start writing down some numbers! Use the following descriptive adjective choices to build your Pilot's initial **Commitments** spread. **First pick three** on your own and fill in the dots indicated, three for each adjective. **Second** have the players to your left and right each pick one as well. **Third** have Coach select a sixth and final one. **Finally**, once six have been selected, total their stat mods and note them on your final record sheet under Commitments, resulting in six point mods in total.
+Now let's take your concept a step further, and start writing down some numbers! Use the following descriptive adjective choices to build your Pilot's initial **Commitments** spread. **First pick three** on your own and fill in the dots indicated, three for each adjective. **Second** have the players to your left and right each pick one as well. **Third** have Coach select a sixth and final one. **Finally**, once six have been selected, total their stat mods and note them on your final record sheet, under Commitments.
 
-| Adjective       | Add +1 to            | Adjective       | Add +1 to            |
-|-----------------|----------------------|-----------------|----------------------|
-| All to the Wall | Sync, Steel, Circuit | Intrepid        | Solo, Steel, Circuit |
-| Brash           | Solo, Steel, Circuit | Invested        | Sync, Flesh, Synapse |
-| Carefree        | Solo, Flesh, Circuit | Over-Protective | Sync, Steel, Synapse |
-| Cheerful        | Sync, Flesh, Synapse | Reserved        | Solo, Flesh, Synapse |
-| Gung-Ho         | Sync, Steel, Circuit | Selfless        | Sync, Steel, Synapse |
-| Heartless       | Solo, Steel, Circuit | Territorial     | Solo, Flesh, Circuit |
-| Helpful         | Sync, Flesh, Synapse | Withdrawn       | Solo, Flesh, Synapse |
+BLACK:
 
-Feel free to go off-list and come up with new ones! Think of an adjective you like, and then put a +1 in each of the three Commitments, increasing one of its sub-stats by 1 based on how you think that adjective applies to you.
+| Adjective      | Add +1 to:           |
+|----------------|----------------------|
+| Brisk          | Solo, Steel, Circuit |
+| Carefree       | Solo, Flesh, Circuit |
+| Determined     | Solo, Steel, Synapse |
+| Diva           | Solo, Flesh, Circuit |
+| Gung-Ho        | Sync, Steel, Circuit |
+| High-strung    | Solo, Steel, Circuit |
+| Indecipherable | Solo, Steel, Circuit |
+| Independent    | Solo, Flesh, Synapse |
+| Mercurial      | Solo, Steel, Synapse |
+| Mysterious     | Sync, Steel, Circuit |
+| Powderkeg      | Sync, Flesh, Circuit |
+| Skittish       | Solo, Flesh, Synapse |
+| Unreadable     | Solo, Flesh, Synapse |
+| Withdrawn      | Solo, Flesh, Synapse |
 
-When done, you should have 6 total points spread within the stats of each of your six Commitments.
+BLUE:
 
-(**PLAYTEST NOTE #1:** These are currently identical across playbooks for testing stage. Use them as inspiration to create your own. Final release will feature individual multi-item arrays tailored to the Chroma.)
+| Adjective   | Add +1 to:           |
+|-------------|----------------------|
+| Boisterous  | Sync, Steel, Synapse |
+| Candid      | Sync, Steel, Synapse |
+| Collected   | Sync, Flesh, Circuit |
+| Focused     | Sync, Steel, Circuit |
+| Helpful     | Sync, Flesh, Synapse |
+| High-strung | Solo, Steel, Circuit |
+| Influential | Sync, Steel, Circuit |
+| Invested    | Sync, Flesh, Synapse |
+| Nerdy       | Sync, Flesh, Circuit |
+| Patronizing | Sync, Flesh, Synapse |
+| Reserved    | Solo, Flesh, Synapse |
+| Unreadable  | Solo, Flesh, Synapse |
+| Wizened     | Sync, Flesh, Circuit |
+| Withdrawn   | Solo, Flesh, Synapse |
+
+GREEN:
+
+| Adjective       | Add +1 to:           |
+|-----------------|----------------------|
+| All to the Wall | Sync, Steel, Circuit |
+| Animated        | Sync, Steel, Synapse |
+| Boisterous      | Sync, Steel, Synapse |
+| Bouncy          | Sync, Steel, Circuit |
+| Boy-Crazy       | Sync, Flesh, Synapse |
+| Brash           | Solo, Steel, Circuit |
+| Carefree        | Solo, Flesh, Circuit |
+| Gluttonous      | Solo, Flesh, Synapse |
+| Intrepid        | Solo, Steel, Circuit |
+| Radiant         | Sync, Flesh, Synapse |
+| Silly           | Solo, Flesh, Circuit |
+| Skittish        | Solo, Flesh, Synapse |
+| Vibrant         | Sync, Steel, Circuit |
+| Vivacious       | Sync, Steel, Synapse |
+
+ORANGE:
+
+| Adjective     | Add +1 to:           |
+|---------------|----------------------|
+| Animated      | Sync, Steel, Synapse |
+| Collected     | Sync, Flesh, Circuit |
+| Determined    | Solo, Steel, Synapse |
+| Grizzly       | Solo, Steel, Synapse |
+| Gung-Ho       | Sync, Steel, Circuit |
+| Hardcore      | Sync, Steel, Circuit |
+| Independent   | Solo, Flesh, Synapse |
+| Intrepid      | Solo, Steel, Circuit |
+| Invested      | Sync, Flesh, Synapse |
+| Lackadaisical | Solo, Flesh, Synapse |
+| Nerdy         | Sync, Flesh, Circuit |
+| Sparky        | Sync, Steel, Synapse |
+| Territorial   | Solo, Flesh, Circuit |
+| Vindictive    | Solo, Steel, Circuit |
+
+PINK:
+
+| Adjective       | Add +1 to:           |
+|-----------------|----------------------|
+| Animated        | Sync, Steel, Synapse |
+| Bouncy          | Sync, Steel, Circuit |
+| Boy-Crazy       | Sync, Flesh, Synapse |
+| Cheerful        | Sync, Flesh, Synapse |
+| Compassionate   | Sync, Flesh, Synapse |
+| Helpful         | Sync, Flesh, Synapse |
+| Influential     | Sync, Steel, Circuit |
+| Meddlesome      | Solo, Steel, Circuit |
+| Motherly        | Sync, Flesh, Synapse |
+| Over-Protective | Sync, Steel, Synapse |
+| Passive         | Sync, Flesh, Circuit |
+| Selfless        | Sync, Steel, Synapse |
+| Silly           | Solo, Flesh, Circuit |
+| Vibrant         | Sync, Steel, Circuit |
+
+PURPLE:
+
+| Adjective   | Add +1 to:           |
+|-------------|----------------------|
+| Brash       | Solo, Steel, Circuit |
+| Competitive | Solo, Steel, Circuit |
+| Diva        | Solo, Flesh, Circuit |
+| Dour        | Sync, Steel, Synapse |
+| Gluttonous  | Solo, Flesh, Synapse |
+| Heartless   | Solo, Steel, Circuit |
+| High-strung | Solo, Steel, Circuit |
+| Independent | Solo, Flesh, Synapse |
+| Mercurial   | Solo, Steel, Synapse |
+| Powderkeg   | Sync, Flesh, Circuit |
+| Secretive   | Solo, Flesh, Circuit |
+| Sparky      | Sync, Steel, Synapse |
+| Stubborn    | Solo, Flesh, Synapse |
+| Vindictive  | Solo, Steel, Circuit |
+
+RED:
+
+| Adjective       | Add +1 to:           |
+|-----------------|----------------------|
+| All to the Wall | Sync, Steel, Circuit |
+| Athletic        | Solo, Steel, Synapse |
+| Boy-Crazy       | Sync, Flesh, Synapse |
+| Brash           | Solo, Steel, Circuit |
+| Cheerful        | Sync, Flesh, Synapse |
+| Competitive     | Solo, Steel, Circuit |
+| Determined      | Solo, Steel, Synapse |
+| Focused         | Sync, Steel, Circuit |
+| Gung-Ho         | Sync, Steel, Circuit |
+| Hardcore        | Sync, Steel, Circuit |
+| Invested        | Sync, Flesh, Synapse |
+| Radiant         | Sync, Flesh, Synapse |
+| Selfless        | Sync, Steel, Synapse |
+| Stalwart        | Sync, Flesh, Synapse |
+
+YELLOW:
+
+| Adjective       | Add +1 to:           |
+|-----------------|----------------------|
+| Athletic        | Solo, Steel, Synapse |
+| Candid          | Sync, Steel, Synapse |
+| Compassionate   | Sync, Flesh, Synapse |
+| Demure          | Solo, Flesh, Circuit |
+| Gluttonous      | Solo, Flesh, Synapse |
+| Grizzly         | Solo, Steel, Synapse |
+| Helpful         | Sync, Flesh, Synapse |
+| Over-Protective | Sync, Steel, Synapse |
+| Passive         | Sync, Flesh, Circuit |
+| Reserved        | Solo, Flesh, Synapse |
+| Selfless        | Sync, Steel, Synapse |
+| Stalwart        | Sync, Flesh, Synapse |
+| Stubborn        | Solo, Flesh, Synapse |
+| Unreadable      | Solo, Flesh, Synapse |
+
+Feel free to go off-list and come up with new ones! Or look at the other playbooks for alternatives. When done, you should have 6 total points spread within the stats of each of your six Commitments.
 
 
 
 # (Chroma Name's) Power Profile
 
-As the (Role Name), your specialty is (Role Details Shortform). **First**, this lets you pick one of your two core powers as your Pilot's starting specialty. These can evolve over time, and you can eventually unlock all three if you want! Pick one right now, and fill in the "Level 1" dot next to it.
+As the (Role Name), your specialty is (Role Details Short form). Pick one of your two core powers as your Pilot's starting specialty. These can evolve over time, and you can eventually unlock all three if you want! Pick one right now, and fill in the "Level 1" dot next to it.
 
 * **"Power Name!"** - (Primary Tech) Description
 * **"Power Name!"** - (Secondary Tech) Description
 
 (Text Note for Players: You don't actually *have* to pick right now if you aren't sure. It can be even more fun to decide later on once the game begins, letting your power emerge in the story as something new and unknown! Be sure and tell Coach if you want to do this.)
-
-***Design note for Gray Pawn:*** each of the core techs might display slightly differently based on the playbook. For example, Blue's Passive Tech just gives her one basic power with three ranks, each increasing it +1 in ability. However her Active Tech actually gives her multiple different brand new actions to choose from! Some of them have choices for each, some a mix like Blue, and some have two basic multi-rank powers just like Blue's Passive.
 
 
 ## Team Mods
@@ -104,9 +227,9 @@ At the start of every brand new Scenario, make the following additional Resource
 * **Pit Crew:** +X
 
 
-## Chroma Lesson Trigger
+## Chroma Lesson and Schism Triggers
 
-**Next**, note your Chroma's special Lesson trigger. This is a special prompt that allows you to gain Lessons during play by role-playing your role's strengths and weaknesses in purely narrative ways.
+**Next**, note your Chroma's special Lesson and Schism triggers. The first is a special prompt that allows you to gain Lessons during play by role-playing your role's strengths and weaknesses in purely narrative ways. The latter gives you role-playing leads for causing Team strife.
 
 * **Lesson Trigger:** DESCRIPTION
 
@@ -121,15 +244,16 @@ When you incorporate your Chroma's specialty directly into a Gambit, you add mor
 
 # Your Daisho: What Weapon Do You Wield?
 
-Now it's time to build your Daisho! This is the unique weapon that you specialize in when fighting The Enemy face to face. First pick the frame that speaks to your style, or instead choose based on the power you like the most!
+Now it's time to build your Daisho! This is the unique weapon that you specialize in when fighting The Enemy face to face. First, pick the frame -  go with what speaks to your style, or instead choose based on the power you like the most.
 
 * base choice 1: TECH DESCRIPTION (does not require a charge)
 * base choice 2: TECH DESCRIPTION (does not require a charge)
 * base choice 3: TECH DESCRIPTION (does not require a charge)
 
+
 #### Now Give It Some Power!
 
-Once you've chosen your base Frame, pick from one of the following extra powers and add it to the Daisho!
+Once you've chosen your base Frame, pick from one of the following extra powers and add it to the Daisho:
 
 * quality choice 1: TECH DESCRIPTION (requires a charge)
 * quality choice 2: TECH DESCRIPTION (requires a charge)
@@ -137,24 +261,21 @@ Once you've chosen your base Frame, pick from one of the following extra powers 
 
 
 
-# What Robo Do You Pilot?
+# Your Giant Robo
 
-This is what being a Pilot is all about! Pick your robo:
+This special vehicle gives you extra powers in fights, and also allows you to assemble your Team's Final Form. If you aren't feeling the one below, swap it with a different playbook, or choose from the book instead.
 
 
-#### (Adjective), But/And (Other Adjective): The (1st Robot Name)
+#### (Adjective), But/And (Other Adjective): The (Robot Name)
 
 (Short Description, maybe two or three sentences max)
 
 Note the following core components:
 
-* **Robo Rank:** This starts at 1
+* **Robo Grit:** This starts at 6, but can be increased later.
 * **Summon Effect:** (triggers when you first summon the Robo in a session) DESCRIPTION
-* **Rider Bonus:** (special bonus while in the cockpit) DESCRIPTION
-
-(**PLAYTEST NOTE:** Currently each playbook will likely be listed with a single robo, to save on cross-document multi-edits. In the final release, each playbook will be given multiple options - probably two or three. For now, if you want to use a different robo, use the data from the other playbooks.)
-
-
+* **Robo Primary:**
+* **Robo Secondary:**
 
 # Concept Expansion
 
@@ -163,8 +284,7 @@ Now that you have figured out all the math stuff, let's get back to finishing up
 
 #### Team Sacrifices
 
-
-**Tell us one time you pissed off or even outright humiliated the Pilot to your left.** What did you do? Why was she forced to let it go? That Pilot's player must record this as her first Sacrifice.
+**Tell us about one time you pissed off or even outright humiliated the Pilot to your left.** What did you do? Why was she forced to let it go? That Pilot's player must record this as her first Sacrifice.
 
 * **YOURS:** (Given to you by the player to *your* right)
 
@@ -174,30 +294,18 @@ Now that you have figured out all the math stuff, let's get back to finishing up
 * **YOURS:** (Given to you by the player to *your* left)
 
 
-**Finally, tell us about a relationship that you lost due to your joining this Team.** Who or what was lost to you? How did this loss happen? How do you feel about it? Record this below as your own third Sacrifice:
+**Tell us about a relationship that you lost due to your joining this Team.** Who or what was lost to you? How did this loss happen? How do you feel about it? Record this below as your own third Sacrifice:
 
 * **YOURS:** (write it here)
 
 
 #### Final Story Questions
 
-**What is the worst thing you've ever done in pursuit of a personal victory?**
+As a final step toward fleshing out your new Pilot's personality, turn to the list on p. XX of the game rules and either pick or draw three of the bonus questions. Write them below, and answer them for your Pilot. These are purely for story!"
 
-- DESCRIPTION
-- DESCRIPTION
-- DESCRIPTION
-
-**What is the worst thing you've ever done in response to a major personal loss?**
-
-- DESCRIPTION
-- DESCRIPTION
-- DESCRIPTION
-
-**Why are *you really* fighting this war?** What brought *you* into the fight?
-
-- DESCRIPTION
-- DESCRIPTION
-- DESCRIPTION
+1. __________
+2. __________
+3. __________
 
 
 
@@ -223,10 +331,17 @@ As you learn Lessons through play, you will acquire Evolutions which you can spe
 
 You're almost done! Note your **Class Rank** as "Freshman," and then jot down the following final array of derived stats for your Pilot:
 
-* **Buffer:** Base equals your Synapse stat.
+* **Buffers:** Base equals your Synapse stat.
 * **Max Hand:** Begins at 3 cards.
-* **Charge Pool:** Your Maximum Charge Pool is equal to *twice* your Circuit stat. It begins play half-filled.
-* **Robo Endurance:** By default this starts at 6 plus your Robo Rank - so for now, it's 7.
+* **Charge Pool:** Your Maximum Charge Pool is equal to *twice* your Circuit stat. It begins play half-filled (round up, if applicable).
+
+
+
+# What's Your Name?
+
+Can't forget this part! If you're having trouble coming up with a name, randomly pick from the sample suggestions below:
+
+Adriana, Bandile, Cordelia, Delores, Eulalia, Fabiana, Gwyneira, Hanako, Isobella, Jingyi, Kiyoko, Leimoni, Mpho, Natalie, Opeyemi, Pien, Qiana, Ragnbjǫrg, Sakiko, Tuyến, Ulla, Vivien, Willa, Xuan, Yayame, Zuzana
 
 
 
@@ -234,27 +349,8 @@ You're almost done! Note your **Class Rank** as "Freshman," and then jot down th
 
 If you haven't already, now go back through the sheet and take note of all of your choices, copying them to the attached Pilot Record Sheet. From now on that will be your main game details reference, but keep this playbook worksheet around to in can you need to go back and revive your inspiration!
 
-**Finally:** Not enough options for you? Want to tweak the choices, or roll with something else? Got your eye on a different Robo entirely? Coach has all the details and is here to help you, just ask him!
+**Advanced:** Not enough options for you? Want to tweak the choices, or roll with something else? Got your eye on a different Robo entirely? Coach has all the details and is here to help you, just ask him!
 
 **Welcome to Battle School, Freshman!**
 
-[INSERT CHIBI PORTRAIT ART]
-
-
-
-# FINAL: The Pilot Record Sheet
-
-(TBD: A record of all the character numbers generated through the playbook process; etc; PENDING PLAYTEST PROGRESS)
-
-
-
-# QUICK REFERENCE RULES
-
-**Note to Gray Pawn:** I want a small section of quick-ref rules if possible. Thoughts so far:
-
-
-## Basic Charge Techs:
-
-* **Boost Strike (Assist):** Increase the Strike Range for your Team's next Counter. **Cost:** 2 Charges per +1 to Strike
-* **Restore Buffer (Story/Assist):** Restore spent Buffer tokens to yourself or another Pilot. **Cost:** 2 Charges per 1 Buffer token restored.
-* **AGSOMAFA! (Assist):** Permanently Remove a card from play, gain its rank in immediate Charges.
+[INSERT CHROMA CHIBI PORTRAIT ART]

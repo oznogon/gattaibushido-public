@@ -1,3 +1,6 @@
-# working misc directories
-misc/
-
+*-prog.md
+*.docx
+*backup
+~$Gattai_Tables_Working.xlsx
+exports/Character_Playbooks.pdf
+*.mdproj
